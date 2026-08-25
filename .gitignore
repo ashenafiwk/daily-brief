@@ -1,0 +1,20 @@
+# ---------------------------------------------------------------
+# NEVER COMMIT: anything with real dollar figures or account data.
+# The GitHub Pages site is publicly reachable even from a private
+# repo, so anything committed here can be read by anyone with the URL.
+# ---------------------------------------------------------------
+private/
+*.private.*
+positions*
+holdings*
+portfolio*
+*.secret
+
+# tooling noise
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
