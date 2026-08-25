@@ -8,7 +8,7 @@ Published with GitHub Pages, built to live on a phone home screen.
 
 ## Live site
 
-`https://ashenafiwk.github.io/daily-news`
+`https://ashenafiwk.github.io/daily-brief`
 
 Add to home screen on your phone and it opens fullscreen with its own icon, no
 browser chrome.
