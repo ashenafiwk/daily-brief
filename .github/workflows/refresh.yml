@@ -1,0 +1,49 @@
+name: Refresh live data
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub may delay scheduled runs under load,
+    # so treat this as "roughly every half hour", not a hard guarantee.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/refresh.mjs"
+      - ".github/workflows/refresh.yml"
+
+# Only one refresh at a time; a queued run replaces an older queued run.
+concurrency:
+  group: refresh-live
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Fetch quotes and headlines
+        run: node scripts/refresh.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- live.json; then
+            echo "no change - nothing to commit"
+            exit 0
+          fi
+          git add live.json
+          git commit -m "data: refresh live.json [skip ci]"
+          # Another run may have landed first; rebase and retry once.
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main

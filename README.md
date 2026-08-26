@@ -20,26 +20,50 @@ browser chrome.
 
 | File | Role |
 |---|---|
-| `index.html` | The renderer — layout, styling, dark/light theming. Rarely changes. |
-| `brief.js` | The content. One `BRIEF` object. **This is the only file that changes daily.** |
+| `index.html` | The renderer — layout, styling, theming, live-fetch logic. |
+| `brief.js` | **Written analysis.** Human-authored. Changes when someone writes a new brief. |
+| `live.json` | **Machine data.** Quotes + headlines. Auto-refreshed, never hand-edited. |
+| `scripts/refresh.mjs` | Fetches quotes and RSS headlines, rewrites `live.json`. Zero dependencies. |
+| `.github/workflows/refresh.yml` | Runs the refresh every 30 minutes. |
 | `manifest.json` | PWA metadata so the phone treats it as an app. |
 | `assets/` | Icons, plus the script that regenerates them. |
 | `private/` | Gitignored. Anything with real dollar figures. |
 
-The split is deliberate: updating tomorrow's brief means rewriting `brief.js`
-and nothing else. The schema is stable, so the renderer never needs to know
-what changed.
+### The two-speed split
+
+This is the important design decision. **Analysis and data refresh at
+different rates**, so they live in different files:
+
+- `live.json` — numbers and headlines. Stale in minutes. Refreshed by a robot.
+- `brief.js` — what the numbers *mean*. Stale in a day. Written by a human.
+
+The page fetches `live.json` on **every load**, on tab focus, and every 60
+seconds while open — always cache-busted, so a phone never shows a stale copy.
+If the written analysis predates today, the page says so in a banner rather
+than quietly implying the commentary is current.
+
+If `live.json` can't be fetched, the page falls back to the snapshot embedded
+in `brief.js` and marks the data unavailable. It never renders blank.
 
 ## Updating
 
+**Live data** updates itself — nothing to do.
+
+**Written analysis:**
+
 ```bash
 # edit brief.js, then:
-git add brief.js
-git commit -m "brief: 2026-08-26"
-git push
+git add brief.js && git commit -m "brief: 2026-08-27" && git push
 ```
 
 Pages redeploys in roughly 30 seconds.
+
+**Force a data refresh now:**
+
+```bash
+gh workflow run refresh.yml        # or run locally:
+node scripts/refresh.mjs
+```
 
 To preview locally before pushing:
 

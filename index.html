@@ -78,6 +78,49 @@ header{
   line-height:1.45;
 }
 
+/* ---------- live bar ---------- */
+.live-bar{
+  max-width:760px;margin:10px auto 0;display:flex;align-items:center;gap:8px;
+  font-size:.72rem;color:var(--fg-3);font-variant-numeric:tabular-nums;
+}
+.live-dot{
+  width:7px;height:7px;border-radius:50%;background:var(--fg-3);flex:none;
+  transition:background .3s;
+}
+.live-dot.ok{background:var(--up);box-shadow:0 0 0 3px color-mix(in srgb,var(--up) 22%,transparent)}
+.live-dot.err{background:var(--down)}
+.live-dot.load{background:var(--warn);animation:pulse 1s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+#refresh-btn{
+  margin-left:auto;font:inherit;font-size:.7rem;color:var(--fg-2);cursor:pointer;
+  background:var(--bg-2);border:1px solid var(--line-2);border-radius:99px;
+  padding:4px 12px;-webkit-tap-highlight-color:transparent;
+}
+#refresh-btn:active{background:var(--bg-3)}
+#refresh-btn[disabled]{opacity:.5;cursor:default}
+
+.stale-banner{
+  max-width:760px;margin:14px auto 0;padding:10px 14px;
+  background:var(--hi-bg);border:1px solid var(--hi-line);border-radius:10px;
+  font-size:.78rem;color:var(--fg-2);line-height:1.45;
+}
+.live-tag{
+  font-family:var(--mono);font-size:.58rem;font-weight:700;letter-spacing:.09em;
+  color:var(--up);background:color-mix(in srgb,var(--up) 15%,transparent);
+  padding:2px 6px;border-radius:4px;text-transform:uppercase;
+}
+
+/* ---------- news ---------- */
+.news{background:var(--bg-2);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.news a{
+  display:block;padding:12px 15px;border-bottom:1px solid var(--line);
+  text-decoration:none;color:var(--fg);
+}
+.news a:last-child{border-bottom:0}
+.news a:active{background:var(--bg-3)}
+.news .n-title{font-size:.86rem;line-height:1.4}
+.news .n-meta{font-size:.66rem;color:var(--fg-3);margin-top:4px;font-family:var(--mono)}
+
 /* ---------- sections ---------- */
 section{margin-top:34px}
 h2{
@@ -240,7 +283,13 @@ footer{
     <div class="regime" id="hdr-regime"></div>
   </div>
   <div class="regime-line" id="hdr-line"></div>
+  <div class="live-bar">
+    <span class="live-dot" id="live-dot"></span>
+    <span id="live-status">loading live data…</span>
+    <button id="refresh-btn" type="button" aria-label="Refresh now">Refresh</button>
+  </div>
 </header>
+<div class="stale-banner" id="stale-banner" hidden></div>
 
 <div class="wrap">
   <section>
@@ -249,9 +298,14 @@ footer{
   </section>
 
   <section>
-    <h2>Markets</h2>
+    <h2>Markets <span class="live-tag" id="mkt-live-tag" hidden>live</span></h2>
     <div class="tiles" id="tiles"></div>
     <ul class="plain" id="mkt-notes"></ul>
+  </section>
+
+  <section>
+    <h2>Latest headlines</h2>
+    <div class="news" id="news"></div>
   </section>
 
   <section>
@@ -327,15 +381,18 @@ footer{
     '</article>';
   }).join("");
 
-  // markets
-  $("tiles").innerHTML = B.markets.indices.map(function(i){
-    return '<div class="tile">' +
-      '<div class="t-name">' + esc(i.name) + '</div>' +
-      '<div class="t-val">' + esc(i.value) + '</div>' +
-      '<div class="t-chg ' + esc(i.dir) + '">' + esc(i.chg) + '  ' + esc(i.pct) + '</div>' +
-      (i.note ? '<div class="t-note">' + esc(i.note) + '</div>' : '') +
-    '</div>';
-  }).join("");
+  // markets - seeded from BRIEF, replaced by live data when it arrives
+  function paintTiles(list){
+    $("tiles").innerHTML = list.map(function(i){
+      return '<div class="tile">' +
+        '<div class="t-name">' + esc(i.name) + '</div>' +
+        '<div class="t-val">' + esc(i.value) + '</div>' +
+        '<div class="t-chg ' + esc(i.dir) + '">' + esc(i.chg) + '  ' + esc(i.pct) + '</div>' +
+        (i.note ? '<div class="t-note">' + esc(i.note) + '</div>' : '') +
+      '</div>';
+    }).join("");
+  }
+  paintTiles(B.markets.indices);
   $("mkt-notes").innerHTML = B.markets.notes.map(function(n){
     return '<li>' + esc(n) + '</li>';
   }).join("");
@@ -415,6 +472,86 @@ footer{
     return '<a href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer">' +
       esc(s.label) + '</a>';
   }).join("");
+
+  // ---------------------------------------------------------------
+  // LIVE DATA - refetched on every page load, on tab focus, and on a
+  // 60s timer while the page is open. live.json is regenerated
+  // server-side by the scheduled GitHub Action.
+  // ---------------------------------------------------------------
+  var dot = $("live-dot"), status = $("live-status"), btn = $("refresh-btn");
+  var lastFetched = null;
+
+  function ago(iso){
+    var mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+    if (isNaN(mins)) return "";
+    if (mins < 1)  return "just now";
+    if (mins === 1) return "1 min ago";
+    if (mins < 60) return mins + " min ago";
+    var h = Math.round(mins / 60);
+    return h === 1 ? "1 hour ago" : h + " hours ago";
+  }
+
+  function setStatus(){
+    if (!lastFetched) return;
+    status.textContent = "Market data " + ago(lastFetched.fetched) +
+      " · " + lastFetched.fetchedLabel;
+  }
+
+  function paintNews(items){
+    if (!items || !items.length) return;
+    $("news").innerHTML = items.map(function(h){
+      return '<a href="' + esc(h.url) + '" target="_blank" rel="noopener noreferrer">' +
+        '<div class="n-title">' + esc(h.title) + '</div>' +
+        '<div class="n-meta">' + esc(h.source) +
+        (h.when ? ' · ' + esc(ago(h.when)) : '') + '</div></a>';
+    }).join("");
+  }
+
+  function checkStale(){
+    // BRIEF holds written analysis. Say so plainly when it predates today.
+    var today = new Date().toISOString().slice(0, 10);
+    if (B.date && B.date < today){
+      var el = $("stale-banner");
+      el.hidden = false;
+      el.innerHTML = '<b>Market data below is live.</b> The written analysis is from ' +
+        esc(B.dateLabel) + ' and has not been refreshed today.';
+    }
+  }
+
+  function load(manual){
+    dot.className = "live-dot load";
+    if (manual) { btn.disabled = true; btn.textContent = "…"; }
+    // cache-bust so a phone or CDN never serves a stale copy
+    fetch("live.json?t=" + Date.now(), { cache: "no-store" })
+      .then(function(r){ if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function(L){
+        lastFetched = L;
+        if (L.quotes && L.quotes.length){
+          paintTiles(L.quotes);
+          $("mkt-live-tag").hidden = false;
+        }
+        paintNews(L.headlines);
+        dot.className = "live-dot ok";
+        setStatus();
+      })
+      .catch(function(e){
+        dot.className = "live-dot err";
+        status.textContent = "Live data unavailable — showing " + B.dateLabel + " snapshot";
+      })
+      .finally(function(){
+        if (manual) { btn.disabled = false; btn.textContent = "Refresh"; }
+      });
+  }
+
+  checkStale();
+  load(false);
+  btn.addEventListener("click", function(){ load(true); });
+  // returning to the app on a phone should not show stale numbers
+  document.addEventListener("visibilitychange", function(){
+    if (!document.hidden) load(false);
+  });
+  setInterval(function(){ if (!document.hidden) load(false); }, 60000);
+  setInterval(setStatus, 30000);
 })();
 </script>
 </body>
