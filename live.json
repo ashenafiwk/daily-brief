@@ -1,33 +1,33 @@
 {
-  "fetched": "2026-08-26T14:15:47.648Z",
-  "fetchedLabel": "Aug 26, 10:15 AM ET",
+  "fetched": "2026-08-26T14:18:15.521Z",
+  "fetchedLabel": "Aug 26, 10:18 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,679.56",
-      "chg": "-28.42",
-      "pct": "-0.37%",
+      "value": "7,680.61",
+      "chg": "-27.37",
+      "pct": "-0.36%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,105.79",
-      "chg": "-225.30",
-      "pct": "-0.86%",
+      "value": "26,110.07",
+      "chg": "-221.02",
+      "pct": "-0.84%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "53,535.24",
-      "chg": "+72.19",
-      "pct": "+0.14%",
+      "value": "53,527.25",
+      "chg": "+64.20",
+      "pct": "+0.12%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "3,012.96",
-      "chg": "-19.98",
-      "pct": "-0.66%",
+      "value": "3,014.38",
+      "chg": "-18.56",
+      "pct": "-0.61%",
       "dir": "down"
     },
     {
@@ -39,27 +39,39 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$81.48",
-      "chg": "-5.58",
-      "pct": "-6.41%",
+      "value": "$81.51",
+      "chg": "-5.55",
+      "pct": "-6.37%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,679.00",
-      "chg": "+54.90",
-      "pct": "+1.19%",
+      "value": "$4,680.70",
+      "chg": "+56.60",
+      "pct": "+1.22%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.44",
-      "chg": "-0.57",
-      "pct": "-3.56%",
+      "value": "15.49",
+      "chg": "-0.52",
+      "pct": "-3.25%",
       "dir": "down"
     }
   ],
   "headlines": [
+    {
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
+      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
+      "source": "CNBC",
+      "when": "2026-08-26T14:17:25.000Z"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I'm 84 and my wife is 77. We have $8 million saved.",
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-26T14:15:00.000Z"
+    },
     {
       "title": "10-year Treasury yield is little changed after PCE inflation report is mostly as expected",
       "url": "https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html",
@@ -73,52 +85,16 @@
       "when": "2026-08-26T14:12:55.000Z"
     },
     {
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
-      "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
-      "source": "CNBC",
-      "when": "2026-08-26T14:08:12.000Z"
-    },
-    {
       "title": "12 stocks for 'bottom-fishing' investors looking for cheap growth opportunities",
       "url": "https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-08-26T14:06:00.000Z"
     },
     {
-      "title": "EchoStar's SpaceX Payday Faces a $1.5 Billion Reckoning from Angry Hughes Creditors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-spacex-payday-faces-1-140106411.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-26T14:01:06.000Z"
-    },
-    {
-      "title": "Prediction: Seagate Could Be One of AI's Most Unexpected Winners",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-seagate-could-one-ai-140011010.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-26T14:00:11.000Z"
-    },
-    {
-      "title": "$4 Million Net Worth Caller Asks Dave Ramsey: Is a $400,000 Boat Too Expensive?",
-      "url": "https://finance.yahoo.com/markets/articles/4-million-net-worth-caller-140006598.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-26T14:00:06.000Z"
-    },
-    {
-      "title": "US inflation remains sticky in July; second-quarter GDP growth unrevised at 1.5%",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-inflation-remains-sticky-july-124816701.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-26T14:00:04.000Z"
-    },
-    {
       "title": "Your portfolio can recover from a bear market, but can it survive you living to 110?",
       "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-08-26T14:00:00.000Z"
-    },
-    {
-      "title": "Hyundai plans 100+ vehicle launches, raises 2030 profit margin target",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hyundai-plans-100-vehicle-launches-135945904.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-26T13:59:45.000Z"
     },
     {
       "title": "Tax tips for TikTok stars, after judge says influencer can't write off his Grammy tickets",
@@ -139,10 +115,34 @@
       "when": "2026-08-26T13:55:00.000Z"
     },
     {
-      "title": "How To Use A Covered Strangle Trade On This Banking Giant",
-      "url": "https://www.investors.com/research/options/bank-of-america-bac-stock-covered-strangle-options/?src=A00220&yptr=yahoo",
+      "title": "Consumer spending sees the smallest increase in seven months. Is the economy getting weaker?",
+      "url": "https://www.marketwatch.com/story/consumer-spending-posts-smallest-increases-in-14-months-is-the-economy-getting-weaker-1580cec6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-26T13:52:00.000Z"
+    },
+    {
+      "title": "U.S. inflation rises again and stays well above the Fed's target. A rate hike could be in play.",
+      "url": "https://www.marketwatch.com/story/u-s-inflation-rises-in-july-and-stays-well-above-feds-target-b4e6109c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-26T13:52:00.000Z"
+    },
+    {
+      "title": "You don't have to be rich to start investing. Here's a simple way to begin.",
+      "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-start-investing-heres-a-simple-way-to-begin-f1b0e194?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-26T13:50:00.000Z"
+    },
+    {
+      "title": "Gilead Sciences Has Snapped Out of Its Slump -- and 1 Catalyst Is Doing Most of the Heavy Lifting",
+      "url": "https://finance.yahoo.com/healthcare/articles/gilead-sciences-snapped-slump-1-135000643.html",
       "source": "Yahoo Finance",
-      "when": "2026-08-26T13:54:16.000Z"
+      "when": "2026-08-26T13:50:00.000Z"
+    },
+    {
+      "title": "It now takes over 40 years for homeowners to break even after buying a house in these areas",
+      "url": "https://www.marketwatch.com/story/heres-where-it-takes-new-homeowners-almost-40-to-50-years-to-break-even-on-buying-a-house-c503cb50?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-26T13:48:00.000Z"
     }
   ],
   "errors": []
