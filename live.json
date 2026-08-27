@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-27T00:34:30.204Z",
-  "fetchedLabel": "Aug 26, 8:34 PM ET",
+  "fetched": "2026-08-27T11:02:22.615Z",
+  "fetchedLabel": "Aug 27, 7:02 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$81.63",
-      "chg": "-5.43",
-      "pct": "-6.24%",
+      "value": "$82.39",
+      "chg": "-2.62",
+      "pct": "-3.08%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,673.10",
-      "chg": "+49.00",
-      "pct": "+1.06%",
-      "dir": "up"
+      "value": "$4,640.50",
+      "chg": "-0.30",
+      "pct": "-0.01%",
+      "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.21",
-      "chg": "-0.80",
-      "pct": "-5.00%",
+      "value": "14.94",
+      "chg": "-0.19",
+      "pct": "-1.26%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world's third-largest energy market",
-      "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-      "source": "CNBC",
-      "when": "2026-08-27T00:21:44.000Z"
-    },
-    {
-      "title": "CrowdStrike's quarter shows AI is a cybersecurity tailwind, not a threat",
-      "url": "https://www.cnbc.com/2026/08/26/crowdstrikes-shows-ai-is-a-cybersecurity-tailwind-not-a-threat.html",
-      "source": "CNBC",
-      "when": "2026-08-27T00:19:24.000Z"
-    },
-    {
-      "title": "Fed Gov Lisa Cook's lawyer fires back at Trump's renewed threat to oust her",
-      "url": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
-      "source": "CNBC",
-      "when": "2026-08-27T00:15:35.000Z"
-    },
-    {
-      "title": "Fed's Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
-      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "title": "Why these analysts say bitcoin will double by next year — and could reach $500,000 at the end of the decade",
+      "url": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T00:14:00.000Z"
+      "when": "2026-08-27T10:54:00.000Z"
     },
     {
-      "title": "The toy industry's latest craze is cheap, colorful and very squishy",
-      "url": "https://www.cnbc.com/2026/08/27/the-toy-industrys-latest-craze-is-cheap-colorful-and-very-squishy-.html",
-      "source": "CNBC",
-      "when": "2026-08-27T00:07:00.000Z"
-    },
-    {
-      "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
-      "url": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
-      "source": "CNBC",
-      "when": "2026-08-26T23:53:45.000Z"
-    },
-    {
-      "title": "Republicans are dismissing affordability. That could be a problem in November",
-      "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
-      "source": "CNBC",
-      "when": "2026-08-26T23:17:46.000Z"
-    },
-    {
-      "title": "Salesforce's stock gets an Anthropic boost — and more highlights from earnings",
-      "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "title": "Nvidia stock is climbing after another set of blockbuster results. Here's what Wall Street is saying.",
+      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T22:50:00.000Z"
+      "when": "2026-08-27T10:02:00.000Z"
     },
     {
-      "title": "Salesforce CEO Marc Benioff says the 'SaaSpocalypse' is nonsense. Here's why",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
+      "title": "Mortgage and refinance interest rates today, Thursday, August 27, 2026: Fixed rates rise, 5/1 ARM falls",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-fixed-rates-rise-51-arm-falls-100000669.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "title": "Best CD rates today, Thursday, August 27, 2026: Lock in up to 4.30% APY with a 16-month or 18-month CD",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-27-2026-lock-in-up-to-430-apy-with-a-16-month-or-18-month-cd-100000374.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-27T10:00:00.000Z"
+    },
+    {
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
+      "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
       "source": "CNBC",
-      "when": "2026-08-26T22:47:37.000Z"
+      "when": "2026-08-27T09:36:30.000Z"
     },
     {
-      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "title": "Second straight rate hike for Asia's number-three economy as Nvidia-led AI expansion continues",
+      "url": "https://www.marketwatch.com/story/second-straight-rate-hike-for-asias-number-three-economy-as-nvidia-led-ai-expansion-continues-2dc36145?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-27T09:34:00.000Z"
+    },
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-27T09:15:00.000Z"
+    },
+    {
+      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
       "source": "CNBC",
-      "when": "2026-08-26T22:39:49.000Z"
+      "when": "2026-08-27T08:43:20.000Z"
     },
     {
-      "title": "Am I too old for Roth conversions? I'm 84 and my wife is 77. We have $8 million saved.",
-      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "title": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
+      "url": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T22:30:00.000Z"
+      "when": "2026-08-27T08:37:00.000Z"
     },
     {
-      "title": "I just had my first baby and don't want to go back to work. Is quitting for a year a bad idea?",
-      "url": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-26T22:30:00.000Z"
-    },
-    {
-      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
-      "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
+      "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump's Hormuz claim",
+      "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
       "source": "CNBC",
-      "when": "2026-08-26T22:20:20.000Z"
+      "when": "2026-08-27T08:22:29.000Z"
     },
     {
-      "title": "'There is considerable tension': My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-26T22:15:00.000Z"
+      "title": "Bank of Korea delivers back-to-back rate hikes as core inflation stays elevated",
+      "url": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
+      "source": "CNBC",
+      "when": "2026-08-27T05:45:31.000Z"
+    },
+    {
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "CNBC",
+      "when": "2026-08-27T05:34:13.000Z"
+    },
+    {
+      "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
+      "url": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
+      "source": "CNBC",
+      "when": "2026-08-27T05:02:44.000Z"
+    },
+    {
+      "title": "Europe's gas stores are running low — and prices could top 100 euros this winter",
+      "url": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
+      "source": "CNBC",
+      "when": "2026-08-27T05:00:01.000Z"
     }
   ],
   "errors": []
