@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-08-27T11:02:22.615Z",
-  "fetchedLabel": "Aug 27, 7:02 AM ET",
+  "fetched": "2026-08-27T21:05:56.480Z",
+  "fetchedLabel": "Aug 27, 5:05 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,675.70",
-      "chg": "-32.28",
-      "pct": "-0.42%",
-      "dir": "down"
+      "value": "7,730.99",
+      "chg": "+89.83",
+      "pct": "+1.18%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,130.20",
-      "chg": "-200.89",
-      "pct": "-0.76%",
-      "dir": "down"
+      "value": "26,541.35",
+      "chg": "+474.18",
+      "pct": "+1.82%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,463.88",
-      "chg": "+0.83",
-      "pct": "+0.00%",
+      "value": "53,569.44",
+      "chg": "+810.23",
+      "pct": "+1.54%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "3,005.90",
-      "chg": "-27.04",
-      "pct": "-0.89%",
-      "dir": "down"
+      "value": "3,014.34",
+      "chg": "+21.91",
+      "pct": "+0.73%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.66%",
-      "chg": "-0.03",
-      "pct": "-0.68%",
+      "value": "4.67%",
+      "chg": "-0.07",
+      "pct": "-1.39%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$82.39",
-      "chg": "-2.62",
-      "pct": "-3.08%",
+      "value": "$83.48",
+      "chg": "-1.53",
+      "pct": "-1.80%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,640.50",
-      "chg": "-0.30",
-      "pct": "-0.01%",
-      "dir": "down"
+      "value": "$4,654.20",
+      "chg": "+13.40",
+      "pct": "+0.29%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.94",
-      "chg": "-0.19",
-      "pct": "-1.26%",
+      "value": "14.51",
+      "chg": "-0.62",
+      "pct": "-4.10%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Why these analysts say bitcoin will double by next year — and could reach $500,000 at the end of the decade",
-      "url": "https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-27T10:54:00.000Z"
-    },
-    {
-      "title": "Nvidia stock is climbing after another set of blockbuster results. Here's what Wall Street is saying.",
-      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-27T10:02:00.000Z"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Thursday, August 27, 2026: Fixed rates rise, 5/1 ARM falls",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-27-2026-fixed-rates-rise-51-arm-falls-100000669.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-27T10:00:00.000Z"
-    },
-    {
-      "title": "Best CD rates today, Thursday, August 27, 2026: Lock in up to 4.30% APY with a 16-month or 18-month CD",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-august-27-2026-lock-in-up-to-430-apy-with-a-16-month-or-18-month-cd-100000374.html",
-      "source": "Yahoo Finance",
-      "when": "2026-08-27T10:00:00.000Z"
-    },
-    {
-      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
-      "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
       "source": "CNBC",
-      "when": "2026-08-27T09:36:30.000Z"
+      "when": "2026-08-27T21:03:08.000Z"
     },
     {
-      "title": "Second straight rate hike for Asia's number-three economy as Nvidia-led AI expansion continues",
-      "url": "https://www.marketwatch.com/story/second-straight-rate-hike-for-asias-number-three-economy-as-nvidia-led-ai-expansion-continues-2dc36145?mod=mw_rss_topstories",
+      "title": "20 stocks likely to lose money even if the bull market continues",
+      "url": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T09:34:00.000Z"
+      "when": "2026-08-27T20:48:00.000Z"
+    },
+    {
+      "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:47:36.000Z"
+    },
+    {
+      "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
+      "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:46:03.000Z"
+    },
+    {
+      "title": "Nvidia is getting too big, and that's a problem",
+      "url": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-27T20:24:00.000Z"
+    },
+    {
+      "title": "UAE 'spy sheikh' backs 49% stake in Trump family's crypto bank venture, WSJ reports",
+      "url": "https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:16:22.000Z"
+    },
+    {
+      "title": "AI bursts to the front of Massachusetts Democratic Senate primary",
+      "url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:11:09.000Z"
+    },
+    {
+      "title": "CrowdStrike posts best day ever, Okta's stock pops nearly 29% as rising AI threat lifts earnings",
+      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:08:43.000Z"
+    },
+    {
+      "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
+      "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+      "source": "CNBC",
+      "when": "2026-08-27T20:04:01.000Z"
     },
     {
       "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
       "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T09:15:00.000Z"
+      "when": "2026-08-27T20:00:00.000Z"
     },
     {
-      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-      "source": "CNBC",
-      "when": "2026-08-27T08:43:20.000Z"
-    },
-    {
-      "title": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
-      "url": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
+      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T08:37:00.000Z"
+      "when": "2026-08-27T19:55:00.000Z"
     },
     {
-      "title": "Qatari PM heads to Iran to 'de-escalate tensions' as tanker attack tests Trump's Hormuz claim",
-      "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+      "title": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
+      "url": "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
       "source": "CNBC",
-      "when": "2026-08-27T08:22:29.000Z"
+      "when": "2026-08-27T19:51:45.000Z"
     },
     {
-      "title": "Bank of Korea delivers back-to-back rate hikes as core inflation stays elevated",
-      "url": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
+      "title": "What Warsh will say and how the market will react, according to prediction markets",
+      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
       "source": "CNBC",
-      "when": "2026-08-27T05:45:31.000Z"
+      "when": "2026-08-27T19:38:16.000Z"
     },
     {
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "title": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
+      "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
       "source": "CNBC",
-      "when": "2026-08-27T05:34:13.000Z"
-    },
-    {
-      "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
-      "url": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
-      "source": "CNBC",
-      "when": "2026-08-27T05:02:44.000Z"
-    },
-    {
-      "title": "Europe's gas stores are running low — and prices could top 100 euros this winter",
-      "url": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
-      "source": "CNBC",
-      "when": "2026-08-27T05:00:01.000Z"
+      "when": "2026-08-27T19:25:56.000Z"
     }
   ],
   "errors": []
