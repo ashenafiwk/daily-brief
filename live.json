@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-26T20:39:57.567Z",
-  "fetchedLabel": "Aug 26, 4:39 PM ET",
+  "fetched": "2026-08-27T00:34:30.204Z",
+  "fetchedLabel": "Aug 26, 8:34 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$81.80",
-      "chg": "-5.26",
-      "pct": "-6.04%",
+      "value": "$81.63",
+      "chg": "-5.43",
+      "pct": "-6.24%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,646.00",
-      "chg": "+21.90",
-      "pct": "+0.47%",
+      "value": "$4,673.10",
+      "chg": "+49.00",
+      "pct": "+1.06%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world's third-largest energy market",
+      "url": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
       "source": "CNBC",
-      "when": "2026-08-26T20:34:32.000Z"
+      "when": "2026-08-27T00:21:44.000Z"
     },
     {
-      "title": "Salesforce, Anthropic expand partnership as Benioff responds to 'SaaSpocalypse' concerns",
-      "url": "https://www.cnbc.com/2026/08/26/salesforce-anthropic-partnership-claudeforce.html",
+      "title": "CrowdStrike's quarter shows AI is a cybersecurity tailwind, not a threat",
+      "url": "https://www.cnbc.com/2026/08/26/crowdstrikes-shows-ai-is-a-cybersecurity-tailwind-not-a-threat.html",
       "source": "CNBC",
-      "when": "2026-08-26T20:34:29.000Z"
+      "when": "2026-08-27T00:19:24.000Z"
     },
     {
-      "title": "Salesforce's stock surges as AI momentum fuels revenue growth",
+      "title": "Fed Gov Lisa Cook's lawyer fires back at Trump's renewed threat to oust her",
+      "url": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
+      "source": "CNBC",
+      "when": "2026-08-27T00:15:35.000Z"
+    },
+    {
+      "title": "Fed's Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+      "url": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-27T00:14:00.000Z"
+    },
+    {
+      "title": "The toy industry's latest craze is cheap, colorful and very squishy",
+      "url": "https://www.cnbc.com/2026/08/27/the-toy-industrys-latest-craze-is-cheap-colorful-and-very-squishy-.html",
+      "source": "CNBC",
+      "when": "2026-08-27T00:07:00.000Z"
+    },
+    {
+      "title": "U.S. still watching allies for alignment of interests even amid defense pullback, analyst says",
+      "url": "https://www.cnbc.com/2026/08/27/trump-asia-allies-defense-washington-terms-political-analyst.html",
+      "source": "CNBC",
+      "when": "2026-08-26T23:53:45.000Z"
+    },
+    {
+      "title": "Republicans are dismissing affordability. That could be a problem in November",
+      "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
+      "source": "CNBC",
+      "when": "2026-08-26T23:17:46.000Z"
+    },
+    {
+      "title": "Salesforce's stock gets an Anthropic boost — and more highlights from earnings",
       "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T20:24:00.000Z"
+      "when": "2026-08-26T22:50:00.000Z"
     },
     {
-      "title": "'The relationship quickly deteriorated': My friend's lawyer settled his injury case without his consent. What can he do?",
-      "url": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-26T20:15:00.000Z"
-    },
-    {
-      "title": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
-      "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+      "title": "Salesforce CEO Marc Benioff says the 'SaaSpocalypse' is nonsense. Here's why",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-ceo-marc-benioff-saaspocalypse-nonsense.html",
       "source": "CNBC",
-      "when": "2026-08-26T20:13:25.000Z"
+      "when": "2026-08-26T22:47:37.000Z"
     },
     {
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
-      "url": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+      "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+      "source": "CNBC",
+      "when": "2026-08-26T22:39:49.000Z"
+    },
+    {
+      "title": "Am I too old for Roth conversions? I'm 84 and my wife is 77. We have $8 million saved.",
+      "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T19:46:00.000Z"
+      "when": "2026-08-26T22:30:00.000Z"
     },
     {
       "title": "I just had my first baby and don't want to go back to work. Is quitting for a year a bad idea?",
       "url": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T19:33:00.000Z"
+      "when": "2026-08-26T22:30:00.000Z"
     },
     {
-      "title": "OpenAI's Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground",
-      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
+      "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
       "source": "CNBC",
-      "when": "2026-08-26T19:15:53.000Z"
+      "when": "2026-08-26T22:20:20.000Z"
     },
     {
-      "title": "Federal judge lifts final block on Trump mail-in voting order, clearing way for midterm restrictions",
-      "url": "https://www.cnbc.com/2026/08/26/trump-usps-mail-voting-rule-lawsuit-states-supreme-court.html",
-      "source": "CNBC",
-      "when": "2026-08-26T19:15:45.000Z"
-    },
-    {
-      "title": "Are older Americans spoiling the economy for everyone else?",
-      "url": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
+      "title": "'There is considerable tension': My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "url": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-26T19:06:00.000Z"
-    },
-    {
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack",
-      "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
-      "source": "CNBC",
-      "when": "2026-08-26T19:00:01.000Z"
-    },
-    {
-      "title": "'My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-26T18:45:00.000Z"
-    },
-    {
-      "title": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
-      "url": "https://www.cnbc.com/2026/08/26/micron-elevates-two-executives-plus-what-the-meta-settlement-means-for-its-top-line.html",
-      "source": "CNBC",
-      "when": "2026-08-26T18:31:26.000Z"
-    },
-    {
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-26T18:26:00.000Z"
+      "when": "2026-08-26T22:15:00.000Z"
     }
   ],
   "errors": []
