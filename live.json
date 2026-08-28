@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-27T21:05:56.480Z",
-  "fetchedLabel": "Aug 27, 5:05 PM ET",
+  "fetched": "2026-08-28T05:33:21.591Z",
+  "fetchedLabel": "Aug 28, 1:33 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.48",
-      "chg": "-1.53",
-      "pct": "-1.80%",
+      "value": "$83.24",
+      "chg": "-1.77",
+      "pct": "-2.08%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,654.20",
-      "chg": "+13.40",
-      "pct": "+0.29%",
-      "dir": "up"
+      "value": "$4,635.30",
+      "chg": "-5.50",
+      "pct": "-0.12%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-      "url": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "title": "Trump's Greenland fixation puts security at the heart of Iceland's knife-edge EU vote",
+      "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
       "source": "CNBC",
-      "when": "2026-08-27T21:03:08.000Z"
+      "when": "2026-08-28T05:06:43.000Z"
     },
     {
-      "title": "20 stocks likely to lose money even if the bull market continues",
-      "url": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
+      "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
+      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+      "source": "CNBC",
+      "when": "2026-08-28T05:02:16.000Z"
+    },
+    {
+      "title": "Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise",
+      "url": "https://www.cnbc.com/2026/08/28/mixue-shares-extend-slide-after-profit-drop-as-drinks-chain-sees-costs-rise.html",
+      "source": "CNBC",
+      "when": "2026-08-28T03:58:46.000Z"
+    },
+    {
+      "title": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
+      "url": "https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html",
+      "source": "CNBC",
+      "when": "2026-08-28T03:29:45.000Z"
+    },
+    {
+      "title": "Judge says Trump administration's blacklist of Anthropic was illegal",
+      "url": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T20:48:00.000Z"
+      "when": "2026-08-28T03:16:00.000Z"
     },
     {
-      "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
       "source": "CNBC",
-      "when": "2026-08-27T20:47:36.000Z"
+      "when": "2026-08-28T02:50:45.000Z"
     },
     {
-      "title": "Gap shares jump 12% after company names new Old Navy CEO to revive struggling brand",
-      "url": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
+      "title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal",
+      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
       "source": "CNBC",
-      "when": "2026-08-27T20:46:03.000Z"
+      "when": "2026-08-28T02:35:15.000Z"
     },
     {
-      "title": "Nvidia is getting too big, and that's a problem",
-      "url": "https://www.marketwatch.com/story/nvidia-is-getting-too-big-and-thats-a-problem-e1edabff?mod=mw_rss_topstories",
+      "title": "DeepSeek looks for fresh capital as founder's quant empire navigates China's choppy IPO market",
+      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+      "source": "CNBC",
+      "when": "2026-08-28T02:17:01.000Z"
+    },
+    {
+      "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+      "url": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+      "source": "CNBC",
+      "when": "2026-08-28T01:35:13.000Z"
+    },
+    {
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there's more to the story",
+      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T20:24:00.000Z"
+      "when": "2026-08-28T00:20:00.000Z"
     },
     {
-      "title": "UAE 'spy sheikh' backs 49% stake in Trump family's crypto bank venture, WSJ reports",
-      "url": "https://www.cnbc.com/2026/08/27/uae-spy-sheikh-trump-family-crypto-bank.html",
-      "source": "CNBC",
-      "when": "2026-08-27T20:16:22.000Z"
-    },
-    {
-      "title": "AI bursts to the front of Massachusetts Democratic Senate primary",
-      "url": "https://www.cnbc.com/2026/08/27/ai-massachusetts-democratic-senate-primary-markey-moulton.html",
-      "source": "CNBC",
-      "when": "2026-08-27T20:11:09.000Z"
-    },
-    {
-      "title": "CrowdStrike posts best day ever, Okta's stock pops nearly 29% as rising AI threat lifts earnings",
-      "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
-      "source": "CNBC",
-      "when": "2026-08-27T20:08:43.000Z"
-    },
-    {
-      "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
-      "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
-      "source": "CNBC",
-      "when": "2026-08-27T20:04:01.000Z"
-    },
-    {
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-      "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "title": "SpaceX's $100 billion spaceport plan has investors asking where all the money is coming from",
+      "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T20:00:00.000Z"
-    },
-    {
-      "title": "Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show",
-      "url": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-27T19:55:00.000Z"
-    },
-    {
-      "title": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
-      "url": "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
-      "source": "CNBC",
-      "when": "2026-08-27T19:51:45.000Z"
-    },
-    {
-      "title": "What Warsh will say and how the market will react, according to prediction markets",
-      "url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
-      "source": "CNBC",
-      "when": "2026-08-27T19:38:16.000Z"
+      "when": "2026-08-28T00:02:00.000Z"
     },
     {
       "title": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
       "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
       "source": "CNBC",
-      "when": "2026-08-27T19:25:56.000Z"
+      "when": "2026-08-27T23:59:05.000Z"
+    },
+    {
+      "title": "China's super-rich fled Singapore. Now they want to come back",
+      "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
+      "source": "CNBC",
+      "when": "2026-08-27T23:51:49.000Z"
+    },
+    {
+      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that's possible.",
+      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-27T23:05:00.000Z"
     }
   ],
   "errors": []
