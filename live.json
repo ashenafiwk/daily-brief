@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-08-28T05:33:21.591Z",
-  "fetchedLabel": "Aug 28, 1:33 AM ET",
+  "fetched": "2026-08-28T18:24:46.079Z",
+  "fetchedLabel": "Aug 28, 2:24 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,730.99",
-      "chg": "+89.83",
-      "pct": "+1.18%",
+      "value": "7,708.72",
+      "chg": "+34.35",
+      "pct": "+0.45%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,541.35",
-      "chg": "+474.18",
-      "pct": "+1.82%",
+      "value": "26,400.20",
+      "chg": "+219.74",
+      "pct": "+0.84%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,569.44",
-      "chg": "+810.23",
-      "pct": "+1.54%",
+      "value": "53,518.41",
+      "chg": "+241.40",
+      "pct": "+0.45%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "3,014.34",
-      "chg": "+21.91",
-      "pct": "+0.73%",
-      "dir": "up"
-    },
-    {
-      "name": "10Y Treasury",
-      "value": "4.67%",
-      "chg": "-0.07",
-      "pct": "-1.39%",
+      "value": "2,979.26",
+      "chg": "-38.61",
+      "pct": "-1.28%",
       "dir": "down"
     },
     {
+      "name": "10Y Treasury",
+      "value": "4.72%",
+      "chg": "+0.02",
+      "pct": "+0.43%",
+      "dir": "up"
+    },
+    {
       "name": "Crude (WTI)",
-      "value": "$83.24",
-      "chg": "-1.77",
-      "pct": "-2.08%",
+      "value": "$83.32",
+      "chg": "-1.69",
+      "pct": "-1.99%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,635.30",
-      "chg": "-5.50",
-      "pct": "-0.12%",
+      "value": "$4,509.90",
+      "chg": "-130.90",
+      "pct": "-2.82%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.51",
-      "chg": "-0.62",
-      "pct": "-4.10%",
+      "value": "14.48",
+      "chg": "-1.37",
+      "pct": "-8.64%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Trump's Greenland fixation puts security at the heart of Iceland's knife-edge EU vote",
-      "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
+      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+      "url": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
       "source": "CNBC",
-      "when": "2026-08-28T05:06:43.000Z"
+      "when": "2026-08-28T18:13:13.000Z"
     },
     {
-      "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
-      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+      "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+      "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
       "source": "CNBC",
-      "when": "2026-08-28T05:02:16.000Z"
+      "when": "2026-08-28T18:11:45.000Z"
     },
     {
-      "title": "Mixue shares extend slide after profit drop as ice cream-and-tea chain sees costs rise",
-      "url": "https://www.cnbc.com/2026/08/28/mixue-shares-extend-slide-after-profit-drop-as-drinks-chain-sees-costs-rise.html",
+      "title": "Trump loses bid to transfer New York hush money case to federal court",
+      "url": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
       "source": "CNBC",
-      "when": "2026-08-28T03:58:46.000Z"
+      "when": "2026-08-28T18:03:28.000Z"
     },
     {
-      "title": "OpenAI rolls out ads on select ChatGPT plans in India to boost monetization, support wider access",
-      "url": "https://www.cnbc.com/2026/08/28/openai-strategy-india-anthropic-ipo.html",
+      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+      "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
       "source": "CNBC",
-      "when": "2026-08-28T03:29:45.000Z"
+      "when": "2026-08-28T17:44:02.000Z"
     },
     {
-      "title": "Judge says Trump administration's blacklist of Anthropic was illegal",
-      "url": "https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories",
+      "title": "Should I use my financial institution's 'free' advisers?",
+      "url": "https://www.marketwatch.com/story/should-i-use-my-financial-institutions-free-advisers-or-hire-an-independent-78b7eff4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-28T03:16:00.000Z"
+      "when": "2026-08-28T17:00:00.000Z"
     },
     {
-      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
+      "url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
       "source": "CNBC",
-      "when": "2026-08-28T02:50:45.000Z"
+      "when": "2026-08-28T16:57:16.000Z"
     },
     {
-      "title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal",
-      "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
-      "source": "CNBC",
-      "when": "2026-08-28T02:35:15.000Z"
-    },
-    {
-      "title": "DeepSeek looks for fresh capital as founder's quant empire navigates China's choppy IPO market",
-      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
-      "source": "CNBC",
-      "when": "2026-08-28T02:17:01.000Z"
-    },
-    {
-      "title": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-      "url": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-      "source": "CNBC",
-      "when": "2026-08-28T01:35:13.000Z"
-    },
-    {
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there's more to the story",
-      "url": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+      "title": "I'm turning 70. Here's how I'm making this decade the richest of my retirement.",
+      "url": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-28T00:20:00.000Z"
+      "when": "2026-08-28T16:48:00.000Z"
     },
     {
-      "title": "SpaceX's $100 billion spaceport plan has investors asking where all the money is coming from",
-      "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+      "title": "The biggest risk to retirement plans may no longer be a stock market crash or inflation",
+      "url": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-28T00:02:00.000Z"
+      "when": "2026-08-28T16:46:00.000Z"
     },
     {
-      "title": "Texas Senate hopeful Talarico teams with Mark Cuban on plan to break up healthcare 'monopolies'",
-      "url": "https://www.cnbc.com/2026/08/27/texas-senate-james-talarico-mark-cuban-healthcare.html",
-      "source": "CNBC",
-      "when": "2026-08-27T23:59:05.000Z"
-    },
-    {
-      "title": "China's super-rich fled Singapore. Now they want to come back",
-      "url": "https://www.cnbc.com/2026/08/28/chinas-super-rich-fled-singapore-now-they-want-to-come-back.html",
-      "source": "CNBC",
-      "when": "2026-08-27T23:51:49.000Z"
-    },
-    {
-      "title": "Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that's possible.",
-      "url": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "title": "I'm 56 with $1.4 million and want to retire in 5 years. Do I move to California, New York or overseas?",
+      "url": "https://www.marketwatch.com/story/im-56-with-1-4-million-and-want-to-retire-in-5-years-do-i-move-to-california-new-york-or-overseas-7cf10b08?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-27T23:05:00.000Z"
+      "when": "2026-08-28T16:44:00.000Z"
+    },
+    {
+      "title": "Is it a bad idea to withdraw from my retirement account to pay off my last $1,000 in credit-card debt?",
+      "url": "https://www.marketwatch.com/story/is-it-a-bad-idea-to-withdraw-from-my-retirement-account-to-pay-off-my-last-1-000-in-credit-card-debt-2adb80be?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-28T16:31:00.000Z"
+    },
+    {
+      "title": "The Democratic Socialist and the retired Rear Admiral: How Democrats aim to win in Colorado",
+      "url": "https://www.cnbc.com/2026/08/28/democrats-colorado-congress.html",
+      "source": "CNBC",
+      "when": "2026-08-28T16:30:15.000Z"
+    },
+    {
+      "title": "52% of Gen Z investors have redirected investing money to sports bets",
+      "url": "https://www.cnbc.com/2026/08/28/sports-betting-gen-z-investors.html",
+      "source": "CNBC",
+      "when": "2026-08-28T16:10:01.000Z"
+    },
+    {
+      "title": "Why you shouldn't use AI to pick a Medicare plan",
+      "url": "https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-28T15:53:00.000Z"
+    },
+    {
+      "title": "3 charts that show why Americans no longer believe hard work is enough for financial success",
+      "url": "https://www.marketwatch.com/story/3-charts-that-show-why-americans-no-longer-believe-hard-work-is-enough-for-financial-success-526faf74?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-28T15:45:00.000Z"
     }
   ],
   "errors": []
