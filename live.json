@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-29T01:50:58.353Z",
-  "fetchedLabel": "Aug 28, 9:50 PM ET",
+  "fetched": "2026-08-29T08:47:47.239Z",
+  "fetchedLabel": "Aug 29, 4:47 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.44",
-      "chg": "-1.57",
-      "pct": "-1.85%",
+      "value": "$83.40",
+      "chg": "-1.61",
+      "pct": "-1.89%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,504.10",
-      "chg": "-136.70",
-      "pct": "-2.95%",
+      "value": "$4,529.90",
+      "chg": "-110.90",
+      "pct": "-2.39%",
       "dir": "down"
     },
     {
@@ -60,6 +60,36 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Meta's $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
+      "url": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
+      "source": "CNBC",
+      "when": "2026-08-29T05:00:01.000Z"
+    },
+    {
+      "title": "Opinion: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+      "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
+      "source": "CNBC",
+      "when": "2026-08-29T05:00:01.000Z"
+    },
+    {
+      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
+      "url": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
+      "source": "CNBC",
+      "when": "2026-08-29T02:43:38.000Z"
+    },
+    {
+      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
+      "source": "CNBC",
+      "when": "2026-08-29T02:23:52.000Z"
+    },
+    {
+      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
+      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
+      "source": "CNBC",
+      "when": "2026-08-29T02:11:38.000Z"
+    },
     {
       "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
       "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
@@ -79,12 +109,6 @@
       "when": "2026-08-28T22:15:00.000Z"
     },
     {
-      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-      "url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-      "source": "CNBC",
-      "when": "2026-08-28T21:57:47.000Z"
-    },
-    {
       "title": "Microsoft's stock seals its longest winning streak of the year as AI software fears fade",
       "url": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -95,12 +119,6 @@
       "url": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-08-28T21:31:00.000Z"
-    },
-    {
-      "title": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "source": "CNBC",
-      "when": "2026-08-28T21:08:53.000Z"
     },
     {
       "title": "Nvidia's revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
@@ -121,28 +139,10 @@
       "when": "2026-08-28T20:45:00.000Z"
     },
     {
-      "title": "Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes",
-      "url": "https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html",
-      "source": "CNBC",
-      "when": "2026-08-28T20:42:07.000Z"
-    },
-    {
       "title": "Bessent attacks Warren over yen intervention query, offers 'Foreign Exchange for Dummies' lesson",
       "url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
       "source": "CNBC",
       "when": "2026-08-28T20:31:58.000Z"
-    },
-    {
-      "title": "Dolly Parton's music, books and theme park see spikes in interest following her death",
-      "url": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-28T20:21:00.000Z"
-    },
-    {
-      "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
-      "url": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-28T20:10:00.000Z"
     }
   ],
   "errors": []
