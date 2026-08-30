@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-30T01:31:48.672Z",
-  "fetchedLabel": "Aug 29, 9:31 PM ET",
+  "fetched": "2026-08-30T08:06:16.913Z",
+  "fetchedLabel": "Aug 30, 4:06 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,15 +40,15 @@
     {
       "name": "Crude (WTI)",
       "value": "$83.40",
-      "chg": "-1.61",
-      "pct": "-1.89%",
-      "dir": "down"
+      "chg": "+1.04",
+      "pct": "+1.26%",
+      "dir": "up"
     },
     {
       "name": "Gold",
       "value": "$4,529.90",
-      "chg": "-110.90",
-      "pct": "-2.39%",
+      "chg": "-108.20",
+      "pct": "-2.33%",
       "dir": "down"
     },
     {
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+      "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+      "source": "CNBC",
+      "when": "2026-08-30T07:27:55.000Z"
+    },
     {
       "title": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
       "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
@@ -127,22 +133,16 @@
       "when": "2026-08-29T13:56:58.000Z"
     },
     {
+      "title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+      "url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+      "source": "CNBC",
+      "when": "2026-08-29T13:25:55.000Z"
+    },
+    {
       "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models",
       "url": "https://www.cnbc.com/2026/08/29/op-ed-salesforce-revealed-next-battleground-in-ai-its-not-models.html",
       "source": "CNBC",
       "when": "2026-08-29T13:00:01.000Z"
-    },
-    {
-      "title": "Why would someone lock up money by rolling it into a 401(k)?",
-      "url": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-29T13:00:00.000Z"
-    },
-    {
-      "title": "5 affordable cities to retire in the U.S. right now",
-      "url": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-29T12:50:00.000Z"
     }
   ],
   "errors": []
