@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-08-31T18:06:26.030Z",
-  "fetchedLabel": "Aug 31, 2:06 PM ET",
+  "fetched": "2026-08-31T22:58:50.523Z",
+  "fetchedLabel": "Aug 31, 6:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,682.91",
-      "chg": "+30.05",
-      "pct": "+0.39%",
+      "value": "7,686.14",
+      "chg": "+33.28",
+      "pct": "+0.43%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,317.62",
-      "chg": "+337.43",
-      "pct": "+1.30%",
+      "value": "26,370.89",
+      "chg": "+390.70",
+      "pct": "+1.50%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,248.31",
-      "chg": "-168.85",
-      "pct": "-0.32%",
+      "value": "53,185.90",
+      "chg": "-231.26",
+      "pct": "-0.43%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,946.95",
-      "chg": "-48.13",
-      "pct": "-1.61%",
+      "value": "2,956.45",
+      "chg": "-38.63",
+      "pct": "-1.29%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "4.76%",
       "chg": "+0.12",
-      "pct": "+2.52%",
+      "pct": "+2.57%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$85.52",
-      "chg": "+3.29",
-      "pct": "+4.00%",
+      "value": "$86.23",
+      "chg": "+4.00",
+      "pct": "+4.86%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,486.30",
-      "chg": "-111.90",
-      "pct": "-2.43%",
+      "value": "$4,495.40",
+      "chg": "-102.80",
+      "pct": "-2.24%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.04",
-      "chg": "-0.41",
-      "pct": "-2.65%",
+      "value": "14.92",
+      "chg": "-0.53",
+      "pct": "-3.43%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "Amazon's stock slips as the FTC alleges billions of dollars in hidden ad fees",
+      "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-31T22:24:00.000Z"
+    },
+    {
+      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-31T22:00:00.000Z"
+    },
+    {
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
+      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "source": "CNBC",
+      "when": "2026-08-31T21:36:32.000Z"
+    },
+    {
+      "title": "The S&P 500 usually falls in September. Why this year should be different.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-08-31T21:36:00.000Z"
+    },
+    {
       "title": "'Neither of us attended college': At 62, how can we afford to put our granddaughter through college?",
       "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T18:00:00.000Z"
+      "when": "2026-08-31T21:34:00.000Z"
     },
     {
-      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
-      "url": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:56:01.000Z"
-    },
-    {
-      "title": "Trump to meet with U.S. oil refiners as White House pushes to lower gas prices",
-      "url": "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:44:31.000Z"
-    },
-    {
-      "title": "The 10-year Treasury yield is breaking out and 5% could be just the beginning. Here's why that matters.",
-      "url": "https://www.marketwatch.com/story/the-10-year-treasury-yield-is-breaking-out-and-5-could-be-just-the-beginning-heres-why-that-matters-3906b83e?mod=mw_rss_topstories",
+      "title": "Vanguard's S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
+      "url": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T17:38:00.000Z"
+      "when": "2026-08-31T21:33:00.000Z"
     },
     {
-      "title": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading",
-      "url": "https://www.cnbc.com/2026/08/31/kalshi-perman.html",
+      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+      "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
       "source": "CNBC",
-      "when": "2026-08-31T17:36:20.000Z"
+      "when": "2026-08-31T21:23:41.000Z"
     },
     {
-      "title": "Trump says U.S. communities opposing AI data centers could end up 'backwards and poor'",
-      "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:32:02.000Z"
-    },
-    {
-      "title": "'It's the ultimate regifting': My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "url": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T17:30:00.000Z"
+      "when": "2026-08-31T21:23:00.000Z"
     },
     {
-      "title": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers",
-      "url": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
+      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+      "url": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
       "source": "CNBC",
-      "when": "2026-08-31T17:20:45.000Z"
+      "when": "2026-08-31T21:22:08.000Z"
     },
     {
-      "title": "American Airlines announces Trump Accounts matching program",
-      "url": "https://www.cnbc.com/2026/08/31/trump-accounts-american-airlines-matching-program.html",
+      "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
+      "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
       "source": "CNBC",
-      "when": "2026-08-31T17:19:46.000Z"
+      "when": "2026-08-31T21:18:37.000Z"
     },
     {
-      "title": "Broadcom reports earnings this week. Mike Khouw says this trade could be a winner",
-      "url": "https://www.cnbc.com/2026/08/31/broadcom-reports-earnings-this-week-mike-khouw-says-this-trade-could-be-a-winner.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:18:15.000Z"
-    },
-    {
-      "title": "Waiting for homebuying to get more affordable? Here's what to expect in 2027",
-      "url": "https://www.cnbc.com/2026/08/31/what-homebuyers-can-expect-in-2027.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:16:59.000Z"
-    },
-    {
-      "title": "Cramer: Why Tim Cook deserves more credit for his accomplishments as Apple CEO",
-      "url": "https://www.cnbc.com/2026/08/31/cramer-why-tim-cook-deserves-more-credit-for-his-accomplishments-as-apple-ceo.html",
-      "source": "CNBC",
-      "when": "2026-08-31T17:16:16.000Z"
-    },
-    {
-      "title": "PG&E, other utility stocks sink as California leaves investors exposed to wildfire liability",
-      "url": "https://www.marketwatch.com/story/pg-e-other-utility-stocks-sink-as-california-leaves-investors-exposed-to-wildfire-liability-ac373b54?mod=mw_rss_topstories",
+      "title": "23 best-performing stocks of August, as the software industry continues its recovery",
+      "url": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T17:10:00.000Z"
+      "when": "2026-08-31T21:16:00.000Z"
     },
     {
-      "title": "Why would someone lock up money by rolling it into a 401(k)?",
-      "url": "https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories",
+      "title": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says",
+      "url": "https://www.cnbc.com/2026/08/31/trump-account-holders-to-start-receiving-250-dell-grant-spokesperson.html",
+      "source": "CNBC",
+      "when": "2026-08-31T21:10:05.000Z"
+    },
+    {
+      "title": "Tesla's stock among S&P 500's top gainers as investors prepare for a Cybercab launch",
+      "url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T17:05:00.000Z"
+      "when": "2026-08-31T21:01:00.000Z"
+    },
+    {
+      "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
+      "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+      "source": "CNBC",
+      "when": "2026-08-31T21:00:15.000Z"
     }
   ],
   "errors": []
