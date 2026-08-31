@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-31T04:46:27.398Z",
-  "fetchedLabel": "Aug 31, 12:46 AM ET",
+  "fetched": "2026-08-31T11:28:05.180Z",
+  "fetchedLabel": "Aug 31, 7:28 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$85.31",
-      "chg": "+3.08",
-      "pct": "+3.75%",
+      "value": "$86.34",
+      "chg": "+4.11",
+      "pct": "+5.00%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,467.40",
-      "chg": "-130.80",
-      "pct": "-2.84%",
+      "value": "$4,505.20",
+      "chg": "-93.00",
+      "pct": "-2.02%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.43",
-      "chg": "-1.42",
-      "pct": "-8.96%",
+      "value": "15.20",
+      "chg": "-0.25",
+      "pct": "-1.62%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "BYD shares slide as fierce China competition dents first-half earnings",
-      "url": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+      "title": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+      "url": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
       "source": "CNBC",
-      "when": "2026-08-31T04:01:47.000Z"
+      "when": "2026-08-31T11:27:20.000Z"
     },
     {
-      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
-      "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-      "source": "CNBC",
-      "when": "2026-08-31T03:47:28.000Z"
-    },
-    {
-      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
-      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
-      "source": "CNBC",
-      "when": "2026-08-31T03:15:01.000Z"
-    },
-    {
-      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh's Jackson Hole comments",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+      "title": "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
+      "url": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T03:03:00.000Z"
+      "when": "2026-08-31T11:21:00.000Z"
     },
     {
-      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
-      "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+      "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-110500352.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T11:05:00.000Z"
+    },
+    {
+      "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
+      "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
       "source": "CNBC",
-      "when": "2026-08-31T02:48:30.000Z"
+      "when": "2026-08-31T11:00:18.000Z"
     },
     {
-      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO",
-      "url": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
+      "title": "Santoli: Why investors should be on high alert heading into September",
+      "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
       "source": "CNBC",
-      "when": "2026-08-31T02:35:53.000Z"
+      "when": "2026-08-31T11:00:01.000Z"
     },
     {
-      "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-      "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "title": "The travel shoulder season is shrinking — and so are the savings",
+      "url": "https://www.cnbc.com/2026/08/31/travel-savings-shoulder-season.html",
       "source": "CNBC",
-      "when": "2026-08-31T00:46:46.000Z"
-    },
-    {
-      "title": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
-      "url": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
-      "source": "CNBC",
-      "when": "2026-08-30T23:55:09.000Z"
-    },
-    {
-      "title": "Singapore tackles finances and culture to avert a demographic crisis",
-      "url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
-      "source": "CNBC",
-      "when": "2026-08-30T23:31:15.000Z"
-    },
-    {
-      "title": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
-      "url": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
-      "source": "CNBC",
-      "when": "2026-08-30T23:26:35.000Z"
-    },
-    {
-      "title": "'It's the ultimate regifting': My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
-      "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-30T22:31:00.000Z"
-    },
-    {
-      "title": "'My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-30T22:15:00.000Z"
+      "when": "2026-08-31T11:00:01.000Z"
     },
     {
       "title": "'I feel shoehorned': My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
       "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-30T22:15:00.000Z"
+      "when": "2026-08-31T11:00:00.000Z"
     },
     {
-      "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
-      "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-      "source": "CNBC",
-      "when": "2026-08-30T22:05:32.000Z"
+      "title": "This Unstoppable ETF Could Turn $100 per Month Into $40,000 With Next to No Effort on Your Part. Here's How.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-etf-could-turn-100-110000030.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T11:00:00.000Z"
+    },
+    {
+      "title": "Americana Restaurants signs deal to launch Taco Bell in UAE",
+      "url": "https://finance.yahoo.com/small-business/articles/americana-restaurants-signs-deal-launch-105220755.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:52:20.000Z"
+    },
+    {
+      "title": "ISCA AI Fluency Programme draws over 15,000 enrolments",
+      "url": "https://finance.yahoo.com/technology/ai/articles/isca-ai-fluency-programme-draws-105211614.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:52:11.000Z"
+    },
+    {
+      "title": "BRG appoints Barbara Vanich as MD of Financial Institution Advisory practice",
+      "url": "https://finance.yahoo.com/small-business/articles/brg-appoints-barbara-vanich-md-105207244.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:52:07.000Z"
+    },
+    {
+      "title": "ONEOK to buy Permian assets from Brazos Midstream in $4.425bn deal",
+      "url": "https://finance.yahoo.com/energy/articles/oneok-buy-permian-assets-brazos-105012729.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:50:12.000Z"
+    },
+    {
+      "title": "Gold Falls as Hawkish Fed Outlook Keeps Yields Elevated",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:38:00.000Z"
+    },
+    {
+      "title": "'I love the inflation!': Trump shrugs off rising prices — here's what you can do before inflation eats into your savings",
+      "url": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
+      "source": "Yahoo Finance",
+      "when": "2026-08-31T10:35:00.000Z"
     }
   ],
   "errors": []
