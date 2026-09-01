@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-08-31T22:58:50.523Z",
-  "fetchedLabel": "Aug 31, 6:58 PM ET",
+  "fetched": "2026-09-01T01:46:39.392Z",
+  "fetchedLabel": "Aug 31, 9:46 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$86.23",
-      "chg": "+4.00",
-      "pct": "+4.86%",
+      "value": "$86.66",
+      "chg": "+4.43",
+      "pct": "+5.39%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,495.40",
-      "chg": "-102.80",
-      "pct": "-2.24%",
+      "value": "$4,491.80",
+      "chg": "-106.40",
+      "pct": "-2.31%",
       "dir": "down"
     },
     {
@@ -60,6 +60,30 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Fast-fashion giant Shein's shares drop 7% in Hong Kong market debut",
+      "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "source": "CNBC",
+      "when": "2026-09-01T01:34:01.000Z"
+    },
+    {
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "source": "CNBC",
+      "when": "2026-09-01T01:20:08.000Z"
+    },
+    {
+      "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
+      "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+      "source": "CNBC",
+      "when": "2026-08-31T23:23:38.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
+      "url": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
+      "source": "CNBC",
+      "when": "2026-08-31T23:00:01.000Z"
+    },
     {
       "title": "Amazon's stock slips as the FTC alleges billions of dollars in hidden ad fees",
       "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
@@ -109,12 +133,6 @@
       "when": "2026-08-31T21:23:00.000Z"
     },
     {
-      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-      "url": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
-      "source": "CNBC",
-      "when": "2026-08-31T21:22:08.000Z"
-    },
-    {
       "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
       "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
       "source": "CNBC",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-08-31T21:16:00.000Z"
-    },
-    {
-      "title": "Trump Account holders may receive $250 Dell grant starting Monday, Dell Foundation says",
-      "url": "https://www.cnbc.com/2026/08/31/trump-account-holders-to-start-receiving-250-dell-grant-spokesperson.html",
-      "source": "CNBC",
-      "when": "2026-08-31T21:10:05.000Z"
-    },
-    {
-      "title": "Tesla's stock among S&P 500's top gainers as investors prepare for a Cybercab launch",
-      "url": "https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:01:00.000Z"
-    },
-    {
-      "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
-      "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
-      "source": "CNBC",
-      "when": "2026-08-31T21:00:15.000Z"
     }
   ],
   "errors": []
