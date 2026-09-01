@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-01T01:46:39.392Z",
-  "fetchedLabel": "Aug 31, 9:46 PM ET",
+  "fetched": "2026-09-01T07:32:48.643Z",
+  "fetchedLabel": "Sep 1, 3:32 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,38 +39,80 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$86.66",
-      "chg": "+4.43",
-      "pct": "+5.39%",
+      "value": "$87.06",
+      "chg": "+3.53",
+      "pct": "+4.23%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,491.80",
-      "chg": "-106.40",
-      "pct": "-2.31%",
+      "value": "$4,478.60",
+      "chg": "-131.10",
+      "pct": "-2.84%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.92",
-      "chg": "-0.53",
-      "pct": "-3.43%",
+      "value": "14.97",
+      "chg": "-0.24",
+      "pct": "-1.58%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Fast-fashion giant Shein's shares drop 7% in Hong Kong market debut",
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "CNBC",
+      "when": "2026-09-01T07:30:49.000Z"
+    },
+    {
+      "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
+      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+      "source": "CNBC",
+      "when": "2026-09-01T06:50:49.000Z"
+    },
+    {
+      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "CNBC",
+      "when": "2026-09-01T06:23:21.000Z"
+    },
+    {
+      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
+      "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
+      "source": "CNBC",
+      "when": "2026-09-01T05:58:00.000Z"
+    },
+    {
+      "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
+      "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
+      "source": "CNBC",
+      "when": "2026-09-01T05:12:38.000Z"
+    },
+    {
+      "title": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
       "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
       "source": "CNBC",
-      "when": "2026-09-01T01:34:01.000Z"
+      "when": "2026-09-01T03:44:19.000Z"
+    },
+    {
+      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+      "source": "CNBC",
+      "when": "2026-09-01T03:22:56.000Z"
     },
     {
       "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
       "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
       "source": "CNBC",
-      "when": "2026-09-01T01:20:08.000Z"
+      "when": "2026-09-01T01:56:53.000Z"
+    },
+    {
+      "title": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
+      "url": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
+      "source": "CNBC",
+      "when": "2026-09-01T00:49:51.000Z"
     },
     {
       "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
@@ -101,48 +143,6 @@
       "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
       "source": "CNBC",
       "when": "2026-08-31T21:36:32.000Z"
-    },
-    {
-      "title": "The S&P 500 usually falls in September. Why this year should be different.",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:36:00.000Z"
-    },
-    {
-      "title": "'Neither of us attended college': At 62, how can we afford to put our granddaughter through college?",
-      "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:34:00.000Z"
-    },
-    {
-      "title": "Vanguard's S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market",
-      "url": "https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:33:00.000Z"
-    },
-    {
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-      "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-      "source": "CNBC",
-      "when": "2026-08-31T21:23:41.000Z"
-    },
-    {
-      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
-      "url": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:23:00.000Z"
-    },
-    {
-      "title": "House Intelligence Committee warns of 'Black Swan' AI risks",
-      "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
-      "source": "CNBC",
-      "when": "2026-08-31T21:18:37.000Z"
-    },
-    {
-      "title": "23 best-performing stocks of August, as the software industry continues its recovery",
-      "url": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-08-31T21:16:00.000Z"
     }
   ],
   "errors": []
