@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-01T07:32:48.643Z",
-  "fetchedLabel": "Sep 1, 3:32 AM ET",
+  "fetched": "2026-09-01T13:19:00.132Z",
+  "fetchedLabel": "Sep 1, 9:19 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "4.76%",
+      "value": "4.78%",
       "chg": "+0.12",
       "pct": "+2.57%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$87.06",
-      "chg": "+3.53",
-      "pct": "+4.23%",
+      "value": "$88.14",
+      "chg": "+4.61",
+      "pct": "+5.52%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,478.60",
-      "chg": "-131.10",
-      "pct": "-2.84%",
+      "value": "$4,388.40",
+      "chg": "-221.30",
+      "pct": "-4.80%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.97",
-      "chg": "-0.24",
-      "pct": "-1.58%",
-      "dir": "down"
+      "value": "15.95",
+      "chg": "+0.74",
+      "pct": "+4.87%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-      "source": "CNBC",
-      "when": "2026-09-01T07:30:49.000Z"
-    },
-    {
-      "title": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
-      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-      "source": "CNBC",
-      "when": "2026-09-01T06:50:49.000Z"
-    },
-    {
-      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-      "url": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-      "source": "CNBC",
-      "when": "2026-09-01T06:23:21.000Z"
-    },
-    {
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-      "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-      "source": "CNBC",
-      "when": "2026-09-01T05:58:00.000Z"
-    },
-    {
-      "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
-      "url": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
-      "source": "CNBC",
-      "when": "2026-09-01T05:12:38.000Z"
-    },
-    {
-      "title": "Fast-fashion giant Shein's shares drop 9% in Hong Kong market debut",
-      "url": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "source": "CNBC",
-      "when": "2026-09-01T03:44:19.000Z"
-    },
-    {
-      "title": "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "source": "CNBC",
-      "when": "2026-09-01T03:22:56.000Z"
-    },
-    {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "url": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "source": "CNBC",
-      "when": "2026-09-01T01:56:53.000Z"
-    },
-    {
-      "title": "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
-      "url": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
-      "source": "CNBC",
-      "when": "2026-09-01T00:49:51.000Z"
-    },
-    {
-      "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-      "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
-      "source": "CNBC",
-      "when": "2026-08-31T23:23:38.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: McKinsey's contrarian economic view",
-      "url": "https://www.cnbc.com/2026/08/31/cnbc-china-connection-newsletter-mckinseys-contrarian-view-economy.html",
-      "source": "CNBC",
-      "when": "2026-08-31T23:00:01.000Z"
-    },
-    {
-      "title": "Amazon's stock slips as the FTC alleges billions of dollars in hidden ad fees",
-      "url": "https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories",
+      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T22:24:00.000Z"
+      "when": "2026-09-01T13:15:00.000Z"
     },
     {
-      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "title": "US dairy Foremost Farms to close cheese plant",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/us-dairy-foremost-farms-close-130714778.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T13:07:14.000Z"
+    },
+    {
+      "title": "Fed's Barr: If inflation doesn't moderate, the central bank should raise rates",
+      "url": "https://finance.yahoo.com/economy/policy/article/feds-barr-if-inflation-doesnt-moderate-the-central-bank-should-raise-rates-130701589.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T13:07:01.000Z"
+    },
+    {
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
+      "url": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-08-31T22:00:00.000Z"
+      "when": "2026-09-01T13:07:00.000Z"
     },
     {
-      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
-      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "url": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
       "source": "CNBC",
-      "when": "2026-08-31T21:36:32.000Z"
+      "when": "2026-09-01T13:05:11.000Z"
+    },
+    {
+      "title": "As U.S. bond prices tumble, yields are jumping from Japan to the U.K. and beyond",
+      "url": "https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T13:05:00.000Z"
+    },
+    {
+      "title": "Cathie Wood's Ark Just Bought $7.6 Million of Nuclear Supplier BWX Technologies While Continuing to Dump Roblox Stock. Is Nucle...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-just-bought-130200504.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T13:02:00.000Z"
+    },
+    {
+      "title": "'I feel tricked': My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T13:01:00.000Z"
+    },
+    {
+      "title": "How one of the largest investors in student housing is playing this school year",
+      "url": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+      "source": "CNBC",
+      "when": "2026-09-01T13:00:40.000Z"
+    },
+    {
+      "title": "Warby Parker (WRBY) Faces a Reality Check After an Underwhelming Glasses Launch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-faces-reality-125959222.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T12:59:59.000Z"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "url": "https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source": "CNBC",
+      "when": "2026-09-01T12:59:37.000Z"
+    },
+    {
+      "title": "Morgan Stanley upgrades Robinhood stock, raises target to $150",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-upgrades-robinhood-stock-125854296.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T12:58:54.000Z"
+    },
+    {
+      "title": "Partners Group replaces CEO as it works through evergreen fund redemptions",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/partners-group-replaces-ceo-works-125844835.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T12:58:44.000Z"
+    },
+    {
+      "title": "Nvidia invests $3.5 billion in MediaTek AI chip deal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invests-3-5-billion-125708058.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-01T12:57:08.000Z"
     }
   ],
   "errors": []
