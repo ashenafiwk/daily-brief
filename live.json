@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-01T17:23:31.458Z",
-  "fetchedLabel": "Sep 1, 1:23 PM ET",
+  "fetched": "2026-09-01T20:04:52.579Z",
+  "fetchedLabel": "Sep 1, 4:04 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,632.88",
-      "chg": "-44.40",
-      "pct": "-0.58%",
+      "value": "7,631.46",
+      "chg": "-45.82",
+      "pct": "-0.60%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,123.20",
-      "chg": "-28.10",
-      "pct": "-0.11%",
+      "value": "26,099.77",
+      "chg": "-51.53",
+      "pct": "-0.20%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,746.49",
-      "chg": "-830.91",
-      "pct": "-1.55%",
+      "value": "52,766.88",
+      "chg": "-810.52",
+      "pct": "-1.51%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,923.18",
-      "chg": "-86.84",
-      "pct": "-2.89%",
+      "value": "2,919.17",
+      "chg": "-90.85",
+      "pct": "-3.02%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.79%",
-      "chg": "+0.12",
-      "pct": "+2.66%",
+      "value": "4.80%",
+      "chg": "+0.13",
+      "pct": "+2.83%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.45",
-      "chg": "+5.92",
-      "pct": "+7.09%",
+      "value": "$90.63",
+      "chg": "+7.10",
+      "pct": "+8.50%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,394.60",
-      "chg": "-215.10",
-      "pct": "-4.67%",
+      "value": "$4,375.10",
+      "chg": "-234.60",
+      "pct": "-5.09%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.07",
-      "chg": "+0.86",
-      "pct": "+5.65%",
+      "value": "16.37",
+      "chg": "+1.16",
+      "pct": "+7.63%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Bessent touts bond market as 10-year Treasury yield spikes",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
+      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
+      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
       "source": "CNBC",
-      "when": "2026-09-01T17:20:12.000Z"
+      "when": "2026-09-01T20:03:20.000Z"
     },
     {
-      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 38%",
+      "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
       "source": "CNBC",
-      "when": "2026-09-01T17:17:48.000Z"
+      "when": "2026-09-01T20:00:52.000Z"
     },
     {
-      "title": "My 3 Favorite Growth Stocks to Buy Right Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-growth-stocks-buy-171300938.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:13:00.000Z"
+      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
+      "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
+      "source": "CNBC",
+      "when": "2026-09-01T19:48:20.000Z"
     },
     {
-      "title": "Global oil prices surge above $94 a barrel after the U.S. strikes Iranian targets",
+      "title": "Global oil prices surge above $94 a barrel and settle at a 6-week high after the U.S. strikes Iran in Hormuz, and Trump threate...",
       "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-01T17:12:00.000Z"
+      "when": "2026-09-01T19:46:00.000Z"
     },
     {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+      "title": "Stan Kroenke buys controlling stake in MLB's Los Angeles Angels",
+      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
       "source": "CNBC",
-      "when": "2026-09-01T17:09:37.000Z"
+      "when": "2026-09-01T19:45:58.000Z"
     },
     {
-      "title": "43-year veteran Wall Street analyst sounds alarm on stocks after rare signal flashes",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/43-veteran-wall-street-analyst-170700396.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:07:00.000Z"
-    },
-    {
-      "title": "Stocks Fall on Rising Yields and Oil, With Apple the Lone Bright Spot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-rising-yields-oil-170338212.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:03:38.000Z"
+      "title": "'I feel shoehorned': My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T19:30:00.000Z"
     },
     {
       "title": "AI token prices are hitting new record lows",
       "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
       "source": "CNBC",
-      "when": "2026-09-01T17:02:53.000Z"
+      "when": "2026-09-01T19:26:55.000Z"
     },
     {
-      "title": "Salesforce AI ARR Surges as Agentforce Adoption and Outcome Pricing Gain Momentum",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-ai-arr-surges-agentforce-170209845.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:02:09.000Z"
-    },
-    {
-      "title": "FDA Approval Marks A Turning Point For BeOne Medicines (ONC)",
-      "url": "https://finance.yahoo.com/healthcare/articles/fda-approval-marks-turning-point-170155871.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:01:55.000Z"
-    },
-    {
-      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+      "title": "Penn. Gov. Shapiro says too many data center developers 'don't care about our communities'",
+      "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
       "source": "CNBC",
-      "when": "2026-09-01T17:01:45.000Z"
+      "when": "2026-09-01T19:17:43.000Z"
     },
     {
-      "title": "4 Financial Realities That Impact Millennial Retirement Plans — and How To Handle Them",
-      "url": "https://finance.yahoo.com/markets/articles/4-financial-realities-impact-millennial-170026898.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:00:26.000Z"
+      "title": "Prediction market traders think job creation rebounded in August",
+      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
+      "source": "CNBC",
+      "when": "2026-09-01T18:57:14.000Z"
     },
     {
-      "title": "Social Security and Side Hustles in 2026: How Much You Can Earn Without Regret",
-      "url": "https://finance.yahoo.com/small-business/articles/social-security-side-hustles-2026-170026803.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:00:26.000Z"
+      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
+      "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
+      "source": "CNBC",
+      "when": "2026-09-01T18:54:51.000Z"
     },
     {
-      "title": "5 Reasons Women Should Get a Financial Advisor Now",
-      "url": "https://finance.yahoo.com/small-business/articles/5-reasons-women-financial-advisor-170026800.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-01T17:00:26.000Z"
+      "title": "Broadcom earnings need to answer these questions for the stock to rally again",
+      "url": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T18:54:00.000Z"
+    },
+    {
+      "title": "Bessent touts bond market as 10-year Treasury yield spikes",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
+      "source": "CNBC",
+      "when": "2026-09-01T18:53:45.000Z"
+    },
+    {
+      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
+      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+      "source": "CNBC",
+      "when": "2026-09-01T18:52:11.000Z"
+    },
+    {
+      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
+      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+      "source": "CNBC",
+      "when": "2026-09-01T18:45:02.000Z"
     }
   ],
   "errors": []
