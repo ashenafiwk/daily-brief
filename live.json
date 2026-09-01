@@ -1,11 +1,11 @@
 {
-  "fetched": "2026-09-01T20:04:52.579Z",
-  "fetchedLabel": "Sep 1, 4:04 PM ET",
+  "fetched": "2026-09-01T22:44:56.647Z",
+  "fetchedLabel": "Sep 1, 6:44 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,631.46",
-      "chg": "-45.82",
+      "value": "7,631.47",
+      "chg": "-45.81",
       "pct": "-0.60%",
       "dir": "down"
     },
@@ -25,9 +25,9 @@
     },
     {
       "name": "Russell 2000",
-      "value": "2,919.17",
-      "chg": "-90.85",
-      "pct": "-3.02%",
+      "value": "2,920.13",
+      "chg": "-89.89",
+      "pct": "-2.99%",
       "dir": "down"
     },
     {
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.63",
-      "chg": "+7.10",
-      "pct": "+8.50%",
+      "value": "$90.85",
+      "chg": "+7.32",
+      "pct": "+8.76%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,375.10",
-      "chg": "-234.60",
-      "pct": "-5.09%",
+      "value": "$4,373.80",
+      "chg": "-235.90",
+      "pct": "-5.12%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.37",
-      "chg": "+1.16",
-      "pct": "+7.63%",
+      "value": "16.34",
+      "chg": "+1.13",
+      "pct": "+7.43%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "House adopts measure condemning socialism ahead of November election",
+      "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+      "source": "CNBC",
+      "when": "2026-09-01T22:13:19.000Z"
+    },
+    {
+      "title": "Dow drops below a key chart level, warning of more trouble ahead",
+      "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T21:56:00.000Z"
+    },
+    {
+      "title": "Dell's AI servers drive a stellar earnings performance, and a raised outlook",
+      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T21:52:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks' stock falls despite strong AI cybersecurity demand",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T21:43:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+      "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-09-01T21:41:15.000Z"
+    },
+    {
+      "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+      "source": "CNBC",
+      "when": "2026-09-01T21:40:30.000Z"
+    },
+    {
+      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+      "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+      "source": "CNBC",
+      "when": "2026-09-01T21:40:18.000Z"
+    },
+    {
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T21:02:00.000Z"
+    },
+    {
+      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
+      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
+      "source": "CNBC",
+      "when": "2026-09-01T20:56:50.000Z"
+    },
+    {
       "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
       "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
       "source": "CNBC",
-      "when": "2026-09-01T20:03:20.000Z"
+      "when": "2026-09-01T20:40:30.000Z"
     },
     {
-      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 38%",
-      "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:00:52.000Z"
-    },
-    {
-      "title": "Looking for evidence that Meta's AI investments are paying off? Here are 2 ways",
-      "url": "https://www.cnbc.com/2026/09/01/looking-for-evidence-that-metas-ai-investments-are-paying-off-here-are-2-ways.html",
-      "source": "CNBC",
-      "when": "2026-09-01T19:48:20.000Z"
-    },
-    {
-      "title": "Global oil prices surge above $94 a barrel and settle at a 6-week high after the U.S. strikes Iran in Hormuz, and Trump threate...",
-      "url": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+      "title": "This could be the 10-year Treasury's tipping point into the danger zone",
+      "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-01T19:46:00.000Z"
-    },
-    {
-      "title": "Stan Kroenke buys controlling stake in MLB's Los Angeles Angels",
-      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-      "source": "CNBC",
-      "when": "2026-09-01T19:45:58.000Z"
-    },
-    {
-      "title": "'I feel shoehorned': My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-      "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T19:30:00.000Z"
-    },
-    {
-      "title": "AI token prices are hitting new record lows",
-      "url": "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-      "source": "CNBC",
-      "when": "2026-09-01T19:26:55.000Z"
-    },
-    {
-      "title": "Penn. Gov. Shapiro says too many data center developers 'don't care about our communities'",
-      "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
-      "source": "CNBC",
-      "when": "2026-09-01T19:17:43.000Z"
-    },
-    {
-      "title": "Prediction market traders think job creation rebounded in August",
-      "url": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
-      "source": "CNBC",
-      "when": "2026-09-01T18:57:14.000Z"
+      "when": "2026-09-01T20:36:00.000Z"
     },
     {
       "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
       "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
       "source": "CNBC",
-      "when": "2026-09-01T18:54:51.000Z"
+      "when": "2026-09-01T20:34:47.000Z"
     },
     {
-      "title": "Broadcom earnings need to answer these questions for the stock to rally again",
-      "url": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T18:54:00.000Z"
-    },
-    {
-      "title": "Bessent touts bond market as 10-year Treasury yield spikes",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-trump-bond-yields-g20.html",
+      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+      "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
       "source": "CNBC",
-      "when": "2026-09-01T18:53:45.000Z"
+      "when": "2026-09-01T20:28:08.000Z"
     },
     {
-      "title": "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-      "url": "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
+      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
       "source": "CNBC",
-      "when": "2026-09-01T18:52:11.000Z"
-    },
-    {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "source": "CNBC",
-      "when": "2026-09-01T18:45:02.000Z"
+      "when": "2026-09-01T20:20:50.000Z"
     }
   ],
   "errors": []
