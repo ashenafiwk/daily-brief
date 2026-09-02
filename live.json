@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-02T00:54:16.300Z",
-  "fetchedLabel": "Sep 1, 8:54 PM ET",
+  "fetched": "2026-09-02T05:33:51.435Z",
+  "fetchedLabel": "Sep 2, 1:33 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.51",
-      "chg": "+7.98",
-      "pct": "+9.55%",
+      "value": "$90.53",
+      "chg": "+7.13",
+      "pct": "+8.55%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,375.30",
-      "chg": "-234.40",
-      "pct": "-5.08%",
+      "value": "$4,354.80",
+      "chg": "-123.30",
+      "pct": "-2.75%",
       "dir": "down"
     },
     {
@@ -61,10 +61,22 @@
   ],
   "headlines": [
     {
-      "title": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
+      "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
+      "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+      "source": "CNBC",
+      "when": "2026-09-02T03:05:14.000Z"
+    },
+    {
+      "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
+      "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
+      "source": "CNBC",
+      "when": "2026-09-02T02:24:30.000Z"
+    },
+    {
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
       "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
       "source": "CNBC",
-      "when": "2026-09-02T00:44:05.000Z"
+      "when": "2026-09-02T01:34:27.000Z"
     },
     {
       "title": "Dell's AI servers drive a stellar earnings performance, and a raised outlook",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
       "source": "CNBC",
       "when": "2026-09-01T21:40:18.000Z"
-    },
-    {
-      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T21:02:00.000Z"
-    },
-    {
-      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-      "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:40:30.000Z"
     }
   ],
   "errors": []
