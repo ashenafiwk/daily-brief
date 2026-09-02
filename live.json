@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-01T22:44:56.647Z",
-  "fetchedLabel": "Sep 1, 6:44 PM ET",
+  "fetched": "2026-09-02T00:54:16.300Z",
+  "fetchedLabel": "Sep 1, 8:54 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.85",
-      "chg": "+7.32",
-      "pct": "+8.76%",
+      "value": "$91.51",
+      "chg": "+7.98",
+      "pct": "+9.55%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,373.80",
-      "chg": "-235.90",
-      "pct": "-5.12%",
+      "value": "$4,375.30",
+      "chg": "-234.40",
+      "pct": "-5.08%",
       "dir": "down"
     },
     {
@@ -61,6 +61,48 @@
   ],
   "headlines": [
     {
+      "title": "U.S. completes fresh strikes on Iran as Mideast tensions flare again",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "source": "CNBC",
+      "when": "2026-09-02T00:44:05.000Z"
+    },
+    {
+      "title": "Dell's AI servers drive a stellar earnings performance, and a raised outlook",
+      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T00:19:00.000Z"
+    },
+    {
+      "title": "Palo Alto Networks' stock falls despite strong AI cybersecurity demand",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T00:18:00.000Z"
+    },
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "source": "CNBC",
+      "when": "2026-09-02T00:11:14.000Z"
+    },
+    {
+      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "source": "CNBC",
+      "when": "2026-09-01T23:52:21.000Z"
+    },
+    {
+      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-01T23:15:00.000Z"
+    },
+    {
       "title": "House adopts measure condemning socialism ahead of November election",
       "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
       "source": "CNBC",
@@ -71,18 +113,6 @@
       "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-01T21:56:00.000Z"
-    },
-    {
-      "title": "Dell's AI servers drive a stellar earnings performance, and a raised outlook",
-      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T21:52:00.000Z"
-    },
-    {
-      "title": "Palo Alto Networks' stock falls despite strong AI cybersecurity demand",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T21:43:00.000Z"
     },
     {
       "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
@@ -109,40 +139,10 @@
       "when": "2026-09-01T21:02:00.000Z"
     },
     {
-      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war",
-      "url": "https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:56:50.000Z"
-    },
-    {
       "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
       "url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
       "source": "CNBC",
       "when": "2026-09-01T20:40:30.000Z"
-    },
-    {
-      "title": "This could be the 10-year Treasury's tipping point into the danger zone",
-      "url": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T20:36:00.000Z"
-    },
-    {
-      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance",
-      "url": "https://www.cnbc.com/2026/09/01/congress-government-shutdown-vote.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:34:47.000Z"
-    },
-    {
-      "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
-      "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:28:08.000Z"
-    },
-    {
-      "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
-      "source": "CNBC",
-      "when": "2026-09-01T20:20:50.000Z"
     }
   ],
   "errors": []
