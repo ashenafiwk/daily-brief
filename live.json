@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-02T18:52:26.047Z",
-  "fetchedLabel": "Sep 2, 2:52 PM ET",
+  "fetched": "2026-09-02T21:38:48.948Z",
+  "fetchedLabel": "Sep 2, 5:38 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,663.58",
-      "chg": "-12.12",
-      "pct": "-0.16%",
+      "value": "7,666.60",
+      "chg": "-9.10",
+      "pct": "-0.12%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,186.16",
-      "chg": "+55.96",
-      "pct": "+0.21%",
+      "value": "26,217.83",
+      "chg": "+87.63",
+      "pct": "+0.34%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,003.46",
-      "chg": "-460.42",
-      "pct": "-0.86%",
+      "value": "53,061.95",
+      "chg": "-401.93",
+      "pct": "-0.75%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,955.70",
-      "chg": "-50.20",
-      "pct": "-1.67%",
+      "value": "2,953.17",
+      "chg": "-52.73",
+      "pct": "-1.75%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.79%",
+      "value": "4.80%",
       "chg": "+0.12",
-      "pct": "+2.57%",
+      "pct": "+2.65%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.71",
-      "chg": "+7.31",
-      "pct": "+8.76%",
+      "value": "$90.63",
+      "chg": "+7.23",
+      "pct": "+8.67%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,421.10",
-      "chg": "-57.00",
-      "pct": "-1.27%",
+      "value": "$4,434.30",
+      "chg": "-43.80",
+      "pct": "-0.98%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.22",
-      "chg": "+0.71",
-      "pct": "+4.89%",
+      "value": "15.20",
+      "chg": "+0.69",
+      "pct": "+4.76%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
-      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
+      "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
       "source": "CNBC",
-      "when": "2026-09-02T18:48:51.000Z"
-    },
-    {
-      "title": "New Jersey asks the Supreme Court to take on prediction markets",
-      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
-      "source": "CNBC",
-      "when": "2026-09-02T18:39:38.000Z"
-    },
-    {
-      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
-      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-      "source": "CNBC",
-      "when": "2026-09-02T18:25:42.000Z"
-    },
-    {
-      "title": "10-year U.S. Treasury yield hits highest level since November 2023",
-      "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
-      "source": "CNBC",
-      "when": "2026-09-02T18:24:19.000Z"
+      "when": "2026-09-02T21:38:21.000Z"
     },
     {
       "title": "'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?",
       "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T18:15:00.000Z"
+      "when": "2026-09-02T21:31:00.000Z"
     },
     {
-      "title": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
-      "url": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "source": "CNBC",
-      "when": "2026-09-02T18:03:25.000Z"
+      "when": "2026-09-02T21:29:27.000Z"
     },
     {
-      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+      "title": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting",
+      "url": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
+      "source": "CNBC",
+      "when": "2026-09-02T21:16:47.000Z"
+    },
+    {
+      "title": "New Jersey asks the Supreme Court to take on prediction markets",
+      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
+      "source": "CNBC",
+      "when": "2026-09-02T21:15:30.000Z"
+    },
+    {
+      "title": "Palantir's stock is slumping. Why bond yields and Google may be to blame.",
+      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T18:00:00.000Z"
+      "when": "2026-09-02T21:12:00.000Z"
     },
     {
-      "title": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
-      "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
-      "source": "CNBC",
-      "when": "2026-09-02T17:59:24.000Z"
-    },
-    {
-      "title": "AI trade faces test with next week's Oracle earnings",
-      "url": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
-      "source": "CNBC",
-      "when": "2026-09-02T17:57:04.000Z"
-    },
-    {
-      "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official's remarks",
-      "url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
+      "title": "How Oracle's 'extremely controversial' stock could more than double from here",
+      "url": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T17:44:00.000Z"
+      "when": "2026-09-02T21:11:00.000Z"
     },
     {
-      "title": "Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim",
-      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
+      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
       "source": "CNBC",
-      "when": "2026-09-02T17:36:11.000Z"
+      "when": "2026-09-02T21:07:10.000Z"
     },
     {
-      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "title": "How GoPro went from viral camera sensation to a victim of smartphone ubiquity",
+      "url": "https://www.marketwatch.com/story/how-gopro-went-from-viral-camera-sensation-to-a-victim-of-smartphone-ubiquity-ad704150?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T17:30:00.000Z"
+      "when": "2026-09-02T20:57:00.000Z"
     },
     {
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-      "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
+      "url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
       "source": "CNBC",
-      "when": "2026-09-02T17:21:59.000Z"
+      "when": "2026-09-02T20:53:08.000Z"
     },
     {
-      "title": "Southwest to debut airport lounges in four cities, with more to come",
-      "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+      "title": "Broadcom's stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T20:51:00.000Z"
+    },
+    {
+      "title": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+      "url": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
       "source": "CNBC",
-      "when": "2026-09-02T17:14:33.000Z"
+      "when": "2026-09-02T20:50:51.000Z"
+    },
+    {
+      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+      "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+      "source": "CNBC",
+      "when": "2026-09-02T20:46:42.000Z"
+    },
+    {
+      "title": "HPE follows in Dell's footsteps as it rides the AI server boom to a big earnings beat",
+      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T20:42:00.000Z"
     }
   ],
   "errors": []
