@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-02T10:57:20.785Z",
-  "fetchedLabel": "Sep 2, 6:57 AM ET",
+  "fetched": "2026-09-02T15:02:44.263Z",
+  "fetchedLabel": "Sep 2, 11:02 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,631.47",
-      "chg": "-45.81",
-      "pct": "-0.60%",
+      "value": "7,670.60",
+      "chg": "-5.10",
+      "pct": "-0.07%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,099.77",
-      "chg": "-51.53",
-      "pct": "-0.20%",
-      "dir": "down"
+      "value": "26,176.09",
+      "chg": "+45.89",
+      "pct": "+0.18%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,766.88",
-      "chg": "-810.52",
-      "pct": "-1.51%",
+      "value": "53,174.62",
+      "chg": "-289.26",
+      "pct": "-0.54%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,920.13",
-      "chg": "-89.89",
-      "pct": "-2.99%",
+      "value": "2,949.74",
+      "chg": "-56.16",
+      "pct": "-1.87%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.80%",
-      "chg": "+0.13",
-      "pct": "+2.83%",
+      "value": "4.79%",
+      "chg": "+0.12",
+      "pct": "+2.61%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.46",
-      "chg": "+7.06",
-      "pct": "+8.47%",
+      "value": "$90.44",
+      "chg": "+7.04",
+      "pct": "+8.44%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,356.20",
-      "chg": "-121.90",
-      "pct": "-2.72%",
+      "value": "$4,425.80",
+      "chg": "-52.30",
+      "pct": "-1.17%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.73",
-      "chg": "+2.22",
-      "pct": "+15.30%",
+      "value": "15.40",
+      "chg": "+0.89",
+      "pct": "+6.13%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street",
-      "url": "https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
+      "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+      "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+      "source": "CNBC",
+      "when": "2026-09-02T15:01:04.000Z"
+    },
+    {
+      "title": "How Oracle's 'extremely controversial' stock could more than double from here",
+      "url": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T10:55:00.000Z"
+      "when": "2026-09-02T14:58:00.000Z"
     },
     {
-      "title": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment",
-      "url": "https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html",
+      "title": "United States Antimony Jumps 8%, USA Rare Earth Ticks Up: Is Insider Buying Behind the Move?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-jumps-8-145202212.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T14:52:02.000Z"
+    },
+    {
+      "title": "ZCCM targets $1.8bn from formalised small-scale gold sector",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/zccm-targets-1-8bn-formalised-145017272.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T14:50:17.000Z"
+    },
+    {
+      "title": "Tesla's Cybercab moment is coming. Elon Musk needs to prove the car isn't just hype.",
+      "url": "https://www.marketwatch.com/story/teslas-cybercab-moment-is-coming-elon-musk-needs-to-prove-the-car-isnt-just-hype-68c5c6e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T14:50:00.000Z"
+    },
+    {
+      "title": "Warren Buffett's Best Rule for Surviving a Bear Market -- and Why It Works",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-best-rule-surviving-145000179.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T14:50:00.000Z"
+    },
+    {
+      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+      "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
       "source": "CNBC",
-      "when": "2026-09-02T10:48:21.000Z"
+      "when": "2026-09-02T14:47:58.000Z"
     },
     {
-      "title": "Amazon stock just entered the danger zone",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
+      "title": "Google defeats US bid to force ad tech sale",
+      "url": "https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-02T10:40:50.000Z"
+      "when": "2026-09-02T14:47:53.000Z"
     },
     {
-      "title": "CITGO to invest $310m in Lake Charles Refinery upgrade",
-      "url": "https://finance.yahoo.com/energy/articles/citgo-invest-310m-lake-charles-103939461.html",
+      "title": "Everyone's Talking About These Stocks. Here's What I See.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-talking-stocks-see-144553697.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-02T10:39:39.000Z"
+      "when": "2026-09-02T14:45:53.000Z"
     },
     {
-      "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-era-ending-apple-103500617.html",
+      "title": "The Memory Crunch Is Bigger Than Expected. 1 Top Stock to Buy on the Dip (Hint: Not Micron or Sandisk)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-crunch-bigger-expected-1-144501314.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-02T10:35:00.000Z"
+      "when": "2026-09-02T14:45:01.000Z"
     },
     {
-      "title": "Florida baker's 400 cinnamon rolls worth $3,000 vanished mid-delivery — 5 days later police found every one",
-      "url": "https://finance.yahoo.com/small-business/articles/florida-bakers-400-cinnamon-rolls-103000476.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:30:00.000Z"
-    },
-    {
-      "title": "Hochtief to acquire German power transmission firm Autmatec",
-      "url": "https://finance.yahoo.com/energy/articles/hochtief-acquire-german-power-transmission-103000283.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:30:00.000Z"
-    },
-    {
-      "title": "Bank of Canada mulls Trump tariff shock as it readies interest rates decision",
-      "url": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
+      "title": "Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
       "source": "CNBC",
-      "when": "2026-09-02T10:29:51.000Z"
+      "when": "2026-09-02T14:44:38.000Z"
     },
     {
-      "title": "Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-102607881.html",
+      "title": "BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-ai-boom-still-phase-144236084.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-02T10:26:07.000Z"
+      "when": "2026-09-02T14:42:36.000Z"
     },
     {
-      "title": "The Mega Backdoor Roth Just Got Harder for Anyone Over 50 Earning $150,000+",
-      "url": "https://finance.yahoo.com/markets/options/articles/mega-backdoor-roth-just-got-102520900.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:25:20.000Z"
+      "title": "Ford continues ramping up pickup truck production as sales fall 10.3% in August",
+      "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
+      "source": "CNBC",
+      "when": "2026-09-02T14:39:21.000Z"
     },
     {
-      "title": "Here's What $1,000 Invested in Berkshire Hathaway the Day Greg Abel Became CEO Is Worth Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-invested-berkshire-102500237.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:25:00.000Z"
-    },
-    {
-      "title": "Elastic Beat and Raised Guidance. Wall Street Says One Quarter Isn't Enough.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/elastic-beat-raised-guidance-wall-102044634.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:20:44.000Z"
-    },
-    {
-      "title": "Salesforce Raised Guidance Again. Now It Has to Deliver the Revenue Acceleration",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-raised-guidance-again-now-102032039.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:20:32.000Z"
-    },
-    {
-      "title": "Microsoft's AI Capex Problem Just Got Harder for Bears to Defend",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-capex-problem-just-102026905.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T10:20:26.000Z"
+      "title": "Who's using AI on the job? It's not always who you think.",
+      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T14:39:00.000Z"
     }
   ],
   "errors": []
