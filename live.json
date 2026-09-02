@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-02T05:33:51.435Z",
-  "fetchedLabel": "Sep 2, 1:33 AM ET",
+  "fetched": "2026-09-02T10:57:20.785Z",
+  "fetchedLabel": "Sep 2, 6:57 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.53",
-      "chg": "+7.13",
-      "pct": "+8.55%",
+      "value": "$90.46",
+      "chg": "+7.06",
+      "pct": "+8.47%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,354.80",
-      "chg": "-123.30",
-      "pct": "-2.75%",
+      "value": "$4,356.20",
+      "chg": "-121.90",
+      "pct": "-2.72%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.34",
-      "chg": "+1.13",
-      "pct": "+7.43%",
+      "value": "16.73",
+      "chg": "+2.22",
+      "pct": "+15.30%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Australia posts second-quarter growth of 2.1%, beating expectations",
-      "url": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
-      "source": "CNBC",
-      "when": "2026-09-02T03:05:14.000Z"
-    },
-    {
-      "title": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
-      "url": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
-      "source": "CNBC",
-      "when": "2026-09-02T02:24:30.000Z"
-    },
-    {
-      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
-      "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
-      "source": "CNBC",
-      "when": "2026-09-02T01:34:27.000Z"
-    },
-    {
-      "title": "Dell's AI servers drive a stellar earnings performance, and a raised outlook",
-      "url": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+      "title": "Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street",
+      "url": "https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T00:19:00.000Z"
+      "when": "2026-09-02T10:55:00.000Z"
     },
     {
-      "title": "Palo Alto Networks' stock falls despite strong AI cybersecurity demand",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T00:18:00.000Z"
-    },
-    {
-      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-      "url": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "title": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment",
+      "url": "https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html",
       "source": "CNBC",
-      "when": "2026-09-02T00:11:14.000Z"
+      "when": "2026-09-02T10:48:21.000Z"
     },
     {
-      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T00:00:00.000Z"
+      "title": "Amazon stock just entered the danger zone",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:40:50.000Z"
     },
     {
-      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
-      "url": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "title": "CITGO to invest $310m in Lake Charles Refinery upgrade",
+      "url": "https://finance.yahoo.com/energy/articles/citgo-invest-310m-lake-charles-103939461.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:39:39.000Z"
+    },
+    {
+      "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-era-ending-apple-103500617.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:35:00.000Z"
+    },
+    {
+      "title": "Florida baker's 400 cinnamon rolls worth $3,000 vanished mid-delivery — 5 days later police found every one",
+      "url": "https://finance.yahoo.com/small-business/articles/florida-bakers-400-cinnamon-rolls-103000476.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:30:00.000Z"
+    },
+    {
+      "title": "Hochtief to acquire German power transmission firm Autmatec",
+      "url": "https://finance.yahoo.com/energy/articles/hochtief-acquire-german-power-transmission-103000283.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:30:00.000Z"
+    },
+    {
+      "title": "Bank of Canada mulls Trump tariff shock as it readies interest rates decision",
+      "url": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
       "source": "CNBC",
-      "when": "2026-09-01T23:52:21.000Z"
+      "when": "2026-09-02T10:29:51.000Z"
     },
     {
-      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T23:15:00.000Z"
+      "title": "Elon Musk Grok AI Predicts Ethereum Price by January 1, 2027",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-grok-ai-predicts-102607881.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:26:07.000Z"
     },
     {
-      "title": "House adopts measure condemning socialism ahead of November election",
-      "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-      "source": "CNBC",
-      "when": "2026-09-01T22:13:19.000Z"
+      "title": "The Mega Backdoor Roth Just Got Harder for Anyone Over 50 Earning $150,000+",
+      "url": "https://finance.yahoo.com/markets/options/articles/mega-backdoor-roth-just-got-102520900.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:25:20.000Z"
     },
     {
-      "title": "Dow drops below a key chart level, warning of more trouble ahead",
-      "url": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-01T21:56:00.000Z"
+      "title": "Here's What $1,000 Invested in Berkshire Hathaway the Day Greg Abel Became CEO Is Worth Now",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-invested-berkshire-102500237.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:25:00.000Z"
     },
     {
-      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-      "url": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-09-01T21:41:15.000Z"
+      "title": "Elastic Beat and Raised Guidance. Wall Street Says One Quarter Isn't Enough.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/elastic-beat-raised-guidance-wall-102044634.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:20:44.000Z"
     },
     {
-      "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-      "url": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-      "source": "CNBC",
-      "when": "2026-09-01T21:40:30.000Z"
+      "title": "Salesforce Raised Guidance Again. Now It Has to Deliver the Revenue Acceleration",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-raised-guidance-again-now-102032039.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:20:32.000Z"
     },
     {
-      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-      "url": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-      "source": "CNBC",
-      "when": "2026-09-01T21:40:18.000Z"
+      "title": "Microsoft's AI Capex Problem Just Got Harder for Bears to Defend",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-capex-problem-just-102026905.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-02T10:20:26.000Z"
     }
   ],
   "errors": []
