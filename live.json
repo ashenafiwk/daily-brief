@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-02T15:02:44.263Z",
-  "fetchedLabel": "Sep 2, 11:02 AM ET",
+  "fetched": "2026-09-02T18:52:26.047Z",
+  "fetchedLabel": "Sep 2, 2:52 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,670.60",
-      "chg": "-5.10",
-      "pct": "-0.07%",
+      "value": "7,663.58",
+      "chg": "-12.12",
+      "pct": "-0.16%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,176.09",
-      "chg": "+45.89",
-      "pct": "+0.18%",
+      "value": "26,186.16",
+      "chg": "+55.96",
+      "pct": "+0.21%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,174.62",
-      "chg": "-289.26",
-      "pct": "-0.54%",
+      "value": "53,003.46",
+      "chg": "-460.42",
+      "pct": "-0.86%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,949.74",
-      "chg": "-56.16",
-      "pct": "-1.87%",
+      "value": "2,955.70",
+      "chg": "-50.20",
+      "pct": "-1.67%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "4.79%",
       "chg": "+0.12",
-      "pct": "+2.61%",
+      "pct": "+2.57%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.44",
-      "chg": "+7.04",
-      "pct": "+8.44%",
+      "value": "$90.71",
+      "chg": "+7.31",
+      "pct": "+8.76%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,425.80",
-      "chg": "-52.30",
-      "pct": "-1.17%",
+      "value": "$4,421.10",
+      "chg": "-57.00",
+      "pct": "-1.27%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.40",
-      "chg": "+0.89",
-      "pct": "+6.13%",
+      "value": "15.22",
+      "chg": "+0.71",
+      "pct": "+4.89%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
-      "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
+      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
+      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
       "source": "CNBC",
-      "when": "2026-09-02T15:01:04.000Z"
+      "when": "2026-09-02T18:48:51.000Z"
     },
     {
-      "title": "How Oracle's 'extremely controversial' stock could more than double from here",
-      "url": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T14:58:00.000Z"
-    },
-    {
-      "title": "United States Antimony Jumps 8%, USA Rare Earth Ticks Up: Is Insider Buying Behind the Move?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-jumps-8-145202212.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:52:02.000Z"
-    },
-    {
-      "title": "ZCCM targets $1.8bn from formalised small-scale gold sector",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/zccm-targets-1-8bn-formalised-145017272.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:50:17.000Z"
-    },
-    {
-      "title": "Tesla's Cybercab moment is coming. Elon Musk needs to prove the car isn't just hype.",
-      "url": "https://www.marketwatch.com/story/teslas-cybercab-moment-is-coming-elon-musk-needs-to-prove-the-car-isnt-just-hype-68c5c6e8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T14:50:00.000Z"
-    },
-    {
-      "title": "Warren Buffett's Best Rule for Surviving a Bear Market -- and Why It Works",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-best-rule-surviving-145000179.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:50:00.000Z"
-    },
-    {
-      "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-      "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+      "title": "New Jersey asks the Supreme Court to take on prediction markets",
+      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
       "source": "CNBC",
-      "when": "2026-09-02T14:47:58.000Z"
+      "when": "2026-09-02T18:39:38.000Z"
     },
     {
-      "title": "Google defeats US bid to force ad tech sale",
-      "url": "https://finance.yahoo.com/media-advertising/articles/google-defeats-us-bid-force-143055450.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:47:53.000Z"
+      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+      "source": "CNBC",
+      "when": "2026-09-02T18:25:42.000Z"
     },
     {
-      "title": "Everyone's Talking About These Stocks. Here's What I See.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/everyone-talking-stocks-see-144553697.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:45:53.000Z"
+      "title": "10-year U.S. Treasury yield hits highest level since November 2023",
+      "url": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
+      "source": "CNBC",
+      "when": "2026-09-02T18:24:19.000Z"
     },
     {
-      "title": "The Memory Crunch Is Bigger Than Expected. 1 Top Stock to Buy on the Dip (Hint: Not Micron or Sandisk)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-crunch-bigger-expected-1-144501314.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:45:01.000Z"
+      "title": "'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?",
+      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T18:15:00.000Z"
     },
     {
-      "title": "Iran says two tankers have hit Hormuz naval mines, attacks regional targets in retaliation to U.S. strikes",
+      "title": "Does Medicare pay for long-term care? Many people get it wrong — and it may cost them later",
+      "url": "https://www.cnbc.com/2026/09/02/long-term-care-medicare-medicaid-insurance.html",
+      "source": "CNBC",
+      "when": "2026-09-02T18:03:25.000Z"
+    },
+    {
+      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
+      "url": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T18:00:00.000Z"
+    },
+    {
+      "title": "We're starting positions in 2 more defensive stocks to balance our AI exposure",
+      "url": "https://www.cnbc.com/2026/09/02/were-starting-positions-in-2-more-defensive-stocks-to-balance-our-ai-exposure.html",
+      "source": "CNBC",
+      "when": "2026-09-02T17:59:24.000Z"
+    },
+    {
+      "title": "AI trade faces test with next week's Oracle earnings",
+      "url": "https://www.cnbc.com/2026/09/02/ai-trade-faces-test-with-next-weeks-oracle-earnings.html",
+      "source": "CNBC",
+      "when": "2026-09-02T17:57:04.000Z"
+    },
+    {
+      "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official's remarks",
+      "url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-02T17:44:00.000Z"
+    },
+    {
+      "title": "Iran says two tankers have hit Hormuz naval mines. U.S. disputes claim",
       "url": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
       "source": "CNBC",
-      "when": "2026-09-02T14:44:38.000Z"
+      "when": "2026-09-02T17:36:11.000Z"
     },
     {
-      "title": "BlackRock: AI Boom Still in Phase 1 as Amazon, Google, Microsoft Fuel 'Massive Build-Out'",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackrock-ai-boom-still-phase-144236084.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-02T14:42:36.000Z"
-    },
-    {
-      "title": "Ford continues ramping up pickup truck production as sales fall 10.3% in August",
-      "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
-      "source": "CNBC",
-      "when": "2026-09-02T14:39:21.000Z"
-    },
-    {
-      "title": "Who's using AI on the job? It's not always who you think.",
-      "url": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-02T14:39:00.000Z"
+      "when": "2026-09-02T17:30:00.000Z"
+    },
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "source": "CNBC",
+      "when": "2026-09-02T17:21:59.000Z"
+    },
+    {
+      "title": "Southwest to debut airport lounges in four cities, with more to come",
+      "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+      "source": "CNBC",
+      "when": "2026-09-02T17:14:33.000Z"
     }
   ],
   "errors": []
