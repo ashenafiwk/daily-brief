@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-03T17:07:17.549Z",
-  "fetchedLabel": "Sep 3, 1:07 PM ET",
+  "fetched": "2026-09-03T20:03:30.033Z",
+  "fetchedLabel": "Sep 3, 4:03 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,742.79",
-      "chg": "+11.80",
-      "pct": "+0.15%",
+      "value": "7,747.60",
+      "chg": "+16.61",
+      "pct": "+0.21%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,568.97",
-      "chg": "+27.62",
-      "pct": "+0.10%",
+      "value": "26,584.06",
+      "chg": "+42.71",
+      "pct": "+0.16%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,644.89",
-      "chg": "+75.45",
-      "pct": "+0.14%",
+      "value": "53,685.93",
+      "chg": "+116.49",
+      "pct": "+0.22%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,965.70",
-      "chg": "-48.64",
-      "pct": "-1.61%",
+      "value": "2,965.11",
+      "chg": "-49.23",
+      "pct": "-1.63%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.75%",
-      "chg": "+0.03",
-      "pct": "+0.64%",
+      "value": "4.76%",
+      "chg": "+0.04",
+      "pct": "+0.89%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.42",
-      "chg": "+5.66",
-      "pct": "+6.60%",
+      "value": "$91.61",
+      "chg": "+5.85",
+      "pct": "+6.82%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,535.00",
-      "chg": "+103.90",
-      "pct": "+2.34%",
+      "value": "$4,524.90",
+      "chg": "+93.80",
+      "pct": "+2.12%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.59",
-      "chg": "+0.16",
-      "pct": "+1.11%",
-      "dir": "up"
+      "value": "14.36",
+      "chg": "-0.07",
+      "pct": "-0.49%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
-      "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
-      "source": "CNBC",
-      "when": "2026-09-03T17:05:08.000Z"
+      "title": "An old stock-market adage applies this month — how you should play it in 2026",
+      "url": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T19:55:00.000Z"
     },
     {
-      "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
-      "url": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
+      "title": "Here's why Jim Cramer is putting Costco stock in the penalty box",
+      "url": "https://www.cnbc.com/2026/09/03/heres-why-jim-cramer-is-putting-costco-stock-is-in-the-penalty-box-.html",
       "source": "CNBC",
-      "when": "2026-09-03T17:00:34.000Z"
+      "when": "2026-09-03T19:50:34.000Z"
+    },
+    {
+      "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+      "url": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+      "source": "CNBC",
+      "when": "2026-09-03T19:25:11.000Z"
+    },
+    {
+      "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+      "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+      "source": "CNBC",
+      "when": "2026-09-03T19:18:59.000Z"
+    },
+    {
+      "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+      "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+      "source": "CNBC",
+      "when": "2026-09-03T19:16:10.000Z"
+    },
+    {
+      "title": "Oil prices little changed after Iran fires missiles at Kuwait",
+      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-03T19:14:06.000Z"
+    },
+    {
+      "title": "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
+      "url": "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T19:09:00.000Z"
+    },
+    {
+      "title": "SpaceX is back in the $2 trillion club after nearly two months",
+      "url": "https://www.marketwatch.com/story/spacex-is-back-in-the-2-trillion-club-after-nearly-two-months-25632255?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T19:05:00.000Z"
     },
     {
       "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
       "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
       "source": "CNBC",
-      "when": "2026-09-03T17:00:01.000Z"
+      "when": "2026-09-03T19:03:56.000Z"
     },
     {
-      "title": "7% mortgage rates are already here, some buyers, mortgage experts say",
-      "url": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-03T16:57:00.000Z"
-    },
-    {
-      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-      "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "title": "Piper Sandler expects Robinhood to kickstart football season with a win",
+      "url": "https://www.cnbc.com/2026/09/03/piper-sandler-expects-robinhood-to-start-football-season-with-a-win.html",
       "source": "CNBC",
-      "when": "2026-09-03T16:51:13.000Z"
+      "when": "2026-09-03T19:01:36.000Z"
     },
     {
-      "title": "Tesla's stock is rallying as investors prepare for a 'storm of Cybercabs'",
-      "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-03T16:50:00.000Z"
+      "when": "2026-09-03T19:01:00.000Z"
     },
     {
-      "title": "Stock Market Today: Dow Pops 600 Points As Jobs Data Looms; AI Server Name Falls (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:48:26.000Z"
-    },
-    {
-      "title": "HPE CEO on AI boom: 'Customers are buying everything'",
-      "url": "https://finance.yahoo.com/markets/stocks/article/hpe-ceo-on-ai-boom-customers-are-buying-everything-164808652.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:48:08.000Z"
-    },
-    {
-      "title": "Bank of America's new warning should concern stock investors",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-warning-concern-stock-164700303.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:47:00.000Z"
-    },
-    {
-      "title": "I'm 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-      "url": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
+      "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
+      "url": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-03T16:44:00.000Z"
+      "when": "2026-09-03T18:48:00.000Z"
     },
     {
-      "title": "Hugging Face approached Nvidia's Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "source": "CNBC",
-      "when": "2026-09-03T16:43:22.000Z"
+      "title": "'Neither of us attended college': At 62, how can we afford to put our granddaughter through college?",
+      "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T18:30:00.000Z"
     },
     {
-      "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-pumps-fed-signals-rate-163817310.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:38:17.000Z"
-    },
-    {
-      "title": "Better Energy Play: NextEra vs. Constellation Energy",
-      "url": "https://finance.yahoo.com/energy/articles/better-energy-play-nextera-vs-163500573.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:35:00.000Z"
-    },
-    {
-      "title": "The $1 Trillion Question Hanging Over Palantir Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-trillion-hanging-over-palantir-163054242.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-03T16:30:54.000Z"
+      "title": "Is the stock market open on Labor Day? Does the post office deliver mail?",
+      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T18:30:00.000Z"
     }
   ],
   "errors": []
