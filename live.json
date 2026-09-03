@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-02T23:55:32.594Z",
-  "fetchedLabel": "Sep 2, 7:55 PM ET",
+  "fetched": "2026-09-03T03:57:12.541Z",
+  "fetchedLabel": "Sep 2, 11:57 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "53,061.95",
-      "chg": "-401.93",
+      "value": "53,061.90",
+      "chg": "-401.98",
       "pct": "-0.75%",
       "dir": "down"
     },
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.64",
-      "chg": "+7.24",
-      "pct": "+8.68%",
+      "value": "$91.00",
+      "chg": "+7.60",
+      "pct": "+9.11%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,432.50",
-      "chg": "-45.60",
-      "pct": "-1.02%",
+      "value": "$4,471.60",
+      "chg": "-6.50",
+      "pct": "-0.15%",
       "dir": "down"
     },
     {
@@ -60,6 +60,60 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
+      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
+      "source": "CNBC",
+      "when": "2026-09-03T03:28:07.000Z"
+    },
+    {
+      "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "source": "CNBC",
+      "when": "2026-09-03T03:21:50.000Z"
+    },
+    {
+      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
+      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-09-03T02:39:48.000Z"
+    },
+    {
+      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+      "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
+      "source": "CNBC",
+      "when": "2026-09-03T01:11:41.000Z"
+    },
+    {
+      "title": "Broadcom's stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T00:25:00.000Z"
+    },
+    {
+      "title": "Snowflake's stock soars as the company blows away estimates with its AI-fueled forecast",
+      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T00:23:00.000Z"
+    },
+    {
+      "title": "HPE follows in Dell's footsteps as it rides the AI server boom to a big earnings beat",
+      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T00:22:00.000Z"
+    },
+    {
+      "title": "Inside India newsletter: India's economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+      "url": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+      "source": "CNBC",
+      "when": "2026-09-03T00:08:50.000Z"
+    },
+    {
+      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
+      "url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
+      "source": "CNBC",
+      "when": "2026-09-03T00:00:03.000Z"
+    },
     {
       "title": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
       "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
@@ -79,18 +133,6 @@
       "when": "2026-09-02T22:37:13.000Z"
     },
     {
-      "title": "Broadcom's stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T22:28:00.000Z"
-    },
-    {
-      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "when": "2026-09-02T22:21:45.000Z"
-    },
-    {
       "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "source": "CNBC",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-02T21:45:00.000Z"
-    },
-    {
-      "title": "Nvidia's stock is climbing as investors get more confidence in an expanding base of AI customers",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T21:38:00.000Z"
-    },
-    {
-      "title": "'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T21:31:00.000Z"
-    },
-    {
-      "title": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting",
-      "url": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
-      "source": "CNBC",
-      "when": "2026-09-02T21:16:47.000Z"
-    },
-    {
-      "title": "New Jersey asks the Supreme Court to take on prediction markets",
-      "url": "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html",
-      "source": "CNBC",
-      "when": "2026-09-02T21:15:30.000Z"
-    },
-    {
-      "title": "Palantir's stock is slumping. Why bond yields and Google may be to blame.",
-      "url": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T21:12:00.000Z"
-    },
-    {
-      "title": "How Oracle's 'extremely controversial' stock could more than double from here",
-      "url": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T21:11:00.000Z"
-    },
-    {
-      "title": "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
-      "url": "https://www.cnbc.com/2026/09/02/trump-hormuz-strait-ontario-iran.html",
-      "source": "CNBC",
-      "when": "2026-09-02T21:07:10.000Z"
     }
   ],
   "errors": []
