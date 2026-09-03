@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-03T03:57:12.541Z",
-  "fetchedLabel": "Sep 2, 11:57 PM ET",
+  "fetched": "2026-09-03T08:51:28.932Z",
+  "fetchedLabel": "Sep 3, 4:51 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "53,061.90",
-      "chg": "-401.98",
+      "value": "53,061.95",
+      "chg": "-401.93",
       "pct": "-0.75%",
       "dir": "down"
     },
@@ -39,38 +39,80 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.00",
-      "chg": "+7.60",
-      "pct": "+9.11%",
+      "value": "$90.81",
+      "chg": "+5.05",
+      "pct": "+5.89%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,471.60",
-      "chg": "-6.50",
-      "pct": "-0.15%",
-      "dir": "down"
+      "value": "$4,480.10",
+      "chg": "+49.00",
+      "pct": "+1.11%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.20",
-      "chg": "+0.69",
-      "pct": "+4.76%",
+      "value": "15.17",
+      "chg": "+0.74",
+      "pct": "+5.13%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing 'crisis preparedness'",
+      "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+      "source": "CNBC",
+      "when": "2026-09-03T07:12:34.000Z"
+    },
+    {
+      "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
+      "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
+      "source": "CNBC",
+      "when": "2026-09-03T06:33:19.000Z"
+    },
+    {
+      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+      "source": "CNBC",
+      "when": "2026-09-03T04:52:41.000Z"
+    },
+    {
+      "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
+      "source": "CNBC",
+      "when": "2026-09-03T04:44:31.000Z"
+    },
+    {
+      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+      "source": "CNBC",
+      "when": "2026-09-03T04:39:14.000Z"
+    },
+    {
+      "title": "Shipping stocks at a crossroads amid their best rally in decades",
+      "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
+      "source": "CNBC",
+      "when": "2026-09-03T04:31:06.000Z"
+    },
+    {
+      "title": "The world appears to be entering a higher-rate era. Here's who will pay the price",
+      "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+      "source": "CNBC",
+      "when": "2026-09-03T04:20:20.000Z"
+    },
+    {
+      "title": "There's a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
+      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-03T04:01:00.000Z"
+    },
+    {
       "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
       "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
       "source": "CNBC",
       "when": "2026-09-03T03:28:07.000Z"
-    },
-    {
-      "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-      "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-      "source": "CNBC",
-      "when": "2026-09-03T03:21:50.000Z"
     },
     {
       "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-03T00:22:00.000Z"
-    },
-    {
-      "title": "Inside India newsletter: India's economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-      "url": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
-      "source": "CNBC",
-      "when": "2026-09-03T00:08:50.000Z"
-    },
-    {
-      "title": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
-      "url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
-      "source": "CNBC",
-      "when": "2026-09-03T00:00:03.000Z"
-    },
-    {
-      "title": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
-      "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
-      "source": "CNBC",
-      "when": "2026-09-02T23:09:09.000Z"
-    },
-    {
-      "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom",
-      "url": "https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html",
-      "source": "CNBC",
-      "when": "2026-09-02T22:49:01.000Z"
-    },
-    {
-      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-      "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-      "source": "CNBC",
-      "when": "2026-09-02T22:37:13.000Z"
-    },
-    {
-      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-      "source": "CNBC",
-      "when": "2026-09-02T22:17:19.000Z"
-    },
-    {
-      "title": "We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-02T21:45:00.000Z"
     }
   ],
   "errors": []
