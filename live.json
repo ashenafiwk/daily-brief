@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-03T08:51:28.932Z",
-  "fetchedLabel": "Sep 3, 4:51 AM ET",
+  "fetched": "2026-09-03T13:25:19.187Z",
+  "fetchedLabel": "Sep 3, 9:25 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "4.80%",
-      "chg": "+0.12",
-      "pct": "+2.65%",
+      "value": "4.74%",
+      "chg": "+0.02",
+      "pct": "+0.47%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.81",
-      "chg": "+5.05",
-      "pct": "+5.89%",
+      "value": "$91.74",
+      "chg": "+5.98",
+      "pct": "+6.97%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,480.10",
-      "chg": "+49.00",
-      "pct": "+1.11%",
+      "value": "$4,532.60",
+      "chg": "+101.50",
+      "pct": "+2.29%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.17",
-      "chg": "+0.74",
-      "pct": "+5.13%",
+      "value": "15.07",
+      "chg": "+0.64",
+      "pct": "+4.44%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Dutch central bank moves gold bars out of U.S. and Canada, citing 'crisis preparedness'",
-      "url": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
-      "source": "CNBC",
-      "when": "2026-09-03T07:12:34.000Z"
-    },
-    {
-      "title": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-      "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-      "source": "CNBC",
-      "when": "2026-09-03T06:33:19.000Z"
-    },
-    {
-      "title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
-      "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-      "source": "CNBC",
-      "when": "2026-09-03T04:52:41.000Z"
-    },
-    {
-      "title": "China's slowdown pushes New Zealand exporters to diversify away from their top buyer, RBNZ official tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/china-new-zealand-dairy-agriculture-exports-slowdown-rbnz.html",
-      "source": "CNBC",
-      "when": "2026-09-03T04:44:31.000Z"
-    },
-    {
-      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
-      "url": "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
-      "source": "CNBC",
-      "when": "2026-09-03T04:39:14.000Z"
-    },
-    {
-      "title": "Shipping stocks at a crossroads amid their best rally in decades",
-      "url": "https://www.cnbc.com/2026/09/03/shipping-hormuz-tankers-earnings-freight-rates-iran-trump-crude-china-stocks.html",
-      "source": "CNBC",
-      "when": "2026-09-03T04:31:06.000Z"
-    },
-    {
-      "title": "The world appears to be entering a higher-rate era. Here's who will pay the price",
-      "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-      "source": "CNBC",
-      "when": "2026-09-03T04:20:20.000Z"
-    },
-    {
-      "title": "There's a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+      "title": "We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-03T04:01:00.000Z"
+      "when": "2026-09-03T13:15:00.000Z"
     },
     {
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade",
-      "url": "https://www.cnbc.com/2026/09/02/google-starts-september-with-ai-momentum-after-long-losing-streak.html",
-      "source": "CNBC",
-      "when": "2026-09-03T03:28:07.000Z"
-    },
-    {
-      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs",
-      "url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "when": "2026-09-03T02:39:48.000Z"
-    },
-    {
-      "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
-      "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html",
-      "source": "CNBC",
-      "when": "2026-09-03T01:11:41.000Z"
-    },
-    {
-      "title": "Broadcom's stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-      "url": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+      "title": "'Please don't let this happen to you': My best friend died without a will — her neglectful family gets everything",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-03T00:25:00.000Z"
+      "when": "2026-09-03T13:15:00.000Z"
     },
     {
-      "title": "Snowflake's stock soars as the company blows away estimates with its AI-fueled forecast",
-      "url": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-03T00:23:00.000Z"
+      "title": "Hugging Face approached Nvidia's Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "source": "CNBC",
+      "when": "2026-09-03T13:10:40.000Z"
     },
     {
-      "title": "HPE follows in Dell's footsteps as it rides the AI server boom to a big earnings beat",
-      "url": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-03T00:22:00.000Z"
+      "title": "Verizon's Dividend Is One of the Biggest in the S&P 500—But Is It Safe?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-one-biggest-p-131020633.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:10:20.000Z"
+    },
+    {
+      "title": "Stock Market Today: Dow Up On Fed Governor Remarks; Nvidia Rallies On Hugging Face Deal (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:07:19.000Z"
+    },
+    {
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+      "source": "CNBC",
+      "when": "2026-09-03T13:06:04.000Z"
+    },
+    {
+      "title": "Better AI Infrastructure Stock: Nvidia vs. AMD",
+      "url": "https://finance.yahoo.com/technology/ai/articles/better-ai-infrastructure-stock-nvidia-130600678.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:06:00.000Z"
+    },
+    {
+      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
+      "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+      "source": "CNBC",
+      "when": "2026-09-03T13:05:59.000Z"
+    },
+    {
+      "title": "Snowflake stock skyrockets on AI-driven Q2 revenue jump",
+      "url": "https://finance.yahoo.com/markets/article/snowflake-stock-skyrockets-on-ai-driven-q2-revenue-jump-130537300.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:05:37.000Z"
+    },
+    {
+      "title": "Schwab Imposes Stricter Limits on Tax-Aware Long-Short Accounts",
+      "url": "https://finance.yahoo.com/markets/options/articles/schwab-imposes-stricter-limits-tax-130239173.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:02:39.000Z"
+    },
+    {
+      "title": "Major Drilling Group International Q1 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/major-drilling-group-international-q1-130238319.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:02:38.000Z"
+    },
+    {
+      "title": "Polestar Automotive Holding UK Q2 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/polestar-automotive-holding-uk-q2-130238261.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:02:38.000Z"
+    },
+    {
+      "title": "Hello Group Q2 Earnings Call Highlights",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hello-group-q2-earnings-call-130237884.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:02:37.000Z"
+    },
+    {
+      "title": "Volkswagen replaces North America CEO Kjell Gruner after sales drop",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-replaces-north-america-ceo-130205883.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-03T13:02:05.000Z"
     }
   ],
   "errors": []
