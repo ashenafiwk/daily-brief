@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-04T20:56:53.147Z",
-  "fetchedLabel": "Sep 4, 4:56 PM ET",
+  "fetched": "2026-09-04T22:58:00.702Z",
+  "fetchedLabel": "Sep 4, 6:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.15",
-      "chg": "+5.39",
-      "pct": "+6.28%",
+      "value": "$91.22",
+      "chg": "+5.46",
+      "pct": "+6.37%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,476.70",
-      "chg": "+45.60",
-      "pct": "+1.03%",
+      "value": "$4,477.20",
+      "chg": "+46.10",
+      "pct": "+1.04%",
       "dir": "up"
     },
     {
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+      "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T21:46:00.000Z"
+    },
     {
       "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
       "url": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
@@ -135,12 +141,6 @@
     {
       "title": "There's a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
       "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T19:52:00.000Z"
-    },
-    {
-      "title": "I'm 68. Should I spend half my 401(k) to buy a home with a mortgage?",
-      "url": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-04T19:52:00.000Z"
     }
