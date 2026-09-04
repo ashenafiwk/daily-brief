@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-04T05:39:59.248Z",
-  "fetchedLabel": "Sep 4, 1:39 AM ET",
+  "fetched": "2026-09-04T10:56:29.867Z",
+  "fetchedLabel": "Sep 4, 6:56 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,32 +39,98 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.40",
-      "chg": "+5.64",
-      "pct": "+6.58%",
+      "value": "$90.46",
+      "chg": "+4.70",
+      "pct": "+5.48%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,513.70",
-      "chg": "+82.60",
-      "pct": "+1.86%",
+      "value": "$4,521.20",
+      "chg": "+90.10",
+      "pct": "+2.03%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.32",
-      "chg": "-0.11",
-      "pct": "-0.76%",
+      "value": "14.19",
+      "chg": "-0.73",
+      "pct": "-4.89%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T10:15:00.000Z"
+    },
+    {
+      "title": "'Neither of us attended college': At 62, how can we afford to put our granddaughter through college?",
+      "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T10:00:00.000Z"
+    },
+    {
+      "title": "'I didn't know what I didn't know': I thought I'd have to depend on Social Security. Then I taught myself how to invest.",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T09:45:00.000Z"
+    },
+    {
+      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "source": "CNBC",
+      "when": "2026-09-04T09:32:09.000Z"
+    },
+    {
+      "title": "Volkswagen jumps 6% on plans to cut 50,000 jobs amid tariffs, China competition",
+      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
+      "source": "CNBC",
+      "when": "2026-09-04T09:05:07.000Z"
+    },
+    {
+      "title": "'Don't Say Good Luck' star Melanie Lynskey dreams of buying a New Zealand home but can't afford it",
+      "url": "https://www.marketwatch.com/story/dont-say-good-luck-star-melanie-lynskey-dreams-of-buying-a-new-zealand-home-but-cant-afford-it-9aa50cd5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T09:01:00.000Z"
+    },
+    {
+      "title": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
+      "url": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-04T07:50:49.000Z"
+    },
+    {
+      "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+      "source": "CNBC",
+      "when": "2026-09-04T07:41:48.000Z"
+    },
+    {
       "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
       "url": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
       "source": "CNBC",
-      "when": "2026-09-04T05:00:02.000Z"
+      "when": "2026-09-04T07:05:29.000Z"
+    },
+    {
+      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+      "source": "CNBC",
+      "when": "2026-09-04T06:46:35.000Z"
+    },
+    {
+      "title": "U.S. 'Economic Outcast' operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+      "source": "CNBC",
+      "when": "2026-09-04T06:17:57.000Z"
+    },
+    {
+      "title": "India's June quarter GDP print is courting controversy. Here's why",
+      "url": "https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html",
+      "source": "CNBC",
+      "when": "2026-09-04T05:52:15.000Z"
     },
     {
       "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
@@ -73,76 +139,10 @@
       "when": "2026-09-04T04:49:36.000Z"
     },
     {
-      "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment",
-      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-      "source": "CNBC",
-      "when": "2026-09-04T04:02:13.000Z"
-    },
-    {
       "title": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
       "url": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
       "source": "CNBC",
       "when": "2026-09-04T03:25:39.000Z"
-    },
-    {
-      "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
-      "url": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
-      "source": "CNBC",
-      "when": "2026-09-04T00:55:30.000Z"
-    },
-    {
-      "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
-      "url": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
-      "source": "CNBC",
-      "when": "2026-09-04T00:44:33.000Z"
-    },
-    {
-      "title": "Snowflake has a secret weapon that's powering its stock toward a huge gain",
-      "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T00:35:00.000Z"
-    },
-    {
-      "title": "'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?",
-      "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T00:31:00.000Z"
-    },
-    {
-      "title": "Adobe just announced its next CEO. Here's why its stock is dropping.",
-      "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T00:25:00.000Z"
-    },
-    {
-      "title": "Lululemon bets on 'away from body' pants as customers sour on form-fitting leggings",
-      "url": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T00:24:00.000Z"
-    },
-    {
-      "title": "'Please don't let this happen to you': My best friend died without a will — her neglectful family gets everything",
-      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
-      "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-      "source": "CNBC",
-      "when": "2026-09-03T23:49:53.000Z"
-    },
-    {
-      "title": "Tesla investors await updates on Cybercab robotaxi touted as the 'future of transport'",
-      "url": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-03T23:45:00.000Z"
-    },
-    {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-03T23:36:00.000Z"
     }
   ],
   "errors": []
