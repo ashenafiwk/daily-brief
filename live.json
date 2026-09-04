@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-04T10:56:29.867Z",
-  "fetchedLabel": "Sep 4, 6:56 AM ET",
+  "fetched": "2026-09-04T14:53:53.187Z",
+  "fetchedLabel": "Sep 4, 10:53 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,747.71",
-      "chg": "+16.72",
-      "pct": "+0.22%",
+      "value": "7,714.19",
+      "chg": "+2.43",
+      "pct": "+0.03%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,584.06",
-      "chg": "+42.71",
-      "pct": "+0.16%",
+      "value": "26,487.75",
+      "chg": "+85.33",
+      "pct": "+0.32%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,686.11",
-      "chg": "+116.67",
-      "pct": "+0.22%",
-      "dir": "up"
+      "value": "53,344.50",
+      "chg": "-215.49",
+      "pct": "-0.40%",
+      "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,968.27",
-      "chg": "-46.07",
-      "pct": "-1.53%",
+      "value": "2,969.78",
+      "chg": "-2.59",
+      "pct": "-0.09%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.76%",
-      "chg": "+0.04",
-      "pct": "+0.89%",
+      "value": "4.77%",
+      "chg": "+0.01",
+      "pct": "+0.25%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.46",
-      "chg": "+4.70",
-      "pct": "+5.48%",
+      "value": "$90.27",
+      "chg": "+4.51",
+      "pct": "+5.26%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,521.20",
-      "chg": "+90.10",
-      "pct": "+2.03%",
+      "value": "$4,474.30",
+      "chg": "+43.20",
+      "pct": "+0.97%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.19",
-      "chg": "-0.73",
-      "pct": "-4.89%",
+      "value": "14.10",
+      "chg": "-0.82",
+      "pct": "-5.50%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T10:15:00.000Z"
-    },
-    {
-      "title": "'Neither of us attended college': At 62, how can we afford to put our granddaughter through college?",
-      "url": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T10:00:00.000Z"
-    },
-    {
-      "title": "'I didn't know what I didn't know': I thought I'd have to depend on Social Security. Then I taught myself how to invest.",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T09:45:00.000Z"
-    },
-    {
-      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+      "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
       "source": "CNBC",
-      "when": "2026-09-04T09:32:09.000Z"
+      "when": "2026-09-04T14:47:54.000Z"
     },
     {
-      "title": "Volkswagen jumps 6% on plans to cut 50,000 jobs amid tariffs, China competition",
-      "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
+      "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
+      "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
       "source": "CNBC",
-      "when": "2026-09-04T09:05:07.000Z"
+      "when": "2026-09-04T14:42:14.000Z"
     },
     {
-      "title": "'Don't Say Good Luck' star Melanie Lynskey dreams of buying a New Zealand home but can't afford it",
-      "url": "https://www.marketwatch.com/story/dont-say-good-luck-star-melanie-lynskey-dreams-of-buying-a-new-zealand-home-but-cant-afford-it-9aa50cd5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T09:01:00.000Z"
+      "title": "Analysing CEVA's (CEVA) Growth in Neural Processing Markets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:41:55.000Z"
     },
     {
-      "title": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
-      "url": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+      "title": "$1.3 Trillion in Projected Data Center Spending in 2027 Makes These Stocks No-Brainer Buys",
+      "url": "https://finance.yahoo.com/technology/articles/1-3-trillion-projected-data-144000945.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:40:00.000Z"
+    },
+    {
+      "title": "Concerns Over Defense Spending Weighed on CACI International Inc (CACI)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/concerns-over-defense-spending-weighed-143939144.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:39:39.000Z"
+    },
+    {
+      "title": "The Comeback Story: BlackBerry Limited's (BB) QNX and Growth Potential",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comeback-story-blackberry-limited-bb-143806917.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:38:06.000Z"
+    },
+    {
+      "title": "Podcast: Tenzing eyes \"functional\" benefits as next phase in UK energy-drinks push",
+      "url": "https://finance.yahoo.com/energy/articles/podcast-tenzing-eyes-functional-benefits-143724302.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:37:24.000Z"
+    },
+    {
+      "title": "Berkshire CEO explains Buffett's surprise AI stock bet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-explains-buffett-surprise-143700702.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:37:00.000Z"
+    },
+    {
+      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
+      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
       "source": "CNBC",
-      "when": "2026-09-04T07:50:49.000Z"
+      "when": "2026-09-04T14:36:48.000Z"
     },
     {
-      "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
-      "source": "CNBC",
-      "when": "2026-09-04T07:41:48.000Z"
+      "title": "Delta Air Lines Is Up 10% This Year and Still Trades at Less Than 12 Times Earnings",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-10-still-143500169.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:35:00.000Z"
     },
     {
-      "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
-      "url": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
-      "source": "CNBC",
-      "when": "2026-09-04T07:05:29.000Z"
+      "title": "Saks Faces Proposed Class Action Lawsuit For Unwanted Promo Texts",
+      "url": "https://finance.yahoo.com/media-advertising/articles/saks-faces-proposed-class-action-143500756.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:35:00.000Z"
     },
     {
-      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
-      "url": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
-      "source": "CNBC",
-      "when": "2026-09-04T06:46:35.000Z"
+      "title": "Qualcomm Lost a Third of Its Value in 3 Months. One Wall Street Pro Sees 140% Upside From Here",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-third-value-3-143154071.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:31:54.000Z"
     },
     {
-      "title": "U.S. 'Economic Outcast' operation gains momentum as EU joins sanctions; South Korea weighs military backing",
-      "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
-      "source": "CNBC",
-      "when": "2026-09-04T06:17:57.000Z"
+      "title": "Diamond Hill Bets on BioLife Solutions' (BLFS) High Switching Cost",
+      "url": "https://finance.yahoo.com/healthcare/articles/diamond-hill-bets-biolife-solutions-143150003.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:31:50.000Z"
     },
     {
-      "title": "India's June quarter GDP print is courting controversy. Here's why",
-      "url": "https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html",
-      "source": "CNBC",
-      "when": "2026-09-04T05:52:15.000Z"
-    },
-    {
-      "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
-      "url": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
-      "source": "CNBC",
-      "when": "2026-09-04T04:49:36.000Z"
-    },
-    {
-      "title": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
-      "url": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
-      "source": "CNBC",
-      "when": "2026-09-04T03:25:39.000Z"
+      "title": "Maryland woman met a man, moved into his home and vowed to invest his $400K — then blew it on casinos and a $55K car",
+      "url": "https://finance.yahoo.com/small-business/articles/maryland-woman-met-man-moved-143000230.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-04T14:30:00.000Z"
     }
   ],
   "errors": []
