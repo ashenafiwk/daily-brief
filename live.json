@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-04T14:53:53.187Z",
-  "fetchedLabel": "Sep 4, 10:53 AM ET",
+  "fetched": "2026-09-04T18:12:28.136Z",
+  "fetchedLabel": "Sep 4, 2:12 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,714.19",
-      "chg": "+2.43",
-      "pct": "+0.03%",
+      "value": "7,712.44",
+      "chg": "+0.68",
+      "pct": "+0.01%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,487.75",
-      "chg": "+85.33",
-      "pct": "+0.32%",
+      "value": "26,462.37",
+      "chg": "+59.95",
+      "pct": "+0.23%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "53,344.50",
-      "chg": "-215.49",
-      "pct": "-0.40%",
+      "value": "53,424.11",
+      "chg": "-135.88",
+      "pct": "-0.25%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,969.78",
-      "chg": "-2.59",
-      "pct": "-0.09%",
+      "value": "2,968.16",
+      "chg": "-4.21",
+      "pct": "-0.14%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.77%",
-      "chg": "+0.01",
-      "pct": "+0.25%",
+      "value": "4.78%",
+      "chg": "+0.02",
+      "pct": "+0.42%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.27",
-      "chg": "+4.51",
-      "pct": "+5.26%",
+      "value": "$90.89",
+      "chg": "+5.13",
+      "pct": "+5.98%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,474.30",
-      "chg": "+43.20",
-      "pct": "+0.97%",
+      "value": "$4,461.40",
+      "chg": "+30.30",
+      "pct": "+0.68%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.10",
-      "chg": "-0.82",
-      "pct": "-5.50%",
+      "value": "14.22",
+      "chg": "-0.70",
+      "pct": "-4.69%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
-      "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+      "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+      "url": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
       "source": "CNBC",
-      "when": "2026-09-04T14:47:54.000Z"
+      "when": "2026-09-04T18:08:16.000Z"
+    },
+    {
+      "title": "'Please don't let this happen to you': My best friend died without a will — her neglectful family gets everything",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T18:01:00.000Z"
+    },
+    {
+      "title": "'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "url": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T18:00:00.000Z"
+    },
+    {
+      "title": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
+      "source": "CNBC",
+      "when": "2026-09-04T17:38:21.000Z"
+    },
+    {
+      "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
+      "url": "https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html",
+      "source": "CNBC",
+      "when": "2026-09-04T17:34:08.000Z"
+    },
+    {
+      "title": "Tesla's stock drops as Cybercab update 'underwhelms' Wall Street",
+      "url": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
+      "source": "CNBC",
+      "when": "2026-09-04T17:33:08.000Z"
+    },
+    {
+      "title": "Longtime host Maria Bartiromo disputes reports of Fox News termination",
+      "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
+      "source": "CNBC",
+      "when": "2026-09-04T17:32:35.000Z"
     },
     {
       "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
       "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
       "source": "CNBC",
-      "when": "2026-09-04T14:42:14.000Z"
+      "when": "2026-09-04T17:31:44.000Z"
     },
     {
-      "title": "Analysing CEVA's (CEVA) Growth in Neural Processing Markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysing-ceva-ceva-growth-neural-144155084.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:41:55.000Z"
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T17:30:00.000Z"
     },
     {
-      "title": "$1.3 Trillion in Projected Data Center Spending in 2027 Makes These Stocks No-Brainer Buys",
-      "url": "https://finance.yahoo.com/technology/articles/1-3-trillion-projected-data-144000945.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:40:00.000Z"
+      "title": "'I didn't know what I didn't know': I thought I'd have to depend on Social Security. Then I taught myself how to invest.",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T17:15:00.000Z"
     },
     {
-      "title": "Concerns Over Defense Spending Weighed on CACI International Inc (CACI)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/concerns-over-defense-spending-weighed-143939144.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:39:39.000Z"
-    },
-    {
-      "title": "The Comeback Story: BlackBerry Limited's (BB) QNX and Growth Potential",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/comeback-story-blackberry-limited-bb-143806917.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:38:06.000Z"
-    },
-    {
-      "title": "Podcast: Tenzing eyes \"functional\" benefits as next phase in UK energy-drinks push",
-      "url": "https://finance.yahoo.com/energy/articles/podcast-tenzing-eyes-functional-benefits-143724302.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:37:24.000Z"
-    },
-    {
-      "title": "Berkshire CEO explains Buffett's surprise AI stock bet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-explains-buffett-surprise-143700702.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:37:00.000Z"
-    },
-    {
-      "title": "Bitcoin heads for third winning week in a row as macro pressures mount",
-      "url": "https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html",
+      "title": "WNBA Commissioner Cathy Engelbert to retire at the end of 2026",
+      "url": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
       "source": "CNBC",
-      "when": "2026-09-04T14:36:48.000Z"
+      "when": "2026-09-04T17:12:15.000Z"
     },
     {
-      "title": "Delta Air Lines Is Up 10% This Year and Still Trades at Less Than 12 Times Earnings",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-10-still-143500169.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:35:00.000Z"
+      "title": "Cybercabs are a game changer, says Mike Khouw. Here's how he's trading Tesla",
+      "url": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
+      "source": "CNBC",
+      "when": "2026-09-04T16:56:28.000Z"
     },
     {
-      "title": "Saks Faces Proposed Class Action Lawsuit For Unwanted Promo Texts",
-      "url": "https://finance.yahoo.com/media-advertising/articles/saks-faces-proposed-class-action-143500756.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:35:00.000Z"
+      "title": "Think of Nvidia's $13 billion deal for Hugging Face as a form of 'health insurance'",
+      "url": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-04T16:19:00.000Z"
     },
     {
-      "title": "Qualcomm Lost a Third of Its Value in 3 Months. One Wall Street Pro Sees 140% Upside From Here",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-third-value-3-143154071.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:31:54.000Z"
-    },
-    {
-      "title": "Diamond Hill Bets on BioLife Solutions' (BLFS) High Switching Cost",
-      "url": "https://finance.yahoo.com/healthcare/articles/diamond-hill-bets-biolife-solutions-143150003.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:31:50.000Z"
-    },
-    {
-      "title": "Maryland woman met a man, moved into his home and vowed to invest his $400K — then blew it on casinos and a $55K car",
-      "url": "https://finance.yahoo.com/small-business/articles/maryland-woman-met-man-moved-143000230.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-04T14:30:00.000Z"
+      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+      "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+      "source": "CNBC",
+      "when": "2026-09-04T16:08:11.000Z"
     }
   ],
   "errors": []
