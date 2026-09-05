@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-05T00:50:01.196Z",
-  "fetchedLabel": "Sep 4, 8:50 PM ET",
+  "fetched": "2026-09-05T05:26:37.359Z",
+  "fetchedLabel": "Sep 5, 1:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.22",
-      "chg": "+5.46",
-      "pct": "+6.37%",
+      "value": "$91.48",
+      "chg": "+5.72",
+      "pct": "+6.67%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,477.20",
-      "chg": "+46.10",
-      "pct": "+1.04%",
+      "value": "$4,476.60",
+      "chg": "+45.50",
+      "pct": "+1.03%",
       "dir": "up"
     },
     {
