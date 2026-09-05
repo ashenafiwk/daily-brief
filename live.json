@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-04T22:58:00.702Z",
-  "fetchedLabel": "Sep 4, 6:58 PM ET",
+  "fetched": "2026-09-05T00:50:01.196Z",
+  "fetchedLabel": "Sep 4, 8:50 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "A living room unlike any other—how to gather and connect like Gloria Steinem, says expert",
+      "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
+      "source": "CNBC",
+      "when": "2026-09-05T00:04:06.000Z"
+    },
     {
       "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
       "url": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
       "source": "CNBC",
       "when": "2026-09-04T19:57:35.000Z"
-    },
-    {
-      "title": "There's a new record number of 401(k) millionaires as retirement savings hold at all-time highs",
-      "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-04T19:52:00.000Z"
     }
   ],
   "errors": []
