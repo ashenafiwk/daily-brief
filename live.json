@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-05T05:26:37.359Z",
-  "fetchedLabel": "Sep 5, 1:26 AM ET",
+  "fetched": "2026-09-05T09:15:53.752Z",
+  "fetchedLabel": "Sep 5, 5:15 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "From Trump's takeover threats to a 'northern neighborhood,' why the EU chief is going to Greenland",
+      "url": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
+      "source": "CNBC",
+      "when": "2026-09-05T05:00:01.000Z"
+    },
     {
       "title": "A living room unlike any other—how to gather and connect like Gloria Steinem, says expert",
       "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
@@ -137,12 +143,6 @@
       "url": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-04T19:59:00.000Z"
-    },
-    {
-      "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
-      "url": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
-      "source": "CNBC",
-      "when": "2026-09-04T19:57:35.000Z"
     }
   ],
   "errors": []
