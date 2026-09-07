@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-07T15:09:36.078Z",
-  "fetchedLabel": "Sep 7, 11:09 AM ET",
+  "fetched": "2026-09-07T19:20:54.208Z",
+  "fetchedLabel": "Sep 7, 3:20 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -53,96 +53,96 @@
     },
     {
       "name": "VIX",
-      "value": "15.22",
-      "chg": "-1.12",
-      "pct": "-6.85%",
+      "value": "15.30",
+      "chg": "-1.04",
+      "pct": "-6.36%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Hyundai India to invest Rs450bn, launch 26 models by 2030 – report",
-      "url": "https://finance.yahoo.com/technology/articles/hyundai-india-invest-rs450bn-launch-145423640.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:54:23.000Z"
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T19:17:00.000Z"
+    },
+    {
+      "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+      "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+      "source": "CNBC",
+      "when": "2026-09-07T18:52:24.000Z"
+    },
+    {
+      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T18:30:00.000Z"
+    },
+    {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T17:30:00.000Z"
+    },
+    {
+      "title": "Far-right AfD landslide in German state piles pressure on federal government",
+      "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+      "source": "CNBC",
+      "when": "2026-09-07T17:04:21.000Z"
     },
     {
       "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
       "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
       "source": "CNBC",
-      "when": "2026-09-07T14:53:03.000Z"
+      "when": "2026-09-07T16:44:36.000Z"
     },
     {
-      "title": "Roblox Has Collapsed 47% This Year: Is It Time to Switch to Take-Two or GameStop?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-collapsed-47-time-switch-145039355.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:50:39.000Z"
+      "title": "We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
+      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T16:30:00.000Z"
     },
     {
-      "title": "Has Nike's Stock Bottomed Out?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nikes-stock-bottomed-145001085.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:50:01.000Z"
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T16:00:00.000Z"
     },
     {
-      "title": "Most People Asking \"What Should I Invest In?\" Are Overthinking It. Start With Index Funds and These 4 Stocks.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/most-people-asking-invest-overthinking-145000499.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:50:00.000Z"
+      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T16:00:00.000Z"
     },
     {
-      "title": "Brazilian judge suspends Sigma Lithium mine licences and operations",
-      "url": "https://finance.yahoo.com/energy/articles/brazilian-judge-suspends-sigma-lithium-144617802.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:46:17.000Z"
+      "title": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
+      "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
+      "source": "CNBC",
+      "when": "2026-09-07T15:55:48.000Z"
     },
     {
-      "title": "Want $10,000 a month in retirement? Here's what you need saved if you stop working at 55, 62 or 65",
-      "url": "https://finance.yahoo.com/markets/articles/want-10-000-month-retirement-144500789.html",
+      "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-07T14:45:00.000Z"
+      "when": "2026-09-07T14:02:42.000Z"
     },
     {
-      "title": "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-says-time-different-wall-144326930.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:43:26.000Z"
+      "title": "Greenland welcomes major funding boost from EU amid Trump's annexation threats",
+      "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+      "source": "CNBC",
+      "when": "2026-09-07T13:09:36.000Z"
     },
     {
-      "title": "AMD Is Behind The AI Chip Shift Nobody Is Talking About",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-behind-ai-chip-shift-144057045.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:40:57.000Z"
+      "title": "'Please don't let this happen to you': My best friend died without a will — her neglectful family gets everything",
+      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T13:00:00.000Z"
     },
     {
-      "title": "Micron Has Skyrocketed 256% in 2026. What Would It Take to Get MU Stock Up to $1,250?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:40:45.000Z"
-    },
-    {
-      "title": "ISCA partnership model to help smaller accounting practices expand",
-      "url": "https://finance.yahoo.com/small-business/articles/isca-partnership-model-help-smaller-143713665.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:37:13.000Z"
-    },
-    {
-      "title": "Meet the AI Infrastructure Stock That Has Tripled in 2026 (Hint: It Can Still Double)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meet-ai-infrastructure-stock-tripled-143601497.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:36:01.000Z"
-    },
-    {
-      "title": "Alibaba (BABA) Shares Decline Amid Macro and Competitive Headwinds",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-shares-decline-amid-143524908.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:35:24.000Z"
-    },
-    {
-      "title": "Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-intel-stock-big-2026-143052842.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:30:52.000Z"
+      "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+      "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+      "source": "CNBC",
+      "when": "2026-09-07T12:26:40.000Z"
     }
   ],
   "errors": []
