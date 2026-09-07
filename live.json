@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-07T03:51:26.284Z",
-  "fetchedLabel": "Sep 6, 11:51 PM ET",
+  "fetched": "2026-09-07T09:09:34.073Z",
+  "fetchedLabel": "Sep 7, 5:09 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -53,13 +53,61 @@
     },
     {
       "name": "VIX",
-      "value": "14.53",
-      "chg": "-0.39",
-      "pct": "-2.61%",
+      "value": "15.03",
+      "chg": "-1.31",
+      "pct": "-8.02%",
       "dir": "down"
     }
   ],
   "headlines": [
+    {
+      "title": "Travis Kelce bought a $5.35 million estate on Lake Erie months before marrying Taylor Swift",
+      "url": "https://www.marketwatch.com/story/travis-kelce-bought-a-5-35-million-estate-on-lake-erie-months-before-marrying-taylor-swift-4ce6761f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T09:03:00.000Z"
+    },
+    {
+      "title": "Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz",
+      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T08:52:00.000Z"
+    },
+    {
+      "title": "China just pumped $54 billion into banks and insurers — but their stocks still fell",
+      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "source": "CNBC",
+      "when": "2026-09-07T08:20:21.000Z"
+    },
+    {
+      "title": "Jaguar Land Rover to layoff thousands of jobs in $2.3 billion cost-saving overhaul",
+      "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+      "source": "CNBC",
+      "when": "2026-09-07T08:00:56.000Z"
+    },
+    {
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+      "source": "CNBC",
+      "when": "2026-09-07T07:38:42.000Z"
+    },
+    {
+      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+      "source": "CNBC",
+      "when": "2026-09-07T07:35:18.000Z"
+    },
+    {
+      "title": "Israel-Hezbollah clashes kill 11 as Lebanon president calls for U.S. support to save truce",
+      "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+      "source": "CNBC",
+      "when": "2026-09-07T07:14:32.000Z"
+    },
+    {
+      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
+      "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+      "source": "CNBC",
+      "when": "2026-09-07T05:56:40.000Z"
+    },
     {
       "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
       "url": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
@@ -71,12 +119,6 @@
       "url": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
       "source": "CNBC",
       "when": "2026-09-07T01:31:03.000Z"
-    },
-    {
-      "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-      "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-      "source": "CNBC",
-      "when": "2026-09-07T00:06:18.000Z"
     },
     {
       "title": "'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-06T20:00:00.000Z"
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-06T19:45:00.000Z"
-    },
-    {
-      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-      "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-      "source": "CNBC",
-      "when": "2026-09-06T19:41:23.000Z"
-    },
-    {
-      "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-      "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-      "source": "CNBC",
-      "when": "2026-09-06T17:53:53.000Z"
-    },
-    {
-      "title": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
-      "url": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
-      "source": "CNBC",
-      "when": "2026-09-06T14:00:01.000Z"
-    },
-    {
-      "title": "Parents who are really good at handling tantrums do 5 things—their kids become more emotionally intelligent, says psychologist",
-      "url": "https://www.cnbc.com/2026/09/06/parents-who-are-really-good-at-handling-tantrums-do-things-psychologist.html",
-      "source": "CNBC",
-      "when": "2026-09-06T13:36:01.000Z"
-    },
-    {
-      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-      "url": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
-      "source": "CNBC",
-      "when": "2026-09-06T13:19:01.000Z"
-    },
-    {
-      "title": "'I'm leaving money on the table': I'm 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "url": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-06T13:15:00.000Z"
     }
   ],
   "errors": []
