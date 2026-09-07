@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-07T19:20:54.208Z",
-  "fetchedLabel": "Sep 7, 3:20 PM ET",
+  "fetched": "2026-09-07T22:12:55.095Z",
+  "fetchedLabel": "Sep 7, 6:12 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,30 @@
   ],
   "headlines": [
     {
+      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
+      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T22:00:00.000Z"
+    },
+    {
+      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T22:00:00.000Z"
+    },
+    {
+      "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
+      "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+      "source": "CNBC",
+      "when": "2026-09-07T21:36:12.000Z"
+    },
+    {
+      "title": "'Poverty doesn't have to be my reality': I thought I'd have to rely on Social Security. Then I taught myself how to invest.",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-07T19:30:00.000Z"
+    },
+    {
       "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
       "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -71,18 +95,6 @@
       "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
       "source": "CNBC",
       "when": "2026-09-07T18:52:24.000Z"
-    },
-    {
-      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T18:30:00.000Z"
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T17:30:00.000Z"
     },
     {
       "title": "Far-right AfD landslide in German state piles pressure on federal government",
@@ -121,28 +133,16 @@
       "when": "2026-09-07T15:55:48.000Z"
     },
     {
+      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
+      "url": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-07T15:07:00.000Z"
+    },
+    {
       "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
       "source": "Yahoo Finance",
       "when": "2026-09-07T14:02:42.000Z"
-    },
-    {
-      "title": "Greenland welcomes major funding boost from EU amid Trump's annexation threats",
-      "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
-      "source": "CNBC",
-      "when": "2026-09-07T13:09:36.000Z"
-    },
-    {
-      "title": "'Please don't let this happen to you': My best friend died without a will — her neglectful family gets everything",
-      "url": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T13:00:00.000Z"
-    },
-    {
-      "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-      "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-      "source": "CNBC",
-      "when": "2026-09-07T12:26:40.000Z"
     }
   ],
   "errors": []
