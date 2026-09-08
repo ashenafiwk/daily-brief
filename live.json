@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-08T00:37:10.349Z",
-  "fetchedLabel": "Sep 7, 8:37 PM ET",
+  "fetched": "2026-09-08T05:44:31.198Z",
+  "fetchedLabel": "Sep 8, 1:44 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.37",
-      "chg": "+2.15",
-      "pct": "+2.38%",
+      "value": "$93.52",
+      "chg": "+2.51",
+      "pct": "+2.76%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,466.20",
-      "chg": "+118.20",
-      "pct": "+2.72%",
+      "value": "$4,466.60",
+      "chg": "+100.30",
+      "pct": "+2.30%",
       "dir": "up"
     },
     {
@@ -61,10 +61,58 @@
   ],
   "headlines": [
     {
+      "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
+      "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "CNBC",
+      "when": "2026-09-08T05:37:53.000Z"
+    },
+    {
+      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "source": "CNBC",
+      "when": "2026-09-08T05:29:00.000Z"
+    },
+    {
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "source": "CNBC",
+      "when": "2026-09-08T05:00:01.000Z"
+    },
+    {
+      "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+      "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+      "source": "CNBC",
+      "when": "2026-09-08T05:00:01.000Z"
+    },
+    {
+      "title": "China's imports in August miss estimates as calls for rebalancing trade grow",
+      "url": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "source": "CNBC",
+      "when": "2026-09-08T04:45:07.000Z"
+    },
+    {
+      "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+      "url": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+      "source": "CNBC",
+      "when": "2026-09-08T04:02:43.000Z"
+    },
+    {
+      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+      "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+      "source": "CNBC",
+      "when": "2026-09-08T03:54:54.000Z"
+    },
+    {
       "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
       "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-08T00:23:00.000Z"
+      "when": "2026-09-08T03:09:00.000Z"
+    },
+    {
+      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
+      "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+      "source": "CNBC",
+      "when": "2026-09-08T02:05:30.000Z"
     },
     {
       "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
@@ -95,54 +143,6 @@
       "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-07T22:00:00.000Z"
-    },
-    {
-      "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
-      "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
-      "source": "CNBC",
-      "when": "2026-09-07T21:36:12.000Z"
-    },
-    {
-      "title": "'Poverty doesn't have to be my reality': I thought I'd have to rely on Social Security. Then I taught myself how to invest.",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T19:30:00.000Z"
-    },
-    {
-      "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-      "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-      "source": "CNBC",
-      "when": "2026-09-07T18:52:24.000Z"
-    },
-    {
-      "title": "Far-right AfD landslide in German state piles pressure on federal government",
-      "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-      "source": "CNBC",
-      "when": "2026-09-07T17:04:21.000Z"
-    },
-    {
-      "title": "We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
-      "url": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T16:30:00.000Z"
-    },
-    {
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
-      "url": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T16:00:00.000Z"
-    },
-    {
-      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
-      "url": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T16:00:00.000Z"
-    },
-    {
-      "title": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
-      "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-      "source": "CNBC",
-      "when": "2026-09-07T15:55:48.000Z"
     }
   ],
   "errors": []
