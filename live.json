@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-07T22:12:55.095Z",
-  "fetchedLabel": "Sep 7, 6:12 PM ET",
+  "fetched": "2026-09-08T00:37:10.349Z",
+  "fetchedLabel": "Sep 7, 8:37 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.48",
-      "chg": "+1.26",
-      "pct": "+1.40%",
+      "value": "$92.37",
+      "chg": "+2.15",
+      "pct": "+2.38%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,476.60",
-      "chg": "+128.60",
-      "pct": "+2.96%",
+      "value": "$4,466.20",
+      "chg": "+118.20",
+      "pct": "+2.72%",
       "dir": "up"
     },
     {
@@ -60,6 +60,30 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-08T00:23:00.000Z"
+    },
+    {
+      "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+      "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+      "source": "CNBC",
+      "when": "2026-09-07T23:31:25.000Z"
+    },
+    {
+      "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+      "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+      "source": "CNBC",
+      "when": "2026-09-07T23:23:10.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+      "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+      "source": "CNBC",
+      "when": "2026-09-07T23:00:01.000Z"
+    },
     {
       "title": "Why does almost nobody want to befriend older people like me — except scammers?",
       "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
@@ -85,12 +109,6 @@
       "when": "2026-09-07T19:30:00.000Z"
     },
     {
-      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-      "url": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-07T19:17:00.000Z"
-    },
-    {
       "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
       "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
       "source": "CNBC",
@@ -101,12 +119,6 @@
       "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
       "source": "CNBC",
       "when": "2026-09-07T17:04:21.000Z"
-    },
-    {
-      "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-      "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
-      "source": "CNBC",
-      "when": "2026-09-07T16:44:36.000Z"
     },
     {
       "title": "We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
       "source": "CNBC",
       "when": "2026-09-07T15:55:48.000Z"
-    },
-    {
-      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
-      "url": "https://finance.yahoo.com/healthcare/articles/loss-costco-deal-helps-push-150700837.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T15:07:00.000Z"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-7-2026-crypto-investors-on-rate-watch-140242204.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-07T14:02:42.000Z"
     }
   ],
   "errors": []
