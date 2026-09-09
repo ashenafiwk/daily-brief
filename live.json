@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-09T13:50:21.186Z",
-  "fetchedLabel": "Sep 9, 9:50 AM ET",
+  "fetched": "2026-09-09T17:43:10.192Z",
+  "fetchedLabel": "Sep 9, 1:43 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,652.79",
-      "chg": "+21.32",
-      "pct": "+0.28%",
+      "value": "7,641.96",
+      "chg": "+10.49",
+      "pct": "+0.14%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,331.85",
-      "chg": "+232.08",
-      "pct": "+0.89%",
+      "value": "26,253.71",
+      "chg": "+153.94",
+      "pct": "+0.59%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,421.87",
-      "chg": "-345.01",
-      "pct": "-0.65%",
+      "value": "52,476.72",
+      "chg": "-290.16",
+      "pct": "-0.55%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,951.08",
-      "chg": "+30.95",
-      "pct": "+1.06%",
+      "value": "2,925.53",
+      "chg": "+5.40",
+      "pct": "+0.19%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.80%",
-      "chg": "+0.00",
-      "pct": "+0.04%",
+      "value": "4.83%",
+      "chg": "+0.04",
+      "pct": "+0.77%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.78",
-      "chg": "+4.48",
-      "pct": "+4.91%",
+      "value": "$95.72",
+      "chg": "+4.42",
+      "pct": "+4.84%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,464.70",
-      "chg": "-27.00",
-      "pct": "-0.60%",
+      "value": "$4,458.50",
+      "chg": "-33.20",
+      "pct": "-0.74%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.13",
-      "chg": "+1.81",
-      "pct": "+12.64%",
+      "value": "16.24",
+      "chg": "+1.92",
+      "pct": "+13.41%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-09T13:46:11.000Z"
-    },
-    {
-      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
-      "url": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here's what happened.",
+      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T13:46:00.000Z"
+      "when": "2026-09-09T17:30:00.000Z"
     },
     {
-      "title": "Brent crude tops $100 for first time since July as fighting escalates in Persian Gulf",
-      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
-      "source": "CNBC",
-      "when": "2026-09-09T13:42:27.000Z"
-    },
-    {
-      "title": "Global oil prices rise above $100 a barrel for the first time since July as Middle East conflict escalates",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "title": "I have two sons. Should I allow one son to build a $400,000 house on my land?",
+      "url": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T13:42:00.000Z"
+      "when": "2026-09-09T17:30:00.000Z"
     },
     {
-      "title": "Amazon Plans to Spend More Than $200 Billion on AI. Is That a Smart Move?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-plans-spend-more-200-133500942.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-09T13:35:00.000Z"
-    },
-    {
-      "title": "Brent oil tops $100 as Middle East conflict intensifies, stoking supply fears",
-      "url": "https://finance.yahoo.com/energy/articles/brent-oil-tops-100-middle-133121562.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-09T13:34:31.000Z"
-    },
-    {
-      "title": "Jim Cramer Calls Natera (NTRA) \"a Promising Story\"",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-natera-ntra-133339649.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-09T13:33:39.000Z"
-    },
-    {
-      "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth",
-      "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
+      "title": "How much does it cost to move a midterm prediction market? Not much",
+      "url": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
       "source": "CNBC",
-      "when": "2026-09-09T13:31:26.000Z"
+      "when": "2026-09-09T17:28:24.000Z"
     },
     {
-      "title": "Morning Minute: Venice's VVV Token Soars After OpenAI Dispute",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-venice-vvv-token-132852899.html",
+      "title": "'I am the house now': U.S. Treasury Secretary Scott Bessent Dares Investors to Short the Yen, as the Treasury Announces a Longe...",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/am-house-now-u-treasury-172501582.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-09T13:28:52.000Z"
+      "when": "2026-09-09T17:25:01.000Z"
     },
     {
-      "title": "Braze Sinks 12% as Soft Earnings Guide Overshadows Beat and Raise; Klaviyo Advances 3%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/braze-sinks-12-soft-earnings-132707466.html",
+      "title": "Jim Cramer Prefers CoreWeave (CRWV) Over IREN (IREN)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-coreweave-crwv-172351539.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-09T13:27:07.000Z"
+      "when": "2026-09-09T17:23:51.000Z"
     },
     {
-      "title": "Executive Waves Goodbye to More Than 6,000 Shares of Legendary Insurance Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/executive-waves-goodbye-more-6-132501500.html",
+      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-sept-16-critical-day-172348009.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-09T13:25:01.000Z"
+      "when": "2026-09-09T17:23:48.000Z"
     },
     {
-      "title": "Albertsons names Meg Whitman executive chair to spur growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/albertsons-names-meg-whitman-executive-132436252.html",
+      "title": "Gasoline prices are 'highest ever for this time of year': Chart of the Day",
+      "url": "https://finance.yahoo.com/markets/article/gasoline-prices-are-highest-ever-for-this-time-of-year-chart-of-the-day-172249427.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-09T13:24:36.000Z"
+      "when": "2026-09-09T17:22:49.000Z"
     },
     {
-      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies",
-      "url": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html",
+      "title": "Doing a Roth Conversion? Watch Out for This Big Trap.",
+      "url": "https://finance.yahoo.com/markets/options/articles/doing-roth-conversion-watch-big-172100138.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-09T13:24:03.000Z"
+      "when": "2026-09-09T17:21:00.000Z"
     },
     {
-      "title": "Bessent says, 'I am the house now.' What that means for the yen — and U.S. stocks.",
-      "url": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T13:24:00.000Z"
+      "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jack-dorseys-block-makes-major-172029819.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:20:29.000Z"
+    },
+    {
+      "title": "Figma General Counsel Sells 109,000 Shares for $2.8 Million",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/figma-general-counsel-sells-109-172001685.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:20:01.000Z"
+    },
+    {
+      "title": "Prediction: Micron Stock Could Turn $10,000 Into a Much Larger Sum by 2030",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-could-turn-172000676.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:20:00.000Z"
+    },
+    {
+      "title": "If a Market Correction Is Imminent, This Simple Strategy Is Key to Protecting Your Investments",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-correction-imminent-simple-strategy-172000935.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:20:00.000Z"
+    },
+    {
+      "title": "Abel reversed Buffett's two biggest convictions in six months",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abel-reversed-buffetts-two-biggest-171700515.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:17:00.000Z"
+    },
+    {
+      "title": "Ripple Engineer Questions FXRP Bridge Security as Flare Co-Founder Pushes Back",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-engineer-questions-fxrp-bridge-171638377.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-09T17:16:38.000Z"
     }
   ],
   "errors": []
