@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-08T23:57:07.034Z",
-  "fetchedLabel": "Sep 8, 7:57 PM ET",
+  "fetched": "2026-09-09T04:27:12.307Z",
+  "fetchedLabel": "Sep 9, 12:27 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.55",
-      "chg": "+3.54",
-      "pct": "+3.89%",
+      "value": "$94.15",
+      "chg": "+2.85",
+      "pct": "+3.12%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,399.60",
-      "chg": "+33.30",
-      "pct": "+0.76%",
-      "dir": "up"
+      "value": "$4,416.30",
+      "chg": "-75.40",
+      "pct": "-1.68%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -61,10 +61,58 @@
   ],
   "headlines": [
     {
-      "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says",
+      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
+      "url": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+      "source": "CNBC",
+      "when": "2026-09-09T04:12:51.000Z"
+    },
+    {
+      "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
       "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-08T23:36:53.000Z"
+      "when": "2026-09-09T03:23:06.000Z"
+    },
+    {
+      "title": "How Asia's ultra-rich are investing and where wealthy Chinese are migrating, according to Maybank Singapore CEO",
+      "url": "https://www.cnbc.com/2026/09/09/asia-ultra-rich-investing-wealthy-chinese-migrating-maybank.html",
+      "source": "CNBC",
+      "when": "2026-09-09T03:08:15.000Z"
+    },
+    {
+      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
+      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
+      "source": "CNBC",
+      "when": "2026-09-09T03:07:32.000Z"
+    },
+    {
+      "title": "How to create a 'forever paycheck' without paying for an annuity",
+      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T02:20:00.000Z"
+    },
+    {
+      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
+      "url": "https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-09T01:52:10.000Z"
+    },
+    {
+      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
+      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+      "source": "CNBC",
+      "when": "2026-09-09T00:52:55.000Z"
+    },
+    {
+      "title": "Bombardier's stock drops as the U.S.-Canada trade war intensifies. Here's what Trump is targeting next.",
+      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T00:17:00.000Z"
+    },
+    {
+      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why",
+      "url": "https://www.cnbc.com/2026/09/08/marvell-shares-soared-ceo.html",
+      "source": "CNBC",
+      "when": "2026-09-08T23:07:22.000Z"
     },
     {
       "title": "How to invest in a booming stock market that's way cheaper than the S&P 500",
@@ -95,54 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
       "source": "CNBC",
       "when": "2026-09-08T21:45:55.000Z"
-    },
-    {
-      "title": "Oracle's stock gets a boost as the OpenAI ecosystem comes back into favor",
-      "url": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:38:00.000Z"
-    },
-    {
-      "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
-      "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-      "source": "CNBC",
-      "when": "2026-09-08T21:37:12.000Z"
-    },
-    {
-      "title": "Qualcomm's stock climbs as Amazon chip deal offers investors much-needed good news",
-      "url": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:32:00.000Z"
-    },
-    {
-      "title": "Why does almost nobody want to befriend older people like me — except scammers?",
-      "url": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:30:00.000Z"
-    },
-    {
-      "title": "Intel's stock is rising as the company looks primed to boost prices even more",
-      "url": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:30:00.000Z"
-    },
-    {
-      "title": "Bombardier's stock drops as the U.S.-Canada trade war intensifies. Here's what Trump is targeting next.",
-      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:29:00.000Z"
-    },
-    {
-      "title": "Expecting an inheritance? Don't count on it.",
-      "url": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:28:00.000Z"
-    },
-    {
-      "title": "Walmart's advertising empire is booming. Here's what it could target next.",
-      "url": "https://www.marketwatch.com/story/walmarts-advertising-empire-is-booming-heres-what-it-could-target-next-7e30fb74?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:23:00.000Z"
     }
   ],
   "errors": []
