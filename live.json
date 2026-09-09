@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-09T20:44:55.246Z",
-  "fetchedLabel": "Sep 9, 4:44 PM ET",
+  "fetched": "2026-09-09T23:05:12.696Z",
+  "fetchedLabel": "Sep 9, 7:05 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.63",
-      "chg": "+5.33",
-      "pct": "+5.84%",
+      "value": "$96.97",
+      "chg": "+5.67",
+      "pct": "+6.21%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,441.90",
-      "chg": "-49.80",
-      "pct": "-1.11%",
+      "value": "$4,442.80",
+      "chg": "-48.90",
+      "pct": "-1.09%",
       "dir": "down"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Oil's surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "title": "Diesel prices hit another record high. If you're shocked, wait until you see your grocery bill.",
+      "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T20:36:00.000Z"
+      "when": "2026-09-09T22:51:00.000Z"
     },
     {
-      "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+      "title": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
+      "url": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
       "source": "CNBC",
-      "when": "2026-09-09T20:33:36.000Z"
+      "when": "2026-09-09T22:49:41.000Z"
     },
     {
-      "title": "You should always have energy stocks in your 401(k). Yes, even when oil is at $100.",
-      "url": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+      "title": "I'm a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T20:27:00.000Z"
+      "when": "2026-09-09T22:30:00.000Z"
+    },
+    {
+      "title": "Home-insurance premiums just hit a record high. Here's where they spiked the most.",
+      "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T22:21:00.000Z"
     },
     {
       "title": "Bessent's political turn in GOP speech tests his bond-market credibility",
       "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
       "source": "CNBC",
-      "when": "2026-09-09T20:22:42.000Z"
+      "when": "2026-09-09T22:20:16.000Z"
     },
     {
-      "title": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
-      "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
-      "source": "CNBC",
-      "when": "2026-09-09T20:16:44.000Z"
-    },
-    {
-      "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-      "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-      "source": "CNBC",
-      "when": "2026-09-09T19:52:11.000Z"
-    },
-    {
-      "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump's new ban.",
-      "url": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
+      "title": "Hunter Biden's memecoin flops, falling 95% just hours after launch",
+      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T19:40:00.000Z"
+      "when": "2026-09-09T22:02:00.000Z"
     },
     {
-      "title": "Treasury will buy more government bonds than previously announced. The market remains 'underwhelmed.'",
-      "url": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+      "title": "'We fear financial exploitation': Who will manage our finances if my wife and I become incapacitated?",
+      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T19:27:00.000Z"
+      "when": "2026-09-09T22:00:00.000Z"
     },
     {
-      "title": "What a historic summer box office reveals about massive shifts in the theatrical industry",
-      "url": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
+      "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
+      "url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
       "source": "CNBC",
-      "when": "2026-09-09T19:21:58.000Z"
+      "when": "2026-09-09T21:45:34.000Z"
+    },
+    {
+      "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
+      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+      "source": "CNBC",
+      "when": "2026-09-09T21:37:34.000Z"
+    },
+    {
+      "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
+      "url": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
+      "source": "CNBC",
+      "when": "2026-09-09T21:28:23.000Z"
+    },
+    {
+      "title": "The bull market's biggest enemy right now could be Bessent's interventions",
+      "url": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T21:17:00.000Z"
+    },
+    {
+      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T21:16:00.000Z"
     },
     {
       "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
       "url": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
       "source": "CNBC",
-      "when": "2026-09-09T18:55:18.000Z"
+      "when": "2026-09-09T21:14:49.000Z"
     },
     {
-      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
-      "url": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-      "source": "CNBC",
-      "when": "2026-09-09T18:29:51.000Z"
-    },
-    {
-      "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-      "source": "CNBC",
-      "when": "2026-09-09T17:43:45.000Z"
-    },
-    {
-      "title": "These are the top 10 U.S. states for workers' rights, says new report—8 of them have a minimum wage over $15",
-      "url": "https://www.cnbc.com/2026/09/09/the-top-us-states-for-workers-in-2026-according-to-oxfam-report.html",
-      "source": "CNBC",
-      "when": "2026-09-09T17:36:45.000Z"
-    },
-    {
-      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here's what happened.",
-      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+      "title": "Oil's surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T17:30:00.000Z"
+      "when": "2026-09-09T20:36:00.000Z"
     }
   ],
   "errors": []
