@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-09T04:27:12.307Z",
-  "fetchedLabel": "Sep 9, 12:27 AM ET",
+  "fetched": "2026-09-09T09:07:25.537Z",
+  "fetchedLabel": "Sep 9, 5:07 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.15",
-      "chg": "+2.85",
-      "pct": "+3.12%",
+      "value": "$94.62",
+      "chg": "+3.32",
+      "pct": "+3.64%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,416.30",
-      "chg": "-75.40",
-      "pct": "-1.68%",
+      "value": "$4,446.40",
+      "chg": "-45.30",
+      "pct": "-1.01%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.72",
-      "chg": "+0.52",
-      "pct": "+3.42%",
+      "value": "15.82",
+      "chg": "+1.50",
+      "pct": "+10.47%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-      "url": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
+      "title": "UK air traffic chief rules out cyber attack after massive disruption at Heathrow",
+      "url": "https://www.cnbc.com/2026/09/09/uk-airport-disruption-heathrow-air-traffic-control.html",
       "source": "CNBC",
-      "when": "2026-09-09T04:12:51.000Z"
+      "when": "2026-09-09T09:01:17.000Z"
     },
     {
-      "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-      "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
       "source": "CNBC",
-      "when": "2026-09-09T03:23:06.000Z"
+      "when": "2026-09-09T09:01:05.000Z"
     },
     {
-      "title": "How Asia's ultra-rich are investing and where wealthy Chinese are migrating, according to Maybank Singapore CEO",
+      "title": "How fashion designer Marc Jacobs renovated a $9 million Frank Lloyd Wright house",
+      "url": "https://www.marketwatch.com/story/how-fashion-designer-marc-jacobs-renovated-a-9-million-frank-lloyd-wright-house-3fae7d9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T09:01:00.000Z"
+    },
+    {
+      "title": "Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says",
+      "url": "https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html",
+      "source": "CNBC",
+      "when": "2026-09-09T09:00:49.000Z"
+    },
+    {
+      "title": "'The View' host Joy Behar finally sells Hamptons house for about half the original asking price",
+      "url": "https://www.marketwatch.com/story/the-view-host-joy-behar-finally-sells-hamptons-house-for-about-half-the-original-asking-price-6e991e03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-09T08:58:00.000Z"
+    },
+    {
+      "title": "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+      "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+      "source": "CNBC",
+      "when": "2026-09-09T08:48:01.000Z"
+    },
+    {
+      "title": "Asia's ultra-rich are moving their money. Here's where it's going",
       "url": "https://www.cnbc.com/2026/09/09/asia-ultra-rich-investing-wealthy-chinese-migrating-maybank.html",
       "source": "CNBC",
-      "when": "2026-09-09T03:08:15.000Z"
+      "when": "2026-09-09T08:42:56.000Z"
     },
     {
-      "title": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
+      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
+      "url": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
       "source": "CNBC",
-      "when": "2026-09-09T03:07:32.000Z"
+      "when": "2026-09-09T08:35:11.000Z"
     },
     {
-      "title": "How to create a 'forever paycheck' without paying for an annuity",
-      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours",
+      "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
+      "source": "CNBC",
+      "when": "2026-09-09T08:34:55.000Z"
+    },
+    {
+      "title": "Bessent says 'I am the house now.' What it means for the yen — and U.S. stocks.",
+      "url": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T02:20:00.000Z"
+      "when": "2026-09-09T08:31:00.000Z"
     },
     {
-      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
-      "url": "https://www.cnbc.com/2026/09/09/tv-show-south-park-changes-show-name-south-america-trump.html",
-      "source": "CNBC",
-      "when": "2026-09-09T01:52:10.000Z"
-    },
-    {
-      "title": "New Hampshire picks Pappas and Sununu in primary for key open Senate seat",
-      "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-      "source": "CNBC",
-      "when": "2026-09-09T00:52:55.000Z"
-    },
-    {
-      "title": "Bombardier's stock drops as the U.S.-Canada trade war intensifies. Here's what Trump is targeting next.",
-      "url": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+      "title": "Brent crude reaches $100 as war in Iran intensifies",
+      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-09T00:17:00.000Z"
+      "when": "2026-09-09T08:27:00.000Z"
     },
     {
-      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why",
-      "url": "https://www.cnbc.com/2026/09/08/marvell-shares-soared-ceo.html",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
+      "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
       "source": "CNBC",
-      "when": "2026-09-08T23:07:22.000Z"
+      "when": "2026-09-09T08:19:24.000Z"
     },
     {
-      "title": "How to invest in a booming stock market that's way cheaper than the S&P 500",
-      "url": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T22:50:00.000Z"
-    },
-    {
-      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning",
-      "url": "https://www.cnbc.com/2026/09/08/ai-infrastructure-stocks-rally-on-deal-from-qualcomm-and-corning.html",
+      "title": "Brent crude hovers around $100 as U.S.-Iran tit-for-tat strikes stoke oil supply worries",
+      "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
       "source": "CNBC",
-      "when": "2026-09-08T22:02:53.000Z"
+      "when": "2026-09-09T08:16:39.000Z"
     },
     {
-      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T22:00:00.000Z"
-    },
-    {
-      "title": "Memory chips have come to rule the AI boom. Why Micron's reign could be here to stay.",
-      "url": "https://www.marketwatch.com/story/memory-chips-have-come-to-rule-the-ai-boom-why-microns-reign-could-be-here-to-stay-607a4622?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-08T21:51:00.000Z"
-    },
-    {
-      "title": "LIV Golf files for Chapter 11 bankruptcy protection",
-      "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
+      "title": "'This is not a joke': Iceland condemns Trump's post showing island under American flag",
+      "url": "https://www.cnbc.com/2026/09/09/iceland-trump-map-us-flag-greenland-mexico.html",
       "source": "CNBC",
-      "when": "2026-09-08T21:45:55.000Z"
+      "when": "2026-09-09T08:00:54.000Z"
     }
   ],
   "errors": []
