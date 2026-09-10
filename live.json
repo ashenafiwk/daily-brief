@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-10T19:12:06.792Z",
-  "fetchedLabel": "Sep 10, 3:12 PM ET",
+  "fetched": "2026-09-10T21:47:20.637Z",
+  "fetchedLabel": "Sep 10, 5:47 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,588.84",
-      "chg": "-77.76",
-      "pct": "-1.01%",
+      "value": "7,591.70",
+      "chg": "-74.90",
+      "pct": "-0.98%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,077.18",
-      "chg": "-140.65",
-      "pct": "-0.54%",
+      "value": "26,081.73",
+      "chg": "-136.11",
+      "pct": "-0.52%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,004.24",
-      "chg": "-1057.71",
-      "pct": "-1.99%",
+      "value": "52,064.10",
+      "chg": "-997.85",
+      "pct": "-1.88%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,889.91",
-      "chg": "-63.26",
-      "pct": "-2.14%",
+      "value": "2,890.95",
+      "chg": "-62.22",
+      "pct": "-2.11%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.95%",
-      "chg": "+0.19",
-      "pct": "+3.91%",
+      "value": "4.94%",
+      "chg": "+0.18",
+      "pct": "+3.82%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.08",
-      "chg": "+10.60",
-      "pct": "+11.59%",
+      "value": "$103.93",
+      "chg": "+12.45",
+      "pct": "+13.61%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,362.10",
-      "chg": "-67.70",
-      "pct": "-1.53%",
+      "value": "$4,358.50",
+      "chg": "-71.30",
+      "pct": "-1.61%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.71",
-      "chg": "+3.18",
-      "pct": "+21.89%",
+      "value": "17.84",
+      "chg": "+3.31",
+      "pct": "+22.78%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
-      "url": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T19:07:00.000Z"
-    },
-    {
-      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+      "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
       "source": "CNBC",
-      "when": "2026-09-10T19:02:58.000Z"
+      "when": "2026-09-10T21:42:47.000Z"
     },
     {
-      "title": "'Poverty doesn't have to be my reality': I thought I'd have to rely on Social Security. Then I taught myself how to invest.",
-      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T19:00:00.000Z"
-    },
-    {
-      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
-      "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+      "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+      "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
       "source": "CNBC",
-      "when": "2026-09-10T18:52:34.000Z"
+      "when": "2026-09-10T21:22:39.000Z"
+    },
+    {
+      "title": "Oracle's AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T21:22:00.000Z"
+    },
+    {
+      "title": "Adobe's latest earnings leave Wall Street wanting more",
+      "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T20:53:00.000Z"
+    },
+    {
+      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+      "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-09-10T20:49:05.000Z"
     },
     {
       "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
       "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
       "source": "CNBC",
-      "when": "2026-09-10T18:47:08.000Z"
+      "when": "2026-09-10T20:48:14.000Z"
     },
     {
-      "title": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
+      "title": "Trump announces $500 Obamacare refunds for nearly 1 million people — here's who qualifies",
+      "url": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
+      "source": "CNBC",
+      "when": "2026-09-10T20:45:59.000Z"
+    },
+    {
+      "title": "NFL Commissioner Roger Goodell says league could rework TV packages in next media deal",
+      "url": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
+      "source": "CNBC",
+      "when": "2026-09-10T20:44:33.000Z"
+    },
+    {
+      "title": "Apple is walking a 'tightrope' when it comes to the prices of its new iPhones",
+      "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T20:40:00.000Z"
+    },
+    {
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here's what happened.",
+      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T20:39:00.000Z"
+    },
+    {
+      "title": "Why $500 checks won't help Americans facing 15% increases in Obamacare premiums next year",
+      "url": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T20:26:00.000Z"
+    },
+    {
+      "title": "Treasury yields surge after Bessent's beefed-up buyback operation fails to calm market",
       "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-10T18:37:00.000Z"
+      "when": "2026-09-10T20:24:00.000Z"
     },
     {
-      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-      "source": "CNBC",
-      "when": "2026-09-10T18:34:16.000Z"
-    },
-    {
-      "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
-      "url": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
-      "source": "CNBC",
-      "when": "2026-09-10T18:30:08.000Z"
-    },
-    {
-      "title": "Here's a rapid-fire update on our 33-stock portfolio, including Cramer's 6 favorites to buy",
-      "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
-      "source": "CNBC",
-      "when": "2026-09-10T18:20:12.000Z"
-    },
-    {
-      "title": "The 30-year mortgage rate just crossed 7% for the first time in over a year",
-      "url": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+      "title": "How to create a 'forever paycheck' without paying for an annuity",
+      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-10T18:18:00.000Z"
+      "when": "2026-09-10T20:13:00.000Z"
     },
     {
-      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "source": "CNBC",
-      "when": "2026-09-10T18:17:48.000Z"
-    },
-    {
-      "title": "Elon Musk is pulling in even more cash. Meet his $23 billion underground venture.",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-pulling-in-even-more-cash-meet-his-23-billion-underground-venture-b7e1a24f?mod=mw_rss_topstories",
+      "title": "Stocks are sliding as this 'negative risk trinity' spooks investors",
+      "url": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-10T18:16:00.000Z"
-    },
-    {
-      "title": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-      "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-      "source": "CNBC",
-      "when": "2026-09-10T18:15:59.000Z"
-    },
-    {
-      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T18:00:00.000Z"
+      "when": "2026-09-10T20:06:00.000Z"
     }
   ],
   "errors": []
