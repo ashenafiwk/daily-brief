@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-10T16:07:48.886Z",
-  "fetchedLabel": "Sep 10, 12:07 PM ET",
+  "fetched": "2026-09-10T19:12:06.792Z",
+  "fetchedLabel": "Sep 10, 3:12 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,596.44",
-      "chg": "-70.16",
-      "pct": "-0.92%",
+      "value": "7,588.84",
+      "chg": "-77.76",
+      "pct": "-1.01%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,114.17",
-      "chg": "-103.66",
-      "pct": "-0.40%",
+      "value": "26,077.18",
+      "chg": "-140.65",
+      "pct": "-0.54%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,050.80",
-      "chg": "-1011.15",
-      "pct": "-1.91%",
+      "value": "52,004.24",
+      "chg": "-1057.71",
+      "pct": "-1.99%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,899.72",
-      "chg": "-53.45",
-      "pct": "-1.81%",
+      "value": "2,889.91",
+      "chg": "-63.26",
+      "pct": "-2.14%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.92%",
-      "chg": "+0.16",
-      "pct": "+3.36%",
+      "value": "4.95%",
+      "chg": "+0.19",
+      "pct": "+3.91%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.57",
-      "chg": "+10.09",
-      "pct": "+11.03%",
+      "value": "$102.08",
+      "chg": "+10.60",
+      "pct": "+11.59%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,408.50",
-      "chg": "-21.30",
-      "pct": "-0.48%",
+      "value": "$4,362.10",
+      "chg": "-67.70",
+      "pct": "-1.53%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.37",
-      "chg": "+2.84",
-      "pct": "+19.55%",
+      "value": "17.71",
+      "chg": "+3.18",
+      "pct": "+21.89%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "SpaceX shares higher as data center overhaul, budding UK defense deal in focus",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-shares-higher-as-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T16:00:39.000Z"
+      "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
+      "url": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T19:07:00.000Z"
     },
     {
-      "title": "Expedia CEO: Despite record-high gas prices, 'people are still traveling'",
-      "url": "https://finance.yahoo.com/markets/article/expedia-ceo-despite-record-high-gas-prices-people-are-still-traveling-155635399.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:56:35.000Z"
-    },
-    {
-      "title": "Starbucks is back, CEO Brian Niccol says. Here is what he's focused on next",
-      "url": "https://www.cnbc.com/2026/09/10/starbucks-is-back-ceo-brian-niccol-says-here-is-what-hes-focused-on-next.html",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
       "source": "CNBC",
-      "when": "2026-09-10T15:55:58.000Z"
+      "when": "2026-09-10T19:02:58.000Z"
+    },
+    {
+      "title": "'Poverty doesn't have to be my reality': I thought I'd have to rely on Social Security. Then I taught myself how to invest.",
+      "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T19:00:00.000Z"
     },
     {
       "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
       "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
       "source": "CNBC",
-      "when": "2026-09-10T15:53:41.000Z"
+      "when": "2026-09-10T18:52:34.000Z"
     },
     {
-      "title": "Traders Are Paying More to Bet on Oracle Than to Protect Against It. Here's Why That Is Backwards",
-      "url": "https://finance.yahoo.com/markets/options/articles/traders-paying-more-bet-oracle-155036836.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:50:36.000Z"
-    },
-    {
-      "title": "Where Will Rocket Lab Stock Be by This Time Next Year?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/where-rocket-lab-stock-time-155000516.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:50:00.000Z"
-    },
-    {
-      "title": "Affordability takes center stage in North Carolina's pivotal Senate race",
-      "url": "https://www.cnbc.com/2026/09/10/north-carolina-senate-race-affordability-cooper-whatley.html",
+      "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
+      "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
       "source": "CNBC",
-      "when": "2026-09-10T15:49:37.000Z"
+      "when": "2026-09-10T18:47:08.000Z"
     },
     {
-      "title": "Why Designer Brands Stock Was Moving Higher Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-designer-brands-stock-moving-154926303.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:49:26.000Z"
-    },
-    {
-      "title": "Bitcoin Selling Pressure Drops to Historic Lows Amid Rebound",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-selling-pressure-drops-historic-154900460.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:49:00.000Z"
-    },
-    {
-      "title": "Trump administration proposes waiving grace period for H-1B holders after job loss",
-      "url": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:48:04.000Z"
-    },
-    {
-      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+      "title": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
       "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-10T15:48:00.000Z"
+      "when": "2026-09-10T18:37:00.000Z"
     },
     {
-      "title": "Nearly $350 Million in Bloom Energy Options Traded in One Session. Pelosi's Household Bought In Six Weeks Earlier.",
-      "url": "https://finance.yahoo.com/markets/options/articles/nearly-350-million-bloom-energy-154747579.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:47:47.000Z"
-    },
-    {
-      "title": "Drone Maker AeroVironment Soars With Analyst Targets After Earnings Beat",
-      "url": "https://www.investors.com/news/aerovironment-earnings-q1-2027-analyst-targets-drone-demand-avav-stock/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-10T15:46:51.000Z"
-    },
-    {
-      "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-      "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+      "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+      "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
       "source": "CNBC",
-      "when": "2026-09-10T15:46:35.000Z"
+      "when": "2026-09-10T18:34:16.000Z"
+    },
+    {
+      "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
+      "url": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
+      "source": "CNBC",
+      "when": "2026-09-10T18:30:08.000Z"
+    },
+    {
+      "title": "Here's a rapid-fire update on our 33-stock portfolio, including Cramer's 6 favorites to buy",
+      "url": "https://www.cnbc.com/2026/09/10/a-rapid-fire-update-on-our-33-stock-portfolio-including-6-to-buy-now.html",
+      "source": "CNBC",
+      "when": "2026-09-10T18:20:12.000Z"
+    },
+    {
+      "title": "The 30-year mortgage rate just crossed 7% for the first time in over a year",
+      "url": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T18:18:00.000Z"
+    },
+    {
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "source": "CNBC",
+      "when": "2026-09-10T18:17:48.000Z"
+    },
+    {
+      "title": "Elon Musk is pulling in even more cash. Meet his $23 billion underground venture.",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-pulling-in-even-more-cash-meet-his-23-billion-underground-venture-b7e1a24f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T18:16:00.000Z"
+    },
+    {
+      "title": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+      "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
+      "source": "CNBC",
+      "when": "2026-09-10T18:15:59.000Z"
+    },
+    {
+      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
+      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T18:00:00.000Z"
     }
   ],
   "errors": []
