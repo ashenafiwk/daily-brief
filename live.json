@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-09T23:05:12.696Z",
-  "fetchedLabel": "Sep 9, 7:05 PM ET",
+  "fetched": "2026-09-10T01:20:19.398Z",
+  "fetchedLabel": "Sep 9, 9:20 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.97",
-      "chg": "+5.67",
-      "pct": "+6.21%",
+      "value": "$96.64",
+      "chg": "+5.34",
+      "pct": "+5.85%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,442.80",
-      "chg": "-48.90",
-      "pct": "-1.09%",
+      "value": "$4,460.80",
+      "chg": "-30.90",
+      "pct": "-0.69%",
       "dir": "down"
     },
     {
@@ -60,6 +60,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Inside India newsletter: India's green push aims to boost energy security but exposes China dependency",
+      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "source": "CNBC",
+      "when": "2026-09-10T00:09:06.000Z"
+    },
+    {
+      "title": "Ant International partners with Visa, Mastercard on developing AI payments",
+      "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+      "source": "CNBC",
+      "when": "2026-09-10T00:00:33.000Z"
+    },
+    {
+      "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
+      "url": "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
+      "source": "CNBC",
+      "when": "2026-09-09T23:56:51.000Z"
+    },
     {
       "title": "Diesel prices hit another record high. If you're shocked, wait until you see your grocery bill.",
       "url": "https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-09T21:17:00.000Z"
-    },
-    {
-      "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
-      "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T21:16:00.000Z"
-    },
-    {
-      "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
-      "url": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
-      "source": "CNBC",
-      "when": "2026-09-09T21:14:49.000Z"
-    },
-    {
-      "title": "Oil's surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "url": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T20:36:00.000Z"
     }
   ],
   "errors": []
