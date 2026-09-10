@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-10T21:47:20.637Z",
-  "fetchedLabel": "Sep 10, 5:47 PM ET",
+  "fetched": "2026-09-10T23:52:01.806Z",
+  "fetchedLabel": "Sep 10, 7:52 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$103.93",
-      "chg": "+12.45",
-      "pct": "+13.61%",
+      "value": "$104.12",
+      "chg": "+12.64",
+      "pct": "+13.82%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,358.50",
-      "chg": "-71.30",
-      "pct": "-1.61%",
+      "value": "$4,355.40",
+      "chg": "-74.40",
+      "pct": "-1.68%",
       "dir": "down"
     },
     {
@@ -61,6 +61,48 @@
   ],
   "headlines": [
     {
+      "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
+      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
+      "source": "CNBC",
+      "when": "2026-09-10T23:44:01.000Z"
+    },
+    {
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery sh...",
+      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T22:54:00.000Z"
+    },
+    {
+      "title": "Jim Cramer says this is the key force driving stocks right now",
+      "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+      "source": "CNBC",
+      "when": "2026-09-10T22:46:54.000Z"
+    },
+    {
+      "title": "Want Apple's $1,999 foldable iPhone Duo? Here's what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T22:25:00.000Z"
+    },
+    {
+      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
+      "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T22:19:00.000Z"
+    },
+    {
+      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
+      "url": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T22:02:00.000Z"
+    },
+    {
+      "title": "Oracle's AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T21:55:00.000Z"
+    },
+    {
       "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
       "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
       "source": "CNBC",
@@ -71,12 +113,6 @@
       "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
       "source": "CNBC",
       "when": "2026-09-10T21:22:39.000Z"
-    },
-    {
-      "title": "Oracle's AI bet pays off as cloud momentum helps drive a rosier forecast",
-      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T21:22:00.000Z"
     },
     {
       "title": "Adobe's latest earnings leave Wall Street wanting more",
@@ -107,42 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/10/nfl-roger-goodell-tv-packages-deal.html",
       "source": "CNBC",
       "when": "2026-09-10T20:44:33.000Z"
-    },
-    {
-      "title": "Apple is walking a 'tightrope' when it comes to the prices of its new iPhones",
-      "url": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:40:00.000Z"
-    },
-    {
-      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here's what happened.",
-      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:39:00.000Z"
-    },
-    {
-      "title": "Why $500 checks won't help Americans facing 15% increases in Obamacare premiums next year",
-      "url": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:26:00.000Z"
-    },
-    {
-      "title": "Treasury yields surge after Bessent's beefed-up buyback operation fails to calm market",
-      "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:24:00.000Z"
-    },
-    {
-      "title": "How to create a 'forever paycheck' without paying for an annuity",
-      "url": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:13:00.000Z"
-    },
-    {
-      "title": "Stocks are sliding as this 'negative risk trinity' spooks investors",
-      "url": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T20:06:00.000Z"
     }
   ],
   "errors": []
