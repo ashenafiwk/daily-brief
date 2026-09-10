@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-10T01:20:19.398Z",
-  "fetchedLabel": "Sep 9, 9:20 PM ET",
+  "fetched": "2026-09-10T06:29:37.900Z",
+  "fetchedLabel": "Sep 10, 2:29 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.64",
-      "chg": "+5.34",
-      "pct": "+5.85%",
+      "value": "$95.60",
+      "chg": "+4.12",
+      "pct": "+4.50%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,460.80",
-      "chg": "-30.90",
-      "pct": "-0.69%",
-      "dir": "down"
+      "value": "$4,458.20",
+      "chg": "+28.40",
+      "pct": "+0.64%",
+      "dir": "up"
     },
     {
       "name": "VIX",
@@ -61,16 +61,64 @@
   ],
   "headlines": [
     {
-      "title": "Inside India newsletter: India's green push aims to boost energy security but exposes China dependency",
-      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+      "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
       "source": "CNBC",
-      "when": "2026-09-10T00:09:06.000Z"
+      "when": "2026-09-10T06:02:51.000Z"
+    },
+    {
+      "title": "World's largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
+      "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+      "source": "CNBC",
+      "when": "2026-09-10T05:47:52.000Z"
+    },
+    {
+      "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+      "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+      "source": "CNBC",
+      "when": "2026-09-10T05:24:52.000Z"
+    },
+    {
+      "title": "An ECB rate hike is 'all but certain' — but investors divided on what comes next",
+      "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-10T05:00:02.000Z"
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and 'DOGE' dividends last year that never c...",
+      "url": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T03:00:00.000Z"
+    },
+    {
+      "title": "Bessent's political turn in GOP speech tests his bond-market credibility",
+      "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+      "source": "CNBC",
+      "when": "2026-09-10T02:54:56.000Z"
+    },
+    {
+      "title": "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+      "url": "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+      "source": "CNBC",
+      "when": "2026-09-10T02:05:32.000Z"
+    },
+    {
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-10T02:04:00.000Z"
     },
     {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
       "url": "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
       "source": "CNBC",
-      "when": "2026-09-10T00:00:33.000Z"
+      "when": "2026-09-10T01:53:50.000Z"
+    },
+    {
+      "title": "Inside India newsletter: India's green push aims to boost energy security but exposes China dependency",
+      "url": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+      "source": "CNBC",
+      "when": "2026-09-10T00:09:06.000Z"
     },
     {
       "title": "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
@@ -95,54 +143,6 @@
       "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-09T22:30:00.000Z"
-    },
-    {
-      "title": "Home-insurance premiums just hit a record high. Here's where they spiked the most.",
-      "url": "https://www.marketwatch.com/story/home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-658ee4d9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T22:21:00.000Z"
-    },
-    {
-      "title": "Bessent's political turn in GOP speech tests his bond-market credibility",
-      "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
-      "source": "CNBC",
-      "when": "2026-09-09T22:20:16.000Z"
-    },
-    {
-      "title": "Hunter Biden's memecoin flops, falling 95% just hours after launch",
-      "url": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T22:02:00.000Z"
-    },
-    {
-      "title": "'We fear financial exploitation': Who will manage our finances if my wife and I become incapacitated?",
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T22:00:00.000Z"
-    },
-    {
-      "title": "Amazon adds cybersecurity veteran Kevin Mandia to board 2 years after he left Google",
-      "url": "https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html",
-      "source": "CNBC",
-      "when": "2026-09-09T21:45:34.000Z"
-    },
-    {
-      "title": "Conversations from Goldman Sachs' Communacopia: AI blowback, broadband and Disney's free tier",
-      "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-      "source": "CNBC",
-      "when": "2026-09-09T21:37:34.000Z"
-    },
-    {
-      "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
-      "url": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
-      "source": "CNBC",
-      "when": "2026-09-09T21:28:23.000Z"
-    },
-    {
-      "title": "The bull market's biggest enemy right now could be Bessent's interventions",
-      "url": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-09T21:17:00.000Z"
     }
   ],
   "errors": []
