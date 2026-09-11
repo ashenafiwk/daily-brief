@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-11T03:55:37.662Z",
-  "fetchedLabel": "Sep 10, 11:55 PM ET",
+  "fetched": "2026-09-11T08:48:54.859Z",
+  "fetchedLabel": "Sep 11, 4:48 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,87 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$103.08",
-      "chg": "+11.60",
-      "pct": "+12.68%",
+      "value": "$100.14",
+      "chg": "+7.11",
+      "pct": "+7.64%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,347.00",
-      "chg": "-82.80",
-      "pct": "-1.87%",
-      "dir": "down"
+      "value": "$4,396.40",
+      "chg": "+2.50",
+      "pct": "+0.06%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.84",
-      "chg": "+3.31",
-      "pct": "+22.78%",
+      "value": "17.41",
+      "chg": "+2.11",
+      "pct": "+13.79%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+      "source": "CNBC",
+      "when": "2026-09-11T08:44:52.000Z"
+    },
+    {
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+      "source": "CNBC",
+      "when": "2026-09-11T08:22:08.000Z"
+    },
+    {
+      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+      "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+      "source": "CNBC",
+      "when": "2026-09-11T08:13:05.000Z"
+    },
+    {
+      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
+      "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+      "source": "CNBC",
+      "when": "2026-09-11T07:43:24.000Z"
+    },
+    {
+      "title": "Traditional portfolio diversification isn't cutting it anymore. Here's where to pivot, says this $624 billion fund manager.",
+      "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T07:19:00.000Z"
+    },
+    {
+      "title": "Fintechs conquered payments in India. Now they're eyeing credit",
+      "url": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
+      "source": "CNBC",
+      "when": "2026-09-11T07:04:56.000Z"
+    },
+    {
+      "title": "Jamie Dimon joins bankers lobbying the UK ahead of its critical budget — here's why they're worried",
+      "url": "https://www.cnbc.com/2026/09/11/jamie-dimon-uk-autumn-budget.html",
+      "source": "CNBC",
+      "when": "2026-09-11T07:03:18.000Z"
+    },
+    {
+      "title": "China's wealthy brace for a widening tax net as Beijing closes in",
+      "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+      "source": "CNBC",
+      "when": "2026-09-11T06:53:06.000Z"
+    },
+    {
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "CNBC",
+      "when": "2026-09-11T06:02:40.000Z"
+    },
+    {
+      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+      "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+      "source": "CNBC",
+      "when": "2026-09-11T04:29:20.000Z"
+    },
     {
       "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
       "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
@@ -83,66 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
       "source": "CNBC",
       "when": "2026-09-11T01:55:53.000Z"
-    },
-    {
-      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-      "source": "CNBC",
-      "when": "2026-09-11T01:53:08.000Z"
-    },
-    {
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-      "source": "CNBC",
-      "when": "2026-09-11T01:43:57.000Z"
-    },
-    {
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-      "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-      "source": "CNBC",
-      "when": "2026-09-11T01:07:44.000Z"
-    },
-    {
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-      "source": "CNBC",
-      "when": "2026-09-11T00:59:45.000Z"
-    },
-    {
-      "title": "Oracle's AI bet pays off as cloud momentum helps drive a rosier forecast",
-      "url": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T00:19:00.000Z"
-    },
-    {
-      "title": "Adobe's latest earnings leave Wall Street wanting more",
-      "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T00:17:00.000Z"
-    },
-    {
-      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery sh...",
-      "url": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T22:54:00.000Z"
-    },
-    {
-      "title": "Jim Cramer says this is the key force driving stocks right now",
-      "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
-      "source": "CNBC",
-      "when": "2026-09-10T22:46:54.000Z"
-    },
-    {
-      "title": "Want Apple's $1,999 foldable iPhone Duo? Here's what T-Mobile, AT&T and Verizon are doing to lower the cost.",
-      "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T22:25:00.000Z"
-    },
-    {
-      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
-      "url": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-10T22:19:00.000Z"
     }
   ],
   "errors": []
