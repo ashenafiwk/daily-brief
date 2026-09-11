@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-11T08:48:54.859Z",
-  "fetchedLabel": "Sep 11, 4:48 AM ET",
+  "fetched": "2026-09-11T13:24:50.680Z",
+  "fetchedLabel": "Sep 11, 9:24 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "4.94%",
-      "chg": "+0.18",
-      "pct": "+3.82%",
+      "value": "4.92%",
+      "chg": "+0.14",
+      "pct": "+2.88%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.14",
-      "chg": "+7.11",
-      "pct": "+7.64%",
+      "value": "$99.05",
+      "chg": "+6.02",
+      "pct": "+6.47%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,396.40",
-      "chg": "+2.50",
-      "pct": "+0.06%",
+      "value": "$4,431.00",
+      "chg": "+37.10",
+      "pct": "+0.84%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.41",
-      "chg": "+2.11",
-      "pct": "+13.79%",
+      "value": "16.02",
+      "chg": "+0.72",
+      "pct": "+4.71%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
       "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
       "source": "CNBC",
-      "when": "2026-09-11T08:44:52.000Z"
+      "when": "2026-09-11T13:22:59.000Z"
+    },
+    {
+      "title": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
+      "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
+      "source": "CNBC",
+      "when": "2026-09-11T13:18:01.000Z"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/2026/09/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source": "CNBC",
+      "when": "2026-09-11T13:14:06.000Z"
+    },
+    {
+      "title": "Oracle jumps 7% after reporting 30% revenue growth fueled by AI cloud demand",
+      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+      "source": "CNBC",
+      "when": "2026-09-11T13:04:19.000Z"
+    },
+    {
+      "title": "Nonprofit received $2 million from Olivia Rodrigo and Melinda French Gates—it wants to give cash to abuse survivors",
+      "url": "https://www.cnbc.com/2026/09/11/abuse-survivors-nonprofit-got-2-million-at-olivia-rodrigos-festival.html",
+      "source": "CNBC",
+      "when": "2026-09-11T13:00:01.000Z"
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+      "source": "CNBC",
+      "when": "2026-09-11T12:57:56.000Z"
+    },
+    {
+      "title": "U.S. oil prices fall for first time in 2 weeks, providing a relief to stock investors",
+      "url": "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T12:53:00.000Z"
+    },
+    {
+      "title": "How Oracle shook off fears about AI spending, sending its stock higher",
+      "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T12:52:00.000Z"
+    },
+    {
+      "title": "The four reasons stocks could embark on a 'face-ripper rally' as soon as this morning",
+      "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T12:49:00.000Z"
+    },
+    {
+      "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+      "url": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+      "source": "CNBC",
+      "when": "2026-09-11T12:21:22.000Z"
     },
     {
       "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
       "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
       "source": "CNBC",
-      "when": "2026-09-11T08:22:08.000Z"
+      "when": "2026-09-11T12:08:57.000Z"
     },
     {
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-      "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-      "source": "CNBC",
-      "when": "2026-09-11T08:13:05.000Z"
-    },
-    {
-      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
-      "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
-      "source": "CNBC",
-      "when": "2026-09-11T07:43:24.000Z"
-    },
-    {
-      "title": "Traditional portfolio diversification isn't cutting it anymore. Here's where to pivot, says this $624 billion fund manager.",
-      "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+      "title": "'We fear financial exploitation': Who will manage our finances if my wife and I become incapacitated?",
+      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-11T07:19:00.000Z"
+      "when": "2026-09-11T12:00:00.000Z"
     },
     {
-      "title": "Fintechs conquered payments in India. Now they're eyeing credit",
-      "url": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
+      "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
+      "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
       "source": "CNBC",
-      "when": "2026-09-11T07:04:56.000Z"
+      "when": "2026-09-11T11:59:39.000Z"
     },
     {
-      "title": "Jamie Dimon joins bankers lobbying the UK ahead of its critical budget — here's why they're worried",
-      "url": "https://www.cnbc.com/2026/09/11/jamie-dimon-uk-autumn-budget.html",
-      "source": "CNBC",
-      "when": "2026-09-11T07:03:18.000Z"
-    },
-    {
-      "title": "China's wealthy brace for a widening tax net as Beijing closes in",
-      "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
-      "source": "CNBC",
-      "when": "2026-09-11T06:53:06.000Z"
-    },
-    {
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
-      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "source": "CNBC",
-      "when": "2026-09-11T06:02:40.000Z"
-    },
-    {
-      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-      "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-      "source": "CNBC",
-      "when": "2026-09-11T04:29:20.000Z"
-    },
-    {
-      "title": "China-Philippines tensions simmer after Beijing rebukes Manila over Seoul clash",
-      "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html",
-      "source": "CNBC",
-      "when": "2026-09-11T03:44:43.000Z"
-    },
-    {
-      "title": "Y Combinator's Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-      "url": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-      "source": "CNBC",
-      "when": "2026-09-11T03:39:17.000Z"
-    },
-    {
-      "title": "The iPhone Duo enters China's crowded foldable market — and faces a price test",
-      "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-      "source": "CNBC",
-      "when": "2026-09-11T02:05:24.000Z"
-    },
-    {
-      "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-      "url": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
-      "source": "CNBC",
-      "when": "2026-09-11T01:55:53.000Z"
+      "title": "Anthropic's safety-first image takes a hit ahead of its massive IPO: 'AI could kill all humans.'",
+      "url": "https://www.marketwatch.com/story/anthropics-safety-first-image-takes-a-hit-ahead-of-its-massive-ipo-ai-could-kill-all-humans-befd133d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T11:58:00.000Z"
     }
   ],
   "errors": []
