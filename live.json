@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-11T13:24:50.680Z",
-  "fetchedLabel": "Sep 11, 9:24 AM ET",
+  "fetched": "2026-09-11T17:06:31.627Z",
+  "fetchedLabel": "Sep 11, 1:06 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,591.70",
-      "chg": "-74.90",
-      "pct": "-0.98%",
+      "value": "7,669.69",
+      "chg": "-78.02",
+      "pct": "-1.01%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,081.73",
-      "chg": "-136.11",
-      "pct": "-0.52%",
+      "value": "26,380.78",
+      "chg": "-203.28",
+      "pct": "-0.76%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,064.10",
-      "chg": "-997.85",
-      "pct": "-1.88%",
+      "value": "52,638.47",
+      "chg": "-1047.64",
+      "pct": "-1.95%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,890.95",
-      "chg": "-62.22",
-      "pct": "-2.11%",
+      "value": "2,909.54",
+      "chg": "-58.73",
+      "pct": "-1.98%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.92%",
-      "chg": "+0.14",
-      "pct": "+2.88%",
+      "value": "4.95%",
+      "chg": "+0.17",
+      "pct": "+3.47%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.05",
-      "chg": "+6.02",
-      "pct": "+6.47%",
+      "value": "$100.11",
+      "chg": "+7.08",
+      "pct": "+7.61%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,431.00",
-      "chg": "+37.10",
-      "pct": "+0.84%",
+      "value": "$4,404.00",
+      "chg": "+10.10",
+      "pct": "+0.23%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "16.02",
-      "chg": "+0.72",
-      "pct": "+4.71%",
+      "value": "15.76",
+      "chg": "+0.46",
+      "pct": "+3.01%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "source": "CNBC",
-      "when": "2026-09-11T13:22:59.000Z"
-    },
-    {
-      "title": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
-      "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-      "source": "CNBC",
-      "when": "2026-09-11T13:18:01.000Z"
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
-      "url": "https://www.cnbc.com/2026/09/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "source": "CNBC",
-      "when": "2026-09-11T13:14:06.000Z"
-    },
-    {
-      "title": "Oracle jumps 7% after reporting 30% revenue growth fueled by AI cloud demand",
-      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-      "source": "CNBC",
-      "when": "2026-09-11T13:04:19.000Z"
-    },
-    {
-      "title": "Nonprofit received $2 million from Olivia Rodrigo and Melinda French Gates—it wants to give cash to abuse survivors",
-      "url": "https://www.cnbc.com/2026/09/11/abuse-survivors-nonprofit-got-2-million-at-olivia-rodrigos-festival.html",
-      "source": "CNBC",
-      "when": "2026-09-11T13:00:01.000Z"
-    },
-    {
-      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
-      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
-      "source": "CNBC",
-      "when": "2026-09-11T12:57:56.000Z"
-    },
-    {
-      "title": "U.S. oil prices fall for first time in 2 weeks, providing a relief to stock investors",
-      "url": "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
+      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here's what happened.",
+      "url": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-11T12:53:00.000Z"
+      "when": "2026-09-11T17:01:00.000Z"
     },
     {
-      "title": "How Oracle shook off fears about AI spending, sending its stock higher",
-      "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T12:52:00.000Z"
-    },
-    {
-      "title": "The four reasons stocks could embark on a 'face-ripper rally' as soon as this morning",
-      "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T12:49:00.000Z"
-    },
-    {
-      "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-      "url": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+      "title": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
+      "url": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
       "source": "CNBC",
-      "when": "2026-09-11T12:21:22.000Z"
+      "when": "2026-09-11T17:00:48.000Z"
+    },
+    {
+      "title": "I went to Caracas for Venezuela's new oil deals. Here's what stood out",
+      "url": "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
+      "source": "CNBC",
+      "when": "2026-09-11T16:59:05.000Z"
+    },
+    {
+      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+      "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+      "source": "CNBC",
+      "when": "2026-09-11T16:50:55.000Z"
+    },
+    {
+      "title": "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rate-hike-basically-locked-stock-164529292.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-11T16:45:29.000Z"
+    },
+    {
+      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T16:45:00.000Z"
+    },
+    {
+      "title": "The Better Nvidia Killer: Broadcom or AMD?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-nvidia-killer-broadcom-amd-164012177.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-11T16:40:12.000Z"
+    },
+    {
+      "title": "This Oil Stock Sails Near Entry, Profits Soar 452% As Strait of Hormuz Crisis Flares Up",
+      "url": "https://www.investors.com/stock-lists/stock-spotlight/oil-stock-torm-trmd-profit-growth-strait-of-hormuz-crisis-markets/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-11T16:39:42.000Z"
     },
     {
       "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
       "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
       "source": "CNBC",
-      "when": "2026-09-11T12:08:57.000Z"
+      "when": "2026-09-11T16:35:51.000Z"
     },
     {
-      "title": "'We fear financial exploitation': Who will manage our finances if my wife and I become incapacitated?",
-      "url": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T12:00:00.000Z"
+      "title": "Forget NuScale: This Nuclear Energy Stock Is the Smarter Bet Right Now",
+      "url": "https://finance.yahoo.com/energy/articles/forget-nuscale-nuclear-energy-stock-163500644.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-11T16:35:00.000Z"
     },
     {
-      "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
-      "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
+      "title": "AI regulation calls grow in DC after researcher's extinction warning",
+      "url": "https://www.cnbc.com/2026/09/11/ai-regulation-anthropic-researcher-extinction-warning.html",
       "source": "CNBC",
-      "when": "2026-09-11T11:59:39.000Z"
+      "when": "2026-09-11T16:34:26.000Z"
     },
     {
-      "title": "Anthropic's safety-first image takes a hit ahead of its massive IPO: 'AI could kill all humans.'",
-      "url": "https://www.marketwatch.com/story/anthropics-safety-first-image-takes-a-hit-ahead-of-its-massive-ipo-ai-could-kill-all-humans-befd133d?mod=mw_rss_topstories",
+      "title": "I'm locked into a 10-year annuity and now I'm strapped for cash. What are my options?",
+      "url": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-11T11:58:00.000Z"
+      "when": "2026-09-11T16:34:00.000Z"
+    },
+    {
+      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
+      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+      "source": "CNBC",
+      "when": "2026-09-11T16:33:46.000Z"
+    },
+    {
+      "title": "Your Social Security check could go up another $71 next year. That's not necessarily good news.",
+      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T16:32:00.000Z"
     }
   ],
   "errors": []
