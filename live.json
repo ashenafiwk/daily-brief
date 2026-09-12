@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-11T22:27:42.516Z",
-  "fetchedLabel": "Sep 11, 6:27 PM ET",
+  "fetched": "2026-09-12T00:33:15.138Z",
+  "fetchedLabel": "Sep 11, 8:33 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,22 @@
   ],
   "headlines": [
     {
-      "title": "Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion",
-      "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+      "title": "The Fed could raise interest rates three times. Here's where the market could face the stiffest test.",
+      "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-11T23:54:00.000Z"
+    },
+    {
+      "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+      "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
       "source": "CNBC",
-      "when": "2026-09-11T22:11:10.000Z"
+      "when": "2026-09-11T22:42:14.000Z"
+    },
+    {
+      "title": "Cramer's week ahead: Falling oil could help stocks but Fed is the next big test",
+      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+      "source": "CNBC",
+      "when": "2026-09-11T22:35:09.000Z"
     },
     {
       "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
@@ -131,18 +143,6 @@
       "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-11T20:30:00.000Z"
-    },
-    {
-      "title": "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
-      "url": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
-      "source": "CNBC",
-      "when": "2026-09-11T20:21:01.000Z"
-    },
-    {
-      "title": "Your Social Security COLA could go up another $71 a month in 2027. That's not necessarily good news.",
-      "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T20:08:00.000Z"
     }
   ],
   "errors": []
