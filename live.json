@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-12T00:33:15.138Z",
-  "fetchedLabel": "Sep 11, 8:33 PM ET",
+  "fetched": "2026-09-12T05:30:58.932Z",
+  "fetchedLabel": "Sep 12, 1:30 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.99",
-      "chg": "+6.96",
-      "pct": "+7.48%",
+      "value": "$100.05",
+      "chg": "+7.02",
+      "pct": "+7.55%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,390.00",
-      "chg": "-3.90",
-      "pct": "-0.09%",
-      "dir": "down"
+      "value": "$4,408.90",
+      "chg": "+15.00",
+      "pct": "+0.34%",
+      "dir": "up"
     },
     {
       "name": "VIX",
