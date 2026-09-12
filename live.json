@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-12T05:30:58.932Z",
-  "fetchedLabel": "Sep 12, 1:30 AM ET",
+  "fetched": "2026-09-12T10:23:35.991Z",
+  "fetchedLabel": "Sep 12, 6:23 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,30 @@
   ],
   "headlines": [
     {
+      "title": "Best CD rates today, Saturday, September 12, 2026: Lock in up to 4.35% APY with an 18-month CD",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-12-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000342.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Saturday, September 12, 2026: Mortgage rates up for the second straight day",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-12-2026-mortgage-rates-up-for-the-second-straight-day-100000822.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-12T10:00:00.000Z"
+    },
+    {
+      "title": "Tehran won't surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+      "source": "CNBC",
+      "when": "2026-09-12T08:44:39.000Z"
+    },
+    {
+      "title": "Trump's America-first world is pushing other powers to hedge their bets",
+      "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-12T06:25:50.000Z"
+    },
+    {
       "title": "The Fed could raise interest rates three times. Here's where the market could face the stiffest test.",
       "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-11T20:45:00.000Z"
-    },
-    {
-      "title": "Salesforce's stock has been riding a wave of AI optimism. Here's what Wall Street wants to see next.",
-      "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T20:44:00.000Z"
-    },
-    {
-      "title": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
-      "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
-      "source": "CNBC",
-      "when": "2026-09-11T20:37:09.000Z"
-    },
-    {
-      "title": "I'm a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T20:30:00.000Z"
-    },
-    {
-      "title": "Why Dell and HPE were the S&P 500's top-performing stocks today",
-      "url": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-11T20:30:00.000Z"
     }
   ],
   "errors": []
