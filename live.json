@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-13T04:07:40.094Z",
-  "fetchedLabel": "Sep 13, 12:07 AM ET",
+  "fetched": "2026-09-13T09:40:23.440Z",
+  "fetchedLabel": "Sep 13, 5:40 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -97,6 +97,12 @@
       "when": "2026-09-12T16:01:00.000Z"
     },
     {
+      "title": "Indian Prime Minister Modi says border peace is key to India-China ties",
+      "url": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+      "source": "CNBC",
+      "when": "2026-09-12T15:12:56.000Z"
+    },
+    {
       "title": "'I'm the executor': My two siblings and I inherited an IRA. Can we just cash it out?",
       "url": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
       "source": "CNBC",
       "when": "2026-09-12T13:20:04.000Z"
-    },
-    {
-      "title": "Tehran won't surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-      "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-      "source": "CNBC",
-      "when": "2026-09-12T13:15:04.000Z"
     }
   ],
   "errors": []
