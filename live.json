@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-13T20:33:19.473Z",
-  "fetchedLabel": "Sep 13, 4:33 PM ET",
+  "fetched": "2026-09-13T23:01:19.252Z",
+  "fetchedLabel": "Sep 13, 7:01 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.05",
-      "chg": "+7.02",
-      "pct": "+7.55%",
+      "value": "$102.27",
+      "chg": "+9.24",
+      "pct": "+9.93%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,408.90",
-      "chg": "+15.00",
-      "pct": "+0.34%",
-      "dir": "up"
+      "value": "$4,376.40",
+      "chg": "-17.50",
+      "pct": "-0.40%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "This simple mistake can give your money to the wrong person when you die. Here's how to protect your estate.",
-      "url": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-13T20:30:00.000Z"
+      "title": "Can a $780,000 Portfolio Really Pay $4,750 a Month Without Touching Principal?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/780-000-portfolio-really-pay-224333678.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-13T22:43:33.000Z"
     },
     {
-      "title": "How to trade a well-paying job for more work-life balance — without going broke",
-      "url": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-13T20:17:00.000Z"
-    },
-    {
-      "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T20:06:05.000Z"
+      "when": "2026-09-13T22:35:12.000Z"
     },
     {
-      "title": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO. Here's How That Reshaped Sharehold...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-bought-back-more-880-200500810.html",
+      "title": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T20:05:00.000Z"
+      "when": "2026-09-13T22:34:01.000Z"
     },
     {
-      "title": "Hewlett Packard Enterprise Raises 2027 Outlook as AI Networking Demand Surges",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-raises-2027-200203891.html",
+      "title": "Ray Dalio Says Interest Costs Are Crowding Out Everything Else—Here's His Three-Year Warning",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-interest-costs-222107955.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T20:02:03.000Z"
+      "when": "2026-09-13T22:21:07.000Z"
     },
     {
-      "title": "Jim Cramer Says a 25% Surtax Just Got Added to Everything You Buy. Congress Never Voted on It.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-25-surtax-200018478.html",
+      "title": "I'm 61 Years Old With $200,000 Saved for Retirement. What's My Game Plan?",
+      "url": "https://finance.yahoo.com/news/m-61-years-old-200-171222070.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T20:00:18.000Z"
+      "when": "2026-09-13T22:20:13.000Z"
     },
     {
-      "title": "Is Chewy's (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html",
+      "title": "Down 50% Over the Past Year, Is It Time to Back Up the Truck and Buy Oracle Stock as Revenue Surges?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-time-222000073.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:57:17.000Z"
+      "when": "2026-09-13T22:20:00.000Z"
     },
     {
-      "title": "The future of retirement? Work until you die.",
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-13T19:56:00.000Z"
-    },
-    {
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-13T19:55:00.000Z"
-    },
-    {
-      "title": "Should You Buy Bristol Myers Squibb Stock Right Now for the Yield Alone?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-bristol-myers-squibb-stock-195300266.html",
+      "title": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:53:00.000Z"
+      "when": "2026-09-13T21:58:16.000Z"
     },
     {
-      "title": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
+      "title": "Data Center IPO Wave Reveals A Variety Of New Strategies In Booming Sector",
+      "url": "https://finance.yahoo.com/real-estate/articles/data-center-ipo-wave-reveals-215318276.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:46:22.000Z"
+      "when": "2026-09-13T21:53:18.000Z"
     },
     {
-      "title": "Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-delivered-51-jets-august-194600293.html",
+      "title": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split Stock ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-next-big-market-artificial-215000090.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:46:00.000Z"
+      "when": "2026-09-13T21:50:00.000Z"
     },
     {
-      "title": "Airbnb's CEO Says AI Is the Best Thing That Ever Happened to His Company. Here's Why",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-ceo-says-ai-best-194029825.html",
+      "title": "Adobe's user growth is soaring, but its stock rating isn't",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobes-user-growth-soaring-stock-214700533.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:40:29.000Z"
+      "when": "2026-09-13T21:47:00.000Z"
     },
     {
-      "title": "How a 62-Year-Old Who Just Got Laid Off Turned $990,000 Into a $6,900 Monthly Paycheck",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/62-old-just-got-laid-193913715.html",
+      "title": "State Street XLV vs. iShares IXJ: Here's How These Healthcare ETFs Stack Up for Investors",
+      "url": "https://finance.yahoo.com/healthcare/articles/state-street-xlv-vs-ishares-214442363.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-13T19:39:13.000Z"
+      "when": "2026-09-13T21:44:42.000Z"
+    },
+    {
+      "title": "This Dating App's Shares Have Crashed 96% Since IPO, Yet Blackstone Nearly Doubled Its Money — Now the PE Giant Is Swiping Left...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dating-apps-shares-crashed-96-213049604.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-13T21:30:49.000Z"
+    },
+    {
+      "title": "Insight Partners' Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "url": "https://finance.yahoo.com/technology/ai/articles/insight-partners-devin-parekh-why-213000661.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-13T21:30:00.000Z"
+    },
+    {
+      "title": "A $100 Monthly Investment in VGT Could Grow Into This Over 20 Years",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/100-monthly-investment-vgt-could-212000615.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-13T21:20:00.000Z"
     }
   ],
   "errors": []
