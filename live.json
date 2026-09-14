@@ -1,33 +1,33 @@
 {
-  "fetched": "2026-09-14T19:07:30.784Z",
-  "fetchedLabel": "Sep 14, 3:07 PM ET",
+  "fetched": "2026-09-14T22:39:45.965Z",
+  "fetchedLabel": "Sep 14, 6:39 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,630.76",
-      "chg": "-87.84",
-      "pct": "-1.14%",
+      "value": "7,619.98",
+      "chg": "-98.62",
+      "pct": "-1.28%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,257.09",
-      "chg": "-249.90",
-      "pct": "-0.94%",
+      "value": "26,186.41",
+      "chg": "-320.58",
+      "pct": "-1.21%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,458.55",
-      "chg": "-955.70",
-      "pct": "-1.79%",
+      "value": "52,421.20",
+      "chg": "-993.05",
+      "pct": "-1.86%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,899.07",
-      "chg": "-76.58",
-      "pct": "-2.57%",
+      "value": "2,892.24",
+      "chg": "-83.41",
+      "pct": "-2.80%",
       "dir": "down"
     },
     {
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.93",
-      "chg": "+4.88",
-      "pct": "+5.08%",
+      "value": "$101.95",
+      "chg": "+5.90",
+      "pct": "+6.14%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,346.30",
-      "chg": "-69.70",
-      "pct": "-1.58%",
+      "value": "$4,336.10",
+      "chg": "-79.90",
+      "pct": "-1.81%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.72",
-      "chg": "+1.00",
-      "pct": "+6.36%",
+      "value": "17.10",
+      "chg": "+1.38",
+      "pct": "+8.78%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "'He does not have a spouse or children': My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T19:01:00.000Z"
+      "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+      "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-14T22:18:56.000Z"
     },
     {
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "source": "CNBC",
+      "when": "2026-09-14T22:14:52.000Z"
+    },
+    {
+      "title": "The murky AI milestone that has some of the industry's leading voices increasingly on edge",
+      "url": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T21:57:00.000Z"
+    },
+    {
+      "title": "Trump phones Nvidia's Huang at All-In Summit, calls data center opposition a 'hoax'",
+      "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+      "source": "CNBC",
+      "when": "2026-09-14T21:32:03.000Z"
+    },
+    {
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T21:31:00.000Z"
+    },
+    {
+      "title": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks",
+      "url": "https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html",
+      "source": "CNBC",
+      "when": "2026-09-14T21:26:56.000Z"
+    },
+    {
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
       "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
       "source": "CNBC",
-      "when": "2026-09-14T18:59:33.000Z"
+      "when": "2026-09-14T21:15:56.000Z"
+    },
+    {
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T21:11:00.000Z"
+    },
+    {
+      "title": "Chip stocks were a safe AI play. Now they've turned into the market's pain trade.",
+      "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T21:11:00.000Z"
+    },
+    {
+      "title": "I want to pay for every customer at my late husband's favorite restaurant on his birthday. Am I crazy to do this?",
+      "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T21:00:00.000Z"
+    },
+    {
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "source": "CNBC",
+      "when": "2026-09-14T20:56:15.000Z"
+    },
+    {
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here's what to know.",
+      "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T20:56:00.000Z"
     },
     {
       "title": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
       "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
       "source": "CNBC",
-      "when": "2026-09-14T18:56:26.000Z"
+      "when": "2026-09-14T20:54:48.000Z"
     },
     {
-      "title": "Oil prices rise after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+      "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
       "source": "CNBC",
-      "when": "2026-09-14T18:55:38.000Z"
-    },
-    {
-      "title": "What Amodei's AI slowdown could mean for Anthropic's imminent IPO",
-      "url": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-      "source": "CNBC",
-      "when": "2026-09-14T18:54:51.000Z"
-    },
-    {
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-      "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-      "source": "CNBC",
-      "when": "2026-09-14T18:50:32.000Z"
-    },
-    {
-      "title": "Is a 'SaaSpocalypse'-like sell-off coming for AI hardware stocks? Not so fast",
-      "url": "https://www.cnbc.com/2026/09/14/is-a-saaspocalypse-like-sell-off-coming-for-ai-hardware-stocks-not-so-fast.html",
-      "source": "CNBC",
-      "when": "2026-09-14T18:43:44.000Z"
-    },
-    {
-      "title": "30-year mortgage rate jumps to 7.17% — a nearly 2-year high — in the latest blow to the housing market",
-      "url": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T18:42:00.000Z"
-    },
-    {
-      "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-      "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
-      "source": "CNBC",
-      "when": "2026-09-14T18:39:08.000Z"
-    },
-    {
-      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-      "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T18:37:00.000Z"
-    },
-    {
-      "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a 'sick conspiracy'",
-      "url": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T18:32:00.000Z"
-    },
-    {
-      "title": "The next Social Security 'COLA' could be the biggest in five years. It's no cause for celebration.",
-      "url": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T18:27:00.000Z"
-    },
-    {
-      "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
-      "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-      "source": "CNBC",
-      "when": "2026-09-14T18:21:45.000Z"
-    },
-    {
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T18:20:00.000Z"
+      "when": "2026-09-14T20:48:26.000Z"
     }
   ],
   "errors": []
