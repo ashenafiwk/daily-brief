@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-14T22:39:45.965Z",
-  "fetchedLabel": "Sep 14, 6:39 PM ET",
+  "fetched": "2026-09-15T01:16:57.914Z",
+  "fetchedLabel": "Sep 14, 9:16 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.95",
-      "chg": "+5.90",
-      "pct": "+6.14%",
+      "value": "$102.55",
+      "chg": "+6.50",
+      "pct": "+6.77%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,336.10",
-      "chg": "-79.90",
-      "pct": "-1.81%",
+      "value": "$4,334.10",
+      "chg": "-81.90",
+      "pct": "-1.85%",
       "dir": "down"
     },
     {
@@ -61,16 +61,70 @@
   ],
   "headlines": [
     {
+      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+      "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+      "source": "CNBC",
+      "when": "2026-09-15T00:48:36.000Z"
+    },
+    {
+      "title": "'He does not have a spouse or children': My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-15T00:15:00.000Z"
+    },
+    {
+      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-15T00:01:00.000Z"
+    },
+    {
+      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+      "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+      "source": "CNBC",
+      "when": "2026-09-14T23:30:02.000Z"
+    },
+    {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-14T23:19:00.000Z"
+    },
+    {
+      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "source": "CNBC",
+      "when": "2026-09-14T23:08:41.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+      "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+      "source": "CNBC",
+      "when": "2026-09-14T23:00:01.000Z"
+    },
+    {
+      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+      "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+      "source": "CNBC",
+      "when": "2026-09-14T22:43:25.000Z"
+    },
+    {
+      "title": "Mitch McConnell returns to Senate after three-month health absence",
+      "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
+      "source": "CNBC",
+      "when": "2026-09-14T22:23:38.000Z"
+    },
+    {
       "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
       "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
       "source": "CNBC",
       "when": "2026-09-14T22:18:56.000Z"
     },
     {
-      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "title": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
+      "url": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
       "source": "CNBC",
-      "when": "2026-09-14T22:14:52.000Z"
+      "when": "2026-09-14T22:15:58.000Z"
     },
     {
       "title": "The murky AI milestone that has some of the industry's leading voices increasingly on edge",
@@ -89,60 +143,6 @@
       "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-14T21:31:00.000Z"
-    },
-    {
-      "title": "Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks",
-      "url": "https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html",
-      "source": "CNBC",
-      "when": "2026-09-14T21:26:56.000Z"
-    },
-    {
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-      "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-      "source": "CNBC",
-      "when": "2026-09-14T21:15:56.000Z"
-    },
-    {
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T21:11:00.000Z"
-    },
-    {
-      "title": "Chip stocks were a safe AI play. Now they've turned into the market's pain trade.",
-      "url": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T21:11:00.000Z"
-    },
-    {
-      "title": "I want to pay for every customer at my late husband's favorite restaurant on his birthday. Am I crazy to do this?",
-      "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T21:00:00.000Z"
-    },
-    {
-      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
-      "source": "CNBC",
-      "when": "2026-09-14T20:56:15.000Z"
-    },
-    {
-      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here's what to know.",
-      "url": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T20:56:00.000Z"
-    },
-    {
-      "title": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
-      "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
-      "source": "CNBC",
-      "when": "2026-09-14T20:54:48.000Z"
-    },
-    {
-      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-      "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
-      "source": "CNBC",
-      "when": "2026-09-14T20:48:26.000Z"
     }
   ],
   "errors": []
