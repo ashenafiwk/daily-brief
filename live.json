@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-15T06:32:56.999Z",
-  "fetchedLabel": "Sep 15, 2:32 AM ET",
+  "fetched": "2026-09-15T12:32:45.145Z",
+  "fetchedLabel": "Sep 15, 8:32 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -33,116 +33,116 @@
     {
       "name": "10Y Treasury",
       "value": "4.96%",
-      "chg": "+0.16",
-      "pct": "+3.23%",
+      "chg": "+0.12",
+      "pct": "+2.56%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$103.10",
-      "chg": "+0.62",
-      "pct": "+0.60%",
+      "value": "$102.94",
+      "chg": "+0.46",
+      "pct": "+0.45%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,330.60",
-      "chg": "-33.90",
-      "pct": "-0.78%",
+      "value": "$4,312.50",
+      "chg": "-94.80",
+      "pct": "-2.15%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.10",
-      "chg": "+1.38",
-      "pct": "+8.78%",
+      "value": "17.00",
+      "chg": "+0.54",
+      "pct": "+3.28%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Pentagon reveals $33.4 billion Iran war bill and 'strategic' weapons shortfalls",
-      "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "title": "Santoli: The youthful phase of AI is over. What it means for investors",
+      "url": "https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html",
       "source": "CNBC",
-      "when": "2026-09-15T06:31:10.000Z"
+      "when": "2026-09-15T12:32:02.000Z"
     },
     {
       "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
       "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "source": "CNBC",
-      "when": "2026-09-15T06:26:51.000Z"
+      "when": "2026-09-15T12:31:43.000Z"
     },
     {
-      "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
-      "url": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
-      "source": "CNBC",
-      "when": "2026-09-15T05:45:35.000Z"
-    },
-    {
-      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
-      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
-      "source": "CNBC",
-      "when": "2026-09-15T05:41:14.000Z"
-    },
-    {
-      "title": "Oil and Treasury yields haven't moved this closely in seven years. That's bad news for markets",
-      "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-      "source": "CNBC",
-      "when": "2026-09-15T05:22:57.000Z"
-    },
-    {
-      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
-      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-      "source": "CNBC",
-      "when": "2026-09-15T04:41:36.000Z"
-    },
-    {
-      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-      "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
-      "source": "CNBC",
-      "when": "2026-09-15T01:32:26.000Z"
-    },
-    {
-      "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
-      "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-      "source": "CNBC",
-      "when": "2026-09-15T00:48:36.000Z"
-    },
-    {
-      "title": "'He does not have a spouse or children': My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
       "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-15T00:15:00.000Z"
+      "when": "2026-09-15T12:31:00.000Z"
     },
     {
-      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+      "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+      "source": "CNBC",
+      "when": "2026-09-15T12:29:01.000Z"
+    },
+    {
+      "title": "Potential AI slowdown is not 'end of the world' for data center real estate, says Digital Realty CEO",
+      "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+      "source": "CNBC",
+      "when": "2026-09-15T12:28:15.000Z"
+    },
+    {
+      "title": "Wells Fargo just cuts its S&P 500 price target. Will others follow?",
+      "url": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-15T00:01:00.000Z"
+      "when": "2026-09-15T12:26:00.000Z"
     },
     {
-      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
-      "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+      "title": "10-year Treasury yield hits highest level since 2007",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-121942773.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:19:42.000Z"
+    },
+    {
+      "title": "APA Group selects UGL for Sybella Creek solar and BESS project",
+      "url": "https://finance.yahoo.com/energy/articles/apa-group-selects-ugl-sybella-121808177.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:18:08.000Z"
+    },
+    {
+      "title": "U.S. confirms for first time it has weapons deployed in space",
+      "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
       "source": "CNBC",
-      "when": "2026-09-14T23:30:02.000Z"
+      "when": "2026-09-15T12:15:22.000Z"
     },
     {
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "url": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T23:19:00.000Z"
+      "title": "Lucid vs. RTX: Which Stock Is a Better Buy in 2026?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-vs-rtx-stock-better-121100595.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:11:00.000Z"
     },
     {
-      "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
-      "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
-      "source": "CNBC",
-      "when": "2026-09-14T23:00:01.000Z"
+      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:09:46.000Z"
     },
     {
-      "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
-      "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
-      "source": "CNBC",
-      "when": "2026-09-14T22:43:25.000Z"
+      "title": "Fed rate hike expected Wednesday under Kevin Warsh",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-expected-wednesday-120945216.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:09:45.000Z"
+    },
+    {
+      "title": "Six Anthropic cofounders join Forbes 400 at $15.5 billion each",
+      "url": "https://finance.yahoo.com/technology/ai/articles/six-anthropic-cofounders-join-forbes-120704125.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:07:04.000Z"
+    },
+    {
+      "title": "Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns",
+      "url": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T12:06:28.000Z"
     }
   ],
   "errors": []
