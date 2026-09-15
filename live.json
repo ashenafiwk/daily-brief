@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-15T12:32:45.145Z",
-  "fetchedLabel": "Sep 15, 8:32 AM ET",
+  "fetched": "2026-09-15T17:34:19.094Z",
+  "fetchedLabel": "Sep 15, 1:34 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,619.98",
-      "chg": "-98.62",
-      "pct": "-1.28%",
+      "value": "7,583.00",
+      "chg": "-90.52",
+      "pct": "-1.18%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,186.41",
-      "chg": "-320.58",
-      "pct": "-1.21%",
+      "value": "25,979.82",
+      "chg": "-441.59",
+      "pct": "-1.67%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,421.20",
-      "chg": "-993.05",
-      "pct": "-1.86%",
+      "value": "51,992.22",
+      "chg": "-793.85",
+      "pct": "-1.50%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,892.24",
-      "chg": "-83.41",
-      "pct": "-2.80%",
+      "value": "2,870.33",
+      "chg": "-89.87",
+      "pct": "-3.04%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.96%",
-      "chg": "+0.12",
-      "pct": "+2.56%",
+      "value": "5.01%",
+      "chg": "+0.17",
+      "pct": "+3.58%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.94",
-      "chg": "+0.46",
-      "pct": "+0.45%",
+      "value": "$106.46",
+      "chg": "+3.98",
+      "pct": "+3.88%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,312.50",
-      "chg": "-94.80",
-      "pct": "-2.15%",
+      "value": "$4,333.30",
+      "chg": "-74.00",
+      "pct": "-1.68%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.00",
-      "chg": "+0.54",
-      "pct": "+3.28%",
+      "value": "17.66",
+      "chg": "+1.20",
+      "pct": "+7.29%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Santoli: The youthful phase of AI is over. What it means for investors",
-      "url": "https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html",
-      "source": "CNBC",
-      "when": "2026-09-15T12:32:02.000Z"
-    },
-    {
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
       "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "source": "CNBC",
-      "when": "2026-09-15T12:31:43.000Z"
+      "when": "2026-09-15T17:33:27.000Z"
     },
     {
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "title": "Bitcoin, crypto stocks slip ahead of CLARITY Act, Fed decision",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crypto-stocks-slip-ahead-172816102.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:28:16.000Z"
+    },
+    {
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:26:03.000Z"
+    },
+    {
+      "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
+      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+      "source": "CNBC",
+      "when": "2026-09-15T17:24:49.000Z"
+    },
+    {
+      "title": "Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
+      "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
+      "source": "CNBC",
+      "when": "2026-09-15T17:22:06.000Z"
+    },
+    {
+      "title": "Jim Cramer Validates Caller's $1,400 Micron (MU) Thesis, Doubles Down on Charitable Trust Position",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-validates-caller-1-172138438.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:21:38.000Z"
+    },
+    {
+      "title": "Oil prices surge past $108 as Saudi pipeline shutdown continues",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-surge-past-108-171815703.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:18:15.000Z"
+    },
+    {
+      "title": "AI stocks are rebounding. One analyst says there's no spending slowdown in sight.",
+      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-15T12:31:00.000Z"
+      "when": "2026-09-15T17:18:00.000Z"
     },
     {
-      "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+      "title": "What American Eagle's (AEO) Q2 Numbers Say Beyond the Tariff Refund Boost",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-q2-numbers-171745773.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:17:45.000Z"
+    },
+    {
+      "title": "IBD Stock Of The Day Scorpio Tankers Sails Toward Buy Point As Oil-Needy World Seeks Its Services",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/scorpio-tankers-stock-buy-point/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:17:24.000Z"
+    },
+    {
+      "title": "\"SpaceX Has To Buy It. Period. End Of Story.\" Cramer's Answer For Tesla, Down 19.97% This Year.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-buy-period-end-story-171652833.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:16:52.000Z"
+    },
+    {
+      "title": "Why Meta's $2.4 Billion Legal Tab Could Explode Into a National Regulatory Nightmare",
+      "url": "https://finance.yahoo.com/media-advertising/articles/why-meta-2-4-billion-171531616.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-15T17:15:31.000Z"
+    },
+    {
+      "title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+      "url": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+      "source": "CNBC",
+      "when": "2026-09-15T17:12:34.000Z"
+    },
+    {
+      "title": "Scott Bessent defends Treasury intervention, Trump economy in contentious House hearing",
       "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
       "source": "CNBC",
-      "when": "2026-09-15T12:29:01.000Z"
-    },
-    {
-      "title": "Potential AI slowdown is not 'end of the world' for data center real estate, says Digital Realty CEO",
-      "url": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
-      "source": "CNBC",
-      "when": "2026-09-15T12:28:15.000Z"
-    },
-    {
-      "title": "Wells Fargo just cuts its S&P 500 price target. Will others follow?",
-      "url": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T12:26:00.000Z"
-    },
-    {
-      "title": "10-year Treasury yield hits highest level since 2007",
-      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-121942773.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:19:42.000Z"
-    },
-    {
-      "title": "APA Group selects UGL for Sybella Creek solar and BESS project",
-      "url": "https://finance.yahoo.com/energy/articles/apa-group-selects-ugl-sybella-121808177.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:18:08.000Z"
-    },
-    {
-      "title": "U.S. confirms for first time it has weapons deployed in space",
-      "url": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
-      "source": "CNBC",
-      "when": "2026-09-15T12:15:22.000Z"
-    },
-    {
-      "title": "Lucid vs. RTX: Which Stock Is a Better Buy in 2026?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-vs-rtx-stock-better-121100595.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:11:00.000Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise Ahead Of Fed Meeting; Nvidia Set To Rebound (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:09:46.000Z"
-    },
-    {
-      "title": "Fed rate hike expected Wednesday under Kevin Warsh",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-expected-wednesday-120945216.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:09:45.000Z"
-    },
-    {
-      "title": "Six Anthropic cofounders join Forbes 400 at $15.5 billion each",
-      "url": "https://finance.yahoo.com/technology/ai/articles/six-anthropic-cofounders-join-forbes-120704125.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:07:04.000Z"
-    },
-    {
-      "title": "Oil prices climb as attacks, pipeline outage deepen Saudi supply concerns",
-      "url": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-15T12:06:28.000Z"
+      "when": "2026-09-15T17:11:56.000Z"
     }
   ],
   "errors": []
