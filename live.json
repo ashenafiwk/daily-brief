@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-15T01:16:57.914Z",
-  "fetchedLabel": "Sep 14, 9:16 PM ET",
+  "fetched": "2026-09-15T06:32:56.999Z",
+  "fetchedLabel": "Sep 15, 2:32 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.55",
-      "chg": "+6.50",
-      "pct": "+6.77%",
+      "value": "$103.10",
+      "chg": "+0.62",
+      "pct": "+0.60%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,334.10",
-      "chg": "-81.90",
-      "pct": "-1.85%",
+      "value": "$4,330.60",
+      "chg": "-33.90",
+      "pct": "-0.78%",
       "dir": "down"
     },
     {
@@ -60,6 +60,48 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Pentagon reveals $33.4 billion Iran war bill and 'strategic' weapons shortfalls",
+      "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "source": "CNBC",
+      "when": "2026-09-15T06:31:10.000Z"
+    },
+    {
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+      "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+      "source": "CNBC",
+      "when": "2026-09-15T06:26:51.000Z"
+    },
+    {
+      "title": "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+      "url": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
+      "source": "CNBC",
+      "when": "2026-09-15T05:45:35.000Z"
+    },
+    {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "source": "CNBC",
+      "when": "2026-09-15T05:41:14.000Z"
+    },
+    {
+      "title": "Oil and Treasury yields haven't moved this closely in seven years. That's bad news for markets",
+      "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+      "source": "CNBC",
+      "when": "2026-09-15T05:22:57.000Z"
+    },
+    {
+      "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
+      "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+      "source": "CNBC",
+      "when": "2026-09-15T04:41:36.000Z"
+    },
+    {
+      "title": "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+      "url": "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
+      "source": "CNBC",
+      "when": "2026-09-15T01:32:26.000Z"
+    },
     {
       "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
       "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
@@ -91,12 +133,6 @@
       "when": "2026-09-14T23:19:00.000Z"
     },
     {
-      "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
-      "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-      "source": "CNBC",
-      "when": "2026-09-14T23:08:41.000Z"
-    },
-    {
       "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
       "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
       "source": "CNBC",
@@ -107,42 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
       "source": "CNBC",
       "when": "2026-09-14T22:43:25.000Z"
-    },
-    {
-      "title": "Mitch McConnell returns to Senate after three-month health absence",
-      "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
-      "source": "CNBC",
-      "when": "2026-09-14T22:23:38.000Z"
-    },
-    {
-      "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
-      "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-      "source": "CNBC",
-      "when": "2026-09-14T22:18:56.000Z"
-    },
-    {
-      "title": "Trump-linked super PAC reports roughly $21 million in spending across key midterm races",
-      "url": "https://www.cnbc.com/2026/09/14/trump-super-pac-midterms-no-going-back-pac.html",
-      "source": "CNBC",
-      "when": "2026-09-14T22:15:58.000Z"
-    },
-    {
-      "title": "The murky AI milestone that has some of the industry's leading voices increasingly on edge",
-      "url": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T21:57:00.000Z"
-    },
-    {
-      "title": "Trump phones Nvidia's Huang at All-In Summit, calls data center opposition a 'hoax'",
-      "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
-      "source": "CNBC",
-      "when": "2026-09-14T21:32:03.000Z"
-    },
-    {
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "url": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-14T21:31:00.000Z"
     }
   ],
   "errors": []
