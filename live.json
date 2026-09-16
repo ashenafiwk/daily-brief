@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-15T23:36:36.101Z",
-  "fetchedLabel": "Sep 15, 7:36 PM ET",
+  "fetched": "2026-09-16T04:10:49.655Z",
+  "fetchedLabel": "Sep 16, 12:10 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "52,093.11",
-      "chg": "-692.96",
+      "value": "52,093.10",
+      "chg": "-692.97",
       "pct": "-1.31%",
       "dir": "down"
     },
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$105.43",
-      "chg": "+2.95",
-      "pct": "+2.88%",
+      "value": "$104.66",
+      "chg": "+4.61",
+      "pct": "+4.61%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,324.40",
-      "chg": "-82.90",
-      "pct": "-1.88%",
+      "value": "$4,368.70",
+      "chg": "-40.20",
+      "pct": "-0.91%",
       "dir": "down"
     },
     {
@@ -60,6 +60,48 @@
     }
   ],
   "headlines": [
+    {
+      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "source": "CNBC",
+      "when": "2026-09-16T04:01:59.000Z"
+    },
+    {
+      "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
+      "url": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
+      "source": "CNBC",
+      "when": "2026-09-16T03:50:41.000Z"
+    },
+    {
+      "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+      "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+      "source": "CNBC",
+      "when": "2026-09-16T01:56:24.000Z"
+    },
+    {
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "source": "CNBC",
+      "when": "2026-09-16T01:53:52.000Z"
+    },
+    {
+      "title": "House to vote on bill to rein in AI data center utility costs",
+      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "source": "CNBC",
+      "when": "2026-09-16T00:14:21.000Z"
+    },
+    {
+      "title": "Inside South Korea's university programs offering a direct route to Samsung and SK Hynix",
+      "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
+      "source": "CNBC",
+      "when": "2026-09-15T23:52:04.000Z"
+    },
+    {
+      "title": "Why de-dollarization discussions are more talk, less action",
+      "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-15T23:28:01.000Z"
+    },
     {
       "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
       "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-15T22:00:00.000Z"
-    },
-    {
-      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
-      "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-      "source": "CNBC",
-      "when": "2026-09-15T21:46:22.000Z"
-    },
-    {
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "url": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T21:40:00.000Z"
-    },
-    {
-      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "url": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T21:34:00.000Z"
-    },
-    {
-      "title": "Americans' incomes rose and poverty fell in 2025, Census Bureau says",
-      "url": "https://www.cnbc.com/2026/09/15/income-poverty-census-fed-interest-rates.html",
-      "source": "CNBC",
-      "when": "2026-09-15T21:31:56.000Z"
-    },
-    {
-      "title": "AI stocks are rebounding. One analyst says there's no spending slowdown in sight.",
-      "url": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T21:15:00.000Z"
-    },
-    {
-      "title": "Inflation killed the penny. Now it's coming for your dollar.",
-      "url": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T21:00:00.000Z"
-    },
-    {
-      "title": "Why a Federal Reserve rate hike could be a 'rare win' for your retirement money",
-      "url": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T20:47:00.000Z"
     }
   ],
   "errors": []
