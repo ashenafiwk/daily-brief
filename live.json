@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-16T04:10:49.655Z",
-  "fetchedLabel": "Sep 16, 12:10 AM ET",
+  "fetched": "2026-09-16T09:26:28.201Z",
+  "fetchedLabel": "Sep 16, 5:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "52,093.10",
-      "chg": "-692.97",
+      "value": "52,093.11",
+      "chg": "-692.96",
       "pct": "-1.31%",
       "dir": "down"
     },
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$104.66",
-      "chg": "+4.61",
-      "pct": "+4.61%",
+      "value": "$104.92",
+      "chg": "+4.87",
+      "pct": "+4.87%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,368.70",
-      "chg": "-40.20",
-      "pct": "-0.91%",
+      "value": "$4,373.20",
+      "chg": "-35.70",
+      "pct": "-0.81%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.20",
-      "chg": "+0.74",
-      "pct": "+4.50%",
-      "dir": "up"
+      "value": "17.01",
+      "chg": "-0.83",
+      "pct": "-4.65%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+      "title": "Canada invited to become EU's first 'associate member' as Trump trade war intensifies",
+      "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "source": "CNBC",
-      "when": "2026-09-16T04:01:59.000Z"
+      "when": "2026-09-16T09:19:05.000Z"
     },
     {
-      "title": "Grab aims for 'next level' in financial services with purchase of buy-now pay-later platform Atome",
-      "url": "https://www.cnbc.com/2026/09/16/grab-financial-services-atome-purchase-.html",
+      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+      "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
       "source": "CNBC",
-      "when": "2026-09-16T03:50:41.000Z"
+      "when": "2026-09-16T09:15:13.000Z"
+    },
+    {
+      "title": "'I am drowning in debt': I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
+      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-16T09:15:00.000Z"
+    },
+    {
+      "title": "What history says about longer-term bond yields after the first Fed hike",
+      "url": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-16T09:11:00.000Z"
+    },
+    {
+      "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+      "source": "CNBC",
+      "when": "2026-09-16T08:58:16.000Z"
+    },
+    {
+      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
+      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
+      "source": "CNBC",
+      "when": "2026-09-16T08:33:00.000Z"
+    },
+    {
+      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+      "url": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-16T08:26:00.000Z"
+    },
+    {
+      "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
+      "url": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html",
+      "source": "CNBC",
+      "when": "2026-09-16T08:04:00.000Z"
+    },
+    {
+      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+      "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+      "source": "CNBC",
+      "when": "2026-09-16T08:00:27.000Z"
+    },
+    {
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+      "source": "CNBC",
+      "when": "2026-09-16T07:18:23.000Z"
     },
     {
       "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
       "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
       "source": "CNBC",
-      "when": "2026-09-16T01:56:24.000Z"
+      "when": "2026-09-16T06:53:09.000Z"
     },
     {
-      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
-      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-16T01:53:52.000Z"
+      "when": "2026-09-16T06:38:40.000Z"
     },
     {
-      "title": "House to vote on bill to rein in AI data center utility costs",
-      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
+      "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
       "source": "CNBC",
-      "when": "2026-09-16T00:14:21.000Z"
+      "when": "2026-09-16T05:39:38.000Z"
     },
     {
       "title": "Inside South Korea's university programs offering a direct route to Samsung and SK Hynix",
       "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
       "source": "CNBC",
-      "when": "2026-09-15T23:52:04.000Z"
-    },
-    {
-      "title": "Why de-dollarization discussions are more talk, less action",
-      "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
-      "source": "CNBC",
-      "when": "2026-09-15T23:28:01.000Z"
-    },
-    {
-      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-      "source": "CNBC",
-      "when": "2026-09-15T23:25:43.000Z"
-    },
-    {
-      "title": "Medicare is using AI to approve claims. The result has been 'alarmingly high denial rates.'",
-      "url": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T23:09:00.000Z"
-    },
-    {
-      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
-      "url": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
-      "source": "CNBC",
-      "when": "2026-09-15T22:33:45.000Z"
-    },
-    {
-      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-      "source": "CNBC",
-      "when": "2026-09-15T22:17:47.000Z"
-    },
-    {
-      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T22:15:00.000Z"
-    },
-    {
-      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
-      "source": "CNBC",
-      "when": "2026-09-15T22:06:16.000Z"
-    },
-    {
-      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-15T22:00:00.000Z"
+      "when": "2026-09-16T04:47:29.000Z"
     }
   ],
   "errors": []
