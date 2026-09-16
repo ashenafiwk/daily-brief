@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-16T09:26:28.201Z",
-  "fetchedLabel": "Sep 16, 5:26 AM ET",
+  "fetched": "2026-09-16T14:19:01.053Z",
+  "fetchedLabel": "Sep 16, 10:19 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,585.73",
-      "chg": "-87.79",
-      "pct": "-1.14%",
+      "value": "7,606.55",
+      "chg": "-29.81",
+      "pct": "-0.39%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,981.57",
-      "chg": "-439.84",
-      "pct": "-1.66%",
+      "value": "26,154.25",
+      "chg": "-99.09",
+      "pct": "-0.38%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,093.11",
-      "chg": "-692.96",
-      "pct": "-1.31%",
+      "value": "51,943.99",
+      "chg": "-436.67",
+      "pct": "-0.83%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,870.29",
-      "chg": "-89.91",
-      "pct": "-3.04%",
+      "value": "2,883.47",
+      "chg": "-37.77",
+      "pct": "-1.29%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.00%",
-      "chg": "+0.16",
-      "pct": "+3.29%",
+      "value": "4.97%",
+      "chg": "+0.03",
+      "pct": "+0.55%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$104.92",
-      "chg": "+4.87",
-      "pct": "+4.87%",
+      "value": "$103.74",
+      "chg": "+3.69",
+      "pct": "+3.69%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,373.20",
-      "chg": "-35.70",
-      "pct": "-0.81%",
+      "value": "$4,371.00",
+      "chg": "-37.90",
+      "pct": "-0.86%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.01",
-      "chg": "-0.83",
-      "pct": "-4.65%",
+      "value": "16.78",
+      "chg": "-1.06",
+      "pct": "-5.94%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "OpenAI investors have approached the company about a new funding round",
+      "url": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+      "source": "CNBC",
+      "when": "2026-09-16T14:16:55.000Z"
+    },
+    {
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "url": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-16T14:12:00.000Z"
+    },
+    {
+      "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+      "source": "CNBC",
+      "when": "2026-09-16T14:11:40.000Z"
+    },
+    {
+      "title": "More home builders cut prices as buyers get spooked",
+      "url": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-16T14:10:00.000Z"
+    },
+    {
+      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T14:05:28.000Z"
+    },
+    {
+      "title": "First Au proposes all-scrip takeover of Javelin Minerals",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/first-au-proposes-scrip-takeover-140420182.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T14:04:20.000Z"
+    },
+    {
       "title": "Canada invited to become EU's first 'associate member' as Trump trade war intensifies",
       "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "source": "CNBC",
-      "when": "2026-09-16T09:19:05.000Z"
+      "when": "2026-09-16T14:03:35.000Z"
     },
     {
-      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-      "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-      "source": "CNBC",
-      "when": "2026-09-16T09:15:13.000Z"
-    },
-    {
-      "title": "'I am drowning in debt': I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "title": "Why a Federal Reserve rate hike could be a 'rare win' for your retirement money",
+      "url": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-16T09:15:00.000Z"
+      "when": "2026-09-16T14:01:00.000Z"
     },
     {
-      "title": "What history says about longer-term bond yields after the first Fed hike",
-      "url": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+      "title": "Prediction: Alphabet Stock at $400 May Be Just the Beginning",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-stock-400-may-140045985.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T14:00:45.000Z"
+    },
+    {
+      "title": "Cipher Digital Surges 9% on Conditional ERCOT Status for 3.2 GW of Texas Capacity; Core Scientific Rises 4%, IREN Nudges Higher",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-surges-9-conditional-140043735.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T14:00:43.000Z"
+    },
+    {
+      "title": "4 Dividend ETFs That Let You Own Hundreds of Payers in 1 Trade",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-etfs-let-own-140009811.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T14:00:09.000Z"
+    },
+    {
+      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-16T09:11:00.000Z"
+      "when": "2026-09-16T14:00:00.000Z"
     },
     {
-      "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
-      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+      "title": "Lumson acquires packaging company Lombardi's US and Asia units",
+      "url": "https://finance.yahoo.com/small-business/articles/lumson-acquires-packaging-company-lombardi-135923238.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-16T13:59:23.000Z"
+    },
+    {
+      "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
+      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
       "source": "CNBC",
-      "when": "2026-09-16T08:58:16.000Z"
-    },
-    {
-      "title": "Will AI really destroy humanity? Pioneers who created the tech weigh in",
-      "url": "https://www.cnbc.com/2026/09/15/ai-destroy-humanity-extinction-risks.html",
-      "source": "CNBC",
-      "when": "2026-09-16T08:33:00.000Z"
-    },
-    {
-      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
-      "url": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T08:26:00.000Z"
-    },
-    {
-      "title": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
-      "url": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html",
-      "source": "CNBC",
-      "when": "2026-09-16T08:04:00.000Z"
-    },
-    {
-      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
-      "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
-      "source": "CNBC",
-      "when": "2026-09-16T08:00:27.000Z"
-    },
-    {
-      "title": "UK inflation jumps to 3.1% as energy costs soar",
-      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
-      "source": "CNBC",
-      "when": "2026-09-16T07:18:23.000Z"
-    },
-    {
-      "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-      "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-      "source": "CNBC",
-      "when": "2026-09-16T06:53:09.000Z"
-    },
-    {
-      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-16T06:38:40.000Z"
-    },
-    {
-      "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "source": "CNBC",
-      "when": "2026-09-16T05:39:38.000Z"
-    },
-    {
-      "title": "Inside South Korea's university programs offering a direct route to Samsung and SK Hynix",
-      "url": "https://www.cnbc.com/2026/09/16/samsung-sk-hynix-ai-boom-students-university-programs.html",
-      "source": "CNBC",
-      "when": "2026-09-16T04:47:29.000Z"
+      "when": "2026-09-16T13:57:47.000Z"
     }
   ],
   "errors": []
