@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-17T15:12:51.583Z",
-  "fetchedLabel": "Sep 17, 11:12 AM ET",
+  "fetched": "2026-09-17T19:11:24.026Z",
+  "fetchedLabel": "Sep 17, 3:11 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,621.32",
-      "chg": "+29.62",
-      "pct": "+0.39%",
+      "value": "7,638.97",
+      "chg": "+47.27",
+      "pct": "+0.62%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,352.07",
-      "chg": "+270.35",
-      "pct": "+1.04%",
+      "value": "26,408.81",
+      "chg": "+327.09",
+      "pct": "+1.25%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,718.04",
-      "chg": "-346.06",
-      "pct": "-0.66%",
+      "value": "51,823.38",
+      "chg": "-240.72",
+      "pct": "-0.46%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,890.24",
-      "chg": "-0.71",
-      "pct": "-0.02%",
+      "value": "2,881.30",
+      "chg": "-9.65",
+      "pct": "-0.33%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.96%",
-      "chg": "-0.02",
-      "pct": "-0.36%",
+      "value": "4.95%",
+      "chg": "-0.03",
+      "pct": "-0.52%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.10",
-      "chg": "-0.29",
-      "pct": "-0.29%",
-      "dir": "down"
+      "value": "$101.80",
+      "chg": "+0.41",
+      "pct": "+0.40%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,395.20",
-      "chg": "+43.30",
-      "pct": "+0.99%",
+      "value": "$4,393.10",
+      "chg": "+41.20",
+      "pct": "+0.95%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.85",
-      "chg": "+0.01",
-      "pct": "+0.06%",
-      "dir": "up"
+      "value": "15.59",
+      "chg": "-0.25",
+      "pct": "-1.58%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Azets appoints new corporate finance partner in UK",
-      "url": "https://finance.yahoo.com/small-business/articles/azets-appoints-corporate-finance-partner-150020540.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T15:00:20.000Z"
+      "title": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "source": "CNBC",
+      "when": "2026-09-17T19:08:26.000Z"
+    },
+    {
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don't want to...",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T19:07:00.000Z"
+    },
+    {
+      "title": "Intel and Micron lead our portfolio higher, and J&J strengthens our case for owning it",
+      "url": "https://www.cnbc.com/2026/09/17/intel-and-micron-lead-our-portfolio-higher-and-jjs-strengthens-our-case-for-owning-it-.html",
+      "source": "CNBC",
+      "when": "2026-09-17T19:03:49.000Z"
     },
     {
       "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
       "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
       "source": "CNBC",
-      "when": "2026-09-17T14:59:37.000Z"
+      "when": "2026-09-17T18:52:00.000Z"
     },
     {
-      "title": "Lahontan Gold signs agreement to acquire Emergent Metals",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/lahontan-gold-signs-agreement-acquire-145511685.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:55:11.000Z"
+      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+      "url": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T18:46:00.000Z"
     },
     {
-      "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:53:46.000Z"
-    },
-    {
-      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/sec-clears-path-tokenized-stocks-145203672.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:52:03.000Z"
-    },
-    {
-      "title": "German distiller Berentzen in talks to sell to Sazerac",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/german-distiller-berentzen-talks-sell-093336262.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:50:13.000Z"
-    },
-    {
-      "title": "Only 1 of These 2 BDCs Keeps Raising Its Monthly Payout. Here's Which Belongs in Your Roth IRA.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/only-1-2-bdcs-keeps-145011570.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:50:11.000Z"
-    },
-    {
-      "title": "Insider Sale: CEO Dumps More Than 16,000 Shares of Financial Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/insider-sale-ceo-dumps-more-145001329.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:50:01.000Z"
-    },
-    {
-      "title": "What's the average car loan length?",
-      "url": "https://finance.yahoo.com/markets/options/articles/long-car-loan-163621954.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:50:00.000Z"
-    },
-    {
-      "title": "NASA's New Moon Base Contract Could Be an Out-of-This-World Opportunity for This Under-the-Radar Nuclear Power Stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasas-moon-contract-could-world-145000395.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:50:00.000Z"
-    },
-    {
-      "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
-      "url": "https://finance.yahoo.com/real-estate/articles/strong-execution-strengthens-macerich-mac-144814109.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:48:14.000Z"
-    },
-    {
-      "title": "Starbucks (SBUX) Wins Big in Court, but One Finding Still Sticks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-wins-big-court-144721274.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:47:21.000Z"
-    },
-    {
-      "title": "Boeing (BA)'s $8.4 Billion Supplier Buyback Keeps Turning Up New Costs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-8-4-billion-144356015.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-17T14:43:56.000Z"
-    },
-    {
-      "title": "GM touts new V-8 engines in revived 'truck wars' with Ford, Ram amid lackluster EV sales",
-      "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
+      "title": "Bill to curb AI data center utility costs hits snag in Senate",
+      "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
       "source": "CNBC",
-      "when": "2026-09-17T14:39:40.000Z"
+      "when": "2026-09-17T18:35:36.000Z"
+    },
+    {
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC",
+      "when": "2026-09-17T18:23:25.000Z"
+    },
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "source": "CNBC",
+      "when": "2026-09-17T17:59:51.000Z"
+    },
+    {
+      "title": "Amazon's secret weapon against Walmart could be a massive blitz in same-day delivery",
+      "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T17:42:00.000Z"
+    },
+    {
+      "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "CNBC",
+      "when": "2026-09-17T17:42:00.000Z"
+    },
+    {
+      "title": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
+      "url": "https://www.marketwatch.com/story/ai-was-supposed-to-kill-google-search-these-numbers-show-the-opposite-analyst-says-a3be9495?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T17:31:00.000Z"
+    },
+    {
+      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
+      "url": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "source": "CNBC",
+      "when": "2026-09-17T17:27:15.000Z"
+    },
+    {
+      "title": "Why growth stocks' surprising strength may be warning of a market bubble",
+      "url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T17:16:00.000Z"
+    },
+    {
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "source": "CNBC",
+      "when": "2026-09-17T17:02:07.000Z"
     }
   ],
   "errors": []
