@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-17T05:10:08.398Z",
-  "fetchedLabel": "Sep 17, 1:10 AM ET",
+  "fetched": "2026-09-17T10:18:35.227Z",
+  "fetchedLabel": "Sep 17, 6:18 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.20",
-      "chg": "+0.81",
-      "pct": "+0.80%",
-      "dir": "up"
+      "value": "$100.61",
+      "chg": "-0.78",
+      "pct": "-0.77%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,335.70",
-      "chg": "-16.20",
-      "pct": "-0.37%",
+      "value": "$4,349.30",
+      "chg": "-2.60",
+      "pct": "-0.06%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.71",
-      "chg": "-0.13",
-      "pct": "-0.73%",
-      "dir": "down"
+      "value": "16.05",
+      "chg": "+0.21",
+      "pct": "+1.33%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "A stronger dollar and rising yields: How the Fed's rate hike could hit global markets",
-      "url": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
-      "source": "CNBC",
-      "when": "2026-09-17T05:03:07.000Z"
+      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T10:15:00.000Z"
     },
     {
-      "title": "Putin braces for election stress test as Russians 'feel the pain' of struggling economy",
-      "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+      "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
       "source": "CNBC",
-      "when": "2026-09-17T05:00:01.000Z"
+      "when": "2026-09-17T10:00:01.000Z"
     },
     {
-      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
-      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "title": "NASCAR CEO Steve O'Donnell talks growth opportunities, possible international expansion",
+      "url": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
       "source": "CNBC",
-      "when": "2026-09-17T03:35:26.000Z"
+      "when": "2026-09-17T10:00:01.000Z"
     },
     {
-      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
+      "title": "Best CD rates today, Thursday, September 17, 2026: Lock in up to 4.40% APY with a 2-year CD",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-17-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000275.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Thursday, September 17, 2026: Fixed rates tick upward",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-fixed-rates-tick-upward-100000901.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T10:00:00.000Z"
+    },
+    {
+      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
+      "url": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T09:54:00.000Z"
+    },
+    {
+      "title": "'I'm burned out': I'm constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T09:15:00.000Z"
+    },
+    {
+      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
+      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+      "source": "CNBC",
+      "when": "2026-09-17T08:24:48.000Z"
+    },
+    {
+      "title": "Trump says U.S. 'hopefully' nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
       "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-17T03:21:50.000Z"
+      "when": "2026-09-17T07:56:49.000Z"
     },
     {
-      "title": "Japan's corporate leaders sound alarm over weak yen — even dollar-earners are voicing concerns",
-      "url": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
-      "source": "CNBC",
-      "when": "2026-09-17T03:19:34.000Z"
+      "title": "Tom Lee says the 'face-ripping' rally he predicted is merely delayed",
+      "url": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T07:50:00.000Z"
     },
     {
-      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
+      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
       "source": "CNBC",
-      "when": "2026-09-17T02:08:02.000Z"
+      "when": "2026-09-17T07:12:58.000Z"
+    },
+    {
+      "title": "'You are freed.' What happened when an OpenAI model began secretly writing notes to itself.",
+      "url": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T07:08:00.000Z"
     },
     {
       "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
       "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
       "source": "CNBC",
-      "when": "2026-09-17T00:55:35.000Z"
+      "when": "2026-09-17T05:42:46.000Z"
     },
     {
-      "title": "Inside India newsletter: The world's largest real-time payments system will no longer be free for all",
-      "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "title": "Bank of England set to defy Fed's rate-hike lead, despite rising inflation",
+      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
       "source": "CNBC",
-      "when": "2026-09-17T00:33:41.000Z"
-    },
-    {
-      "title": "House advances bill to rein in AI data center utility costs",
-      "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-      "source": "CNBC",
-      "when": "2026-09-17T00:08:01.000Z"
-    },
-    {
-      "title": "Intel's stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T23:51:00.000Z"
-    },
-    {
-      "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
-      "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-      "source": "CNBC",
-      "when": "2026-09-16T23:45:02.000Z"
-    },
-    {
-      "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
-      "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
-      "source": "CNBC",
-      "when": "2026-09-16T23:05:48.000Z"
-    },
-    {
-      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-      "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-      "source": "CNBC",
-      "when": "2026-09-16T22:32:18.000Z"
-    },
-    {
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T22:25:00.000Z"
+      "when": "2026-09-17T05:20:23.000Z"
     }
   ],
   "errors": []
