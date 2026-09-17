@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-17T10:18:35.227Z",
-  "fetchedLabel": "Sep 17, 6:18 AM ET",
+  "fetched": "2026-09-17T15:12:51.583Z",
+  "fetchedLabel": "Sep 17, 11:12 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,551.81",
-      "chg": "-84.55",
-      "pct": "-1.11%",
-      "dir": "down"
+      "value": "7,621.32",
+      "chg": "+29.62",
+      "pct": "+0.39%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "25,978.42",
-      "chg": "-274.92",
-      "pct": "-1.05%",
-      "dir": "down"
+      "value": "26,352.07",
+      "chg": "+270.35",
+      "pct": "+1.04%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,461.90",
-      "chg": "-918.76",
-      "pct": "-1.75%",
+      "value": "51,718.04",
+      "chg": "-346.06",
+      "pct": "-0.66%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,858.81",
-      "chg": "-62.43",
-      "pct": "-2.14%",
+      "value": "2,890.24",
+      "chg": "-0.71",
+      "pct": "-0.02%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.01%",
-      "chg": "+0.06",
-      "pct": "+1.25%",
-      "dir": "up"
+      "value": "4.96%",
+      "chg": "-0.02",
+      "pct": "-0.36%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.61",
-      "chg": "-0.78",
-      "pct": "-0.77%",
+      "value": "$101.10",
+      "chg": "-0.29",
+      "pct": "-0.29%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,349.30",
-      "chg": "-2.60",
-      "pct": "-0.06%",
-      "dir": "down"
+      "value": "$4,395.20",
+      "chg": "+43.30",
+      "pct": "+0.99%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "16.05",
-      "chg": "+0.21",
-      "pct": "+1.33%",
+      "value": "15.85",
+      "chg": "+0.01",
+      "pct": "+0.06%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T10:15:00.000Z"
-    },
-    {
-      "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "url": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-      "source": "CNBC",
-      "when": "2026-09-17T10:00:01.000Z"
-    },
-    {
-      "title": "NASCAR CEO Steve O'Donnell talks growth opportunities, possible international expansion",
-      "url": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
-      "source": "CNBC",
-      "when": "2026-09-17T10:00:01.000Z"
-    },
-    {
-      "title": "Best CD rates today, Thursday, September 17, 2026: Lock in up to 4.40% APY with a 2-year CD",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-17-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000275.html",
+      "title": "Azets appoints new corporate finance partner in UK",
+      "url": "https://finance.yahoo.com/small-business/articles/azets-appoints-corporate-finance-partner-150020540.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-17T10:00:00.000Z"
+      "when": "2026-09-17T15:00:20.000Z"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Thursday, September 17, 2026: Fixed rates tick upward",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-fixed-rates-tick-upward-100000901.html",
+      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "source": "CNBC",
+      "when": "2026-09-17T14:59:37.000Z"
+    },
+    {
+      "title": "Lahontan Gold signs agreement to acquire Emergent Metals",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/lahontan-gold-signs-agreement-acquire-145511685.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-17T10:00:00.000Z"
+      "when": "2026-09-17T14:55:11.000Z"
     },
     {
-      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
-      "url": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T09:54:00.000Z"
+      "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:53:46.000Z"
     },
     {
-      "title": "'I'm burned out': I'm constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T09:15:00.000Z"
+      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/sec-clears-path-tokenized-stocks-145203672.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:52:03.000Z"
     },
     {
-      "title": "Billionaire Kraft says Ed Sheeran sought $2 million aid donation from him amid fracas over Macklemore's Palestine comments",
-      "url": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
+      "title": "German distiller Berentzen in talks to sell to Sazerac",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/german-distiller-berentzen-talks-sell-093336262.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:50:13.000Z"
+    },
+    {
+      "title": "Only 1 of These 2 BDCs Keeps Raising Its Monthly Payout. Here's Which Belongs in Your Roth IRA.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/only-1-2-bdcs-keeps-145011570.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:50:11.000Z"
+    },
+    {
+      "title": "Insider Sale: CEO Dumps More Than 16,000 Shares of Financial Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/insider-sale-ceo-dumps-more-145001329.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:50:01.000Z"
+    },
+    {
+      "title": "What's the average car loan length?",
+      "url": "https://finance.yahoo.com/markets/options/articles/long-car-loan-163621954.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:50:00.000Z"
+    },
+    {
+      "title": "NASA's New Moon Base Contract Could Be an Out-of-This-World Opportunity for This Under-the-Radar Nuclear Power Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasas-moon-contract-could-world-145000395.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:50:00.000Z"
+    },
+    {
+      "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
+      "url": "https://finance.yahoo.com/real-estate/articles/strong-execution-strengthens-macerich-mac-144814109.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:48:14.000Z"
+    },
+    {
+      "title": "Starbucks (SBUX) Wins Big in Court, but One Finding Still Sticks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-wins-big-court-144721274.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:47:21.000Z"
+    },
+    {
+      "title": "Boeing (BA)'s $8.4 Billion Supplier Buyback Keeps Turning Up New Costs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-8-4-billion-144356015.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-17T14:43:56.000Z"
+    },
+    {
+      "title": "GM touts new V-8 engines in revived 'truck wars' with Ford, Ram amid lackluster EV sales",
+      "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
       "source": "CNBC",
-      "when": "2026-09-17T08:24:48.000Z"
-    },
-    {
-      "title": "Trump says U.S. 'hopefully' nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
-      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-17T07:56:49.000Z"
-    },
-    {
-      "title": "Tom Lee says the 'face-ripping' rally he predicted is merely delayed",
-      "url": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T07:50:00.000Z"
-    },
-    {
-      "title": "Reddit co-founder says tech industry has been 'tone deaf' in explaining AI: 'Misinformation flying around'",
-      "url": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
-      "source": "CNBC",
-      "when": "2026-09-17T07:12:58.000Z"
-    },
-    {
-      "title": "'You are freed.' What happened when an OpenAI model began secretly writing notes to itself.",
-      "url": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T07:08:00.000Z"
-    },
-    {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "source": "CNBC",
-      "when": "2026-09-17T05:42:46.000Z"
-    },
-    {
-      "title": "Bank of England set to defy Fed's rate-hike lead, despite rising inflation",
-      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
-      "source": "CNBC",
-      "when": "2026-09-17T05:20:23.000Z"
+      "when": "2026-09-17T14:39:40.000Z"
     }
   ],
   "errors": []
