@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-17T00:13:35.513Z",
-  "fetchedLabel": "Sep 16, 8:13 PM ET",
+  "fetched": "2026-09-17T05:10:08.398Z",
+  "fetchedLabel": "Sep 17, 1:10 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.57",
-      "chg": "+1.52",
-      "pct": "+1.52%",
+      "value": "$102.20",
+      "chg": "+0.81",
+      "pct": "+0.80%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,307.30",
-      "chg": "-101.60",
-      "pct": "-2.30%",
+      "value": "$4,335.70",
+      "chg": "-16.20",
+      "pct": "-0.37%",
       "dir": "down"
     },
     {
@@ -60,6 +60,54 @@
     }
   ],
   "headlines": [
+    {
+      "title": "A stronger dollar and rising yields: How the Fed's rate hike could hit global markets",
+      "url": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+      "source": "CNBC",
+      "when": "2026-09-17T05:03:07.000Z"
+    },
+    {
+      "title": "Putin braces for election stress test as Russians 'feel the pain' of struggling economy",
+      "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+      "source": "CNBC",
+      "when": "2026-09-17T05:00:01.000Z"
+    },
+    {
+      "title": "Mark Walter and Todd Boehly selling stakes in Chelsea Football Club to Clearlake Capital",
+      "url": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
+      "source": "CNBC",
+      "when": "2026-09-17T03:35:26.000Z"
+    },
+    {
+      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
+      "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-17T03:21:50.000Z"
+    },
+    {
+      "title": "Japan's corporate leaders sound alarm over weak yen — even dollar-earners are voicing concerns",
+      "url": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
+      "source": "CNBC",
+      "when": "2026-09-17T03:19:34.000Z"
+    },
+    {
+      "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
+      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+      "source": "CNBC",
+      "when": "2026-09-17T02:08:02.000Z"
+    },
+    {
+      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "source": "CNBC",
+      "when": "2026-09-17T00:55:35.000Z"
+    },
+    {
+      "title": "Inside India newsletter: The world's largest real-time payments system will no longer be free for all",
+      "url": "https://www.cnbc.com/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "source": "CNBC",
+      "when": "2026-09-17T00:33:41.000Z"
+    },
     {
       "title": "House advances bill to rein in AI data center utility costs",
       "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
@@ -95,54 +143,6 @@
       "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-16T22:25:00.000Z"
-    },
-    {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T22:16:00.000Z"
-    },
-    {
-      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T22:15:00.000Z"
-    },
-    {
-      "title": "Generac's stock soars more than 30% after Amazon deal cements company's status as an AI power player",
-      "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T21:56:00.000Z"
-    },
-    {
-      "title": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
-      "url": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
-      "source": "CNBC",
-      "when": "2026-09-16T21:50:48.000Z"
-    },
-    {
-      "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-      "url": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-      "source": "CNBC",
-      "when": "2026-09-16T21:40:18.000Z"
-    },
-    {
-      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-      "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T21:40:00.000Z"
-    },
-    {
-      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-      "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-      "source": "CNBC",
-      "when": "2026-09-16T20:54:15.000Z"
-    },
-    {
-      "title": "Why optical stocks Lumentum and Coherent were the day's biggest S&P 500 gainers",
-      "url": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-16T20:52:00.000Z"
     }
   ],
   "errors": []
