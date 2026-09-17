@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-17T19:11:24.026Z",
-  "fetchedLabel": "Sep 17, 3:11 PM ET",
+  "fetched": "2026-09-17T22:22:30.161Z",
+  "fetchedLabel": "Sep 17, 6:22 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,638.97",
-      "chg": "+47.27",
-      "pct": "+0.62%",
+      "value": "7,637.76",
+      "chg": "+46.06",
+      "pct": "+0.61%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,408.81",
-      "chg": "+327.09",
-      "pct": "+1.25%",
+      "value": "26,418.30",
+      "chg": "+336.58",
+      "pct": "+1.29%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,823.38",
-      "chg": "-240.72",
-      "pct": "-0.46%",
+      "value": "51,778.04",
+      "chg": "-286.06",
+      "pct": "-0.55%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,881.30",
-      "chg": "-9.65",
-      "pct": "-0.33%",
+      "value": "2,874.63",
+      "chg": "-16.32",
+      "pct": "-0.56%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "4.95%",
       "chg": "-0.03",
-      "pct": "-0.52%",
+      "pct": "-0.56%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.80",
-      "chg": "+0.41",
-      "pct": "+0.40%",
-      "dir": "up"
+      "value": "$101.05",
+      "chg": "-0.34",
+      "pct": "-0.34%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,393.10",
-      "chg": "+41.20",
-      "pct": "+0.95%",
+      "value": "$4,382.10",
+      "chg": "+30.20",
+      "pct": "+0.69%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.59",
-      "chg": "-0.25",
-      "pct": "-1.58%",
+      "value": "15.44",
+      "chg": "-0.40",
+      "pct": "-2.53%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Trump photo seems to reference Kennedy Center demolition, judge denies emergency hearing bid",
-      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-      "source": "CNBC",
-      "when": "2026-09-17T19:08:26.000Z"
-    },
-    {
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don't want to...",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-17T19:07:00.000Z"
+      "when": "2026-09-17T21:22:00.000Z"
     },
     {
-      "title": "Intel and Micron lead our portfolio higher, and J&J strengthens our case for owning it",
-      "url": "https://www.cnbc.com/2026/09/17/intel-and-micron-lead-our-portfolio-higher-and-jjs-strengthens-our-case-for-owning-it-.html",
-      "source": "CNBC",
-      "when": "2026-09-17T19:03:49.000Z"
-    },
-    {
-      "title": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
-      "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-      "source": "CNBC",
-      "when": "2026-09-17T18:52:00.000Z"
-    },
-    {
-      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-      "url": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-17T18:46:00.000Z"
+      "when": "2026-09-17T21:22:00.000Z"
     },
     {
-      "title": "Bill to curb AI data center utility costs hits snag in Senate",
-      "url": "https://www.cnbc.com/2026/09/17/ai-data-center-utility-cost-senate.html",
+      "title": "America's AI chip talent crisis — why The U.S. needs 157,000 more workers",
+      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
       "source": "CNBC",
-      "when": "2026-09-17T18:35:36.000Z"
+      "when": "2026-09-17T21:16:59.000Z"
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the 'TACO' trade fails this time?",
+      "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T21:09:00.000Z"
     },
     {
       "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
       "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
       "source": "CNBC",
-      "when": "2026-09-17T18:23:25.000Z"
+      "when": "2026-09-17T21:00:47.000Z"
     },
     {
-      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
-      "url": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
-      "source": "CNBC",
-      "when": "2026-09-17T17:59:51.000Z"
-    },
-    {
-      "title": "Amazon's secret weapon against Walmart could be a massive blitz in same-day delivery",
-      "url": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T17:42:00.000Z"
-    },
-    {
-      "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+      "title": "House heads home to campaign amid calls for urgent AI action",
       "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
       "source": "CNBC",
-      "when": "2026-09-17T17:42:00.000Z"
+      "when": "2026-09-17T20:41:54.000Z"
     },
     {
-      "title": "AI was supposed to kill Google search. These numbers show the opposite, analyst says.",
-      "url": "https://www.marketwatch.com/story/ai-was-supposed-to-kill-google-search-these-numbers-show-the-opposite-analyst-says-a3be9495?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T17:31:00.000Z"
-    },
-    {
-      "title": "Stephen Curry says his Li-Ning signature shoe will debut early next year",
-      "url": "https://www.cnbc.com/2026/09/17/stephen-curry-li-ning-signature-shoe.html",
+      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+      "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
       "source": "CNBC",
-      "when": "2026-09-17T17:27:15.000Z"
+      "when": "2026-09-17T20:32:07.000Z"
     },
     {
-      "title": "Why growth stocks' surprising strength may be warning of a market bubble",
-      "url": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T17:16:00.000Z"
-    },
-    {
-      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
+      "url": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
       "source": "CNBC",
-      "when": "2026-09-17T17:02:07.000Z"
+      "when": "2026-09-17T20:27:19.000Z"
+    },
+    {
+      "title": "Tesla's upcoming product frenzy could leave investors disappointed",
+      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T20:23:00.000Z"
+    },
+    {
+      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
+      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+      "source": "CNBC",
+      "when": "2026-09-17T20:22:20.000Z"
+    },
+    {
+      "title": "Pet insurance or savings account: What's the best way to plan for a big vet bill?",
+      "url": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T20:19:00.000Z"
+    },
+    {
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "url": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T20:13:00.000Z"
+    },
+    {
+      "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
+      "url": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
+      "source": "CNBC",
+      "when": "2026-09-17T19:57:41.000Z"
+    },
+    {
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-17T19:52:00.000Z"
     }
   ],
   "errors": []
