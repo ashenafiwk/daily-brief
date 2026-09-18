@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-18T05:41:22.957Z",
-  "fetchedLabel": "Sep 18, 1:41 AM ET",
+  "fetched": "2026-09-18T10:53:47.265Z",
+  "fetchedLabel": "Sep 18, 6:53 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.04",
-      "chg": "-0.35",
-      "pct": "-0.35%",
+      "value": "$95.78",
+      "chg": "-5.61",
+      "pct": "-5.53%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,400.90",
-      "chg": "+49.00",
-      "pct": "+1.13%",
+      "value": "$4,421.20",
+      "chg": "+69.30",
+      "pct": "+1.59%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.44",
-      "chg": "-0.40",
-      "pct": "-2.53%",
+      "value": "15.26",
+      "chg": "-1.84",
+      "pct": "-10.76%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
-      "url": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
-      "source": "CNBC",
-      "when": "2026-09-18T04:09:56.000Z"
+      "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
+      "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T10:39:00.000Z"
     },
     {
-      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-      "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-      "source": "CNBC",
-      "when": "2026-09-18T03:31:45.000Z"
+      "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
+      "url": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T10:38:00.000Z"
     },
     {
-      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
       "source": "CNBC",
-      "when": "2026-09-18T03:09:22.000Z"
+      "when": "2026-09-18T10:36:14.000Z"
     },
     {
-      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+      "title": "The Fed's never been so confident on economic growth. What investors should do now, according to KKR.",
+      "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T10:08:00.000Z"
+    },
+    {
+      "title": "The Fed hasn't been this terse since 2007. What a 130-word statement signals for market stability.",
+      "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T10:08:00.000Z"
+    },
+    {
+      "title": "Parents are interfering with teens' first jobs. Here's why employers say it can backfire",
+      "url": "https://www.cnbc.com/2026/09/18/parents-more-involved-in-kids-work-lives.html",
+      "source": "CNBC",
+      "when": "2026-09-18T10:00:01.000Z"
+    },
+    {
+      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T10:00:00.000Z"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates mostly higher following the Fed",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-mostly-higher-following-the-fed-100000327.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T10:00:00.000Z"
+    },
+    {
+      "title": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
+      "url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+      "source": "CNBC",
+      "when": "2026-09-18T09:44:48.000Z"
+    },
+    {
+      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "source": "CNBC",
+      "when": "2026-09-18T09:38:17.000Z"
+    },
+    {
+      "title": "An intense boardroom battle is brewing at India's giant Tata Group",
+      "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
+      "source": "CNBC",
+      "when": "2026-09-18T09:29:41.000Z"
+    },
+    {
+      "title": "I'm in my 50s. My mother died from Alzheimer's. Do I need long-term insurance?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T09:15:00.000Z"
+    },
+    {
+      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+      "source": "CNBC",
+      "when": "2026-09-18T08:41:11.000Z"
+    },
+    {
+      "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
       "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
       "source": "CNBC",
-      "when": "2026-09-18T01:35:38.000Z"
-    },
-    {
-      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
-      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-      "source": "CNBC",
-      "when": "2026-09-18T01:04:06.000Z"
-    },
-    {
-      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-      "source": "CNBC",
-      "when": "2026-09-17T23:56:17.000Z"
-    },
-    {
-      "title": "House heads home to campaign amid calls for urgent AI action",
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "source": "CNBC",
-      "when": "2026-09-17T22:48:08.000Z"
-    },
-    {
-      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-      "url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-      "source": "CNBC",
-      "when": "2026-09-17T22:22:53.000Z"
-    },
-    {
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T21:22:00.000Z"
-    },
-    {
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T21:22:00.000Z"
-    },
-    {
-      "title": "America's AI chip talent crisis — why The U.S. needs 157,000 more workers",
-      "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
-      "source": "CNBC",
-      "when": "2026-09-17T21:16:59.000Z"
-    },
-    {
-      "title": "Wall Street is betting Trump backs down on Iran — but what if the 'TACO' trade fails this time?",
-      "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T21:09:00.000Z"
-    },
-    {
-      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-      "source": "CNBC",
-      "when": "2026-09-17T21:00:47.000Z"
-    },
-    {
-      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-      "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-      "source": "CNBC",
-      "when": "2026-09-17T20:32:07.000Z"
+      "when": "2026-09-18T08:29:35.000Z"
     }
   ],
   "errors": []
