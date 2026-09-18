@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-18T00:41:17.203Z",
-  "fetchedLabel": "Sep 17, 8:41 PM ET",
+  "fetched": "2026-09-18T05:41:22.957Z",
+  "fetchedLabel": "Sep 18, 1:41 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.88",
-      "chg": "-0.51",
-      "pct": "-0.50%",
+      "value": "$101.04",
+      "chg": "-0.35",
+      "pct": "-0.35%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,396.10",
-      "chg": "+44.20",
-      "pct": "+1.02%",
+      "value": "$4,400.90",
+      "chg": "+49.00",
+      "pct": "+1.13%",
       "dir": "up"
     },
     {
@@ -61,16 +61,40 @@
   ],
   "headlines": [
     {
-      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "title": "Pokémon card curbs send shares of Japanese online marketplace Mercari on a bumpy ride",
+      "url": "https://www.cnbc.com/2026/09/18/pokmon-cards-mercari-stock.html",
       "source": "CNBC",
-      "when": "2026-09-17T23:56:17.000Z"
+      "when": "2026-09-18T04:09:56.000Z"
+    },
+    {
+      "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+      "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+      "source": "CNBC",
+      "when": "2026-09-18T03:31:45.000Z"
+    },
+    {
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+      "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-18T03:09:22.000Z"
+    },
+    {
+      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+      "source": "CNBC",
+      "when": "2026-09-18T01:35:38.000Z"
     },
     {
       "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
       "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
       "source": "CNBC",
-      "when": "2026-09-17T23:15:35.000Z"
+      "when": "2026-09-18T01:04:06.000Z"
+    },
+    {
+      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "source": "CNBC",
+      "when": "2026-09-17T23:56:17.000Z"
     },
     {
       "title": "House heads home to campaign amid calls for urgent AI action",
@@ -119,30 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
       "source": "CNBC",
       "when": "2026-09-17T20:32:07.000Z"
-    },
-    {
-      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate",
-      "url": "https://www.cnbc.com/2026/09/17/what-an-oscar-winning-movie-can-teach-us-about-investing-through-the-ai-slowdown-debate.html",
-      "source": "CNBC",
-      "when": "2026-09-17T20:27:19.000Z"
-    },
-    {
-      "title": "Tesla's upcoming product frenzy could leave investors disappointed",
-      "url": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T20:23:00.000Z"
-    },
-    {
-      "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-      "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-      "source": "CNBC",
-      "when": "2026-09-17T20:22:20.000Z"
-    },
-    {
-      "title": "Pet insurance or savings account: What's the best way to plan for a big vet bill?",
-      "url": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T20:19:00.000Z"
     }
   ],
   "errors": []
