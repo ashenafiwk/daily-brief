@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-18T14:52:08.706Z",
-  "fetchedLabel": "Sep 18, 10:52 AM ET",
+  "fetched": "2026-09-18T18:11:43.578Z",
+  "fetchedLabel": "Sep 18, 2:11 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,627.86",
-      "chg": "-29.12",
+      "value": "7,627.56",
+      "chg": "-29.42",
       "pct": "-0.38%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,416.70",
-      "chg": "+83.66",
-      "pct": "+0.32%",
+      "value": "26,407.13",
+      "chg": "+74.08",
+      "pct": "+0.28%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,568.35",
-      "chg": "-1004.94",
-      "pct": "-1.91%",
+      "value": "51,609.40",
+      "chg": "-963.89",
+      "pct": "-1.83%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,852.49",
-      "chg": "-51.45",
-      "pct": "-1.77%",
+      "value": "2,853.18",
+      "chg": "-50.76",
+      "pct": "-1.75%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "5.00%",
       "chg": "+0.04",
-      "pct": "+0.87%",
+      "pct": "+0.79%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.62",
-      "chg": "-3.77",
-      "pct": "-3.72%",
+      "value": "$95.84",
+      "chg": "-5.55",
+      "pct": "-5.47%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,391.70",
-      "chg": "+39.80",
-      "pct": "+0.91%",
+      "value": "$4,432.40",
+      "chg": "+80.50",
+      "pct": "+1.85%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.43",
-      "chg": "-1.67",
-      "pct": "-9.77%",
+      "value": "15.25",
+      "chg": "-1.85",
+      "pct": "-10.82%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
+      "url": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
+      "source": "CNBC",
+      "when": "2026-09-18T18:01:39.000Z"
+    },
+    {
+      "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+      "url": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+      "source": "CNBC",
+      "when": "2026-09-18T17:41:45.000Z"
+    },
+    {
+      "title": "As Warren Buffett's reign ends, fans should sell Berkshire — and buy these stocks instead",
+      "url": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T17:41:00.000Z"
+    },
+    {
+      "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+      "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+      "source": "CNBC",
+      "when": "2026-09-18T17:34:49.000Z"
+    },
+    {
+      "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+      "url": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+      "source": "CNBC",
+      "when": "2026-09-18T17:11:39.000Z"
+    },
+    {
+      "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+      "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+      "source": "CNBC",
+      "when": "2026-09-18T17:02:32.000Z"
+    },
+    {
+      "title": "Two signs investors don't have to fear an AI slowdown",
+      "url": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T17:02:00.000Z"
+    },
+    {
+      "title": "What's really driving inflation and rising interest rates",
+      "url": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T16:50:00.000Z"
+    },
+    {
+      "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+      "url": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
+      "source": "CNBC",
+      "when": "2026-09-18T16:49:03.000Z"
+    },
+    {
+      "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
+      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "source": "CNBC",
+      "when": "2026-09-18T16:42:14.000Z"
+    },
+    {
+      "title": "Why investors' best move in reaction to Fed's rate hike is doing nothing at all",
+      "url": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T16:39:00.000Z"
+    },
+    {
       "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
       "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
       "source": "CNBC",
-      "when": "2026-09-18T14:49:20.000Z"
+      "when": "2026-09-18T16:38:56.000Z"
     },
     {
-      "title": "Eisman: Tesla's Multiple Is Crazy Unless You \"Believe that Tesla's Robotaxi Business will Conquer the World.\" \"Count Me As a Sk...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eisman-tesla-multiple-crazy-unless-143655776.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:36:55.000Z"
-    },
-    {
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
       "source": "CNBC",
-      "when": "2026-09-18T14:36:55.000Z"
+      "when": "2026-09-18T16:33:43.000Z"
     },
     {
-      "title": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
-      "url": "https://finance.yahoo.com/energy/articles/chevron-vs-exxon-dividend-survives-143504214.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:35:04.000Z"
-    },
-    {
-      "title": "Insurtech company Luzern Risk raises $45m in Series B round",
-      "url": "https://finance.yahoo.com/small-business/articles/insurtech-company-luzern-risk-raises-143348982.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:33:48.000Z"
-    },
-    {
-      "title": "Caterpillar's Robot Trucks Are Heading to Two More Quarries. Should You Buy the Dip Under $800?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-robot-trucks-heading-two-143323815.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:33:23.000Z"
-    },
-    {
-      "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:32:00.000Z"
-    },
-    {
-      "title": "The Memory Market Could Be Entering a Golden Age for Micron",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-market-could-entering-golden-143028297.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:30:28.000Z"
-    },
-    {
-      "title": "Stock Market Today: Techs Move Higher As Dow Slides; Taiwan Semiconductor Nears Buy Point (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:24:59.000Z"
-    },
-    {
-      "title": "Claim Social Security Early, Leave the IRA Until 73. That's the Order Most Retirees Use. Reversing It Is Worth Real Money Over ...",
-      "url": "https://finance.yahoo.com/markets/articles/claim-social-security-early-leave-142403493.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:24:03.000Z"
-    },
-    {
-      "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bullish-tyler-technologies-tyl-142303614.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:23:03.000Z"
-    },
-    {
-      "title": "Portfolio Fit: HQDG",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/portfolio-fit-hqdg-142048958.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:20:48.000Z"
-    },
-    {
-      "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
-      "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+      "url": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
       "source": "CNBC",
-      "when": "2026-09-18T14:20:46.000Z"
-    },
-    {
-      "title": "2 Growth Stocks I Plan to Buy if the Stock Market Crashes",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-plan-buy-142000827.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-18T14:20:00.000Z"
+      "when": "2026-09-18T16:31:03.000Z"
     }
   ],
   "errors": []
