@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-18T10:53:47.265Z",
-  "fetchedLabel": "Sep 18, 6:53 AM ET",
+  "fetched": "2026-09-18T14:52:08.706Z",
+  "fetchedLabel": "Sep 18, 10:52 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,637.76",
-      "chg": "+46.06",
-      "pct": "+0.61%",
-      "dir": "up"
+      "value": "7,627.86",
+      "chg": "-29.12",
+      "pct": "-0.38%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,418.30",
-      "chg": "+336.58",
-      "pct": "+1.29%",
+      "value": "26,416.70",
+      "chg": "+83.66",
+      "pct": "+0.32%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,778.04",
-      "chg": "-286.06",
-      "pct": "-0.55%",
+      "value": "51,568.35",
+      "chg": "-1004.94",
+      "pct": "-1.91%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,874.63",
-      "chg": "-16.32",
-      "pct": "-0.56%",
+      "value": "2,852.49",
+      "chg": "-51.45",
+      "pct": "-1.77%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.95%",
-      "chg": "-0.03",
-      "pct": "-0.56%",
-      "dir": "down"
+      "value": "5.00%",
+      "chg": "+0.04",
+      "pct": "+0.87%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.78",
-      "chg": "-5.61",
-      "pct": "-5.53%",
+      "value": "$97.62",
+      "chg": "-3.77",
+      "pct": "-3.72%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,421.20",
-      "chg": "+69.30",
-      "pct": "+1.59%",
+      "value": "$4,391.70",
+      "chg": "+39.80",
+      "pct": "+0.91%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.26",
-      "chg": "-1.84",
-      "pct": "-10.76%",
+      "value": "15.43",
+      "chg": "-1.67",
+      "pct": "-9.77%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
-      "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T10:39:00.000Z"
-    },
-    {
-      "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
-      "url": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T10:38:00.000Z"
-    },
-    {
-      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-      "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+      "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
       "source": "CNBC",
-      "when": "2026-09-18T10:36:14.000Z"
+      "when": "2026-09-18T14:49:20.000Z"
     },
     {
-      "title": "The Fed's never been so confident on economic growth. What investors should do now, according to KKR.",
-      "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T10:08:00.000Z"
-    },
-    {
-      "title": "The Fed hasn't been this terse since 2007. What a 130-word statement signals for market stability.",
-      "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T10:08:00.000Z"
-    },
-    {
-      "title": "Parents are interfering with teens' first jobs. Here's why employers say it can backfire",
-      "url": "https://www.cnbc.com/2026/09/18/parents-more-involved-in-kids-work-lives.html",
-      "source": "CNBC",
-      "when": "2026-09-18T10:00:01.000Z"
-    },
-    {
-      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+      "title": "Eisman: Tesla's Multiple Is Crazy Unless You \"Believe that Tesla's Robotaxi Business will Conquer the World.\" \"Count Me As a Sk...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eisman-tesla-multiple-crazy-unless-143655776.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-18T10:00:00.000Z"
+      "when": "2026-09-18T14:36:55.000Z"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates mostly higher following the Fed",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-mostly-higher-following-the-fed-100000327.html",
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "source": "CNBC",
+      "when": "2026-09-18T14:36:55.000Z"
+    },
+    {
+      "title": "Chevron vs. Exxon: Which Dividend Survives the Downturn",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-vs-exxon-dividend-survives-143504214.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-18T10:00:00.000Z"
+      "when": "2026-09-18T14:35:04.000Z"
     },
     {
-      "title": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
-      "url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
+      "title": "Insurtech company Luzern Risk raises $45m in Series B round",
+      "url": "https://finance.yahoo.com/small-business/articles/insurtech-company-luzern-risk-raises-143348982.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:33:48.000Z"
+    },
+    {
+      "title": "Caterpillar's Robot Trucks Are Heading to Two More Quarries. Should You Buy the Dip Under $800?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-robot-trucks-heading-two-143323815.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:33:23.000Z"
+    },
+    {
+      "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:32:00.000Z"
+    },
+    {
+      "title": "The Memory Market Could Be Entering a Golden Age for Micron",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-market-could-entering-golden-143028297.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:30:28.000Z"
+    },
+    {
+      "title": "Stock Market Today: Techs Move Higher As Dow Slides; Taiwan Semiconductor Nears Buy Point (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:24:59.000Z"
+    },
+    {
+      "title": "Claim Social Security Early, Leave the IRA Until 73. That's the Order Most Retirees Use. Reversing It Is Worth Real Money Over ...",
+      "url": "https://finance.yahoo.com/markets/articles/claim-social-security-early-leave-142403493.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:24:03.000Z"
+    },
+    {
+      "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bullish-tyler-technologies-tyl-142303614.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:23:03.000Z"
+    },
+    {
+      "title": "Portfolio Fit: HQDG",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/portfolio-fit-hqdg-142048958.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:20:48.000Z"
+    },
+    {
+      "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+      "url": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
       "source": "CNBC",
-      "when": "2026-09-18T09:44:48.000Z"
+      "when": "2026-09-18T14:20:46.000Z"
     },
     {
-      "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-      "source": "CNBC",
-      "when": "2026-09-18T09:38:17.000Z"
-    },
-    {
-      "title": "An intense boardroom battle is brewing at India's giant Tata Group",
-      "url": "https://www.cnbc.com/2026/09/18/jlr-air-india-tata-iphone.html",
-      "source": "CNBC",
-      "when": "2026-09-18T09:29:41.000Z"
-    },
-    {
-      "title": "I'm in my 50s. My mother died from Alzheimer's. Do I need long-term insurance?",
-      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T09:15:00.000Z"
-    },
-    {
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "CNBC",
-      "when": "2026-09-18T08:41:11.000Z"
-    },
-    {
-      "title": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
-      "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-      "source": "CNBC",
-      "when": "2026-09-18T08:29:35.000Z"
+      "title": "2 Growth Stocks I Plan to Buy if the Stock Market Crashes",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-plan-buy-142000827.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-18T14:20:00.000Z"
     }
   ],
   "errors": []
