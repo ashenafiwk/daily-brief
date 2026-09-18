@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-17T22:22:30.161Z",
-  "fetchedLabel": "Sep 17, 6:22 PM ET",
+  "fetched": "2026-09-18T00:41:17.203Z",
+  "fetchedLabel": "Sep 17, 8:41 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.05",
-      "chg": "-0.34",
-      "pct": "-0.34%",
+      "value": "$100.88",
+      "chg": "-0.51",
+      "pct": "-0.50%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,382.10",
-      "chg": "+30.20",
-      "pct": "+0.69%",
+      "value": "$4,396.10",
+      "chg": "+44.20",
+      "pct": "+1.02%",
       "dir": "up"
     },
     {
@@ -60,6 +60,30 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+      "url": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
+      "source": "CNBC",
+      "when": "2026-09-17T23:56:17.000Z"
+    },
+    {
+      "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+      "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+      "source": "CNBC",
+      "when": "2026-09-17T23:15:35.000Z"
+    },
+    {
+      "title": "House heads home to campaign amid calls for urgent AI action",
+      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "CNBC",
+      "when": "2026-09-17T22:48:08.000Z"
+    },
+    {
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
+      "url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
+      "source": "CNBC",
+      "when": "2026-09-17T22:22:53.000Z"
+    },
     {
       "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
       "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
@@ -91,12 +115,6 @@
       "when": "2026-09-17T21:00:47.000Z"
     },
     {
-      "title": "House heads home to campaign amid calls for urgent AI action",
-      "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-      "source": "CNBC",
-      "when": "2026-09-17T20:41:54.000Z"
-    },
-    {
       "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
       "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
       "source": "CNBC",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-17T20:19:00.000Z"
-    },
-    {
-      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-      "url": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T20:13:00.000Z"
-    },
-    {
-      "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
-      "url": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
-      "source": "CNBC",
-      "when": "2026-09-17T19:57:41.000Z"
-    },
-    {
-      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-      "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-17T19:52:00.000Z"
     }
   ],
   "errors": []
