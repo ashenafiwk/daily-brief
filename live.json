@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-18T23:30:23.612Z",
-  "fetchedLabel": "Sep 18, 7:30 PM ET",
+  "fetched": "2026-09-19T03:58:43.532Z",
+  "fetchedLabel": "Sep 18, 11:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,16 +61,28 @@
   ],
   "headlines": [
     {
-      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+      "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
       "source": "CNBC",
-      "when": "2026-09-18T23:28:06.000Z"
+      "when": "2026-09-19T01:41:49.000Z"
     },
     {
       "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
       "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
       "source": "CNBC",
-      "when": "2026-09-18T23:04:23.000Z"
+      "when": "2026-09-18T23:43:21.000Z"
+    },
+    {
+      "title": "I'm in my 50s. My mother died from Alzheimer's. Do I need long-term-care insurance?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-18T23:30:00.000Z"
+    },
+    {
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+      "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "source": "CNBC",
+      "when": "2026-09-18T23:28:06.000Z"
     },
     {
       "title": "'I'm burned out': I'm constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -89,6 +101,12 @@
       "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-18T22:41:00.000Z"
+    },
+    {
+      "title": "Cramer's week ahead: What to watch as Wall Street navigates a tough September",
+      "url": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
+      "source": "CNBC",
+      "when": "2026-09-18T22:17:16.000Z"
     },
     {
       "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-18T20:48:00.000Z"
-    },
-    {
-      "title": "Most of what you know about data centers is wrong",
-      "url": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T20:15:00.000Z"
-    },
-    {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T20:01:00.000Z"
-    },
-    {
-      "title": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
-      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
-      "source": "CNBC",
-      "when": "2026-09-18T19:30:55.000Z"
     }
   ],
   "errors": []
