@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-19T21:21:47.341Z",
-  "fetchedLabel": "Sep 19, 5:21 PM ET",
+  "fetched": "2026-09-19T23:24:18.178Z",
+  "fetchedLabel": "Sep 19, 7:24 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,28 +61,58 @@
   ],
   "headlines": [
     {
-      "title": "How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earn-600-month-pipeline-stocks-205000405.html",
+      "title": "80-year-old discount fashion chain closing 120 stores",
+      "url": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-19T20:50:00.000Z"
+      "when": "2026-09-19T23:02:22.000Z"
     },
     {
-      "title": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-worried-ai-bubble-heres-203500865.html",
+      "title": "IRS has hidden fix for retirees who missed Sept. 15 deadline",
+      "url": "https://finance.yahoo.com/economy/policy/articles/irs-hidden-fix-retirees-missed-230000919.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-19T20:35:00.000Z"
+      "when": "2026-09-19T23:00:00.000Z"
     },
     {
-      "title": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for ...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-yields-just-1-203000717.html",
+      "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dgrw-pays-dividends-every-month-225737231.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-19T20:30:00.000Z"
+      "when": "2026-09-19T22:57:37.000Z"
     },
     {
-      "title": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-palantir-amd-202500594.html",
+      "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-19T20:25:00.000Z"
+      "when": "2026-09-19T22:50:00.000Z"
+    },
+    {
+      "title": "XRP ETFs Have Been Frozen at $1.71 Billion. When Will Inflows Reach $2 Billion?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-frozen-1-71-223635167.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-19T22:36:35.000Z"
+    },
+    {
+      "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+      "url": "https://finance.yahoo.com/energy/articles/bloom-energy-riding-data-center-222500710.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-19T22:25:00.000Z"
+    },
+    {
+      "title": "Where You Hold SCHD and JEPI Matters More Than You Think: The Taxable vs. IRA Math",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/where-hold-schd-jepi-matters-222358521.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-19T22:23:58.000Z"
+    },
+    {
+      "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-oracles-debt-load-derail-220900578.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-19T22:09:00.000Z"
+    },
+    {
+      "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-19T22:07:00.000Z"
     },
     {
       "title": "Nashville's Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
@@ -109,40 +139,10 @@
       "when": "2026-09-19T20:09:32.000Z"
     },
     {
-      "title": "If You'd Invested $1,000 in VGT 10 Years Ago, Here's How Much You'd Have Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vgt-200900217.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-19T20:09:00.000Z"
-    },
-    {
-      "title": "Equinix Sees AI Driving Data Center Demand, Interconnection Growth",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-sees-ai-driving-data-200214555.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-19T20:02:14.000Z"
-    },
-    {
-      "title": "A 35-Year-Old Is Facing A $19M Business Exit — But 70% Of The Value Is Tied To Real Estate",
-      "url": "https://finance.yahoo.com/real-estate/articles/35-old-facing-19m-business-200006026.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-19T20:00:06.000Z"
-    },
-    {
-      "title": "SpaceX Stock Has Gone Nowhere Since Its First Day of Trading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-gone-nowhere-since-195701417.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-19T19:57:01.000Z"
-    },
-    {
       "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
       "url": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
       "source": "Yahoo Finance",
       "when": "2026-09-19T19:55:13.000Z"
-    },
-    {
-      "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
-      "url": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-19T19:52:17.000Z"
     }
   ],
   "errors": []
