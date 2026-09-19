@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-19T03:58:43.532Z",
-  "fetchedLabel": "Sep 18, 11:58 PM ET",
+  "fetched": "2026-09-19T08:44:55.889Z",
+  "fetchedLabel": "Sep 19, 4:44 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.47",
-      "chg": "-5.92",
-      "pct": "-5.84%",
+      "value": "$96.08",
+      "chg": "-5.31",
+      "pct": "-5.24%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,415.90",
-      "chg": "+64.00",
-      "pct": "+1.47%",
+      "value": "$4,424.90",
+      "chg": "+73.00",
+      "pct": "+1.68%",
       "dir": "up"
     },
     {
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "A new arms race is unfolding on the ocean floor",
+      "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+      "source": "CNBC",
+      "when": "2026-09-19T05:00:01.000Z"
+    },
     {
       "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
       "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
       "source": "CNBC",
       "when": "2026-09-18T21:08:28.000Z"
-    },
-    {
-      "title": "Stocks are failing the 'breadth' test, but options traders still see reason to buy",
-      "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-18T20:48:00.000Z"
     }
   ],
   "errors": []
