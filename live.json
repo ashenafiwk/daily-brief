@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-20T21:27:34.337Z",
-  "fetchedLabel": "Sep 20, 5:27 PM ET",
+  "fetched": "2026-09-20T23:26:16.277Z",
+  "fetchedLabel": "Sep 20, 7:26 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.08",
-      "chg": "-9.75",
-      "pct": "-9.21%",
+      "value": "$95.98",
+      "chg": "-9.85",
+      "pct": "-9.31%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,424.90",
-      "chg": "+92.10",
-      "pct": "+2.13%",
+      "value": "$4,410.60",
+      "chg": "+77.80",
+      "pct": "+1.80%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Bitdeer (BTDR) Fully Contracts A102. Can Signed Demand Become Profitable AI Revenue?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bitdeer-btdr-fully-contracts-a102-210458313.html",
+      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T21:04:58.000Z"
+      "when": "2026-09-20T23:08:32.000Z"
     },
     {
-      "title": "What Lies Ahead for Marcus & Millichap (MMI) Following These Multifamily Asset Sales",
-      "url": "https://finance.yahoo.com/real-estate/articles/lies-ahead-marcus-millichap-mmi-210222145.html",
+      "title": "Alphabet (GOOGL)'s Google Bets on Finland's Cold Weather and Nuclear Power for its Next AI Buildout",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-bets-finland-230634716.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T21:02:22.000Z"
+      "when": "2026-09-20T23:06:34.000Z"
     },
     {
-      "title": "WW International Eyes Cash Flow Turnaround as GLP-1 Care Gains Momentum",
-      "url": "https://finance.yahoo.com/healthcare/articles/ww-international-eyes-cash-flow-210158376.html",
+      "title": "Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-increased-spacex-230500976.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T21:01:58.000Z"
+      "when": "2026-09-20T23:05:00.000Z"
     },
     {
-      "title": "Interactive Brokers Stock Turned $10,000 Into About $110,000 in a Decade. The Customer Base Grew Even Faster.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-stock-turned-10-210101004.html",
+      "title": "They've Deeded a Slice of the Duplex to Each of Their Three Kids Every January Since 2019. The Rent Follows the Deed, and Not O...",
+      "url": "https://finance.yahoo.com/real-estate/articles/ve-deeded-slice-duplex-three-230337498.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T21:01:01.000Z"
+      "when": "2026-09-20T23:03:37.000Z"
     },
     {
-      "title": "Medical Properties Trust (MPT) Receives $371M. Will Debt Reduction Outweigh Lost Rent?",
-      "url": "https://finance.yahoo.com/real-estate/articles/medical-properties-trust-mpt-receives-205838338.html",
+      "title": "Paramount (PSKY) Turns California's Own Words Against it in Warner Bros. (WBD) Bond Fight",
+      "url": "https://finance.yahoo.com/media-advertising/articles/paramount-psky-turns-california-own-230245287.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:58:38.000Z"
+      "when": "2026-09-20T23:02:45.000Z"
     },
     {
-      "title": "Willis Lease Finance (WLFC) Bets on Malaysia for Next Phase of Global Expansion",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-bets-205718056.html",
+      "title": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
+      "url": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:57:18.000Z"
+      "when": "2026-09-20T23:01:58.000Z"
     },
     {
-      "title": "2 Superior AI Infrastructure Stocks to Buy and Hold for 10 Years",
-      "url": "https://finance.yahoo.com/technology/ai/articles/2-superior-ai-infrastructure-stocks-205700048.html",
+      "title": "Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-recalls-200-000-225734007.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:57:00.000Z"
+      "when": "2026-09-20T22:57:34.000Z"
     },
     {
-      "title": "Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it?",
-      "url": "https://finance.yahoo.com/energy/articles/chord-energy-chrd-signs-550-205447338.html",
+      "title": "Starbucks (SBUX)'s New Chai Recipe has its Most Loyal Customers Revolting",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-chai-recipe-most-225540524.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:54:47.000Z"
+      "when": "2026-09-20T22:55:40.000Z"
     },
     {
-      "title": "Semtech's (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips",
-      "url": "https://finance.yahoo.com/technology/articles/semtech-smtc-lora-plus-expansion-205447567.html",
+      "title": "Dollar General EVP Reardon Sells 5,578 Shares",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-evp-reardon-sells-223502393.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:54:47.000Z"
+      "when": "2026-09-20T22:35:02.000Z"
     },
     {
-      "title": "LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/luxexperience-luxe-reports-net-porter-205013606.html",
+      "title": "Realty Income or Agree Realty During a REIT Sell-Off?",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-agree-realty-during-223501210.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:50:13.000Z"
+      "when": "2026-09-20T22:35:01.000Z"
     },
     {
-      "title": "Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?",
-      "url": "https://finance.yahoo.com/real-estate/articles/lennar-len-cuts-delivery-forecast-204510657.html",
+      "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Her...",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-built-2-4-222900517.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:45:10.000Z"
+      "when": "2026-09-20T22:29:00.000Z"
     },
     {
-      "title": "RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rb-global-rba-doubles-buyback-204211476.html",
+      "title": "Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line",
+      "url": "https://finance.yahoo.com/technology/ai/articles/warner-music-wmg-bets-ai-215750591.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:42:11.000Z"
+      "when": "2026-09-20T21:57:50.000Z"
     },
     {
-      "title": "Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?",
-      "url": "https://finance.yahoo.com/energy/articles/halliburton-hal-wins-integrated-cyprus-203555402.html",
+      "title": "Jim Cramer on Iron Mountain (IRM): \"It's Been an Incredible Stock\"",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iron-mountain-irm-215701602.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:35:55.000Z"
+      "when": "2026-09-20T21:57:01.000Z"
     },
     {
-      "title": "HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?",
-      "url": "https://finance.yahoo.com/healthcare/articles/hca-healthcare-hca-acquires-healthcare-203355980.html",
+      "title": "Two Years In, Starbucks (SBUX)'s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-years-starbucks-sbux-ceo-215502629.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T20:33:55.000Z"
+      "when": "2026-09-20T21:55:02.000Z"
     }
   ],
   "errors": []
