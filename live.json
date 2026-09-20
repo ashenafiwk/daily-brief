@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-20T01:28:36.726Z",
-  "fetchedLabel": "Sep 19, 9:28 PM ET",
+  "fetched": "2026-09-20T06:53:37.303Z",
+  "fetchedLabel": "Sep 20, 2:53 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,15 +40,15 @@
     {
       "name": "Crude (WTI)",
       "value": "$96.08",
-      "chg": "-5.31",
-      "pct": "-5.24%",
+      "chg": "-9.75",
+      "pct": "-9.21%",
       "dir": "down"
     },
     {
       "name": "Gold",
       "value": "$4,424.90",
-      "chg": "+73.00",
-      "pct": "+1.68%",
+      "chg": "+92.10",
+      "pct": "+2.13%",
       "dir": "up"
     },
     {
@@ -60,6 +60,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "France's wine production nears a 70-year low, leaving winemakers with tough choices",
+      "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+      "source": "CNBC",
+      "when": "2026-09-20T05:00:01.000Z"
+    },
+    {
+      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T01:45:00.000Z"
+    },
+    {
+      "title": "'I'm burned out': I'm constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T01:30:00.000Z"
+    },
     {
       "title": "I'm in my 50s. My mother died from Alzheimer's. Do I need long-term-care insurance?",
       "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
@@ -121,28 +139,10 @@
       "when": "2026-09-19T16:19:00.000Z"
     },
     {
-      "title": "'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T16:15:00.000Z"
-    },
-    {
       "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
       "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
       "source": "CNBC",
       "when": "2026-09-19T16:03:09.000Z"
-    },
-    {
-      "title": "'I'm burned out': I'm constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T16:00:00.000Z"
-    },
-    {
-      "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
-      "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
-      "source": "CNBC",
-      "when": "2026-09-19T14:10:02.000Z"
     }
   ],
   "errors": []
