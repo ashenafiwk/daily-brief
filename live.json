@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-20T06:53:37.303Z",
-  "fetchedLabel": "Sep 20, 2:53 AM ET",
+  "fetched": "2026-09-20T12:08:42.725Z",
+  "fetchedLabel": "Sep 20, 8:08 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,48 @@
   ],
   "headlines": [
     {
+      "title": "'It's awful': How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "source": "CNBC",
+      "when": "2026-09-20T12:00:01.000Z"
+    },
+    {
+      "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+      "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+      "source": "CNBC",
+      "when": "2026-09-20T12:00:01.000Z"
+    },
+    {
+      "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+      "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+      "source": "CNBC",
+      "when": "2026-09-20T12:00:01.000Z"
+    },
+    {
+      "title": "China is chasing SpaceX and setting its sights on the global space economy",
+      "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T12:00:00.000Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "source": "CNBC",
+      "when": "2026-09-20T11:25:08.000Z"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-20T10:00:00.000Z"
+    },
+    {
+      "title": "Best CD rates today, Sunday, September 20, 2026: Lock in up to 4.40% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-20-2026-lock-in-up-to-440-apy-100000852.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-20T10:00:00.000Z"
+    },
+    {
       "title": "France's wine production nears a 70-year low, leaving winemakers with tough choices",
       "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
       "source": "CNBC",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-19T18:40:00.000Z"
-    },
-    {
-      "title": "Many young investors can't afford to invest without their parents' help",
-      "url": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T18:22:00.000Z"
-    },
-    {
-      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-      "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "source": "CNBC",
-      "when": "2026-09-19T18:12:15.000Z"
-    },
-    {
-      "title": "The future of retirement? Work until you die.",
-      "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T17:53:00.000Z"
-    },
-    {
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
-      "url": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T17:21:00.000Z"
-    },
-    {
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-      "url": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T16:45:00.000Z"
-    },
-    {
-      "title": "It's not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-19T16:19:00.000Z"
-    },
-    {
-      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
-      "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-      "source": "CNBC",
-      "when": "2026-09-19T16:03:09.000Z"
     }
   ],
   "errors": []
