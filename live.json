@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-21T07:02:42.532Z",
-  "fetchedLabel": "Sep 21, 3:02 AM ET",
+  "fetched": "2026-09-21T14:27:36.749Z",
+  "fetchedLabel": "Sep 21, 10:27 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,650.50",
-      "chg": "-6.48",
-      "pct": "-0.08%",
-      "dir": "down"
+      "value": "7,721.94",
+      "chg": "+101.96",
+      "pct": "+1.34%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,522.55",
-      "chg": "+189.50",
-      "pct": "+0.72%",
+      "value": "26,925.31",
+      "chg": "+738.90",
+      "pct": "+2.82%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,682.64",
-      "chg": "-890.65",
-      "pct": "-1.69%",
+      "value": "51,916.34",
+      "chg": "-504.86",
+      "pct": "-0.96%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,860.40",
-      "chg": "-43.54",
-      "pct": "-1.50%",
+      "value": "2,874.02",
+      "chg": "-18.22",
+      "pct": "-0.63%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.00%",
-      "chg": "+0.04",
-      "pct": "+0.75%",
-      "dir": "up"
+      "value": "4.97%",
+      "chg": "-0.03",
+      "pct": "-0.52%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.15",
-      "chg": "-8.28",
-      "pct": "-8.08%",
+      "value": "$92.16",
+      "chg": "-10.27",
+      "pct": "-10.03%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,390.00",
-      "chg": "+2.50",
-      "pct": "+0.06%",
-      "dir": "up"
+      "value": "$4,376.10",
+      "chg": "-11.40",
+      "pct": "-0.26%",
+      "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.81",
-      "chg": "-2.39",
-      "pct": "-13.90%",
+      "value": "14.70",
+      "chg": "-2.50",
+      "pct": "-14.53%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "CNBC Daily Open: May the 'AI Force' be with you",
-      "url": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
-      "source": "CNBC",
-      "when": "2026-09-21T06:41:34.000Z"
-    },
-    {
-      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
-      "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-      "source": "CNBC",
-      "when": "2026-09-21T04:20:33.000Z"
-    },
-    {
-      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+      "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
       "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-21T04:04:18.000Z"
+      "when": "2026-09-21T14:20:48.000Z"
     },
     {
-      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "title": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+      "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+      "source": "CNBC",
+      "when": "2026-09-21T14:20:31.000Z"
+    },
+    {
+      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-21T02:40:00.000Z"
+      "when": "2026-09-21T14:20:00.000Z"
     },
     {
-      "title": "If your kid does these 8 things, they're more emotionally mature than most, says psychologist",
-      "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
-      "source": "CNBC",
-      "when": "2026-09-21T02:07:12.000Z"
-    },
-    {
-      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "source": "CNBC",
-      "when": "2026-09-21T00:45:26.000Z"
-    },
-    {
-      "title": "Here are the 3 big things we're watching in the stock market this week",
-      "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source": "CNBC",
-      "when": "2026-09-20T23:42:00.000Z"
-    },
-    {
-      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-      "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-      "source": "CNBC",
-      "when": "2026-09-20T19:06:16.000Z"
-    },
-    {
-      "title": "T-Mobile and Verizon face a new broadband rival",
-      "url": "https://finance.yahoo.com/technology/articles/t-mobile-verizon-face-broadband-181700799.html",
+      "title": "PizzaExpress explores sale at valuation of up to £500m – report",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pizzaexpress-explores-sale-valuation-500m-141813074.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T18:17:00.000Z"
+      "when": "2026-09-21T14:18:13.000Z"
     },
     {
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T17:30:00.000Z"
+      "title": "White House TV pool won't cover Trump after press ban: CNN",
+      "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+      "source": "CNBC",
+      "when": "2026-09-21T14:17:37.000Z"
     },
     {
-      "title": "Chevron CEO sends a strong message on oil price and the economy",
-      "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "title": "Stock Market Today: Dow Rallies As Nvidia Nears Entry; Oil Dips On Iran Hopes (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T16:47:00.000Z"
+      "when": "2026-09-21T14:14:33.000Z"
     },
     {
-      "title": "'My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T16:30:00.000Z"
-    },
-    {
-      "title": "Dollar General CEO raises major red flag about consumers",
-      "url": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
+      "title": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week's Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T15:17:00.000Z"
+      "when": "2026-09-21T14:14:18.000Z"
     },
     {
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T15:00:00.000Z"
+      "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-surged-strong-141359726.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:13:59.000Z"
+    },
+    {
+      "title": "RWE to develop 400MW battery system at Moerdijk power station",
+      "url": "https://finance.yahoo.com/energy/articles/rwe-develop-400mw-battery-system-140949443.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:09:49.000Z"
+    },
+    {
+      "title": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran",
+      "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+      "source": "CNBC",
+      "when": "2026-09-21T14:08:50.000Z"
+    },
+    {
+      "title": "\"For People Going Into Retirement, This Is a Gift.\" A 65-Year-Old With $1.5 Million Can Now Generate $74,445 a Year Before Even...",
+      "url": "https://finance.yahoo.com/markets/options/articles/people-going-retirement-gift-65-140828087.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:08:28.000Z"
+    },
+    {
+      "title": "Jim Cramer sends strong signal to Oracle stock investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-140700680.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:07:00.000Z"
+    },
+    {
+      "title": "Oura publicly files for initial public offering, looks to raise $2.2 billion",
+      "url": "https://finance.yahoo.com/technology/article/oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:05:23.000Z"
+    },
+    {
+      "title": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-21T14:05:01.000Z"
     }
   ],
   "errors": []
