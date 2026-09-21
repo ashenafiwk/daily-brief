@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-20T23:26:16.277Z",
-  "fetchedLabel": "Sep 20, 7:26 PM ET",
+  "fetched": "2026-09-21T01:29:52.543Z",
+  "fetchedLabel": "Sep 20, 9:29 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.98",
-      "chg": "-9.85",
-      "pct": "-9.31%",
+      "value": "$93.76",
+      "chg": "-12.07",
+      "pct": "-11.41%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,410.60",
-      "chg": "+77.80",
-      "pct": "+1.80%",
+      "value": "$4,416.90",
+      "chg": "+84.10",
+      "pct": "+1.94%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T23:08:32.000Z"
+      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+      "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "source": "CNBC",
+      "when": "2026-09-21T00:45:26.000Z"
     },
     {
-      "title": "Alphabet (GOOGL)'s Google Bets on Finland's Cold Weather and Nuclear Power for its Next AI Buildout",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-bets-finland-230634716.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T23:06:34.000Z"
+      "title": "Here are the 3 big things we're watching in the stock market this week",
+      "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC",
+      "when": "2026-09-20T23:42:00.000Z"
     },
     {
-      "title": "Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-increased-spacex-230500976.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T23:05:00.000Z"
+      "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+      "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+      "source": "CNBC",
+      "when": "2026-09-20T19:06:16.000Z"
     },
     {
-      "title": "They've Deeded a Slice of the Duplex to Each of Their Three Kids Every January Since 2019. The Rent Follows the Deed, and Not O...",
-      "url": "https://finance.yahoo.com/real-estate/articles/ve-deeded-slice-duplex-three-230337498.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T23:03:37.000Z"
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "url": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T17:30:00.000Z"
     },
     {
-      "title": "Paramount (PSKY) Turns California's Own Words Against it in Warner Bros. (WBD) Bond Fight",
-      "url": "https://finance.yahoo.com/media-advertising/articles/paramount-psky-turns-california-own-230245287.html",
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T23:02:45.000Z"
+      "when": "2026-09-20T16:47:00.000Z"
     },
     {
-      "title": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
-      "url": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T23:01:58.000Z"
+      "title": "'My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T16:30:00.000Z"
     },
     {
-      "title": "Stellantis (STLA) Recalls 200,000 More Jeeps, its Latest Entry in a Record Recall Year",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-recalls-200-000-225734007.html",
+      "title": "Dollar General CEO raises major red flag about consumers",
+      "url": "https://finance.yahoo.com/economy/articles/dollar-general-ceo-raises-major-151700186.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T22:57:34.000Z"
+      "when": "2026-09-20T15:17:00.000Z"
     },
     {
-      "title": "Starbucks (SBUX)'s New Chai Recipe has its Most Loyal Customers Revolting",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-chai-recipe-most-225540524.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T22:55:40.000Z"
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T15:00:00.000Z"
     },
     {
-      "title": "Dollar General EVP Reardon Sells 5,578 Shares",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-evp-reardon-sells-223502393.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T22:35:02.000Z"
+      "title": "The 'robot relations' department may become reality in workplace of the future",
+      "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+      "source": "CNBC",
+      "when": "2026-09-20T14:37:34.000Z"
     },
     {
-      "title": "Realty Income or Agree Realty During a REIT Sell-Off?",
-      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-agree-realty-during-223501210.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T22:35:01.000Z"
+      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
+      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-20T14:23:53.000Z"
     },
     {
-      "title": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Her...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-built-2-4-222900517.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T22:29:00.000Z"
+      "title": "Snoopy cups at Starbucks and McDonald's SpongeBob toys are commanding huge markups on eBay",
+      "url": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T14:08:00.000Z"
     },
     {
-      "title": "Warner Music (WMG) Bets its AI Truce with Suno Can Turn into a New Revenue Line",
-      "url": "https://finance.yahoo.com/technology/ai/articles/warner-music-wmg-bets-ai-215750591.html",
+      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
+      "url": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-20T21:57:50.000Z"
+      "when": "2026-09-20T14:07:00.000Z"
     },
     {
-      "title": "Jim Cramer on Iron Mountain (IRM): \"It's Been an Incredible Stock\"",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-iron-mountain-irm-215701602.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T21:57:01.000Z"
+      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T14:00:00.000Z"
     },
     {
-      "title": "Two Years In, Starbucks (SBUX)'s CEO Niccol has Won Back Customers. Now Wall Street Wants Margins",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-years-starbucks-sbux-ceo-215502629.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T21:55:02.000Z"
+      "title": "China is chasing SpaceX and setting its sights on the global space economy",
+      "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-20T13:53:00.000Z"
     }
   ],
   "errors": []
