@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-21T01:29:52.543Z",
-  "fetchedLabel": "Sep 20, 9:29 PM ET",
+  "fetched": "2026-09-21T07:02:42.532Z",
+  "fetchedLabel": "Sep 21, 3:02 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,57 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.76",
-      "chg": "-12.07",
-      "pct": "-11.41%",
+      "value": "$94.15",
+      "chg": "-8.28",
+      "pct": "-8.08%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,416.90",
-      "chg": "+84.10",
-      "pct": "+1.94%",
+      "value": "$4,390.00",
+      "chg": "+2.50",
+      "pct": "+0.06%",
       "dir": "up"
     },
     {
       "name": "VIX",
       "value": "14.81",
-      "chg": "-2.29",
-      "pct": "-13.39%",
+      "chg": "-2.39",
+      "pct": "-13.90%",
       "dir": "down"
     }
   ],
   "headlines": [
+    {
+      "title": "CNBC Daily Open: May the 'AI Force' be with you",
+      "url": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+      "source": "CNBC",
+      "when": "2026-09-21T06:41:34.000Z"
+    },
+    {
+      "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+      "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+      "source": "CNBC",
+      "when": "2026-09-21T04:20:33.000Z"
+    },
+    {
+      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+      "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-21T04:04:18.000Z"
+    },
+    {
+      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-21T02:40:00.000Z"
+    },
+    {
+      "title": "If your kid does these 8 things, they're more emotionally mature than most, says psychologist",
+      "url": "https://www.cnbc.com/2026/09/20/signs-parents-raising-emotionally-mature-child-psychologist.html",
+      "source": "CNBC",
+      "when": "2026-09-21T02:07:12.000Z"
+    },
     {
       "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
       "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
@@ -77,6 +107,12 @@
       "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
       "source": "CNBC",
       "when": "2026-09-20T19:06:16.000Z"
+    },
+    {
+      "title": "T-Mobile and Verizon face a new broadband rival",
+      "url": "https://finance.yahoo.com/technology/articles/t-mobile-verizon-face-broadband-181700799.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-20T18:17:00.000Z"
     },
     {
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
@@ -107,42 +143,6 @@
       "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-20T15:00:00.000Z"
-    },
-    {
-      "title": "The 'robot relations' department may become reality in workplace of the future",
-      "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
-      "source": "CNBC",
-      "when": "2026-09-20T14:37:34.000Z"
-    },
-    {
-      "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-      "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-20T14:23:53.000Z"
-    },
-    {
-      "title": "Snoopy cups at Starbucks and McDonald's SpongeBob toys are commanding huge markups on eBay",
-      "url": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T14:08:00.000Z"
-    },
-    {
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-      "url": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-20T14:07:00.000Z"
-    },
-    {
-      "title": "'My total balance should be $20 million': I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T14:00:00.000Z"
-    },
-    {
-      "title": "China is chasing SpaceX and setting its sights on the global space economy",
-      "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-20T13:53:00.000Z"
     }
   ],
   "errors": []
