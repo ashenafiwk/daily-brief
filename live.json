@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-22T21:04:30.831Z",
-  "fetchedLabel": "Sep 22, 5:04 PM ET",
+  "fetched": "2026-09-22T23:43:56.848Z",
+  "fetchedLabel": "Sep 22, 7:43 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.80",
-      "chg": "-12.11",
-      "pct": "-11.88%",
+      "value": "$89.68",
+      "chg": "-12.23",
+      "pct": "-12.00%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,397.40",
-      "chg": "-2.30",
-      "pct": "-0.05%",
-      "dir": "down"
+      "value": "$4,402.40",
+      "chg": "+2.70",
+      "pct": "+0.06%",
+      "dir": "up"
     },
     {
       "name": "VIX",
@@ -60,6 +60,60 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC",
+      "when": "2026-09-22T23:43:43.000Z"
+    },
+    {
+      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
+      "source": "CNBC",
+      "when": "2026-09-22T22:35:50.000Z"
+    },
+    {
+      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "source": "CNBC",
+      "when": "2026-09-22T22:03:33.000Z"
+    },
+    {
+      "title": "The Nasdaq's rapid rise to a record is sending a message to investors: Don't wait for a pullback to buy",
+      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T21:44:00.000Z"
+    },
+    {
+      "title": "Sandisk's stock is rising: Why one analyst says AI could help it reach new heights",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T21:30:00.000Z"
+    },
+    {
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T21:27:00.000Z"
+    },
+    {
+      "title": "Could Meta's viral Muse app be the company's ChatGPT moment?",
+      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T21:26:00.000Z"
+    },
+    {
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+      "source": "CNBC",
+      "when": "2026-09-22T21:25:42.000Z"
+    },
+    {
+      "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+      "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+      "source": "CNBC",
+      "when": "2026-09-22T21:07:21.000Z"
+    },
     {
       "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
       "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
@@ -89,60 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
       "source": "CNBC",
       "when": "2026-09-22T20:43:48.000Z"
-    },
-    {
-      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:31:19.000Z"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T20:31:00.000Z"
-    },
-    {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T20:31:00.000Z"
-    },
-    {
-      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-      "url": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T20:27:00.000Z"
-    },
-    {
-      "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
-      "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:24:20.000Z"
-    },
-    {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:07:24.000Z"
-    },
-    {
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "source": "CNBC",
-      "when": "2026-09-22T19:59:05.000Z"
-    },
-    {
-      "title": "Jet fuel is following diesel's price jump as the Hormuz supply shock hits the skies",
-      "url": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T19:59:00.000Z"
-    },
-    {
-      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-      "source": "CNBC",
-      "when": "2026-09-22T19:51:13.000Z"
     }
   ],
   "errors": []
