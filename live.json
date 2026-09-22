@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-21T23:05:43.295Z",
-  "fetchedLabel": "Sep 21, 7:05 PM ET",
+  "fetched": "2026-09-22T01:44:28.761Z",
+  "fetchedLabel": "Sep 21, 9:44 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.14",
-      "chg": "-10.29",
-      "pct": "-10.05%",
+      "value": "$92.78",
+      "chg": "-9.65",
+      "pct": "-9.42%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,400.30",
-      "chg": "+12.80",
-      "pct": "+0.29%",
+      "value": "$4,392.80",
+      "chg": "+5.30",
+      "pct": "+0.12%",
       "dir": "up"
     },
     {
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+      "url": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+      "source": "CNBC",
+      "when": "2026-09-22T01:30:01.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+      "url": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+      "source": "CNBC",
+      "when": "2026-09-21T23:18:30.000Z"
+    },
     {
       "title": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
       "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
       "source": "CNBC",
       "when": "2026-09-21T21:01:26.000Z"
-    },
-    {
-      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-21T21:00:00.000Z"
-    },
-    {
-      "title": "OpenAI proposes development of global AI standards to guide alignment, RSI",
-      "url": "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-      "source": "CNBC",
-      "when": "2026-09-21T20:51:11.000Z"
     }
   ],
   "errors": []
