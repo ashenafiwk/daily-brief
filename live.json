@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-22T13:14:51.512Z",
-  "fetchedLabel": "Sep 22, 9:14 AM ET",
+  "fetched": "2026-09-22T17:42:14.571Z",
+  "fetchedLabel": "Sep 22, 1:42 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,764.70",
-      "chg": "+144.72",
-      "pct": "+1.90%",
+      "value": "7,762.73",
+      "chg": "+177.00",
+      "pct": "+2.33%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,122.09",
-      "chg": "+935.68",
-      "pct": "+3.57%",
+      "value": "27,199.50",
+      "chg": "+1217.93",
+      "pct": "+4.69%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,048.83",
-      "chg": "-372.37",
-      "pct": "-0.71%",
+      "value": "51,807.69",
+      "chg": "-285.42",
+      "pct": "-0.55%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,875.36",
-      "chg": "-16.88",
-      "pct": "-0.58%",
-      "dir": "down"
+      "value": "2,886.78",
+      "chg": "+16.49",
+      "pct": "+0.57%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.95%",
-      "chg": "-0.06",
-      "pct": "-1.18%",
+      "value": "4.98%",
+      "chg": "-0.03",
+      "pct": "-0.52%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.01",
-      "chg": "-11.90",
-      "pct": "-11.68%",
+      "value": "$91.08",
+      "chg": "-10.83",
+      "pct": "-10.63%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,374.10",
-      "chg": "-25.60",
-      "pct": "-0.58%",
+      "value": "$4,375.40",
+      "chg": "-24.30",
+      "pct": "-0.55%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.65",
-      "chg": "-3.06",
-      "pct": "-17.28%",
+      "value": "14.30",
+      "chg": "-3.41",
+      "pct": "-19.25%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Trump to press Zelenskyy for energy truce, says Russia has 'lost control' of oil due to Ukraine war",
-      "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
+      "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
+      "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
       "source": "CNBC",
-      "when": "2026-09-22T13:09:59.000Z"
+      "when": "2026-09-22T17:36:28.000Z"
+    },
+    {
+      "title": "Binance takes $100M stake in Circle to boost USDC",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-takes-100m-stake-circle-173309864.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:33:09.000Z"
+    },
+    {
+      "title": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
+      "url": "https://www.cnbc.com/2026/09/22/trump-cnn-un-white-house-media-ban.html",
+      "source": "CNBC",
+      "when": "2026-09-22T17:32:47.000Z"
+    },
+    {
+      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
+      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "source": "CNBC",
+      "when": "2026-09-22T17:30:27.000Z"
+    },
+    {
+      "title": "The AI Software Story Wall Street Is Underrating",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-software-story-wall-street-173010261.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:30:10.000Z"
+    },
+    {
+      "title": "Hightower Advisors Hires Vanguard Executive as New President",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hightower-advisors-hires-vanguard-executive-172924136.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:29:24.000Z"
+    },
+    {
+      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "source": "CNBC",
+      "when": "2026-09-22T17:27:02.000Z"
+    },
+    {
+      "title": "Meta's Muse Jumps to the Top of the Apple Store—and Triggers a Panic in the Stock Market",
+      "url": "https://www.barrons.com/articles/meta-muse-ai-agent-stock-market-sell-efb8807d?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:27:00.000Z"
+    },
+    {
+      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
+      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:26:43.000Z"
+    },
+    {
+      "title": "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-set-record-dow-lost-172637543.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:26:37.000Z"
+    },
+    {
+      "title": "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
+      "url": "https://www.barrons.com/articles/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-22T17:26:00.000Z"
     },
     {
       "title": "Circle lands $100 million from Binance to ramp up global USDC expansion",
       "url": "https://www.cnbc.com/2026/09/22/circle-lands-100-million-from-binance-to-ramp-up-global-usdc-expansion-.html",
       "source": "CNBC",
-      "when": "2026-09-22T13:08:03.000Z"
+      "when": "2026-09-22T17:25:39.000Z"
     },
     {
-      "title": "What Makes Prologis (PLD) a Strong Investment?",
-      "url": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
+      "title": "Why Shopify Stock Rocketed Higher Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-shopify-stock-rocketed-higher-172529706.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-22T13:03:53.000Z"
+      "when": "2026-09-22T17:25:29.000Z"
     },
     {
-      "title": "Our top 10 things to watch in the stock market Tuesday",
-      "url": "https://www.cnbc.com/2026/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "source": "CNBC",
-      "when": "2026-09-22T13:00:28.000Z"
-    },
-    {
-      "title": "Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income",
-      "url": "https://finance.yahoo.com/markets/articles/ramit-sethi-warns-couple-earning-130000343.html",
+      "title": "Is Palantir a Millionaire-Maker Stock?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-millionaire-maker-stock-172500971.html",
       "source": "Yahoo Finance",
-      "when": "2026-09-22T13:00:00.000Z"
-    },
-    {
-      "title": "$33B Merit President Mayhue to Take CEO Role as Founder Kent Becomes Executive Chair",
-      "url": "https://finance.yahoo.com/small-business/articles/33b-merit-president-mayhue-ceo-130000859.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T13:00:00.000Z"
-    },
-    {
-      "title": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T12:57:01.000Z"
-    },
-    {
-      "title": "The Fed Just Gave Berkshire a Raise. Here's How Big It Is.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fed-just-gave-berkshire-raise-125701755.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T12:57:01.000Z"
-    },
-    {
-      "title": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
-      "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-22T12:56:37.000Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T12:55:25.000Z"
-    },
-    {
-      "title": "BlackBerry Jumps 7% as Coretura Selects QNX-Based Alloy Kore for Truck Platform; Aptiv Edges Higher, Mobileye Barely Budges",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-jumps-7-coretura-selects-125455709.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T12:54:55.000Z"
-    },
-    {
-      "title": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold W...",
-      "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-      "source": "CNBC",
-      "when": "2026-09-22T12:53:05.000Z"
-    },
-    {
-      "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T12:53:00.000Z"
-    },
-    {
-      "title": "GameStop Jumps 4% as Ryan Cohen Buys 1.15 Million More Shares",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-jumps-4-ryan-cohen-125208287.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T12:52:08.000Z"
+      "when": "2026-09-22T17:25:00.000Z"
     }
   ],
   "errors": []
