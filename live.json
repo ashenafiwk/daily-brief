@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-22T17:42:14.571Z",
-  "fetchedLabel": "Sep 22, 1:42 PM ET",
+  "fetched": "2026-09-22T21:04:30.831Z",
+  "fetchedLabel": "Sep 22, 5:04 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,762.73",
-      "chg": "+177.00",
-      "pct": "+2.33%",
+      "value": "7,764.64",
+      "chg": "+178.91",
+      "pct": "+2.36%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,199.50",
-      "chg": "+1217.93",
-      "pct": "+4.69%",
+      "value": "27,244.28",
+      "chg": "+1262.71",
+      "pct": "+4.86%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,807.69",
-      "chg": "-285.42",
-      "pct": "-0.55%",
+      "value": "51,863.69",
+      "chg": "-229.42",
+      "pct": "-0.44%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,886.78",
-      "chg": "+16.49",
-      "pct": "+0.57%",
+      "value": "2,889.92",
+      "chg": "+19.63",
+      "pct": "+0.68%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.98%",
-      "chg": "-0.03",
-      "pct": "-0.52%",
+      "value": "4.97%",
+      "chg": "-0.04",
+      "pct": "-0.76%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.08",
-      "chg": "-10.83",
-      "pct": "-10.63%",
+      "value": "$89.80",
+      "chg": "-12.11",
+      "pct": "-11.88%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,375.40",
-      "chg": "-24.30",
-      "pct": "-0.55%",
+      "value": "$4,397.40",
+      "chg": "-2.30",
+      "pct": "-0.05%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.30",
-      "chg": "-3.41",
-      "pct": "-19.25%",
+      "value": "14.21",
+      "chg": "-3.50",
+      "pct": "-19.76%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
-      "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
+      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+      "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T20:54:00.000Z"
+    },
+    {
+      "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+      "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
       "source": "CNBC",
-      "when": "2026-09-22T17:36:28.000Z"
+      "when": "2026-09-22T20:49:25.000Z"
     },
     {
-      "title": "Binance takes $100M stake in Circle to boost USDC",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-takes-100m-stake-circle-173309864.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:33:09.000Z"
-    },
-    {
-      "title": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
-      "url": "https://www.cnbc.com/2026/09/22/trump-cnn-un-white-house-media-ban.html",
+      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+      "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
       "source": "CNBC",
-      "when": "2026-09-22T17:32:47.000Z"
+      "when": "2026-09-22T20:46:52.000Z"
     },
     {
-      "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
-      "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T20:46:00.000Z"
+    },
+    {
+      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
+      "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
       "source": "CNBC",
-      "when": "2026-09-22T17:30:27.000Z"
+      "when": "2026-09-22T20:43:48.000Z"
     },
     {
-      "title": "The AI Software Story Wall Street Is Underrating",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-software-story-wall-street-173010261.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:30:10.000Z"
-    },
-    {
-      "title": "Hightower Advisors Hires Vanguard Executive as New President",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hightower-advisors-hires-vanguard-executive-172924136.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:29:24.000Z"
-    },
-    {
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
       "source": "CNBC",
-      "when": "2026-09-22T17:27:02.000Z"
+      "when": "2026-09-22T20:31:19.000Z"
     },
     {
-      "title": "Meta's Muse Jumps to the Top of the Apple Store—and Triggers a Panic in the Stock Market",
-      "url": "https://www.barrons.com/articles/meta-muse-ai-agent-stock-market-sell-efb8807d?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:27:00.000Z"
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T20:31:00.000Z"
     },
     {
-      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:26:43.000Z"
+      "title": "Want to bet on risky, high-beta stocks? Why you should wait for this week in October.",
+      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T20:31:00.000Z"
     },
     {
-      "title": "The Nasdaq Set a Record and the Dow Lost 270 Points on the Same Morning",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-set-record-dow-lost-172637543.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:26:37.000Z"
+      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
+      "url": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T20:27:00.000Z"
     },
     {
-      "title": "A Rejuvenated AI Trade May Not Be Enough to Save the Stock Market",
-      "url": "https://www.barrons.com/articles/ai-stock-rally-narrow-market-breadth-warning-5766c3cb?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:26:00.000Z"
-    },
-    {
-      "title": "Circle lands $100 million from Binance to ramp up global USDC expansion",
-      "url": "https://www.cnbc.com/2026/09/22/circle-lands-100-million-from-binance-to-ramp-up-global-usdc-expansion-.html",
+      "title": "Oil prices fall for fifth day after Trump says U.S. met with Iran for three hours",
+      "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
       "source": "CNBC",
-      "when": "2026-09-22T17:25:39.000Z"
+      "when": "2026-09-22T20:24:20.000Z"
     },
     {
-      "title": "Why Shopify Stock Rocketed Higher Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-shopify-stock-rocketed-higher-172529706.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:25:29.000Z"
+      "title": "Here's who we know is going to the Trump-Xi dinner so far",
+      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+      "source": "CNBC",
+      "when": "2026-09-22T20:07:24.000Z"
     },
     {
-      "title": "Is Palantir a Millionaire-Maker Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-millionaire-maker-stock-172500971.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-22T17:25:00.000Z"
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-22T19:59:05.000Z"
+    },
+    {
+      "title": "Jet fuel is following diesel's price jump as the Hormuz supply shock hits the skies",
+      "url": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-22T19:59:00.000Z"
+    },
+    {
+      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+      "source": "CNBC",
+      "when": "2026-09-22T19:51:13.000Z"
     }
   ],
   "errors": []
