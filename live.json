@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-23T09:26:59.500Z",
-  "fetchedLabel": "Sep 23, 5:26 AM ET",
+  "fetched": "2026-09-23T14:21:14.413Z",
+  "fetchedLabel": "Sep 23, 10:21 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,764.64",
-      "chg": "+178.91",
-      "pct": "+2.36%",
+      "value": "7,720.41",
+      "chg": "+168.60",
+      "pct": "+2.23%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,244.28",
-      "chg": "+1262.71",
-      "pct": "+4.86%",
+      "value": "26,935.18",
+      "chg": "+956.75",
+      "pct": "+3.68%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,863.69",
-      "chg": "-229.42",
-      "pct": "-0.44%",
-      "dir": "down"
+      "value": "51,796.45",
+      "chg": "+334.55",
+      "pct": "+0.65%",
+      "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,889.92",
-      "chg": "+19.63",
-      "pct": "+0.68%",
+      "value": "2,859.11",
+      "chg": "+0.30",
+      "pct": "+0.01%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.97%",
-      "chg": "-0.04",
-      "pct": "-0.76%",
-      "dir": "down"
+      "value": "5.04%",
+      "chg": "+0.09",
+      "pct": "+1.88%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.94",
-      "chg": "-10.36",
-      "pct": "-10.33%",
+      "value": "$91.90",
+      "chg": "-8.40",
+      "pct": "-8.37%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,355.50",
-      "chg": "-69.40",
-      "pct": "-1.57%",
+      "value": "$4,321.50",
+      "chg": "-103.40",
+      "pct": "-2.34%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.15",
-      "chg": "-1.29",
-      "pct": "-8.35%",
+      "value": "14.54",
+      "chg": "-0.90",
+      "pct": "-5.83%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
-      "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
+      "title": "2-year Treasury yield leaps, 10-year Treasury retakes 5% after hot economic readings",
+      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
       "source": "CNBC",
-      "when": "2026-09-23T09:22:51.000Z"
+      "when": "2026-09-23T14:20:22.000Z"
     },
     {
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
       "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T09:15:00.000Z"
-    },
-    {
-      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-      "source": "CNBC",
-      "when": "2026-09-23T09:14:32.000Z"
+      "when": "2026-09-23T14:15:00.000Z"
     },
     {
       "title": "Iran says Trump's threats a sign of 'strategic desperation,' floats conditions for Hormuz reopening",
       "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-23T09:05:23.000Z"
+      "when": "2026-09-23T14:06:40.000Z"
     },
     {
-      "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
-      "url": "https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories",
+      "title": "Proposed distribution tax reforms risk harming growth, ICAEW warns",
+      "url": "https://finance.yahoo.com/economy/policy/articles/proposed-distribution-tax-reforms-risk-140013422.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T14:00:13.000Z"
+    },
+    {
+      "title": "Can DoubleVerify's (DV) AI Push Still Matter With A Buyout Pending?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/doubleverify-dv-ai-push-still-140003995.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T14:00:03.000Z"
+    },
+    {
+      "title": "AI Boom Is 'Dot-Com and Subprime All Merged in One,' Former Fidelity Manager Tells Steve Eisman",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-dot-com-subprime-135944338.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:59:44.000Z"
+    },
+    {
+      "title": "These stocks are the 'four horsemen of AI' — and they're not the ones you'd think",
+      "url": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T09:01:00.000Z"
+      "when": "2026-09-23T13:58:00.000Z"
     },
     {
-      "title": "TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million",
-      "url": "https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T08:58:00.000Z"
+      "title": "Crude Futures Pick Up After String of Losses",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4?siteid=yhoof2&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:58:00.000Z"
     },
     {
-      "title": "Softbank's mega junk-bond deal shows capital for the AI race is getting more expensive",
-      "url": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T08:56:00.000Z"
+      "title": "Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-polaris-capital-continues-watching-135738757.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:57:38.000Z"
     },
     {
-      "title": "Treasury yields little changed as oil price oscillates",
-      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
+      "url": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
       "source": "CNBC",
-      "when": "2026-09-23T08:44:59.000Z"
+      "when": "2026-09-23T13:56:06.000Z"
     },
     {
-      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
-      "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
-      "source": "CNBC",
-      "when": "2026-09-23T08:42:34.000Z"
+      "title": "DataSnipper launches Alwin platform for audit and finance workflows",
+      "url": "https://finance.yahoo.com/technology/ai/articles/datasnipper-launches-alwin-platform-audit-135453480.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:54:53.000Z"
     },
     {
-      "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
-      "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-      "source": "CNBC",
-      "when": "2026-09-23T08:36:50.000Z"
+      "title": "McDonald's to invest $8.5B as part of Next strategy",
+      "url": "https://finance.yahoo.com/small-business/articles/mcdonald-invest-8-5b-part-135400601.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:54:00.000Z"
     },
     {
-      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it's time to buy.",
-      "url": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T08:24:00.000Z"
+      "title": "Piper Sandler cuts Cisco price target to $125 on growth peak fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-cuts-cisco-price-135354486.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:53:54.000Z"
     },
     {
-      "title": "Zelenskyy says Ukraine ready for 'energy ceasefire', calls for trilateral meeting with Putin, Trump",
-      "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
-      "source": "CNBC",
-      "when": "2026-09-23T08:06:50.000Z"
-    },
-    {
-      "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
-      "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
-      "source": "CNBC",
-      "when": "2026-09-23T07:33:14.000Z"
-    },
-    {
-      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-      "source": "CNBC",
-      "when": "2026-09-23T05:49:57.000Z"
+      "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
+      "source": "Yahoo Finance",
+      "when": "2026-09-23T13:53:23.000Z"
     }
   ],
   "errors": []
