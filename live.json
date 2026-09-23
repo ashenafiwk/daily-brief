@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-23T04:07:42.664Z",
-  "fetchedLabel": "Sep 23, 12:07 AM ET",
+  "fetched": "2026-09-23T09:26:59.500Z",
+  "fetchedLabel": "Sep 23, 5:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.34",
-      "chg": "-10.96",
-      "pct": "-10.93%",
+      "value": "$89.94",
+      "chg": "-10.36",
+      "pct": "-10.33%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,381.30",
-      "chg": "-43.60",
-      "pct": "-0.99%",
+      "value": "$4,355.50",
+      "chg": "-69.40",
+      "pct": "-1.57%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.21",
-      "chg": "-3.50",
-      "pct": "-19.76%",
+      "value": "14.15",
+      "chg": "-1.29",
+      "pct": "-8.35%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "In photos: Key takeaways from day one of the UN General Assembly",
-      "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+      "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
       "source": "CNBC",
-      "when": "2026-09-23T03:13:02.000Z"
+      "when": "2026-09-23T09:22:51.000Z"
     },
     {
-      "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
-      "url": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T09:15:00.000Z"
+    },
+    {
+      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
       "source": "CNBC",
-      "when": "2026-09-23T03:08:23.000Z"
+      "when": "2026-09-23T09:14:32.000Z"
     },
     {
-      "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "title": "Iran says Trump's threats a sign of 'strategic desperation,' floats conditions for Hormuz reopening",
+      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-23T09:05:23.000Z"
+    },
+    {
+      "title": "The real estate portfolio of Zendaya and Tom Holland, plus her plans for a room just for her wedding dress",
+      "url": "https://www.marketwatch.com/story/the-real-estate-portfolio-of-zendaya-and-tom-holland-plus-her-plans-for-a-room-just-for-her-wedding-dress-daa9cc93?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T02:15:00.000Z"
+      "when": "2026-09-23T09:01:00.000Z"
     },
     {
-      "title": "'She gave a neighbor $2,000': Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "title": "TV host Maria Menounos lists a beautifully renovated Encino mansion for $7 million",
+      "url": "https://www.marketwatch.com/story/tv-host-maria-menounos-lists-a-beautifully-renovated-encino-mansion-for-7-million-2af120a2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T02:00:00.000Z"
+      "when": "2026-09-23T08:58:00.000Z"
     },
     {
-      "title": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+      "title": "Softbank's mega junk-bond deal shows capital for the AI race is getting more expensive",
+      "url": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T08:56:00.000Z"
+    },
+    {
+      "title": "Treasury yields little changed as oil price oscillates",
+      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "source": "CNBC",
+      "when": "2026-09-23T08:44:59.000Z"
+    },
+    {
+      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+      "url": "https://www.cnbc.com/2026/09/23/ai-workplace-graduate-entry-level-junior-hiring.html",
+      "source": "CNBC",
+      "when": "2026-09-23T08:42:34.000Z"
+    },
+    {
+      "title": "Oil prices mixed after U.S. and Iran talk for hours at UN meeting",
       "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
       "source": "CNBC",
-      "when": "2026-09-23T01:04:46.000Z"
+      "when": "2026-09-23T08:36:50.000Z"
     },
     {
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-      "source": "CNBC",
-      "when": "2026-09-22T23:43:48.000Z"
-    },
-    {
-      "title": "Here's who we know is going to the Trump-Xi dinner so far",
-      "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
-      "source": "CNBC",
-      "when": "2026-09-22T23:43:43.000Z"
-    },
-    {
-      "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
-      "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
-      "source": "CNBC",
-      "when": "2026-09-22T23:00:01.000Z"
-    },
-    {
-      "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-      "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-      "source": "CNBC",
-      "when": "2026-09-22T22:35:50.000Z"
-    },
-    {
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-      "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-      "source": "CNBC",
-      "when": "2026-09-22T22:03:33.000Z"
-    },
-    {
-      "title": "The Nasdaq's rapid rise to a record is sending a message to investors: Don't wait for a pullback to buy",
-      "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it's time to buy.",
+      "url": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-22T21:44:00.000Z"
+      "when": "2026-09-23T08:24:00.000Z"
     },
     {
-      "title": "Sandisk's stock is rising: Why one analyst says AI could help it reach new heights",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T21:30:00.000Z"
+      "title": "Zelenskyy says Ukraine ready for 'energy ceasefire', calls for trilateral meeting with Putin, Trump",
+      "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+      "source": "CNBC",
+      "when": "2026-09-23T08:06:50.000Z"
     },
     {
-      "title": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T21:27:00.000Z"
+      "title": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
+      "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
+      "source": "CNBC",
+      "when": "2026-09-23T07:33:14.000Z"
     },
     {
-      "title": "Could Meta's viral Muse app be the company's ChatGPT moment?",
-      "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T21:26:00.000Z"
+      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+      "source": "CNBC",
+      "when": "2026-09-23T05:49:57.000Z"
     }
   ],
   "errors": []
