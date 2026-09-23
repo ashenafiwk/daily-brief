@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-22T23:43:56.848Z",
-  "fetchedLabel": "Sep 22, 7:43 PM ET",
+  "fetched": "2026-09-23T04:07:42.664Z",
+  "fetchedLabel": "Sep 23, 12:07 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.68",
-      "chg": "-12.23",
-      "pct": "-12.00%",
+      "value": "$89.34",
+      "chg": "-10.96",
+      "pct": "-10.93%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,402.40",
-      "chg": "+2.70",
-      "pct": "+0.06%",
-      "dir": "up"
+      "value": "$4,381.30",
+      "chg": "-43.60",
+      "pct": "-0.99%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -61,10 +61,52 @@
   ],
   "headlines": [
     {
+      "title": "In photos: Key takeaways from day one of the UN General Assembly",
+      "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+      "source": "CNBC",
+      "when": "2026-09-23T03:13:02.000Z"
+    },
+    {
+      "title": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+      "url": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+      "source": "CNBC",
+      "when": "2026-09-23T03:08:23.000Z"
+    },
+    {
+      "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
+      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T02:15:00.000Z"
+    },
+    {
+      "title": "'She gave a neighbor $2,000': Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T02:00:00.000Z"
+    },
+    {
+      "title": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+      "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+      "source": "CNBC",
+      "when": "2026-09-23T01:04:46.000Z"
+    },
+    {
+      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-22T23:43:48.000Z"
+    },
+    {
       "title": "Here's who we know is going to the Trump-Xi dinner so far",
       "url": "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
       "source": "CNBC",
       "when": "2026-09-22T23:43:43.000Z"
+    },
+    {
+      "title": "Qantas to start selling tickets next year for its New York to Sydney nonstop flight",
+      "url": "https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html",
+      "source": "CNBC",
+      "when": "2026-09-22T23:00:01.000Z"
     },
     {
       "title": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-22T21:26:00.000Z"
-    },
-    {
-      "title": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-      "source": "CNBC",
-      "when": "2026-09-22T21:25:42.000Z"
-    },
-    {
-      "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-      "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-      "source": "CNBC",
-      "when": "2026-09-22T21:07:21.000Z"
-    },
-    {
-      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-      "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T20:54:00.000Z"
-    },
-    {
-      "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-      "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:49:25.000Z"
-    },
-    {
-      "title": "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-      "url": "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:46:52.000Z"
-    },
-    {
-      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-      "url": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-22T20:46:00.000Z"
-    },
-    {
-      "title": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
-      "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
-      "source": "CNBC",
-      "when": "2026-09-22T20:43:48.000Z"
     }
   ],
   "errors": []
