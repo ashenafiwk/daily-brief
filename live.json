@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-23T18:32:15.893Z",
-  "fetchedLabel": "Sep 23, 2:32 PM ET",
+  "fetched": "2026-09-23T22:08:05.076Z",
+  "fetchedLabel": "Sep 23, 6:08 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,710.58",
-      "chg": "+158.77",
-      "pct": "+2.10%",
+      "value": "7,706.03",
+      "chg": "+154.22",
+      "pct": "+2.04%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,943.57",
-      "chg": "+965.14",
-      "pct": "+3.72%",
+      "value": "26,936.04",
+      "chg": "+957.61",
+      "pct": "+3.69%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,557.73",
-      "chg": "+95.83",
-      "pct": "+0.19%",
+      "value": "51,511.59",
+      "chg": "+49.69",
+      "pct": "+0.10%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,846.56",
-      "chg": "-12.26",
-      "pct": "-0.43%",
+      "value": "2,838.66",
+      "chg": "-20.15",
+      "pct": "-0.70%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.13%",
-      "chg": "+0.18",
-      "pct": "+3.60%",
+      "value": "5.11%",
+      "chg": "+0.17",
+      "pct": "+3.38%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.97",
-      "chg": "-8.33",
-      "pct": "-8.31%",
+      "value": "$92.71",
+      "chg": "-7.59",
+      "pct": "-7.57%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,325.60",
-      "chg": "-99.30",
-      "pct": "-2.24%",
+      "value": "$4,322.70",
+      "chg": "-102.20",
+      "pct": "-2.31%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.00",
-      "chg": "-0.44",
-      "pct": "-2.85%",
+      "value": "15.18",
+      "chg": "-0.26",
+      "pct": "-1.68%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "The ingredients for a financial reckoning are all in place",
-      "url": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "title": "'I don't begrudge them their money': My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T18:24:00.000Z"
+      "when": "2026-09-23T22:00:00.000Z"
     },
     {
       "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
       "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T18:15:00.000Z"
+      "when": "2026-09-23T21:59:00.000Z"
     },
     {
-      "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
-      "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
-      "source": "CNBC",
-      "when": "2026-09-23T18:06:25.000Z"
-    },
-    {
-      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren't slowing the U.S. economy down.",
-      "url": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "title": "Micron's stock has become a 'battleground' as the AI narrative shifts",
+      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T18:06:00.000Z"
+      "when": "2026-09-23T21:51:00.000Z"
     },
     {
-      "title": "McDonald's is making a historic bet on chicken — and AI — to bring back customers",
-      "url": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
+      "title": "Is gridlock in Washington actually good for stocks? Here's what historical market data says.",
+      "url": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T18:02:00.000Z"
+      "when": "2026-09-23T21:44:00.000Z"
     },
     {
-      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "title": "OpenAI and Anthropic's CEOs just delivered this message to the U.N. as AI fears swirl",
+      "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T18:00:00.000Z"
+      "when": "2026-09-23T21:27:00.000Z"
     },
     {
-      "title": "New Social Security bill would lower retirement age to 60 for some workers",
-      "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
+      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
       "source": "CNBC",
-      "when": "2026-09-23T17:58:47.000Z"
+      "when": "2026-09-23T21:26:36.000Z"
     },
     {
-      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
-      "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html",
       "source": "CNBC",
-      "when": "2026-09-23T17:54:12.000Z"
+      "when": "2026-09-23T21:25:54.000Z"
     },
     {
-      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
-      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
+      "source": "CNBC",
+      "when": "2026-09-23T21:25:01.000Z"
+    },
+    {
+      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "source": "CNBC",
+      "when": "2026-09-23T21:22:30.000Z"
+    },
+    {
+      "title": "Inflation could cost Republicans the Senate — this chart shows how",
+      "url": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T17:52:00.000Z"
+      "when": "2026-09-23T21:13:00.000Z"
     },
     {
-      "title": "Fuel prices keep rising — and so do Democrats' chances of winning both the House and Senate",
-      "url": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "source": "CNBC",
+      "when": "2026-09-23T21:11:28.000Z"
+    },
+    {
+      "title": "Palantir's stock sees its highest close of the year, sealing a dramatic comeback",
+      "url": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T17:49:00.000Z"
+      "when": "2026-09-23T21:08:00.000Z"
     },
     {
-      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
+      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
       "source": "CNBC",
-      "when": "2026-09-23T17:39:36.000Z"
+      "when": "2026-09-23T21:04:47.000Z"
     },
     {
-      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
-      "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
-      "source": "CNBC",
-      "when": "2026-09-23T17:38:47.000Z"
-    },
-    {
-      "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
-      "url": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
-      "source": "CNBC",
-      "when": "2026-09-23T17:32:29.000Z"
-    },
-    {
-      "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
-      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-      "source": "CNBC",
-      "when": "2026-09-23T17:25:26.000Z"
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+      "url": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T20:45:00.000Z"
     }
   ],
   "errors": []
