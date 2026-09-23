@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-23T14:21:14.413Z",
-  "fetchedLabel": "Sep 23, 10:21 AM ET",
+  "fetched": "2026-09-23T18:32:15.893Z",
+  "fetchedLabel": "Sep 23, 2:32 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,720.41",
-      "chg": "+168.60",
-      "pct": "+2.23%",
+      "value": "7,710.58",
+      "chg": "+158.77",
+      "pct": "+2.10%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,935.18",
-      "chg": "+956.75",
-      "pct": "+3.68%",
+      "value": "26,943.57",
+      "chg": "+965.14",
+      "pct": "+3.72%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,796.45",
-      "chg": "+334.55",
-      "pct": "+0.65%",
+      "value": "51,557.73",
+      "chg": "+95.83",
+      "pct": "+0.19%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,859.11",
-      "chg": "+0.30",
-      "pct": "+0.01%",
-      "dir": "up"
+      "value": "2,846.56",
+      "chg": "-12.26",
+      "pct": "-0.43%",
+      "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.04%",
-      "chg": "+0.09",
-      "pct": "+1.88%",
+      "value": "5.13%",
+      "chg": "+0.18",
+      "pct": "+3.60%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.90",
-      "chg": "-8.40",
-      "pct": "-8.37%",
+      "value": "$91.97",
+      "chg": "-8.33",
+      "pct": "-8.31%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,321.50",
-      "chg": "-103.40",
-      "pct": "-2.34%",
+      "value": "$4,325.60",
+      "chg": "-99.30",
+      "pct": "-2.24%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.54",
-      "chg": "-0.90",
-      "pct": "-5.83%",
+      "value": "15.00",
+      "chg": "-0.44",
+      "pct": "-2.85%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "2-year Treasury yield leaps, 10-year Treasury retakes 5% after hot economic readings",
+      "title": "The ingredients for a financial reckoning are all in place",
+      "url": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T18:24:00.000Z"
+    },
+    {
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T18:15:00.000Z"
+    },
+    {
+      "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+      "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+      "source": "CNBC",
+      "when": "2026-09-23T18:06:25.000Z"
+    },
+    {
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren't slowing the U.S. economy down.",
+      "url": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T18:06:00.000Z"
+    },
+    {
+      "title": "McDonald's is making a historic bet on chicken — and AI — to bring back customers",
+      "url": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T18:02:00.000Z"
+    },
+    {
+      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-23T18:00:00.000Z"
+    },
+    {
+      "title": "New Social Security bill would lower retirement age to 60 for some workers",
+      "url": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
+      "source": "CNBC",
+      "when": "2026-09-23T17:58:47.000Z"
+    },
+    {
+      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings",
       "url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
       "source": "CNBC",
-      "when": "2026-09-23T14:20:22.000Z"
+      "when": "2026-09-23T17:54:12.000Z"
     },
     {
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
+      "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T14:15:00.000Z"
+      "when": "2026-09-23T17:52:00.000Z"
     },
     {
-      "title": "Iran says Trump's threats a sign of 'strategic desperation,' floats conditions for Hormuz reopening",
-      "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-09-23T14:06:40.000Z"
-    },
-    {
-      "title": "Proposed distribution tax reforms risk harming growth, ICAEW warns",
-      "url": "https://finance.yahoo.com/economy/policy/articles/proposed-distribution-tax-reforms-risk-140013422.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T14:00:13.000Z"
-    },
-    {
-      "title": "Can DoubleVerify's (DV) AI Push Still Matter With A Buyout Pending?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/doubleverify-dv-ai-push-still-140003995.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T14:00:03.000Z"
-    },
-    {
-      "title": "AI Boom Is 'Dot-Com and Subprime All Merged in One,' Former Fidelity Manager Tells Steve Eisman",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-dot-com-subprime-135944338.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:59:44.000Z"
-    },
-    {
-      "title": "These stocks are the 'four horsemen of AI' — and they're not the ones you'd think",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
+      "title": "Fuel prices keep rising — and so do Democrats' chances of winning both the House and Senate",
+      "url": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T13:58:00.000Z"
+      "when": "2026-09-23T17:49:00.000Z"
     },
     {
-      "title": "Crude Futures Pick Up After String of Losses",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:58:00.000Z"
-    },
-    {
-      "title": "Why Polaris Capital Continues Watching Alibaba (BABA) Amid AI Opportunity and China Market Challenges",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-polaris-capital-continues-watching-135738757.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:57:38.000Z"
-    },
-    {
-      "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
-      "url": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
+      "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
       "source": "CNBC",
-      "when": "2026-09-23T13:56:06.000Z"
+      "when": "2026-09-23T17:39:36.000Z"
     },
     {
-      "title": "DataSnipper launches Alwin platform for audit and finance workflows",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datasnipper-launches-alwin-platform-audit-135453480.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:54:53.000Z"
+      "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+      "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+      "source": "CNBC",
+      "when": "2026-09-23T17:38:47.000Z"
     },
     {
-      "title": "McDonald's to invest $8.5B as part of Next strategy",
-      "url": "https://finance.yahoo.com/small-business/articles/mcdonald-invest-8-5b-part-135400601.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:54:00.000Z"
+      "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
+      "url": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
+      "source": "CNBC",
+      "when": "2026-09-23T17:32:29.000Z"
     },
     {
-      "title": "Piper Sandler cuts Cisco price target to $125 on growth peak fears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-cuts-cisco-price-135354486.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:53:54.000Z"
-    },
-    {
-      "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
-      "source": "Yahoo Finance",
-      "when": "2026-09-23T13:53:23.000Z"
+      "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+      "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+      "source": "CNBC",
+      "when": "2026-09-23T17:25:26.000Z"
     }
   ],
   "errors": []
