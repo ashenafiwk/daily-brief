@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-24T00:45:40.586Z",
-  "fetchedLabel": "Sep 23, 8:45 PM ET",
+  "fetched": "2026-09-24T05:57:06.197Z",
+  "fetchedLabel": "Sep 24, 1:57 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.52",
-      "chg": "-8.78",
-      "pct": "-8.75%",
+      "value": "$92.08",
+      "chg": "-3.70",
+      "pct": "-3.86%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,327.70",
-      "chg": "-97.20",
-      "pct": "-2.20%",
+      "value": "$4,319.00",
+      "chg": "-64.90",
+      "pct": "-1.48%",
       "dir": "down"
     },
     {
@@ -61,10 +61,76 @@
   ],
   "headlines": [
     {
+      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "source": "CNBC",
+      "when": "2026-09-24T05:55:26.000Z"
+    },
+    {
+      "title": "Tehran takes aim at Canada for not condemning Trump's threat to destroy Iran",
+      "url": "https://www.cnbc.com/2026/09/24/us-iran-war-trump-hormuz-canada-carney-bessent.html",
+      "source": "CNBC",
+      "when": "2026-09-24T05:47:43.000Z"
+    },
+    {
+      "title": "France faces a fresh budget battle that threatens to topple another government as debt costs spiral",
+      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "source": "CNBC",
+      "when": "2026-09-24T05:00:02.000Z"
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
       "source": "CNBC",
-      "when": "2026-09-23T23:59:39.000Z"
+      "when": "2026-09-24T04:55:59.000Z"
+    },
+    {
+      "title": "OpenAI says agent hacked Australian government website without being told to do so",
+      "url": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
+      "source": "CNBC",
+      "when": "2026-09-24T04:34:13.000Z"
+    },
+    {
+      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+      "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+      "source": "CNBC",
+      "when": "2026-09-24T04:26:39.000Z"
+    },
+    {
+      "title": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
+      "url": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+      "source": "CNBC",
+      "when": "2026-09-24T04:06:54.000Z"
+    },
+    {
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+      "source": "CNBC",
+      "when": "2026-09-24T04:02:26.000Z"
+    },
+    {
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+      "source": "CNBC",
+      "when": "2026-09-24T02:50:12.000Z"
+    },
+    {
+      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "source": "CNBC",
+      "when": "2026-09-24T01:56:50.000Z"
+    },
+    {
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+      "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+      "source": "CNBC",
+      "when": "2026-09-24T01:16:34.000Z"
+    },
+    {
+      "title": "Inside India newsletter: Apple set to take a bigger bite of the world's second-largest smartphone market",
+      "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+      "source": "CNBC",
+      "when": "2026-09-24T00:01:54.000Z"
     },
     {
       "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
@@ -73,76 +139,10 @@
       "when": "2026-09-23T23:47:41.000Z"
     },
     {
-      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
-      "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-      "source": "CNBC",
-      "when": "2026-09-23T23:39:10.000Z"
-    },
-    {
       "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
       "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-23T23:15:00.000Z"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T22:15:00.000Z"
-    },
-    {
-      "title": "'I don't begrudge them their money': My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T22:00:00.000Z"
-    },
-    {
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "url": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T21:59:00.000Z"
-    },
-    {
-      "title": "Micron's stock has become a 'battleground' as the AI narrative shifts",
-      "url": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T21:51:00.000Z"
-    },
-    {
-      "title": "Is gridlock in Washington actually good for stocks? Here's what historical market data says.",
-      "url": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T21:44:00.000Z"
-    },
-    {
-      "title": "OpenAI and Anthropic's CEOs just delivered this message to the U.N. as AI fears swirl",
-      "url": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T21:27:00.000Z"
-    },
-    {
-      "title": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
-      "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html",
-      "source": "CNBC",
-      "when": "2026-09-23T21:26:36.000Z"
-    },
-    {
-      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
-      "source": "CNBC",
-      "when": "2026-09-23T21:22:30.000Z"
-    },
-    {
-      "title": "Inflation could cost Republicans the Senate — this chart shows how",
-      "url": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-23T21:13:00.000Z"
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "source": "CNBC",
-      "when": "2026-09-23T21:11:28.000Z"
     }
   ],
   "errors": []
