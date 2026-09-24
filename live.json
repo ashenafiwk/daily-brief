@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-24T05:57:06.197Z",
-  "fetchedLabel": "Sep 24, 1:57 AM ET",
+  "fetched": "2026-09-24T11:35:30.959Z",
+  "fetchedLabel": "Sep 24, 7:35 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.08",
-      "chg": "-3.70",
-      "pct": "-3.86%",
+      "value": "$93.45",
+      "chg": "-2.33",
+      "pct": "-2.43%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,319.00",
-      "chg": "-64.90",
-      "pct": "-1.48%",
+      "value": "$4,301.00",
+      "chg": "-82.90",
+      "pct": "-1.89%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.18",
-      "chg": "-0.26",
-      "pct": "-1.68%",
-      "dir": "down"
+      "value": "16.07",
+      "chg": "+1.26",
+      "pct": "+8.51%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-      "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "title": "Switzerland is keeping rates at 0% — for now",
+      "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html",
       "source": "CNBC",
-      "when": "2026-09-24T05:55:26.000Z"
+      "when": "2026-09-24T11:34:56.000Z"
     },
     {
-      "title": "Tehran takes aim at Canada for not condemning Trump's threat to destroy Iran",
-      "url": "https://www.cnbc.com/2026/09/24/us-iran-war-trump-hormuz-canada-carney-bessent.html",
+      "title": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
       "source": "CNBC",
-      "when": "2026-09-24T05:47:43.000Z"
+      "when": "2026-09-24T11:20:52.000Z"
     },
     {
-      "title": "France faces a fresh budget battle that threatens to topple another government as debt costs spiral",
-      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
-      "source": "CNBC",
-      "when": "2026-09-24T05:00:02.000Z"
-    },
-    {
-      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
-      "url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
-      "source": "CNBC",
-      "when": "2026-09-24T04:55:59.000Z"
-    },
-    {
-      "title": "OpenAI says agent hacked Australian government website without being told to do so",
-      "url": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html",
-      "source": "CNBC",
-      "when": "2026-09-24T04:34:13.000Z"
-    },
-    {
-      "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
-      "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
-      "source": "CNBC",
-      "when": "2026-09-24T04:26:39.000Z"
-    },
-    {
-      "title": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
-      "url": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
-      "source": "CNBC",
-      "when": "2026-09-24T04:06:54.000Z"
-    },
-    {
-      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
-      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
-      "source": "CNBC",
-      "when": "2026-09-24T04:02:26.000Z"
-    },
-    {
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
-      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-      "source": "CNBC",
-      "when": "2026-09-24T02:50:12.000Z"
-    },
-    {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "source": "CNBC",
-      "when": "2026-09-24T01:56:50.000Z"
-    },
-    {
-      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-      "url": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
-      "source": "CNBC",
-      "when": "2026-09-24T01:16:34.000Z"
-    },
-    {
-      "title": "Inside India newsletter: Apple set to take a bigger bite of the world's second-largest smartphone market",
-      "url": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
-      "source": "CNBC",
-      "when": "2026-09-24T00:01:54.000Z"
-    },
-    {
-      "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
-      "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
-      "source": "CNBC",
-      "when": "2026-09-23T23:47:41.000Z"
-    },
-    {
-      "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "title": "The stock market is 'priced for perfection.' Here's what could drive a nearly 20% slump for the S&P 500 next year.",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-23T23:15:00.000Z"
+      "when": "2026-09-24T11:17:00.000Z"
+    },
+    {
+      "title": "'I don't begrudge them their money': My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-24T11:15:00.000Z"
+    },
+    {
+      "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+      "url": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-24T11:01:00.000Z"
+    },
+    {
+      "title": "Why Trump's 'big beautiful bill' may shrink or boost your charitable tax break for 2026",
+      "url": "https://www.cnbc.com/2026/09/24/trump-big-beautiful-bill-taxes-charitable-deduction-2026.html",
+      "source": "CNBC",
+      "when": "2026-09-24T11:00:01.000Z"
+    },
+    {
+      "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+      "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+      "source": "CNBC",
+      "when": "2026-09-24T10:18:19.000Z"
+    },
+    {
+      "title": "Black Monday's stock-market warning signal came from the bond market — and it's back, says Wall Street veteran",
+      "url": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-24T10:01:00.000Z"
+    },
+    {
+      "title": "Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave",
+      "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+      "source": "CNBC",
+      "when": "2026-09-24T10:00:01.000Z"
+    },
+    {
+      "title": "Stephen Curry says WNBA needs to keep conversations about the league 'focused on basketball'",
+      "url": "https://www.cnbc.com/2026/09/24/stephen-curry-wants-conversation-about-wnba-to-focus-on-basketball.html",
+      "source": "CNBC",
+      "when": "2026-09-24T10:00:01.000Z"
+    },
+    {
+      "title": "30-year Treasury yield hits highest level since 2004",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+      "source": "CNBC",
+      "when": "2026-09-24T09:36:19.000Z"
+    },
+    {
+      "title": "'We made a bad, bad decision': I learned the hard way how to manage my aging father's money",
+      "url": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-24T09:15:00.000Z"
+    },
+    {
+      "title": "Meta sees a price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
+      "url": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-24T09:12:00.000Z"
+    },
+    {
+      "title": "New York Fed's Williams says it's 'reasonable' to expect another rate hike by year-end",
+      "url": "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
+      "source": "CNBC",
+      "when": "2026-09-24T09:06:18.000Z"
     }
   ],
   "errors": []
