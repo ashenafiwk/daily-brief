@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-24T16:50:42.771Z",
-  "fetchedLabel": "Sep 24, 12:50 PM ET",
+  "fetched": "2026-09-24T20:18:52.180Z",
+  "fetchedLabel": "Sep 24, 4:18 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,715.77",
-      "chg": "+78.01",
-      "pct": "+1.02%",
+      "value": "7,704.13",
+      "chg": "+66.37",
+      "pct": "+0.87%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,952.75",
-      "chg": "+534.45",
-      "pct": "+2.02%",
+      "value": "26,939.37",
+      "chg": "+521.07",
+      "pct": "+1.97%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,445.62",
-      "chg": "-332.42",
-      "pct": "-0.64%",
+      "value": "51,349.98",
+      "chg": "-428.06",
+      "pct": "-0.83%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,828.13",
-      "chg": "-46.50",
-      "pct": "-1.62%",
+      "value": "2,835.58",
+      "chg": "-39.05",
+      "pct": "-1.36%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.14%",
-      "chg": "+0.14",
-      "pct": "+2.78%",
+      "value": "5.16%",
+      "chg": "+0.16",
+      "pct": "+3.28%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.47",
-      "chg": "-2.31",
-      "pct": "-2.41%",
+      "value": "$95.32",
+      "chg": "-0.46",
+      "pct": "-0.48%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,313.10",
-      "chg": "-70.80",
-      "pct": "-1.62%",
+      "value": "$4,307.20",
+      "chg": "-76.70",
+      "pct": "-1.75%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.66",
-      "chg": "+0.85",
-      "pct": "+5.74%",
+      "value": "15.64",
+      "chg": "+0.83",
+      "pct": "+5.60%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-      "source": "CNBC",
-      "when": "2026-09-24T16:48:38.000Z"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T16:45:00.000Z"
-    },
-    {
       "title": "Oracle's stock is falling as investors fear a data-center setback",
       "url": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-24T16:42:00.000Z"
+      "when": "2026-09-24T20:12:00.000Z"
     },
     {
-      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+      "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
+      "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
       "source": "CNBC",
-      "when": "2026-09-24T16:37:02.000Z"
+      "when": "2026-09-24T20:11:24.000Z"
     },
     {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T16:36:00.000Z"
+      "title": "Oracle sends 'force majeure' notice about data center project — stock drops 3%",
+      "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+      "source": "CNBC",
+      "when": "2026-09-24T20:00:31.000Z"
+    },
+    {
+      "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
+      "url": "https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html",
+      "source": "CNBC",
+      "when": "2026-09-24T19:57:28.000Z"
+    },
+    {
+      "title": "KFC debuts Open House restaurant in Texas to test new customer experiences",
+      "url": "https://www.cnbc.com/2026/09/24/kfc-open-house-concept-texas.html",
+      "source": "CNBC",
+      "when": "2026-09-24T19:47:56.000Z"
     },
     {
       "title": "White House allows blocked reporters in after judge lifts Trump ban",
       "url": "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
       "source": "CNBC",
-      "when": "2026-09-24T16:33:20.000Z"
+      "when": "2026-09-24T19:46:09.000Z"
     },
     {
-      "title": "Hyundai expected to outsell Ford in third quarter as Detroit automakers lack hybrids",
-      "url": "https://www.cnbc.com/2026/09/24/hyundai-set-to-outsell-ford-in-q3-as-detroit-automakers-lack-hybrids.html",
-      "source": "CNBC",
-      "when": "2026-09-24T16:33:15.000Z"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "title": "Companies keep raising prices. The Fed is trying to get them to reconsider.",
+      "url": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-24T16:30:00.000Z"
+      "when": "2026-09-24T19:42:00.000Z"
     },
     {
-      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they're building wealth.",
-      "url": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+      "title": "I'm afraid of 'starving to death.' Social Security stopped our checks due to a hacked bank account. What can we do?",
+      "url": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-24T16:27:00.000Z"
+      "when": "2026-09-24T19:40:00.000Z"
     },
     {
-      "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-      "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "url": "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
       "source": "CNBC",
-      "when": "2026-09-24T16:26:47.000Z"
+      "when": "2026-09-24T19:37:59.000Z"
     },
     {
-      "title": "The S&P 500's newest tech stock is now its best performer",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
+      "title": "What must happen for Boeing stock to get unstuck. The company needs, at least, to do its part",
+      "url": "https://www.cnbc.com/2026/09/24/what-must-happen-for-boeing-stock-to-get-unstuck-the-company-needs-to-do-its-part.html",
+      "source": "CNBC",
+      "when": "2026-09-24T19:27:25.000Z"
+    },
+    {
+      "title": "Senate narrowly votes down resolution calling for end to Iran war",
+      "url": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html",
+      "source": "CNBC",
+      "when": "2026-09-24T19:21:15.000Z"
+    },
+    {
+      "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
+      "url": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-24T16:23:00.000Z"
+      "when": "2026-09-24T19:19:00.000Z"
     },
     {
-      "title": "Darden Restaurants stock falls as Olive Garden reports slower growth",
-      "url": "https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
-      "source": "CNBC",
-      "when": "2026-09-24T16:13:13.000Z"
-    },
-    {
-      "title": "MGM Resorts shares sink 9% after Barry Diller's People Inc. rescinds takeover offer",
-      "url": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-      "source": "CNBC",
-      "when": "2026-09-24T16:06:00.000Z"
-    },
-    {
-      "title": "3 questions to ask your parents about their estate plan — other than 'How much money do you have?'",
-      "url": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
+      "title": "The case against buying and holding stocks for the long term",
+      "url": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-24T16:01:00.000Z"
+      "when": "2026-09-24T19:06:00.000Z"
+    },
+    {
+      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues",
+      "url": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+      "source": "CNBC",
+      "when": "2026-09-24T19:01:56.000Z"
     }
   ],
   "errors": []
