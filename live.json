@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-25T01:46:17.249Z",
-  "fetchedLabel": "Sep 24, 9:46 PM ET",
+  "fetched": "2026-09-25T07:24:51.371Z",
+  "fetchedLabel": "Sep 25, 3:24 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "51,349.98",
-      "chg": "-428.06",
+      "value": "51,350.00",
+      "chg": "-428.04",
       "pct": "-0.83%",
       "dir": "down"
     },
@@ -39,32 +39,80 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.24",
-      "chg": "-2.54",
-      "pct": "-2.65%",
+      "value": "$93.25",
+      "chg": "-2.53",
+      "pct": "-2.64%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,328.90",
-      "chg": "-55.00",
-      "pct": "-1.25%",
+      "value": "$4,310.80",
+      "chg": "-73.10",
+      "pct": "-1.67%",
       "dir": "down"
     },
     {
       "name": "VIX",
       "value": "15.67",
-      "chg": "+0.86",
-      "pct": "+5.81%",
+      "chg": "+0.80",
+      "pct": "+5.38%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+      "url": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
+      "source": "CNBC",
+      "when": "2026-09-25T07:09:11.000Z"
+    },
+    {
+      "title": "Here's who attended the Trump-Xi state dinner",
+      "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "source": "CNBC",
+      "when": "2026-09-25T06:30:06.000Z"
+    },
+    {
+      "title": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
+      "url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html",
+      "source": "CNBC",
+      "when": "2026-09-25T06:13:35.000Z"
+    },
+    {
+      "title": "Virginia tech firm's CEO, Russian national charged with hiding firm's Russian ties from U.S. government",
+      "url": "https://www.cnbc.com/2026/09/25/tech-ceo-russian-national-charged-with-hiding-firms-russian-ties.html",
+      "source": "CNBC",
+      "when": "2026-09-25T05:59:34.000Z"
+    },
+    {
+      "title": "Iran says it's up to U.S. to end war as China presses for de-escalation",
+      "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "source": "CNBC",
+      "when": "2026-09-25T05:37:21.000Z"
+    },
+    {
+      "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+      "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+      "source": "CNBC",
+      "when": "2026-09-25T04:14:11.000Z"
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "source": "CNBC",
+      "when": "2026-09-25T02:38:53.000Z"
+    },
+    {
+      "title": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+      "url": "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
+      "source": "CNBC",
+      "when": "2026-09-25T01:56:24.000Z"
+    },
+    {
       "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
       "url": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
       "source": "CNBC",
-      "when": "2026-09-25T01:37:29.000Z"
+      "when": "2026-09-25T01:50:12.000Z"
     },
     {
       "title": "China's Xi urges U.S. to cooperate on AI",
@@ -77,12 +125,6 @@
       "url": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
       "source": "CNBC",
       "when": "2026-09-25T01:12:19.000Z"
-    },
-    {
-      "title": "Here's who is attending the Trump-Xi state dinner",
-      "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-      "source": "CNBC",
-      "when": "2026-09-25T01:02:40.000Z"
     },
     {
       "title": "Costco makes progress on a key membership metric. Here's our new price target on the stock",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-24T23:35:00.000Z"
-    },
-    {
-      "title": "Here's why South Korea wants more control over future regional wars",
-      "url": "https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html",
-      "source": "CNBC",
-      "when": "2026-09-24T23:30:01.000Z"
-    },
-    {
-      "title": "3 things Micron investors need to watch as the stakes get higher",
-      "url": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T23:28:00.000Z"
-    },
-    {
-      "title": "The S&P 500's newest tech stock is now its best performer",
-      "url": "https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T23:26:00.000Z"
-    },
-    {
-      "title": "Costco's results beat expectations. Here's why investors are still cautious.",
-      "url": "https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T23:23:00.000Z"
-    },
-    {
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-      "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-24T23:16:00.000Z"
-    },
-    {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "source": "CNBC",
-      "when": "2026-09-24T23:13:51.000Z"
-    },
-    {
-      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
-      "url": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
-      "source": "CNBC",
-      "when": "2026-09-24T23:08:16.000Z"
     }
   ],
   "errors": []
