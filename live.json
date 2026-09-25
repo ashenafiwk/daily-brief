@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-25T12:53:57.309Z",
-  "fetchedLabel": "Sep 25, 8:53 AM ET",
+  "fetched": "2026-09-25T17:50:53.336Z",
+  "fetchedLabel": "Sep 25, 1:50 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,704.13",
-      "chg": "+66.37",
-      "pct": "+0.87%",
+      "value": "7,740.77",
+      "chg": "+90.27",
+      "pct": "+1.18%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,939.37",
-      "chg": "+521.07",
-      "pct": "+1.97%",
+      "value": "27,085.11",
+      "chg": "+562.57",
+      "pct": "+2.12%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,349.98",
-      "chg": "-428.06",
-      "pct": "-0.83%",
-      "dir": "down"
+      "value": "51,753.44",
+      "chg": "+70.80",
+      "pct": "+0.14%",
+      "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,835.57",
-      "chg": "-39.06",
-      "pct": "-1.36%",
+      "value": "2,838.25",
+      "chg": "-22.15",
+      "pct": "-0.77%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.19%",
-      "chg": "+0.22",
-      "pct": "+4.49%",
+      "value": "5.20%",
+      "chg": "+0.24",
+      "pct": "+4.82%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.62",
-      "chg": "-3.16",
-      "pct": "-3.30%",
+      "value": "$92.22",
+      "chg": "-3.56",
+      "pct": "-3.72%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,333.80",
-      "chg": "-50.10",
-      "pct": "-1.14%",
+      "value": "$4,320.20",
+      "chg": "-63.70",
+      "pct": "-1.45%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.18",
-      "chg": "+0.31",
-      "pct": "+2.08%",
+      "value": "15.03",
+      "chg": "+0.16",
+      "pct": "+1.08%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "These two market gauges may signal a big risk-off event for the market, says BofA",
-      "url": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T12:52:00.000Z"
-    },
-    {
-      "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-      "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
-      "source": "CNBC",
-      "when": "2026-09-25T12:51:39.000Z"
-    },
-    {
-      "title": "'We were wrong.' Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T12:46:00.000Z"
-    },
-    {
-      "title": "U.S. Treasury yields tick higher as global bond rout slows",
-      "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
-      "source": "CNBC",
-      "when": "2026-09-25T12:41:52.000Z"
-    },
-    {
-      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
-      "url": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
-      "source": "CNBC",
-      "when": "2026-09-25T12:39:00.000Z"
-    },
-    {
-      "title": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
-      "url": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
-      "source": "CNBC",
-      "when": "2026-09-25T12:18:12.000Z"
-    },
-    {
-      "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
-      "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
-      "source": "CNBC",
-      "when": "2026-09-25T12:17:19.000Z"
-    },
-    {
       "title": "'We made a bad, bad decision': I learned the hard way how to manage my aging father's money",
       "url": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-25T12:15:00.000Z"
+      "when": "2026-09-25T17:45:00.000Z"
     },
     {
-      "title": "I'm 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T12:15:00.000Z"
-    },
-    {
-      "title": "How to keep profiting from AI while shielding your portfolio against the risk of a slowdown",
-      "url": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T12:05:00.000Z"
-    },
-    {
-      "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-      "url": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+      "title": "Treasury yields rise again to end a volatile week",
+      "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
       "source": "CNBC",
-      "when": "2026-09-25T12:00:02.000Z"
-    },
-    {
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
-      "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
-      "source": "CNBC",
-      "when": "2026-09-25T11:17:27.000Z"
+      "when": "2026-09-25T17:38:25.000Z"
     },
     {
       "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
       "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-25T11:15:00.000Z"
+      "when": "2026-09-25T17:30:00.000Z"
+    },
+    {
+      "title": "Trump says Scott Bessent won't be AI czar",
+      "url": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+      "source": "CNBC",
+      "when": "2026-09-25T17:28:32.000Z"
+    },
+    {
+      "title": "This is why you might see 8% mortgage rates soon",
+      "url": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T17:20:00.000Z"
+    },
+    {
+      "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "source": "CNBC",
+      "when": "2026-09-25T17:19:19.000Z"
+    },
+    {
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T17:11:00.000Z"
+    },
+    {
+      "title": "How do I know when to ask someone out? I'm 21 and I don't want to waste my money or my time.",
+      "url": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T16:48:00.000Z"
+    },
+    {
+      "title": "NIH funding cuts delayed a promising childhood brain cancer trial. Patients lost time they didn't have",
+      "url": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
+      "source": "CNBC",
+      "when": "2026-09-25T16:43:02.000Z"
+    },
+    {
+      "title": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds",
+      "url": "https://www.cnbc.com/2026/09/25/treasury-yield-buy-bonds.html",
+      "source": "CNBC",
+      "when": "2026-09-25T16:40:09.000Z"
+    },
+    {
+      "title": "Micron investors should get ready for a seesaw ride, analyst says",
+      "url": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T16:27:00.000Z"
+    },
+    {
+      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+      "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "source": "CNBC",
+      "when": "2026-09-25T16:20:40.000Z"
+    },
+    {
+      "title": "Apple's expensive new iPhones could be a double-edged sword for the company",
+      "url": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T16:11:00.000Z"
+    },
+    {
+      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+      "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
+      "source": "CNBC",
+      "when": "2026-09-25T16:08:25.000Z"
     }
   ],
   "errors": []
