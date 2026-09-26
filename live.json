@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-25T21:19:27.624Z",
-  "fetchedLabel": "Sep 25, 5:19 PM ET",
+  "fetched": "2026-09-26T00:03:10.899Z",
+  "fetchedLabel": "Sep 25, 8:03 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,46 @@
   ],
   "headlines": [
     {
+      "title": "I'm 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
+      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T23:30:00.000Z"
+    },
+    {
       "title": "Appeals court rules that states can regulate Kalshi's sports prediction markets, dealing another legal blow to platforms",
       "url": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
       "source": "CNBC",
-      "when": "2026-09-25T21:06:24.000Z"
+      "when": "2026-09-25T23:28:42.000Z"
+    },
+    {
+      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
+      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T22:00:00.000Z"
+    },
+    {
+      "title": "A 'death cross' is coming for the dollar. Why Trump will be happy.",
+      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T21:57:00.000Z"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-25T21:45:00.000Z"
+    },
+    {
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "source": "CNBC",
+      "when": "2026-09-25T21:38:38.000Z"
     },
     {
       "title": "Microsoft's stock has roared back to life, closing at its highest level of the year",
@@ -107,42 +143,6 @@
       "url": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-25T20:32:00.000Z"
-    },
-    {
-      "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
-      "url": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T20:19:00.000Z"
-    },
-    {
-      "title": "10-year Treasury yield is little changed to end a volatile week",
-      "url": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
-      "source": "CNBC",
-      "when": "2026-09-25T20:17:09.000Z"
-    },
-    {
-      "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in",
-      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "source": "CNBC",
-      "when": "2026-09-25T19:59:45.000Z"
-    },
-    {
-      "title": "Trump's ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
-      "url": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-25T19:45:00.000Z"
-    },
-    {
-      "title": "What we want to see next week from one of Jim Cramer's 6 stocks to buy",
-      "url": "https://www.cnbc.com/2026/09/25/what-we-want-to-see-next-week-from-one-of-jim-cramers-6-stocks-to-buy.html",
-      "source": "CNBC",
-      "when": "2026-09-25T19:40:44.000Z"
-    },
-    {
-      "title": "U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N.",
-      "url": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
-      "source": "CNBC",
-      "when": "2026-09-25T19:38:31.000Z"
     }
   ],
   "errors": []
