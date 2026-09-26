@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-26T18:26:13.940Z",
-  "fetchedLabel": "Sep 26, 2:26 PM ET",
+  "fetched": "2026-09-26T21:25:19.242Z",
+  "fetchedLabel": "Sep 26, 5:25 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,42 @@
   ],
   "headlines": [
     {
+      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+      "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+      "source": "CNBC",
+      "when": "2026-09-26T21:21:04.000Z"
+    },
+    {
+      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+      "source": "CNBC",
+      "when": "2026-09-26T20:30:58.000Z"
+    },
+    {
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-26T20:00:00.000Z"
+    },
+    {
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "source": "CNBC",
+      "when": "2026-09-26T19:23:56.000Z"
+    },
+    {
+      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-26T19:00:00.000Z"
+    },
+    {
+      "title": "White House moves to block $810 million in funding through pocket rescission",
+      "url": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+      "source": "CNBC",
+      "when": "2026-09-26T18:46:48.000Z"
+    },
+    {
       "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
       "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -97,12 +133,6 @@
       "when": "2026-09-26T16:22:00.000Z"
     },
     {
-      "title": "Westwood Holdings CEO Brian Casey on Y'all Street and an ETF tracking the AI power ecosystem",
-      "url": "https://www.cnbc.com/2026/09/26/westwood-holdings-ceo-on-yall-street-etf-tracking-ai-power-ecosystem.html",
-      "source": "CNBC",
-      "when": "2026-09-26T16:00:01.000Z"
-    },
-    {
       "title": "Tax-free bond yields are in a sweet spot. Get in before it's too late.",
       "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -113,36 +143,6 @@
       "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-26T15:30:00.000Z"
-    },
-    {
-      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-      "url": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-26T15:30:00.000Z"
-    },
-    {
-      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-26T15:30:00.000Z"
-    },
-    {
-      "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-      "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-      "source": "CNBC",
-      "when": "2026-09-26T15:05:38.000Z"
-    },
-    {
-      "title": "Do this one thing to help prevent your parents from being scammed",
-      "url": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-26T15:04:00.000Z"
-    },
-    {
-      "title": "This may be the 'missing piece' for investors looking to boost AI exposure",
-      "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-      "source": "CNBC",
-      "when": "2026-09-26T15:00:01.000Z"
     }
   ],
   "errors": []
