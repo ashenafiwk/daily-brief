@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-27T04:38:26.237Z",
-  "fetchedLabel": "Sep 27, 12:38 AM ET",
+  "fetched": "2026-09-27T10:25:41.588Z",
+  "fetchedLabel": "Sep 27, 6:25 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+      "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+      "source": "CNBC",
+      "when": "2026-09-27T05:00:02.000Z"
+    },
     {
       "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
       "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
@@ -137,12 +143,6 @@
       "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-26T15:48:00.000Z"
-    },
-    {
-      "title": "'She says it's just money': My friend pays for everything. I should be grateful, but I can't stand her anymore.",
-      "url": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-26T15:30:00.000Z"
     }
   ],
   "errors": []
