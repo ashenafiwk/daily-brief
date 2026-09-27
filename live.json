@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-27T19:11:31.567Z",
-  "fetchedLabel": "Sep 27, 3:11 PM ET",
+  "fetched": "2026-09-27T22:29:58.451Z",
+  "fetchedLabel": "Sep 27, 6:29 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.41",
-      "chg": "-2.18",
-      "pct": "-2.30%",
+      "value": "$93.19",
+      "chg": "-1.40",
+      "pct": "-1.48%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,321.20",
-      "chg": "-55.20",
-      "pct": "-1.26%",
+      "value": "$4,303.10",
+      "chg": "-73.30",
+      "pct": "-1.67%",
       "dir": "down"
     },
     {
@@ -61,34 +61,46 @@
   ],
   "headlines": [
     {
+      "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-27T22:00:00.000Z"
+    },
+    {
+      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-27T21:45:00.000Z"
+    },
+    {
+      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+      "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+      "source": "CNBC",
+      "when": "2026-09-27T21:38:59.000Z"
+    },
+    {
+      "title": "A 'death cross' is coming for the dollar. Why Trump will be happy.",
+      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-27T19:21:00.000Z"
+    },
+    {
+      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "source": "CNBC",
+      "when": "2026-09-27T19:13:27.000Z"
+    },
+    {
       "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
       "url": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
       "source": "CNBC",
       "when": "2026-09-27T18:45:27.000Z"
     },
     {
-      "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
-      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T18:45:00.000Z"
-    },
-    {
-      "title": "Trump to have dinner with Anthropic CEO Amodei at the White House, Axios reports",
-      "url": "https://www.cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html",
-      "source": "CNBC",
-      "when": "2026-09-27T18:44:07.000Z"
-    },
-    {
       "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
       "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
       "source": "CNBC",
       "when": "2026-09-27T18:43:21.000Z"
-    },
-    {
-      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T18:30:00.000Z"
     },
     {
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -131,18 +143,6 @@
       "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-27T15:15:00.000Z"
-    },
-    {
-      "title": "I'm 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T15:00:00.000Z"
-    },
-    {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
-      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-      "source": "CNBC",
-      "when": "2026-09-27T14:33:22.000Z"
     }
   ],
   "errors": []
