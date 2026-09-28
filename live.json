@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-28T07:26:25.764Z",
-  "fetchedLabel": "Sep 28, 3:26 AM ET",
+  "fetched": "2026-09-28T15:48:55.931Z",
+  "fetchedLabel": "Sep 28, 11:48 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,743.41",
-      "chg": "+92.91",
-      "pct": "+1.21%",
-      "dir": "up"
+      "value": "7,678.81",
+      "chg": "-85.89",
+      "pct": "-1.11%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "27,068.72",
-      "chg": "+546.18",
-      "pct": "+2.06%",
-      "dir": "up"
+      "value": "26,797.85",
+      "chg": "-324.24",
+      "pct": "-1.20%",
+      "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,828.62",
-      "chg": "+145.98",
-      "pct": "+0.28%",
-      "dir": "up"
+      "value": "51,445.74",
+      "chg": "-603.09",
+      "pct": "-1.16%",
+      "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,837.55",
-      "chg": "-22.85",
-      "pct": "-0.80%",
+      "value": "2,808.88",
+      "chg": "-66.49",
+      "pct": "-2.31%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.18%",
-      "chg": "+0.22",
-      "pct": "+4.45%",
+      "value": "5.26%",
+      "chg": "+0.29",
+      "pct": "+5.90%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.29",
-      "chg": "+2.13",
-      "pct": "+2.31%",
+      "value": "$95.51",
+      "chg": "+3.35",
+      "pct": "+3.63%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,196.10",
-      "chg": "-122.30",
-      "pct": "-2.83%",
+      "value": "$4,155.30",
+      "chg": "-163.10",
+      "pct": "-3.78%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "14.87",
-      "chg": "+0.66",
-      "pct": "+4.64%",
+      "value": "16.34",
+      "chg": "+2.13",
+      "pct": "+14.99%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+      "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
       "source": "CNBC",
-      "when": "2026-09-28T07:22:06.000Z"
+      "when": "2026-09-28T15:22:47.000Z"
     },
     {
-      "title": "Northern Star shares pop as Australia's largest gold miner rejects $27 billion takeover proposal",
-      "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-      "source": "CNBC",
-      "when": "2026-09-28T07:12:06.000Z"
+      "title": "These Gen Z-ers are choosing ETFs over sports bets. How younger investors told us they're building wealth.",
+      "url": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T15:13:00.000Z"
     },
     {
-      "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
-      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "title": "Five arrested over alleged bomb plot at UK air base used by U.S.; Iran denies link",
+      "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-28T06:34:26.000Z"
-    },
-    {
-      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
-      "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-      "source": "CNBC",
-      "when": "2026-09-28T04:12:20.000Z"
-    },
-    {
-      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-      "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-      "source": "CNBC",
-      "when": "2026-09-28T04:04:16.000Z"
-    },
-    {
-      "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-      "url": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
-      "source": "CNBC",
-      "when": "2026-09-27T23:33:21.000Z"
+      "when": "2026-09-28T15:04:31.000Z"
     },
     {
       "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
       "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-27T22:00:00.000Z"
+      "when": "2026-09-28T15:00:00.000Z"
+    },
+    {
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+      "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T14:57:00.000Z"
+    },
+    {
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "url": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T14:55:00.000Z"
+    },
+    {
+      "title": "Nvidia share buyback plan gets $150 billion boost",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+      "source": "CNBC",
+      "when": "2026-09-28T14:46:36.000Z"
+    },
+    {
+      "title": "Oil prices rise as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-28T14:34:23.000Z"
     },
     {
       "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
       "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-27T21:45:00.000Z"
+      "when": "2026-09-28T14:30:00.000Z"
     },
     {
-      "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-      "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+      "title": "Treasury yields edge higher amid pressure on global government bonds",
+      "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
       "source": "CNBC",
-      "when": "2026-09-27T21:38:59.000Z"
+      "when": "2026-09-28T14:28:25.000Z"
     },
     {
-      "title": "A 'death cross' is coming for the dollar. Why Trump will be happy.",
-      "url": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-27T19:21:00.000Z"
+      "when": "2026-09-28T14:28:00.000Z"
     },
     {
-      "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
+      "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
       "source": "CNBC",
-      "when": "2026-09-27T19:13:27.000Z"
+      "when": "2026-09-28T14:27:51.000Z"
     },
     {
-      "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
-      "url": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+      "title": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
+      "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
       "source": "CNBC",
-      "when": "2026-09-27T18:45:27.000Z"
+      "when": "2026-09-28T14:26:51.000Z"
     },
     {
-      "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
-      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+      "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
       "source": "CNBC",
-      "when": "2026-09-27T18:43:21.000Z"
-    },
-    {
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T16:45:00.000Z"
+      "when": "2026-09-28T14:14:45.000Z"
     }
   ],
   "errors": []
