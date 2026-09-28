@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-28T01:07:00.934Z",
-  "fetchedLabel": "Sep 27, 9:07 PM ET",
+  "fetched": "2026-09-28T07:26:25.764Z",
+  "fetchedLabel": "Sep 28, 3:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,32 +39,56 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.22",
-      "chg": "-1.37",
-      "pct": "-1.45%",
-      "dir": "down"
+      "value": "$94.29",
+      "chg": "+2.13",
+      "pct": "+2.31%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,268.90",
-      "chg": "-107.50",
-      "pct": "-2.46%",
+      "value": "$4,196.10",
+      "chg": "-122.30",
+      "pct": "-2.83%",
       "dir": "down"
     },
     {
       "name": "VIX",
       "value": "14.87",
-      "chg": "+0.00",
-      "pct": "+0.00%",
+      "chg": "+0.66",
+      "pct": "+4.64%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+      "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+      "source": "CNBC",
+      "when": "2026-09-28T07:22:06.000Z"
+    },
+    {
+      "title": "Northern Star shares pop as Australia's largest gold miner rejects $27 billion takeover proposal",
+      "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
+      "source": "CNBC",
+      "when": "2026-09-28T07:12:06.000Z"
+    },
+    {
+      "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
       "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
       "source": "CNBC",
-      "when": "2026-09-28T00:32:09.000Z"
+      "when": "2026-09-28T06:34:26.000Z"
+    },
+    {
+      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "source": "CNBC",
+      "when": "2026-09-28T04:12:20.000Z"
+    },
+    {
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
+      "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+      "source": "CNBC",
+      "when": "2026-09-28T04:04:16.000Z"
     },
     {
       "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-09-27T16:45:00.000Z"
-    },
-    {
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-      "url": "https://www.cnbc.com/2026/09/27/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC",
-      "when": "2026-09-27T16:16:43.000Z"
-    },
-    {
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T16:00:00.000Z"
-    },
-    {
-      "title": "'It doesn't seem fair': I'm retired and have plenty of money. Why can't I qualify for a retail credit card?",
-      "url": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T16:00:00.000Z"
-    },
-    {
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
-      "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
-      "source": "CNBC",
-      "when": "2026-09-27T15:35:34.000Z"
     }
   ],
   "errors": []
