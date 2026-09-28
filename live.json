@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-27T22:29:58.451Z",
-  "fetchedLabel": "Sep 27, 6:29 PM ET",
+  "fetched": "2026-09-28T01:07:00.934Z",
+  "fetchedLabel": "Sep 27, 9:07 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.19",
-      "chg": "-1.40",
-      "pct": "-1.48%",
+      "value": "$93.22",
+      "chg": "-1.37",
+      "pct": "-1.45%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,303.10",
-      "chg": "-73.30",
-      "pct": "-1.67%",
+      "value": "$4,268.90",
+      "chg": "-107.50",
+      "pct": "-2.46%",
       "dir": "down"
     },
     {
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "CNBC",
+      "when": "2026-09-28T00:32:09.000Z"
+    },
+    {
+      "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
+      "url": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
+      "source": "CNBC",
+      "when": "2026-09-27T23:33:21.000Z"
+    },
     {
       "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
       "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
       "source": "CNBC",
       "when": "2026-09-27T15:35:34.000Z"
-    },
-    {
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-      "source": "CNBC",
-      "when": "2026-09-27T15:22:03.000Z"
-    },
-    {
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
-      "url": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-27T15:15:00.000Z"
     }
   ],
   "errors": []
