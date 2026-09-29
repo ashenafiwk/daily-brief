@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-28T21:43:09.083Z",
-  "fetchedLabel": "Sep 28, 5:43 PM ET",
+  "fetched": "2026-09-29T01:38:45.882Z",
+  "fetchedLabel": "Sep 28, 9:38 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.29",
-      "chg": "+1.13",
-      "pct": "+1.23%",
+      "value": "$93.73",
+      "chg": "+1.57",
+      "pct": "+1.70%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,148.50",
-      "chg": "-169.90",
-      "pct": "-3.93%",
+      "value": "$4,161.40",
+      "chg": "-157.00",
+      "pct": "-3.64%",
       "dir": "down"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
-      "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+      "title": "Oil extends gains as Middle East supply concerns persist",
+      "url": "https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
       "source": "CNBC",
-      "when": "2026-09-28T21:41:25.000Z"
+      "when": "2026-09-29T01:32:02.000Z"
+    },
+    {
+      "title": "Anthropic's potential $2 trillion IPO comes with the following fine print",
+      "url": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-29T01:31:00.000Z"
+    },
+    {
+      "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+      "url": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+      "source": "CNBC",
+      "when": "2026-09-29T01:10:41.000Z"
     },
     {
       "title": "AMD makes a big bet on the next era of AI with World Labs acquisition",
       "url": "https://www.marketwatch.com/story/amd-makes-a-big-bet-on-the-next-era-of-ai-7f8a3b3c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-28T21:37:00.000Z"
+      "when": "2026-09-29T00:03:00.000Z"
     },
     {
-      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-      "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-28T21:27:00.000Z"
-    },
-    {
-      "title": "MongoDB's stock is down nearly 20% as CEO decamps to Meta",
-      "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-28T21:23:00.000Z"
-    },
-    {
-      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-      "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+      "url": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
       "source": "CNBC",
-      "when": "2026-09-28T21:20:00.000Z"
+      "when": "2026-09-29T00:00:10.000Z"
     },
     {
-      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
-      "url": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+      "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+      "source": "CNBC",
+      "when": "2026-09-28T23:19:46.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
+      "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
+      "source": "CNBC",
+      "when": "2026-09-28T23:00:01.000Z"
+    },
+    {
+      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
+      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-28T21:19:00.000Z"
+      "when": "2026-09-28T23:00:00.000Z"
+    },
+    {
+      "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+      "url": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
+      "source": "CNBC",
+      "when": "2026-09-28T22:49:39.000Z"
+    },
+    {
+      "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T22:45:00.000Z"
+    },
+    {
+      "title": "'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T22:35:00.000Z"
+    },
+    {
+      "title": "AMD briefly joined the $1 trillion club. Cramer says its monster run isn't over",
+      "url": "https://www.cnbc.com/2026/09/28/jim-cramer-amd-lisa-su-agentic-ai.html",
+      "source": "CNBC",
+      "when": "2026-09-28T22:27:10.000Z"
+    },
+    {
+      "title": "SpaceX's next big growth engine isn't rockets — it's this play on AI power, analysts say",
+      "url": "https://www.marketwatch.com/story/spacexs-next-big-growth-engine-isnt-rockets-its-this-play-on-ai-power-analysts-say-11963aeb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-28T22:03:00.000Z"
     },
     {
       "title": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
       "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
       "source": "CNBC",
-      "when": "2026-09-28T21:12:31.000Z"
-    },
-    {
-      "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
-      "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-      "source": "CNBC",
-      "when": "2026-09-28T21:08:05.000Z"
-    },
-    {
-      "title": "'I'd rather be on a beach in Bali': My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-28T21:00:00.000Z"
-    },
-    {
-      "title": "Meta, Google, Amazon, Microsoft draw Sen. Warren questions about AI tax subsidies",
-      "url": "https://www.cnbc.com/2026/09/28/warren-senate-ai-subsidies-meta-google-amazon-microsoft.html",
-      "source": "CNBC",
-      "when": "2026-09-28T20:49:53.000Z"
-    },
-    {
-      "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
-      "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
-      "source": "CNBC",
-      "when": "2026-09-28T20:43:14.000Z"
-    },
-    {
-      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take",
-      "url": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-28T20:43:00.000Z"
-    },
-    {
-      "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-      "url": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-      "source": "CNBC",
-      "when": "2026-09-28T20:36:55.000Z"
-    },
-    {
-      "title": "Treasury yields rise as march to multiyear highs continues",
-      "url": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
-      "source": "CNBC",
-      "when": "2026-09-28T20:31:36.000Z"
+      "when": "2026-09-28T21:52:10.000Z"
     }
   ],
   "errors": []
