@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-29T15:00:28.006Z",
-  "fetchedLabel": "Sep 29, 11:00 AM ET",
+  "fetched": "2026-09-29T20:09:28.291Z",
+  "fetchedLabel": "Sep 29, 4:09 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,676.68",
-      "chg": "-87.96",
-      "pct": "-1.13%",
+      "value": "7,670.84",
+      "chg": "-93.80",
+      "pct": "-1.21%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,847.85",
-      "chg": "-396.43",
-      "pct": "-1.46%",
+      "value": "26,797.54",
+      "chg": "-446.74",
+      "pct": "-1.64%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,275.92",
-      "chg": "-587.77",
-      "pct": "-1.13%",
+      "value": "51,349.92",
+      "chg": "-513.77",
+      "pct": "-0.99%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,809.91",
-      "chg": "-80.01",
-      "pct": "-2.77%",
+      "value": "2,807.42",
+      "chg": "-82.50",
+      "pct": "-2.85%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.25%",
+      "value": "5.26%",
       "chg": "+0.14",
-      "pct": "+2.68%",
+      "pct": "+2.76%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.28",
-      "chg": "-3.33",
-      "pct": "-3.52%",
+      "value": "$89.11",
+      "chg": "-5.50",
+      "pct": "-5.81%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,197.60",
-      "chg": "-100.40",
-      "pct": "-2.34%",
+      "value": "$4,207.10",
+      "chg": "-90.90",
+      "pct": "-2.11%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.93",
-      "chg": "+0.75",
-      "pct": "+4.94%",
+      "value": "16.08",
+      "chg": "+0.90",
+      "pct": "+5.93%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "'I have a low interest rate': I'm 80 years old. Should I move out of my house because of dangerous stairs?",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+      "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-29T20:08:10.000Z"
+    },
+    {
+      "title": "'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T14:45:00.000Z"
+      "when": "2026-09-29T20:00:00.000Z"
     },
     {
-      "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
-      "url": "https://www.cnbc.com/2026/09/29/putin-russia-army-ukraine-zelenskyy-north-korea.html",
+      "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
+      "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
       "source": "CNBC",
-      "when": "2026-09-29T14:41:19.000Z"
+      "when": "2026-09-29T19:37:30.000Z"
     },
     {
-      "title": "Shell backs $23 billion LNG Canada expansion in boost to Carney's 'energy superpower' push",
-      "url": "https://www.cnbc.com/2026/09/29/shell-canada-lng-carney-oil-gas-energy.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:41:03.000Z"
-    },
-    {
-      "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-      "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:37:09.000Z"
-    },
-    {
-      "title": "Trump's municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
-      "url": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:37:07.000Z"
-    },
-    {
-      "title": "Consumer optimism slides sharply as fears escalate over rising prices and jobs",
-      "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:36:47.000Z"
-    },
-    {
-      "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-      "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:32:15.000Z"
-    },
-    {
-      "title": "Hassett: 'We're still working our way out from' Biden Covid spending",
-      "url": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
-      "source": "CNBC",
-      "when": "2026-09-29T14:15:52.000Z"
-    },
-    {
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+      "title": "The real prize in AMD's $8 billion World Labs acquisition isn't what you'd think",
+      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T14:13:00.000Z"
+      "when": "2026-09-29T19:34:00.000Z"
     },
     {
-      "title": "Rep. James Comer expands House investigation into prediction market insider trading",
-      "url": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
+      "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not U.S.",
+      "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
       "source": "CNBC",
-      "when": "2026-09-29T14:00:01.000Z"
+      "when": "2026-09-29T19:28:53.000Z"
+    },
+    {
+      "title": "Homeowners are sitting on record equity – and not using it",
+      "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+      "source": "CNBC",
+      "when": "2026-09-29T19:23:06.000Z"
+    },
+    {
+      "title": "Trump government ads were funded by Homeland Security, WSJ reports",
+      "url": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+      "source": "CNBC",
+      "when": "2026-09-29T19:16:35.000Z"
+    },
+    {
+      "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+      "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+      "source": "CNBC",
+      "when": "2026-09-29T19:11:51.000Z"
+    },
+    {
+      "title": "John Ternus' vision for Apple is coming into view, and we like what we see",
+      "url": "https://www.cnbc.com/2026/09/29/john-ternus-vision-for-apple-is-coming-into-view-and-we-like-what-we-see.html",
+      "source": "CNBC",
+      "when": "2026-09-29T19:08:43.000Z"
+    },
+    {
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "source": "CNBC",
+      "when": "2026-09-29T19:07:29.000Z"
     },
     {
       "title": "My kids don't want my decades' worth of stuff. Here's how I'm learning to let go of it.",
       "url": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T14:00:00.000Z"
+      "when": "2026-09-29T19:02:00.000Z"
     },
     {
-      "title": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
-      "url": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
+      "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain",
+      "url": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+      "source": "CNBC",
+      "when": "2026-09-29T18:57:36.000Z"
+    },
+    {
+      "title": "I'm in my 50s. My mother died from Alzheimer's. Do I need long-term-care insurance?",
+      "url": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T14:00:00.000Z"
+      "when": "2026-09-29T18:55:00.000Z"
     },
     {
-      "title": "Nominate a leader for the 2027 CNBC Changemakers list of women transforming business",
-      "url": "https://www.cnbc.com/2026/09/29/2027-cnbc-changemakers-nominate-leader-women-transforming-business.html",
-      "source": "CNBC",
-      "when": "2026-09-29T13:50:55.000Z"
-    },
-    {
-      "title": "Smart ring maker Oura postpones IPO due to market 'uncertainty'",
-      "url": "https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html",
-      "source": "CNBC",
-      "when": "2026-09-29T13:50:01.000Z"
+      "title": "OpenAI launches a rival to Meta's Muse, as the battle for AI agents kicks into high gear",
+      "url": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-29T18:34:00.000Z"
     }
   ],
   "errors": []
