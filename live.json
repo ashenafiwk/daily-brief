@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-09-30T11:00:57.233Z",
-  "fetchedLabel": "Sep 30, 7:00 AM ET",
+  "fetched": "2026-09-30T16:56:26.822Z",
+  "fetchedLabel": "Sep 30, 12:56 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,670.84",
-      "chg": "-93.80",
-      "pct": "-1.21%",
-      "dir": "down"
+      "value": "7,708.36",
+      "chg": "+2.33",
+      "pct": "+0.03%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,797.54",
-      "chg": "-446.74",
-      "pct": "-1.64%",
-      "dir": "down"
+      "value": "27,049.39",
+      "chg": "+113.35",
+      "pct": "+0.42%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,349.92",
-      "chg": "-513.77",
-      "pct": "-0.99%",
+      "value": "51,292.07",
+      "chg": "-219.52",
+      "pct": "-0.43%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,807.92",
-      "chg": "-82.00",
-      "pct": "-2.84%",
+      "value": "2,814.67",
+      "chg": "-23.99",
+      "pct": "-0.85%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.26%",
-      "chg": "+0.14",
-      "pct": "+2.76%",
+      "value": "5.29%",
+      "chg": "+0.13",
+      "pct": "+2.46%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.31",
-      "chg": "-2.10",
-      "pct": "-2.27%",
+      "value": "$91.36",
+      "chg": "-1.05",
+      "pct": "-1.14%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,214.90",
-      "chg": "-106.30",
-      "pct": "-2.46%",
+      "value": "$4,189.10",
+      "chg": "-132.10",
+      "pct": "-3.06%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.08",
-      "chg": "+0.41",
-      "pct": "+2.62%",
+      "value": "15.87",
+      "chg": "+0.20",
+      "pct": "+1.28%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-      "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-      "source": "CNBC",
-      "when": "2026-09-30T10:55:49.000Z"
-    },
-    {
-      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
-      "url": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn't it working that way now?",
+      "url": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T10:38:00.000Z"
+      "when": "2026-09-30T16:51:00.000Z"
     },
     {
-      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
-      "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
+      "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
       "source": "CNBC",
-      "when": "2026-09-30T10:26:39.000Z"
+      "when": "2026-09-30T16:44:50.000Z"
     },
     {
-      "title": "AI's coming roadblock in regulation: Antitrust hawks",
-      "url": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
       "source": "CNBC",
-      "when": "2026-09-30T10:26:36.000Z"
+      "when": "2026-09-30T16:44:31.000Z"
     },
     {
-      "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
-      "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
+      "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
+      "url": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
       "source": "CNBC",
-      "when": "2026-09-30T10:21:38.000Z"
+      "when": "2026-09-30T16:30:42.000Z"
     },
     {
-      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
-      "url": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
-      "source": "CNBC",
-      "when": "2026-09-30T10:16:36.000Z"
-    },
-    {
-      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
-      "url": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+      "url": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T10:15:00.000Z"
+      "when": "2026-09-30T16:29:00.000Z"
     },
     {
-      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+      "url": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-30T16:20:00.000Z"
+    },
+    {
+      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
       "source": "CNBC",
-      "when": "2026-09-30T09:45:54.000Z"
+      "when": "2026-09-30T16:19:47.000Z"
     },
     {
-      "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
-      "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
+      "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
       "source": "CNBC",
-      "when": "2026-09-30T09:45:01.000Z"
+      "when": "2026-09-30T16:14:12.000Z"
     },
     {
-      "title": "He's been badmouthing Treasury bonds since 2020, but now 'the big fat cushion' of 5.25% yields is turning this strategist bullish",
-      "url": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+      "title": "Saving your retirement could come down to this simple writing exercise",
+      "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T09:32:00.000Z"
+      "when": "2026-09-30T16:11:00.000Z"
     },
     {
-      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
-      "url": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T09:20:00.000Z"
-    },
-    {
-      "title": "There's a new Wall Street TACO index — and this one is saying it's time for Trump to strike a deal",
-      "url": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T09:16:00.000Z"
+      "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
+      "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+      "source": "CNBC",
+      "when": "2026-09-30T16:09:52.000Z"
     },
     {
       "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T09:15:00.000Z"
+      "when": "2026-09-30T16:00:00.000Z"
     },
     {
-      "title": "Drastic budget cutbacks essential to fund Europe's defense, Germany and allies warn",
-      "url": "https://www.cnbc.com/2026/09/30/eu-budget-germany-merz-defense-trump.html",
+      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
       "source": "CNBC",
-      "when": "2026-09-30T09:11:44.000Z"
+      "when": "2026-09-30T15:56:15.000Z"
+    },
+    {
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-30T15:55:00.000Z"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "CNBC",
+      "when": "2026-09-30T15:54:38.000Z"
     }
   ],
   "errors": []
