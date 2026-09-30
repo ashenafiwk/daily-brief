@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-30T04:54:21.180Z",
-  "fetchedLabel": "Sep 30, 12:54 AM ET",
+  "fetched": "2026-09-30T11:00:57.233Z",
+  "fetchedLabel": "Sep 30, 7:00 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.52",
-      "chg": "-2.89",
-      "pct": "-3.13%",
+      "value": "$90.31",
+      "chg": "-2.10",
+      "pct": "-2.27%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,214.00",
-      "chg": "-107.20",
-      "pct": "-2.48%",
+      "value": "$4,214.90",
+      "chg": "-106.30",
+      "pct": "-2.46%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.04",
-      "chg": "+0.86",
-      "pct": "+5.67%",
+      "value": "16.08",
+      "chg": "+0.41",
+      "pct": "+2.62%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "China factory activity snaps 2-month contractionary streak in September",
-      "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
+      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+      "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
       "source": "CNBC",
-      "when": "2026-09-30T03:39:35.000Z"
+      "when": "2026-09-30T10:55:49.000Z"
     },
     {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "source": "CNBC",
-      "when": "2026-09-30T03:39:08.000Z"
-    },
-    {
-      "title": "'Don't go with a fund, go with a solution': CEO's tips from decades of global investing",
-      "url": "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-      "source": "CNBC",
-      "when": "2026-09-30T02:37:21.000Z"
-    },
-    {
-      "title": "'I have $400,000 in equity': I'm 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "url": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T01:00:00.000Z"
-    },
-    {
-      "title": "'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T00:30:00.000Z"
-    },
-    {
-      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-      "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-      "source": "CNBC",
-      "when": "2026-09-30T00:19:09.000Z"
-    },
-    {
-      "title": "I'm 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "url": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-29T23:30:00.000Z"
-    },
-    {
-      "title": "'We lived within our means': I earned $30,000 as a pastor and still retired comfortably. Why don't you tell people that?",
-      "url": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-29T23:03:00.000Z"
+      "when": "2026-09-30T10:38:00.000Z"
     },
     {
       "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
       "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
       "source": "CNBC",
-      "when": "2026-09-29T22:42:35.000Z"
+      "when": "2026-09-30T10:26:39.000Z"
     },
     {
-      "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
-      "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+      "title": "AI's coming roadblock in regulation: Antitrust hawks",
+      "url": "https://www.cnbc.com/2026/09/30/ai-regulation-congress-antitrust.html",
       "source": "CNBC",
-      "when": "2026-09-29T22:40:20.000Z"
+      "when": "2026-09-30T10:26:36.000Z"
     },
     {
-      "title": "'I'd rather be on a beach in Bali': My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-29T22:00:00.000Z"
+      "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
+      "url": "https://www.cnbc.com/2026/09/30/dan-ives-ai-private-companies-ivai.html",
+      "source": "CNBC",
+      "when": "2026-09-30T10:21:38.000Z"
     },
     {
-      "title": "Hollywood's big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
-      "url": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-29T21:56:00.000Z"
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "url": "https://www.cnbc.com/2026/09/30/openai-sued-cyberattack.html",
+      "source": "CNBC",
+      "when": "2026-09-30T10:16:36.000Z"
     },
     {
-      "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
-      "url": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+      "url": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T21:53:00.000Z"
+      "when": "2026-09-30T10:15:00.000Z"
     },
     {
-      "title": "The real prize in AMD's $8 billion World Labs acquisition isn't what you'd think",
-      "url": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
+      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-09-30T09:45:54.000Z"
+    },
+    {
+      "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+      "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+      "source": "CNBC",
+      "when": "2026-09-30T09:45:01.000Z"
+    },
+    {
+      "title": "He's been badmouthing Treasury bonds since 2020, but now 'the big fat cushion' of 5.25% yields is turning this strategist bullish",
+      "url": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-29T21:52:00.000Z"
+      "when": "2026-09-30T09:32:00.000Z"
+    },
+    {
+      "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+      "url": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-30T09:20:00.000Z"
+    },
+    {
+      "title": "There's a new Wall Street TACO index — and this one is saying it's time for Trump to strike a deal",
+      "url": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-30T09:16:00.000Z"
+    },
+    {
+      "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-09-30T09:15:00.000Z"
+    },
+    {
+      "title": "Drastic budget cutbacks essential to fund Europe's defense, Germany and allies warn",
+      "url": "https://www.cnbc.com/2026/09/30/eu-budget-germany-merz-defense-trump.html",
+      "source": "CNBC",
+      "when": "2026-09-30T09:11:44.000Z"
     }
   ],
   "errors": []
