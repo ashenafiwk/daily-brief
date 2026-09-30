@@ -1,47 +1,47 @@
 {
-  "fetched": "2026-09-30T16:56:26.822Z",
-  "fetchedLabel": "Sep 30, 12:56 PM ET",
+  "fetched": "2026-09-30T21:21:59.219Z",
+  "fetchedLabel": "Sep 30, 5:21 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,708.36",
-      "chg": "+2.33",
-      "pct": "+0.03%",
-      "dir": "up"
+      "value": "7,651.54",
+      "chg": "-54.49",
+      "pct": "-0.71%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "27,049.39",
-      "chg": "+113.35",
-      "pct": "+0.42%",
-      "dir": "up"
+      "value": "26,861.06",
+      "chg": "-74.98",
+      "pct": "-0.28%",
+      "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,292.07",
-      "chg": "-219.52",
-      "pct": "-0.43%",
+      "value": "50,906.05",
+      "chg": "-605.54",
+      "pct": "-1.18%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,814.67",
-      "chg": "-23.99",
-      "pct": "-0.85%",
+      "value": "2,796.86",
+      "chg": "-41.80",
+      "pct": "-1.47%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "5.29%",
       "chg": "+0.13",
-      "pct": "+2.46%",
+      "pct": "+2.54%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.36",
-      "chg": "-1.05",
-      "pct": "-1.14%",
+      "value": "$90.34",
+      "chg": "-2.07",
+      "pct": "-2.24%",
       "dir": "down"
     },
     {
@@ -53,96 +53,96 @@
     },
     {
       "name": "VIX",
-      "value": "15.87",
-      "chg": "+0.20",
-      "pct": "+1.28%",
+      "value": "16.34",
+      "chg": "+0.67",
+      "pct": "+4.28%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn't it working that way now?",
-      "url": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+      "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+      "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+      "source": "CNBC",
+      "when": "2026-09-30T21:21:10.000Z"
+    },
+    {
+      "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+      "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+      "source": "CNBC",
+      "when": "2026-09-30T21:20:49.000Z"
+    },
+    {
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T16:51:00.000Z"
+      "when": "2026-09-30T21:16:00.000Z"
     },
     {
-      "title": "DOJ accuses Minnesota federal judges of misconduct for NY Times immigration interviews",
-      "url": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
-      "source": "CNBC",
-      "when": "2026-09-30T16:44:50.000Z"
-    },
-    {
-      "title": "Trump's latest global tariffs face trade court challenge",
-      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "source": "CNBC",
-      "when": "2026-09-30T16:44:31.000Z"
-    },
-    {
-      "title": "Commerce Secretary Howard Lutnick reports more than $250 million in income last year",
-      "url": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
-      "source": "CNBC",
-      "when": "2026-09-30T16:30:42.000Z"
-    },
-    {
-      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
-      "url": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T16:29:00.000Z"
+      "when": "2026-09-30T21:15:00.000Z"
     },
     {
-      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-      "url": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
+      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "source": "CNBC",
+      "when": "2026-09-30T21:09:42.000Z"
+    },
+    {
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+      "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-09-30T20:59:05.000Z"
+    },
+    {
+      "title": "How the 'AI Put' has become the only thing that matters for stocks",
+      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T16:20:00.000Z"
+      "when": "2026-09-30T20:59:00.000Z"
     },
     {
-      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-      "source": "CNBC",
-      "when": "2026-09-30T16:19:47.000Z"
-    },
-    {
-      "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low",
-      "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
-      "source": "CNBC",
-      "when": "2026-09-30T16:14:12.000Z"
-    },
-    {
-      "title": "Saving your retirement could come down to this simple writing exercise",
-      "url": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "title": "A brutal September for bonds points to an even darker October",
+      "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T16:11:00.000Z"
+      "when": "2026-09-30T20:56:00.000Z"
     },
     {
-      "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
-      "url": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+      "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
       "source": "CNBC",
-      "when": "2026-09-30T16:09:52.000Z"
+      "when": "2026-09-30T20:51:44.000Z"
+    },
+    {
+      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+      "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+      "source": "CNBC",
+      "when": "2026-09-30T20:49:20.000Z"
+    },
+    {
+      "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
+      "url": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
+      "source": "CNBC",
+      "when": "2026-09-30T20:45:01.000Z"
     },
     {
       "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T16:00:00.000Z"
+      "when": "2026-09-30T20:45:00.000Z"
     },
     {
-      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
-      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+      "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
+      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
       "source": "CNBC",
-      "when": "2026-09-30T15:56:15.000Z"
+      "when": "2026-09-30T20:33:30.000Z"
     },
     {
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T15:55:00.000Z"
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "source": "CNBC",
-      "when": "2026-09-30T15:54:38.000Z"
+      "when": "2026-09-30T20:32:00.000Z"
     }
   ],
   "errors": []
