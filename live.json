@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-01T07:01:15.268Z",
-  "fetchedLabel": "Oct 1, 3:01 AM ET",
+  "fetched": "2026-10-01T14:41:31.410Z",
+  "fetchedLabel": "Oct 1, 10:41 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,651.54",
-      "chg": "-54.49",
-      "pct": "-0.71%",
+      "value": "7,643.29",
+      "chg": "-60.84",
+      "pct": "-0.79%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,861.06",
-      "chg": "-74.98",
-      "pct": "-0.28%",
+      "value": "26,865.40",
+      "chg": "-73.97",
+      "pct": "-0.27%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "50,906.05",
-      "chg": "-605.54",
-      "pct": "-1.18%",
+      "value": "50,706.54",
+      "chg": "-643.44",
+      "pct": "-1.25%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,796.86",
-      "chg": "-41.80",
-      "pct": "-1.47%",
+      "value": "2,782.06",
+      "chg": "-53.51",
+      "pct": "-1.89%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.29%",
+      "value": "5.32%",
       "chg": "+0.13",
-      "pct": "+2.54%",
+      "pct": "+2.57%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.55",
-      "chg": "-2.05",
-      "pct": "-2.21%",
+      "value": "$91.64",
+      "chg": "-0.96",
+      "pct": "-1.04%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,212.20",
-      "chg": "+43.80",
-      "pct": "+1.05%",
+      "value": "$4,190.50",
+      "chg": "+22.10",
+      "pct": "+0.53%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "16.34",
-      "chg": "+1.47",
-      "pct": "+9.89%",
+      "value": "17.33",
+      "chg": "+2.46",
+      "pct": "+16.54%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
-      "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "title": "Judge dismisses Reflecting Pool case against Olympian, bars DOJ from refiling charges",
+      "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
       "source": "CNBC",
-      "when": "2026-10-01T05:44:18.000Z"
+      "when": "2026-10-01T14:40:07.000Z"
     },
     {
-      "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
-      "url": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+      "title": "10-year Treasury yield climbs to a 24-year high amid relentless global bond sell-off",
+      "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
       "source": "CNBC",
-      "when": "2026-10-01T05:08:23.000Z"
+      "when": "2026-10-01T14:39:19.000Z"
     },
     {
-      "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
-      "url": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+      "title": "SEC proposes investor exam to expand private market access — here's how it could work",
+      "url": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
       "source": "CNBC",
-      "when": "2026-10-01T03:25:38.000Z"
+      "when": "2026-10-01T14:33:08.000Z"
     },
     {
-      "title": "Cars have become unaffordable for many Americans. Here's what the numbers show.",
-      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "title": "'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?",
+      "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-01T02:35:00.000Z"
+      "when": "2026-10-01T14:30:00.000Z"
     },
     {
-      "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
-      "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+      "title": "Social Security claiming ages may soon get new names. What retirees need to know",
+      "url": "https://www.cnbc.com/2026/10/01/claiming-age-clarity-act-social-security.html",
       "source": "CNBC",
-      "when": "2026-10-01T02:14:43.000Z"
-    },
-    {
-      "title": "Trump's AI lunch included every major tech company. Except Apple",
-      "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
-      "source": "CNBC",
-      "when": "2026-10-01T02:07:06.000Z"
-    },
-    {
-      "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
-      "url": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
-      "source": "CNBC",
-      "when": "2026-10-01T01:09:18.000Z"
+      "when": "2026-10-01T14:20:23.000Z"
     },
     {
       "title": "'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?",
       "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-01T00:45:00.000Z"
-    },
-    {
-      "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
-      "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
-      "source": "CNBC",
-      "when": "2026-10-01T00:23:44.000Z"
-    },
-    {
-      "title": "'I have $400,000 in equity': I'm 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-01T00:20:00.000Z"
+      "when": "2026-10-01T14:15:00.000Z"
     },
     {
       "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-01T00:11:00.000Z"
+      "when": "2026-10-01T14:15:00.000Z"
     },
     {
-      "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
-      "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+      "title": "Racehorse market breaks records riding high on tax breaks, stock market gains",
+      "url": "https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
       "source": "CNBC",
-      "when": "2026-09-30T23:50:01.000Z"
+      "when": "2026-10-01T14:00:48.000Z"
     },
     {
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
-      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
-      "source": "CNBC",
-      "when": "2026-09-30T23:44:28.000Z"
+      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: 'I don't know how anyone is making it'",
+      "url": "https://www.marketwatch.com/story/more-than-10-million-older-adults-are-now-living-in-poverty-as-social-security-cuts-loom-i-dont-know-how-anyone-is-making-it-237ab798?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T14:00:00.000Z"
     },
     {
-      "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-      "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
+      "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
       "source": "CNBC",
-      "when": "2026-09-30T23:01:40.000Z"
+      "when": "2026-10-01T13:59:54.000Z"
+    },
+    {
+      "title": "AI is operating inside the healthcare billing system. Patients may already be paying the price",
+      "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
+      "source": "CNBC",
+      "when": "2026-10-01T13:57:03.000Z"
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T13:52:00.000Z"
+    },
+    {
+      "title": "Why Micron's big earnings report isn't lifting the stock",
+      "url": "https://www.marketwatch.com/story/why-microns-big-earnings-report-isnt-lifting-the-stock-b965af83?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T13:52:00.000Z"
+    },
+    {
+      "title": "Why American investors should care as France's bond market stumbles",
+      "url": "https://www.marketwatch.com/story/frances-bond-market-is-stumbling-should-americans-care-202ea2af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T13:49:00.000Z"
     }
   ],
   "errors": []
