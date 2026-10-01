@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-01T00:44:59.875Z",
-  "fetchedLabel": "Sep 30, 8:44 PM ET",
+  "fetched": "2026-10-01T07:01:15.268Z",
+  "fetchedLabel": "Oct 1, 3:01 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,75 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.49",
-      "chg": "-1.92",
-      "pct": "-2.08%",
+      "value": "$90.55",
+      "chg": "-2.05",
+      "pct": "-2.21%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,170.00",
-      "chg": "-151.20",
-      "pct": "-3.50%",
-      "dir": "down"
+      "value": "$4,212.20",
+      "chg": "+43.80",
+      "pct": "+1.05%",
+      "dir": "up"
     },
     {
       "name": "VIX",
       "value": "16.34",
-      "chg": "+0.67",
-      "pct": "+4.28%",
+      "chg": "+1.47",
+      "pct": "+9.89%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+      "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "source": "CNBC",
+      "when": "2026-10-01T05:44:18.000Z"
+    },
+    {
+      "title": "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
+      "url": "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-10-01T05:08:23.000Z"
+    },
+    {
+      "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+      "url": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+      "source": "CNBC",
+      "when": "2026-10-01T03:25:38.000Z"
+    },
+    {
+      "title": "Cars have become unaffordable for many Americans. Here's what the numbers show.",
+      "url": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T02:35:00.000Z"
+    },
+    {
+      "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
+      "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+      "source": "CNBC",
+      "when": "2026-10-01T02:14:43.000Z"
+    },
+    {
+      "title": "Trump's AI lunch included every major tech company. Except Apple",
+      "url": "https://www.cnbc.com/2026/09/30/trumps-ai-lunch-included-everyone-but-apple.html",
+      "source": "CNBC",
+      "when": "2026-10-01T02:07:06.000Z"
+    },
+    {
+      "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel",
+      "url": "https://www.cnbc.com/2026/10/01/dubai-israel-flight-pilot-crash-indian.html",
+      "source": "CNBC",
+      "when": "2026-10-01T01:09:18.000Z"
+    },
+    {
+      "title": "'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "url": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-01T00:45:00.000Z"
+    },
     {
       "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
       "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
@@ -79,12 +127,6 @@
       "when": "2026-10-01T00:11:00.000Z"
     },
     {
-      "title": "OpenAI links China's Moonshot AI to attempt to extract its models' reasoning",
-      "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
-      "source": "CNBC",
-      "when": "2026-10-01T00:04:29.000Z"
-    },
-    {
       "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
       "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
       "source": "CNBC",
@@ -101,48 +143,6 @@
       "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
       "source": "CNBC",
       "when": "2026-09-30T23:01:40.000Z"
-    },
-    {
-      "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
-      "url": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
-      "source": "CNBC",
-      "when": "2026-09-30T23:00:52.000Z"
-    },
-    {
-      "title": "Google shows it's not out of the AI race just yet",
-      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T22:51:00.000Z"
-    },
-    {
-      "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
-      "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
-      "source": "CNBC",
-      "when": "2026-09-30T22:43:53.000Z"
-    },
-    {
-      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
-      "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
-      "source": "CNBC",
-      "when": "2026-09-30T22:40:47.000Z"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
-      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
-      "source": "CNBC",
-      "when": "2026-09-30T22:27:09.000Z"
-    },
-    {
-      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
-      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
-      "source": "CNBC",
-      "when": "2026-09-30T22:15:29.000Z"
-    },
-    {
-      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
-      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-      "source": "CNBC",
-      "when": "2026-09-30T22:11:08.000Z"
     }
   ],
   "errors": []
