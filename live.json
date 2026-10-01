@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-30T21:21:59.219Z",
-  "fetchedLabel": "Sep 30, 5:21 PM ET",
+  "fetched": "2026-10-01T00:44:59.875Z",
+  "fetchedLabel": "Sep 30, 8:44 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.34",
-      "chg": "-2.07",
-      "pct": "-2.24%",
+      "value": "$90.49",
+      "chg": "-1.92",
+      "pct": "-2.08%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,189.10",
-      "chg": "-132.10",
-      "pct": "-3.06%",
+      "value": "$4,170.00",
+      "chg": "-151.20",
+      "pct": "-3.50%",
       "dir": "down"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
-      "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
+      "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+      "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
       "source": "CNBC",
-      "when": "2026-09-30T21:21:10.000Z"
+      "when": "2026-10-01T00:23:44.000Z"
     },
     {
-      "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
-      "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
-      "source": "CNBC",
-      "when": "2026-09-30T21:20:49.000Z"
-    },
-    {
-      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
-      "url": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "title": "'I have $400,000 in equity': I'm 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T21:16:00.000Z"
-    },
-    {
-      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
-      "url": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T21:15:00.000Z"
-    },
-    {
-      "title": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-      "url": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-      "source": "CNBC",
-      "when": "2026-09-30T21:09:42.000Z"
-    },
-    {
-      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-      "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-      "source": "CNBC",
-      "when": "2026-09-30T20:59:05.000Z"
-    },
-    {
-      "title": "How the 'AI Put' has become the only thing that matters for stocks",
-      "url": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T20:59:00.000Z"
-    },
-    {
-      "title": "A brutal September for bonds points to an even darker October",
-      "url": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-09-30T20:56:00.000Z"
-    },
-    {
-      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
-      "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-      "source": "CNBC",
-      "when": "2026-09-30T20:51:44.000Z"
-    },
-    {
-      "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
-      "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
-      "source": "CNBC",
-      "when": "2026-09-30T20:49:20.000Z"
-    },
-    {
-      "title": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed",
-      "url": "https://www.cnbc.com/2026/09/30/grindr-purposemed-freddie-telehealth-acquisition.html",
-      "source": "CNBC",
-      "when": "2026-09-30T20:45:01.000Z"
+      "when": "2026-10-01T00:20:00.000Z"
     },
     {
       "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T20:45:00.000Z"
+      "when": "2026-10-01T00:11:00.000Z"
     },
     {
-      "title": "10-year Treasury yield is higher as traders look past inflation data, await jobs report",
-      "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
+      "title": "OpenAI links China's Moonshot AI to attempt to extract its models' reasoning",
+      "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
       "source": "CNBC",
-      "when": "2026-09-30T20:33:30.000Z"
+      "when": "2026-10-01T00:04:29.000Z"
     },
     {
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "url": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+      "url": "https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html",
+      "source": "CNBC",
+      "when": "2026-09-30T23:50:01.000Z"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+      "url": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "source": "CNBC",
+      "when": "2026-09-30T23:44:28.000Z"
+    },
+    {
+      "title": "David Ellison names Ynon Kreiz co-CEO of Paramount and Warner Bros. Discovery",
+      "url": "https://www.cnbc.com/2026/09/30/david-ellison-ynon-kreiz-co-ceo-paramount-wbd.html",
+      "source": "CNBC",
+      "when": "2026-09-30T23:01:40.000Z"
+    },
+    {
+      "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that",
+      "url": "https://www.cnbc.com/2026/09/30/jim-cramer-frozen-markets-stocks.html",
+      "source": "CNBC",
+      "when": "2026-09-30T23:00:52.000Z"
+    },
+    {
+      "title": "Google shows it's not out of the AI race just yet",
+      "url": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-09-30T20:32:00.000Z"
+      "when": "2026-09-30T22:51:00.000Z"
+    },
+    {
+      "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
+      "url": "https://www.cnbc.com/2026/09/30/trump-diesel-export-ban-gas.html",
+      "source": "CNBC",
+      "when": "2026-09-30T22:43:53.000Z"
+    },
+    {
+      "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+      "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+      "source": "CNBC",
+      "when": "2026-09-30T22:40:47.000Z"
+    },
+    {
+      "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+      "url": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
+      "source": "CNBC",
+      "when": "2026-09-30T22:27:09.000Z"
+    },
+    {
+      "title": "Treasury launches student loan support center as new data show 9.3 million borrowers in default",
+      "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+      "source": "CNBC",
+      "when": "2026-09-30T22:15:29.000Z"
+    },
+    {
+      "title": "Trump administration starts sending $500 Obamacare refund checks — who stands to benefit",
+      "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+      "source": "CNBC",
+      "when": "2026-09-30T22:11:08.000Z"
     }
   ],
   "errors": []
