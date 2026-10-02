@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-02T06:02:18.137Z",
-  "fetchedLabel": "Oct 2, 2:02 AM ET",
+  "fetched": "2026-10-02T13:02:16.225Z",
+  "fetchedLabel": "Oct 2, 9:02 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "5.24%",
-      "chg": "+0.05",
-      "pct": "+1.02%",
-      "dir": "up"
+      "value": "5.18%",
+      "chg": "-0.06",
+      "pct": "-1.11%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.59",
-      "chg": "-0.01",
-      "pct": "-0.01%",
+      "value": "$89.45",
+      "chg": "-3.15",
+      "pct": "-3.40%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,215.10",
-      "chg": "+46.70",
-      "pct": "+1.12%",
+      "value": "$4,235.60",
+      "chg": "+67.20",
+      "pct": "+1.61%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "16.39",
-      "chg": "+1.52",
-      "pct": "+10.22%",
-      "dir": "up"
+      "value": "15.52",
+      "chg": "-0.55",
+      "pct": "-3.42%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
-      "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
       "source": "CNBC",
-      "when": "2026-10-02T05:49:09.000Z"
-    },
-    {
-      "title": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
-      "url": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
-      "source": "CNBC",
-      "when": "2026-10-02T05:38:02.000Z"
-    },
-    {
-      "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
-      "url": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
-      "source": "CNBC",
-      "when": "2026-10-02T05:30:42.000Z"
-    },
-    {
-      "title": "Bitget `not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
-      "source": "CNBC",
-      "when": "2026-10-02T05:25:22.000Z"
-    },
-    {
-      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here's what's at stake",
-      "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
-      "source": "CNBC",
-      "when": "2026-10-02T05:00:01.000Z"
-    },
-    {
-      "title": "AI is making cyberattacks faster and harder to detect, Interpol warns. Here's what companies should watch",
-      "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
-      "source": "CNBC",
-      "when": "2026-10-02T04:57:38.000Z"
-    },
-    {
-      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-      "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
-      "source": "CNBC",
-      "when": "2026-10-02T04:07:54.000Z"
-    },
-    {
-      "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
-      "url": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
-      "source": "CNBC",
-      "when": "2026-10-02T03:49:50.000Z"
-    },
-    {
-      "title": "'I have $400,000 in equity': I'm 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-02T01:00:00.000Z"
+      "when": "2026-10-02T13:00:21.000Z"
     },
     {
       "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T00:30:00.000Z"
+      "when": "2026-10-02T13:00:00.000Z"
     },
     {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T00:15:00.000Z"
+      "when": "2026-10-02T12:58:00.000Z"
     },
     {
-      "title": "Here's who's joining the S&P 500 in the index's latest shakeup",
-      "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-02T00:14:00.000Z"
-    },
-    {
-      "title": "This could be the worst year ever for Nike's stock, with sales set to fall further",
+      "title": "Nike's stock heads for its worst year ever as the company's troubles mount",
       "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T00:13:00.000Z"
+      "when": "2026-10-02T12:50:00.000Z"
     },
     {
-      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
-      "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
+      "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
+      "url": "https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html",
       "source": "CNBC",
-      "when": "2026-10-01T23:01:03.000Z"
+      "when": "2026-10-02T12:49:41.000Z"
+    },
+    {
+      "title": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance",
+      "url": "https://www.cnbc.com/2026/10/02/q3-vehicle-deliveries.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:38:04.000Z"
+    },
+    {
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
+      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T12:36:00.000Z"
+    },
+    {
+      "title": "Big Pharma's China deal spree grows with latest tie-up worth up to $7.8 billion",
+      "url": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:31:46.000Z"
+    },
+    {
+      "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
+      "url": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:30:17.000Z"
+    },
+    {
+      "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that's hard to find",
+      "url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T12:30:00.000Z"
+    },
+    {
+      "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
+      "url": "https://www.cnbc.com/2026/10/02/texas-ag-deloitte-voter-registration.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:25:01.000Z"
+    },
+    {
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:24:27.000Z"
+    },
+    {
+      "title": "'I'd rather be on a beach in Bali': My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T12:15:00.000Z"
+    },
+    {
+      "title": "A violent classroom revolt is becoming France's next big crisis",
+      "url": "https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html",
+      "source": "CNBC",
+      "when": "2026-10-02T12:10:56.000Z"
     }
   ],
   "errors": []
