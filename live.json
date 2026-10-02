@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-02T13:02:16.225Z",
-  "fetchedLabel": "Oct 2, 9:02 AM ET",
+  "fetched": "2026-10-02T18:37:44.570Z",
+  "fetchedLabel": "Oct 2, 2:37 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,666.45",
-      "chg": "-37.68",
-      "pct": "-0.49%",
+      "value": "7,719.51",
+      "chg": "-23.90",
+      "pct": "-0.31%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,871.60",
-      "chg": "-67.77",
-      "pct": "-0.25%",
-      "dir": "down"
+      "value": "27,169.26",
+      "chg": "+100.54",
+      "pct": "+0.37%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "50,926.56",
-      "chg": "-423.42",
-      "pct": "-0.82%",
+      "value": "51,159.29",
+      "chg": "-669.33",
+      "pct": "-1.29%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,806.63",
-      "chg": "-28.95",
-      "pct": "-1.02%",
+      "value": "2,833.49",
+      "chg": "-4.06",
+      "pct": "-0.14%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.18%",
-      "chg": "-0.06",
-      "pct": "-1.11%",
-      "dir": "down"
+      "value": "5.28%",
+      "chg": "+0.04",
+      "pct": "+0.82%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.45",
-      "chg": "-3.15",
-      "pct": "-3.40%",
+      "value": "$91.64",
+      "chg": "-0.96",
+      "pct": "-1.04%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,235.60",
-      "chg": "+67.20",
-      "pct": "+1.61%",
-      "dir": "up"
+      "value": "$4,166.70",
+      "chg": "-1.70",
+      "pct": "-0.04%",
+      "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.52",
-      "chg": "-0.55",
-      "pct": "-3.42%",
+      "value": "15.62",
+      "chg": "-0.45",
+      "pct": "-2.80%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+      "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
       "source": "CNBC",
-      "when": "2026-10-02T13:00:21.000Z"
+      "when": "2026-10-02T18:31:49.000Z"
     },
     {
-      "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "url": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+      "source": "CNBC",
+      "when": "2026-10-02T18:21:13.000Z"
+    },
+    {
+      "title": "Friday's rally in the S&P 500 might not be enough, but Linde is out of this world",
+      "url": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
+      "source": "CNBC",
+      "when": "2026-10-02T18:03:35.000Z"
+    },
+    {
+      "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
+      "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
+      "source": "CNBC",
+      "when": "2026-10-02T17:55:26.000Z"
+    },
+    {
+      "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
+      "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+      "source": "CNBC",
+      "when": "2026-10-02T17:54:42.000Z"
+    },
+    {
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T13:00:00.000Z"
+      "when": "2026-10-02T17:48:00.000Z"
     },
     {
-      "title": "Why Western Digital and Seagate are seeing big stock drops today",
-      "url": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "title": "Europe's leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
+      "url": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T12:58:00.000Z"
+      "when": "2026-10-02T17:48:00.000Z"
     },
     {
-      "title": "Nike's stock heads for its worst year ever as the company's troubles mount",
-      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "title": "Men are losing ground in the labor market. Here's why",
+      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
+      "source": "CNBC",
+      "when": "2026-10-02T17:38:59.000Z"
+    },
+    {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "url": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T12:50:00.000Z"
+      "when": "2026-10-02T17:38:00.000Z"
     },
     {
-      "title": "YouTube sports strategy targets more live rights -- but not necessarily events",
-      "url": "https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html",
-      "source": "CNBC",
-      "when": "2026-10-02T12:49:41.000Z"
-    },
-    {
-      "title": "Rivian tops Q3 delivery expectations, reconfirms 2026 guidance",
-      "url": "https://www.cnbc.com/2026/10/02/q3-vehicle-deliveries.html",
-      "source": "CNBC",
-      "when": "2026-10-02T12:38:04.000Z"
-    },
-    {
-      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
-      "url": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T12:36:00.000Z"
+      "when": "2026-10-02T17:30:00.000Z"
     },
     {
-      "title": "Big Pharma's China deal spree grows with latest tie-up worth up to $7.8 billion",
-      "url": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html",
-      "source": "CNBC",
-      "when": "2026-10-02T12:31:46.000Z"
-    },
-    {
-      "title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-      "url": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-      "source": "CNBC",
-      "when": "2026-10-02T12:30:17.000Z"
-    },
-    {
-      "title": "To win the humanoid-robots race, the U.S. needs this critical machine component that's hard to find",
+      "title": "The U.S. can't find enough of this critical machine component to win the humanoid-robots race",
       "url": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T12:30:00.000Z"
+      "when": "2026-10-02T17:29:00.000Z"
     },
     {
-      "title": "Democratic Texas AG candidate vows to probe Deloitte's role in voter registration delay",
-      "url": "https://www.cnbc.com/2026/10/02/texas-ag-deloitte-voter-registration.html",
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter",
+      "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
       "source": "CNBC",
-      "when": "2026-10-02T12:25:01.000Z"
+      "when": "2026-10-02T17:20:33.000Z"
     },
     {
-      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "title": "Oil prices mixed as G7 nations to release diesel stocks",
+      "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
       "source": "CNBC",
-      "when": "2026-10-02T12:24:27.000Z"
+      "when": "2026-10-02T17:18:28.000Z"
     },
     {
-      "title": "'I'd rather be on a beach in Bali': My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here's how it's worked out.",
+      "url": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-02T12:15:00.000Z"
-    },
-    {
-      "title": "A violent classroom revolt is becoming France's next big crisis",
-      "url": "https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html",
-      "source": "CNBC",
-      "when": "2026-10-02T12:10:56.000Z"
+      "when": "2026-10-02T17:04:00.000Z"
     }
   ],
   "errors": []
