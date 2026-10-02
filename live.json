@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-02T00:03:24.711Z",
-  "fetchedLabel": "Oct 1, 8:03 PM ET",
+  "fetched": "2026-10-02T06:02:18.137Z",
+  "fetchedLabel": "Oct 2, 2:02 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.94",
-      "chg": "+0.34",
-      "pct": "+0.37%",
-      "dir": "up"
+      "value": "$92.59",
+      "chg": "-0.01",
+      "pct": "-0.01%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,212.90",
-      "chg": "+44.50",
-      "pct": "+1.07%",
+      "value": "$4,215.10",
+      "chg": "+46.70",
+      "pct": "+1.12%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "This could be the worst year ever for Nike's stock, with sales set to fall further",
-      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+      "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-02T05:49:09.000Z"
+    },
+    {
+      "title": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
+      "url": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
+      "source": "CNBC",
+      "when": "2026-10-02T05:38:02.000Z"
+    },
+    {
+      "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
+      "url": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
+      "source": "CNBC",
+      "when": "2026-10-02T05:30:42.000Z"
+    },
+    {
+      "title": "Bitget `not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html",
+      "source": "CNBC",
+      "when": "2026-10-02T05:25:22.000Z"
+    },
+    {
+      "title": "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here's what's at stake",
+      "url": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+      "source": "CNBC",
+      "when": "2026-10-02T05:00:01.000Z"
+    },
+    {
+      "title": "AI is making cyberattacks faster and harder to detect, Interpol warns. Here's what companies should watch",
+      "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html",
+      "source": "CNBC",
+      "when": "2026-10-02T04:57:38.000Z"
+    },
+    {
+      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+      "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+      "source": "CNBC",
+      "when": "2026-10-02T04:07:54.000Z"
+    },
+    {
+      "title": "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+      "url": "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+      "source": "CNBC",
+      "when": "2026-10-02T03:49:50.000Z"
+    },
+    {
+      "title": "'I have $400,000 in equity': I'm 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-01T23:21:00.000Z"
+      "when": "2026-10-02T01:00:00.000Z"
+    },
+    {
+      "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T00:30:00.000Z"
+    },
+    {
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T00:15:00.000Z"
     },
     {
       "title": "Here's who's joining the S&P 500 in the index's latest shakeup",
       "url": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-01T23:11:00.000Z"
+      "when": "2026-10-02T00:14:00.000Z"
+    },
+    {
+      "title": "This could be the worst year ever for Nike's stock, with sales set to fall further",
+      "url": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-02T00:13:00.000Z"
     },
     {
       "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
       "url": "https://www.cnbc.com/2026/10/01/trump-south-korea-investment-alaska-lng-nuclear-power.html",
       "source": "CNBC",
       "when": "2026-10-01T23:01:03.000Z"
-    },
-    {
-      "title": "Software roared back last quarter. Cramer says these stocks can keep climbing",
-      "url": "https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html",
-      "source": "CNBC",
-      "when": "2026-10-01T22:18:01.000Z"
-    },
-    {
-      "title": "Accenture stock rallies after earnings beat expectations",
-      "url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:40:30.000Z"
-    },
-    {
-      "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-      "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:34:44.000Z"
-    },
-    {
-      "title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
-      "url": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:32:19.000Z"
-    },
-    {
-      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
-      "url": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-01T21:27:00.000Z"
-    },
-    {
-      "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-      "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:25:33.000Z"
-    },
-    {
-      "title": "Treasury yields fall from multiyear highs",
-      "url": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:17:31.000Z"
-    },
-    {
-      "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
-      "url": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-      "source": "CNBC",
-      "when": "2026-10-01T21:14:49.000Z"
-    },
-    {
-      "title": "The stock market is anything but normal right now — and these charts show it",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-01T21:01:00.000Z"
-    },
-    {
-      "title": "Here's how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
-      "url": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-01T20:58:00.000Z"
-    },
-    {
-      "title": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
-      "url": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-01T20:58:00.000Z"
     }
   ],
   "errors": []
