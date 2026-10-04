@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-04T15:55:59.855Z",
-  "fetchedLabel": "Oct 4, 11:55 AM ET",
+  "fetched": "2026-10-04T19:27:22.442Z",
+  "fetchedLabel": "Oct 4, 3:27 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "'I don't want to die on the sales floor': I'm 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-04T19:08:00.000Z"
+    },
+    {
+      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+      "source": "CNBC",
+      "when": "2026-10-04T19:06:46.000Z"
+    },
+    {
+      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "source": "CNBC",
+      "when": "2026-10-04T17:53:11.000Z"
+    },
     {
       "title": "Here are 3 things we're watching in the stock market in the week ahead",
       "url": "https://www.cnbc.com/investingclub/2026/10/04/here-are-3-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
@@ -125,24 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
       "source": "CNBC",
       "when": "2026-10-04T12:08:54.000Z"
-    },
-    {
-      "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-      "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-      "source": "CNBC",
-      "when": "2026-10-04T12:00:01.000Z"
-    },
-    {
-      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-      "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-04T12:00:00.000Z"
-    },
-    {
-      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
-      "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-      "source": "CNBC",
-      "when": "2026-10-04T09:33:19.000Z"
     }
   ],
   "errors": []
