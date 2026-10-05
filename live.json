@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-04T22:28:12.305Z",
-  "fetchedLabel": "Oct 4, 6:28 PM ET",
+  "fetched": "2026-10-05T01:11:19.773Z",
+  "fetchedLabel": "Oct 4, 9:11 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.36",
-      "chg": "+1.98",
-      "pct": "+2.22%",
+      "value": "$90.44",
+      "chg": "+1.06",
+      "pct": "+1.19%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,167.10",
-      "chg": "-12.60",
-      "pct": "-0.30%",
-      "dir": "down"
+      "value": "$4,185.30",
+      "chg": "+5.60",
+      "pct": "+0.13%",
+      "dir": "up"
     },
     {
       "name": "VIX",
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
+      "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
+      "source": "CNBC",
+      "when": "2026-10-05T01:08:10.000Z"
+    },
+    {
+      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+      "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+      "source": "CNBC",
+      "when": "2026-10-05T00:47:47.000Z"
+    },
     {
       "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
       "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
       "source": "CNBC",
       "when": "2026-10-04T13:24:16.000Z"
-    },
-    {
-      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-      "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-      "source": "CNBC",
-      "when": "2026-10-04T13:22:39.000Z"
-    },
-    {
-      "title": "October can be a scary month for stocks. Here's what investors need to watch this year.",
-      "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-04T13:00:00.000Z"
     }
   ],
   "errors": []
