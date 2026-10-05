@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-05T01:11:19.773Z",
-  "fetchedLabel": "Oct 4, 9:11 PM ET",
+  "fetched": "2026-10-05T07:33:19.633Z",
+  "fetchedLabel": "Oct 5, 3:33 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,63 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.44",
-      "chg": "+1.06",
-      "pct": "+1.19%",
-      "dir": "up"
+      "value": "$89.90",
+      "chg": "-0.52",
+      "pct": "-0.58%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,185.30",
-      "chg": "+5.60",
-      "pct": "+0.13%",
-      "dir": "up"
+      "value": "$4,182.50",
+      "chg": "-4.20",
+      "pct": "-0.10%",
+      "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.31",
-      "chg": "-0.76",
-      "pct": "-4.73%",
-      "dir": "down"
+      "value": "16.25",
+      "chg": "+0.21",
+      "pct": "+1.31%",
+      "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
+      "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+      "source": "CNBC",
+      "when": "2026-10-05T07:15:31.000Z"
+    },
+    {
+      "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+      "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+      "source": "CNBC",
+      "when": "2026-10-05T06:54:13.000Z"
+    },
+    {
+      "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
+      "url": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+      "source": "CNBC",
+      "when": "2026-10-05T05:34:17.000Z"
+    },
+    {
+      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+      "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+      "source": "CNBC",
+      "when": "2026-10-05T05:00:01.000Z"
+    },
+    {
+      "title": "Surging Treasury yields don't signal a U.S. 'fiscal apocalypse' — yet",
+      "url": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+      "source": "CNBC",
+      "when": "2026-10-05T02:24:07.000Z"
+    },
+    {
+      "title": "'Unwelcome and unsafe': Why Japanese companies are retreating from China at a historic rate",
+      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "source": "CNBC",
+      "when": "2026-10-05T02:15:12.000Z"
+    },
     {
       "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
       "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
@@ -107,42 +143,6 @@
       "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-04T20:00:00.000Z"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-04T19:30:00.000Z"
-    },
-    {
-      "title": "'I don't want to die on the sales floor': I'm 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-04T19:08:00.000Z"
-    },
-    {
-      "title": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
-      "url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
-      "source": "CNBC",
-      "when": "2026-10-04T14:00:01.000Z"
-    },
-    {
-      "title": "Corporate America has never been this upbeat about future profits",
-      "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-04T14:00:00.000Z"
-    },
-    {
-      "title": "Starting a watch collection? What beginners should know before buying",
-      "url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
-      "source": "CNBC",
-      "when": "2026-10-04T13:44:31.000Z"
-    },
-    {
-      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
-      "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
-      "source": "CNBC",
-      "when": "2026-10-04T13:24:16.000Z"
     }
   ],
   "errors": []
