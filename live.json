@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-05T16:58:34.557Z",
-  "fetchedLabel": "Oct 5, 12:58 PM ET",
+  "fetched": "2026-10-05T23:06:48.447Z",
+  "fetchedLabel": "Oct 5, 7:06 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,770.32",
-      "chg": "+86.63",
-      "pct": "+1.13%",
+      "value": "7,773.95",
+      "chg": "+90.26",
+      "pct": "+1.17%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,421.63",
-      "chg": "+601.24",
-      "pct": "+2.24%",
+      "value": "27,477.31",
+      "chg": "+656.93",
+      "pct": "+2.45%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,260.55",
-      "chg": "-220.96",
-      "pct": "-0.43%",
+      "value": "51,267.90",
+      "chg": "-213.61",
+      "pct": "-0.41%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,851.64",
-      "chg": "+33.73",
-      "pct": "+1.20%",
+      "value": "2,847.14",
+      "chg": "+29.23",
+      "pct": "+1.04%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.34%",
-      "chg": "+0.08",
-      "pct": "+1.54%",
+      "value": "5.31%",
+      "chg": "+0.06",
+      "pct": "+1.07%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.01",
-      "chg": "-0.41",
-      "pct": "-0.45%",
+      "value": "$89.25",
+      "chg": "-1.17",
+      "pct": "-1.29%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,157.80",
-      "chg": "-28.90",
-      "pct": "-0.69%",
+      "value": "$4,168.30",
+      "chg": "-18.40",
+      "pct": "-0.44%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.49",
-      "chg": "-0.55",
-      "pct": "-3.43%",
+      "value": "15.52",
+      "chg": "-0.52",
+      "pct": "-3.24%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "title": "Trump says he'll pay for TV ads that praised him and which government funded",
+      "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
       "source": "CNBC",
-      "when": "2026-10-05T16:54:52.000Z"
-    },
-    {
-      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-      "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-      "source": "CNBC",
-      "when": "2026-10-05T16:43:19.000Z"
-    },
-    {
-      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-      "source": "CNBC",
-      "when": "2026-10-05T16:41:00.000Z"
-    },
-    {
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T16:31:00.000Z"
-    },
-    {
-      "title": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
-      "url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html",
-      "source": "CNBC",
-      "when": "2026-10-05T16:29:58.000Z"
-    },
-    {
-      "title": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
-      "url": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
-      "source": "CNBC",
-      "when": "2026-10-05T16:29:29.000Z"
-    },
-    {
-      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-      "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-      "source": "CNBC",
-      "when": "2026-10-05T16:14:02.000Z"
-    },
-    {
-      "title": "Saudi Aramco's CEO may be too downbeat about the road to restocking global oil supplies",
-      "url": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T16:08:00.000Z"
+      "when": "2026-10-05T23:01:54.000Z"
     },
     {
       "title": "'The pain was excruciating': A friend in her 80s fell down her basement stairs. Could it have been avoided?",
       "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-05T16:00:00.000Z"
+      "when": "2026-10-05T23:00:00.000Z"
     },
     {
-      "title": "Russia plague: What we know about the suspected case reportedly linked to a lab worker's death",
-      "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
       "source": "CNBC",
-      "when": "2026-10-05T15:57:36.000Z"
+      "when": "2026-10-05T22:27:32.000Z"
     },
     {
-      "title": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-      "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
+      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+      "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
       "source": "CNBC",
-      "when": "2026-10-05T15:51:15.000Z"
+      "when": "2026-10-05T22:18:13.000Z"
+    },
+    {
+      "title": "The case for Nvidia's stock to march even higher after clinching its first record high in months",
+      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T21:52:00.000Z"
+    },
+    {
+      "title": "This new AI model could help America close a technological gap with China",
+      "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T21:43:00.000Z"
+    },
+    {
+      "title": "Microsoft's blazing stock comeback isn't even close to being over, analyst says",
+      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T21:27:00.000Z"
+    },
+    {
+      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+      "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T21:25:00.000Z"
+    },
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent's Kalshi penalty",
+      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "source": "CNBC",
+      "when": "2026-10-05T21:24:25.000Z"
+    },
+    {
+      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
+      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T21:12:00.000Z"
+    },
+    {
+      "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+      "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
+      "source": "CNBC",
+      "when": "2026-10-05T21:04:17.000Z"
+    },
+    {
+      "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
+      "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
+      "source": "CNBC",
+      "when": "2026-10-05T20:53:33.000Z"
     },
     {
       "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
       "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
       "source": "CNBC",
-      "when": "2026-10-05T15:47:42.000Z"
+      "when": "2026-10-05T20:41:23.000Z"
     },
     {
-      "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
-      "source": "CNBC",
-      "when": "2026-10-05T15:46:49.000Z"
-    },
-    {
-      "title": "These are the cheapest and most expensive U.S. flights this November",
-      "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
-      "source": "CNBC",
-      "when": "2026-10-05T15:45:09.000Z"
+      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here's the hidden cost.",
+      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T20:39:00.000Z"
     }
   ],
   "errors": []
