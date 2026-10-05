@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-05T07:33:19.633Z",
-  "fetchedLabel": "Oct 5, 3:33 AM ET",
+  "fetched": "2026-10-05T16:58:34.557Z",
+  "fetchedLabel": "Oct 5, 12:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,722.72",
-      "chg": "-20.69",
-      "pct": "-0.27%",
-      "dir": "down"
+      "value": "7,770.32",
+      "chg": "+86.63",
+      "pct": "+1.13%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,190.86",
-      "chg": "+122.14",
-      "pct": "+0.45%",
+      "value": "27,421.63",
+      "chg": "+601.24",
+      "pct": "+2.24%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,176.96",
-      "chg": "-651.66",
-      "pct": "-1.26%",
+      "value": "51,260.55",
+      "chg": "-220.96",
+      "pct": "-0.43%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,832.90",
-      "chg": "-4.66",
-      "pct": "-0.16%",
-      "dir": "down"
+      "value": "2,851.64",
+      "chg": "+33.73",
+      "pct": "+1.20%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.28%",
-      "chg": "+0.04",
-      "pct": "+0.71%",
+      "value": "5.34%",
+      "chg": "+0.08",
+      "pct": "+1.54%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.90",
-      "chg": "-0.52",
-      "pct": "-0.58%",
+      "value": "$90.01",
+      "chg": "-0.41",
+      "pct": "-0.45%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,182.50",
-      "chg": "-4.20",
-      "pct": "-0.10%",
+      "value": "$4,157.80",
+      "chg": "-28.90",
+      "pct": "-0.69%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.25",
-      "chg": "+0.21",
-      "pct": "+1.31%",
-      "dir": "up"
+      "value": "15.49",
+      "chg": "-0.55",
+      "pct": "-3.43%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
-      "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
       "source": "CNBC",
-      "when": "2026-10-05T07:15:31.000Z"
+      "when": "2026-10-05T16:54:52.000Z"
     },
     {
-      "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
-      "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+      "title": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+      "url": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
       "source": "CNBC",
-      "when": "2026-10-05T06:54:13.000Z"
+      "when": "2026-10-05T16:43:19.000Z"
     },
     {
-      "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
-      "url": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
+      "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+      "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
       "source": "CNBC",
-      "when": "2026-10-05T05:34:17.000Z"
+      "when": "2026-10-05T16:41:00.000Z"
     },
     {
-      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-      "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
-      "source": "CNBC",
-      "when": "2026-10-05T05:00:01.000Z"
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T16:31:00.000Z"
     },
     {
-      "title": "Surging Treasury yields don't signal a U.S. 'fiscal apocalypse' — yet",
-      "url": "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
+      "title": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
+      "url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html",
       "source": "CNBC",
-      "when": "2026-10-05T02:24:07.000Z"
+      "when": "2026-10-05T16:29:58.000Z"
     },
     {
-      "title": "'Unwelcome and unsafe': Why Japanese companies are retreating from China at a historic rate",
-      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "title": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
+      "url": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
       "source": "CNBC",
-      "when": "2026-10-05T02:15:12.000Z"
-    },
-    {
-      "title": "They survived World War II and lost decades, but not 2026. Japan's century-old businesses are disappearing at a record pace",
-      "url": "https://www.cnbc.com/2026/10/05/japan-old-business-kadoya-subeshoten-.html",
-      "source": "CNBC",
-      "when": "2026-10-05T01:08:10.000Z"
+      "when": "2026-10-05T16:29:29.000Z"
     },
     {
       "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
       "url": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
       "source": "CNBC",
-      "when": "2026-10-05T00:47:47.000Z"
+      "when": "2026-10-05T16:14:02.000Z"
     },
     {
-      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-      "source": "CNBC",
-      "when": "2026-10-04T22:08:34.000Z"
-    },
-    {
-      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
-      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-      "source": "CNBC",
-      "when": "2026-10-04T21:46:15.000Z"
-    },
-    {
-      "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
-      "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
-      "source": "CNBC",
-      "when": "2026-10-04T20:32:16.000Z"
-    },
-    {
-      "title": "'I'd rather be on a beach in Bali': My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "title": "Saudi Aramco's CEO may be too downbeat about the road to restocking global oil supplies",
+      "url": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-04T20:31:00.000Z"
+      "when": "2026-10-05T16:08:00.000Z"
     },
     {
-      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-      "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-      "source": "CNBC",
-      "when": "2026-10-04T20:28:47.000Z"
-    },
-    {
-      "title": "I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "title": "'The pain was excruciating': A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-04T20:00:00.000Z"
+      "when": "2026-10-05T16:00:00.000Z"
+    },
+    {
+      "title": "Russia plague: What we know about the suspected case reportedly linked to a lab worker's death",
+      "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
+      "source": "CNBC",
+      "when": "2026-10-05T15:57:36.000Z"
+    },
+    {
+      "title": "David Ellison and Ynon Kreiz announce Skydance leadership team",
+      "url": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
+      "source": "CNBC",
+      "when": "2026-10-05T15:51:15.000Z"
+    },
+    {
+      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+      "source": "CNBC",
+      "when": "2026-10-05T15:47:42.000Z"
+    },
+    {
+      "title": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
+      "url": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
+      "source": "CNBC",
+      "when": "2026-10-05T15:46:49.000Z"
+    },
+    {
+      "title": "These are the cheapest and most expensive U.S. flights this November",
+      "url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
+      "source": "CNBC",
+      "when": "2026-10-05T15:45:09.000Z"
     }
   ],
   "errors": []
