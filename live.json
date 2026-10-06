@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-05T23:06:48.447Z",
-  "fetchedLabel": "Oct 5, 7:06 PM ET",
+  "fetched": "2026-10-06T03:15:08.495Z",
+  "fetchedLabel": "Oct 5, 11:15 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.25",
-      "chg": "-1.17",
-      "pct": "-1.29%",
+      "value": "$89.70",
+      "chg": "-0.72",
+      "pct": "-0.80%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,168.30",
-      "chg": "-18.40",
-      "pct": "-0.44%",
+      "value": "$4,159.80",
+      "chg": "-26.90",
+      "pct": "-0.64%",
       "dir": "down"
     },
     {
@@ -61,10 +61,52 @@
   ],
   "headlines": [
     {
-      "title": "Trump says he'll pay for TV ads that praised him and which government funded",
+      "title": "Little room for 'giving and taking': India's finance minister confirms trade impasse with the U.S.",
+      "url": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+      "source": "CNBC",
+      "when": "2026-10-06T02:39:19.000Z"
+    },
+    {
+      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
+      "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
+      "source": "CNBC",
+      "when": "2026-10-06T02:23:18.000Z"
+    },
+    {
+      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
       "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
       "source": "CNBC",
-      "when": "2026-10-05T23:01:54.000Z"
+      "when": "2026-10-06T01:55:50.000Z"
+    },
+    {
+      "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+      "url": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
+      "source": "CNBC",
+      "when": "2026-10-06T01:47:32.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
+      "source": "CNBC",
+      "when": "2026-10-05T23:41:11.000Z"
+    },
+    {
+      "title": "'People in the U.S. need to wake up': As a mortgage loan officer, I rejected wealthy couples due to overspending. We're all hea...",
+      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-05T23:30:00.000Z"
+    },
+    {
+      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "source": "CNBC",
+      "when": "2026-10-05T23:28:31.000Z"
+    },
+    {
+      "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+      "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
+      "source": "CNBC",
+      "when": "2026-10-05T23:14:39.000Z"
     },
     {
       "title": "'The pain was excruciating': A friend in her 80s fell down her basement stairs. Could it have been avoided?",
@@ -73,16 +115,16 @@
       "when": "2026-10-05T23:00:00.000Z"
     },
     {
-      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-      "source": "CNBC",
-      "when": "2026-10-05T22:27:32.000Z"
-    },
-    {
       "title": "Stocks are hitting records despite surging yields. Cramer explains why",
       "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
       "source": "CNBC",
       "when": "2026-10-05T22:18:13.000Z"
+    },
+    {
+      "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+      "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "source": "CNBC",
+      "when": "2026-10-05T22:00:01.000Z"
     },
     {
       "title": "The case for Nvidia's stock to march even higher after clinching its first record high in months",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-05T21:27:00.000Z"
-    },
-    {
-      "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
-      "url": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T21:25:00.000Z"
-    },
-    {
-      "title": "House Democrat targets candidate prediction market trades after opponent's Kalshi penalty",
-      "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-      "source": "CNBC",
-      "when": "2026-10-05T21:24:25.000Z"
-    },
-    {
-      "title": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-      "url": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T21:12:00.000Z"
-    },
-    {
-      "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
-      "url": "https://www.cnbc.com/2026/10/05/lucid-group-lcid-q3-2026-deliveries-production.html",
-      "source": "CNBC",
-      "when": "2026-10-05T21:04:17.000Z"
-    },
-    {
-      "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
-      "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
-      "source": "CNBC",
-      "when": "2026-10-05T20:53:33.000Z"
-    },
-    {
-      "title": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-      "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-      "source": "CNBC",
-      "when": "2026-10-05T20:41:23.000Z"
-    },
-    {
-      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here's the hidden cost.",
-      "url": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T20:39:00.000Z"
     }
   ],
   "errors": []
