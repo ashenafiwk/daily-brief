@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-06T03:15:08.495Z",
-  "fetchedLabel": "Oct 5, 11:15 PM ET",
+  "fetched": "2026-10-06T10:41:05.286Z",
+  "fetchedLabel": "Oct 6, 6:41 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,111 +39,113 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.70",
-      "chg": "-0.72",
-      "pct": "-0.80%",
+      "value": "$87.67",
+      "chg": "-5.20",
+      "pct": "-5.60%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,159.80",
-      "chg": "-26.90",
-      "pct": "-0.64%",
+      "value": "$4,182.90",
+      "chg": "-19.40",
+      "pct": "-0.46%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.52",
-      "chg": "-0.52",
-      "pct": "-3.24%",
+      "value": "15.39",
+      "chg": "-0.95",
+      "pct": "-5.81%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Little room for 'giving and taking': India's finance minister confirms trade impasse with the U.S.",
-      "url": "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
-      "source": "CNBC",
-      "when": "2026-10-06T02:39:19.000Z"
-    },
-    {
-      "title": "Pentagon says Trump approves Army firing squad execution of Fort Hood killer Nidal Hasan",
-      "url": "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html",
-      "source": "CNBC",
-      "when": "2026-10-06T02:23:18.000Z"
-    },
-    {
-      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
-      "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-      "source": "CNBC",
-      "when": "2026-10-06T01:55:50.000Z"
-    },
-    {
-      "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
-      "url": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
-      "source": "CNBC",
-      "when": "2026-10-06T01:47:32.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
-      "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
-      "source": "CNBC",
-      "when": "2026-10-05T23:41:11.000Z"
-    },
-    {
       "title": "'People in the U.S. need to wake up': As a mortgage loan officer, I rejected wealthy couples due to overspending. We're all hea...",
       "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-05T23:30:00.000Z"
+      "when": "2026-10-06T10:15:00.000Z"
     },
     {
-      "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+      "title": "Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth",
+      "url": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
       "source": "CNBC",
-      "when": "2026-10-05T23:28:31.000Z"
+      "when": "2026-10-06T10:07:03.000Z"
     },
     {
-      "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-      "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
+      "title": "Why deep-red Kansas has become an unexpected Senate battleground",
+      "url": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
       "source": "CNBC",
-      "when": "2026-10-05T23:14:39.000Z"
+      "when": "2026-10-06T10:00:01.000Z"
     },
     {
-      "title": "'The pain was excruciating': A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T23:00:00.000Z"
-    },
-    {
-      "title": "Stocks are hitting records despite surging yields. Cramer explains why",
-      "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
+      "title": "Paramount's hard-fought takeover of Warner Bros. Discovery closes Tuesday. Here's how we got here",
+      "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
       "source": "CNBC",
-      "when": "2026-10-05T22:18:13.000Z"
+      "when": "2026-10-06T10:00:01.000Z"
     },
     {
-      "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
-      "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-06T10:00:00.000Z"
+    },
+    {
+      "title": "House China committee chair urges Fed to review Hong Kong's access to dollar lifeline",
+      "url": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
       "source": "CNBC",
-      "when": "2026-10-05T22:00:01.000Z"
+      "when": "2026-10-06T09:58:14.000Z"
     },
     {
-      "title": "The case for Nvidia's stock to march even higher after clinching its first record high in months",
-      "url": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
+      "title": "Elon Musk's wealth tops $1 trillion. These entire countries produce less.",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-05T21:52:00.000Z"
+      "when": "2026-10-06T09:56:00.000Z"
     },
     {
-      "title": "This new AI model could help America close a technological gap with China",
-      "url": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-05T21:43:00.000Z"
+      "title": "Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround",
+      "url": "https://www.cnbc.com/2026/10/06/france-student-protests-budget.html",
+      "source": "CNBC",
+      "when": "2026-10-06T09:46:34.000Z"
     },
     {
-      "title": "Microsoft's blazing stock comeback isn't even close to being over, analyst says",
-      "url": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
+      "title": "Michael Burry says he's sold out of his top holding — for now",
+      "url": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-05T21:27:00.000Z"
+      "when": "2026-10-06T09:42:00.000Z"
+    },
+    {
+      "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-06T09:20:00.000Z"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-06T09:16:00.000Z"
+    },
+    {
+      "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
+      "url": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-06T09:06:00.000Z"
+    },
+    {
+      "title": "Yemen forces reclaim key Red Sea port city from Iran-backed Houthis in major counteroffensive",
+      "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html",
+      "source": "CNBC",
+      "when": "2026-10-06T08:53:50.000Z"
+    },
+    {
+      "title": "Britain is on 'thin ice,' warns ex-Bank of England chief economist — and it must act to 'appease financial markets'",
+      "url": "https://www.cnbc.com/2026/10/06/burnham-healey-budget-tax-bonds-gilts.html",
+      "source": "CNBC",
+      "when": "2026-10-06T07:53:22.000Z"
     }
   ],
-  "errors": []
+  "errors": [
+    "feed Yahoo Finance: HTTP 404"
+  ]
 }
