@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-06T21:49:46.771Z",
-  "fetchedLabel": "Oct 6, 5:49 PM ET",
+  "fetched": "2026-10-07T01:18:01.339Z",
+  "fetchedLabel": "Oct 6, 9:18 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -11,8 +11,8 @@
     },
     {
       "name": "Nasdaq",
-      "value": "27,599.79",
-      "chg": "+802.25",
+      "value": "27,599.89",
+      "chg": "+802.35",
       "pct": "+2.99%",
       "dir": "up"
     },
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.91",
-      "chg": "-2.96",
-      "pct": "-3.19%",
+      "value": "$90.36",
+      "chg": "-2.51",
+      "pct": "-2.70%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,192.70",
-      "chg": "-9.60",
-      "pct": "-0.23%",
+      "value": "$4,180.30",
+      "chg": "-22.00",
+      "pct": "-0.52%",
       "dir": "down"
     },
     {
@@ -61,16 +61,40 @@
   ],
   "headlines": [
     {
-      "title": "Trump hedges on paying back government for ads that already aired",
-      "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+      "title": "Trillions are being 'wasted' on the AI boom, Arthur Hayes says. He's betting on what comes next",
+      "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
       "source": "CNBC",
-      "when": "2026-10-06T21:32:32.000Z"
+      "when": "2026-10-07T00:49:34.000Z"
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-06T21:15:00.000Z"
+      "when": "2026-10-06T22:54:00.000Z"
+    },
+    {
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
+      "source": "CNBC",
+      "when": "2026-10-06T22:23:01.000Z"
+    },
+    {
+      "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+      "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+      "source": "CNBC",
+      "when": "2026-10-06T22:13:04.000Z"
+    },
+    {
+      "title": "The S&P 500 is back in record territory as the 'Magnificent Seven' ride to the rescue",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-06T21:52:00.000Z"
+    },
+    {
+      "title": "Trump hedges on paying back government for ads that already aired",
+      "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+      "source": "CNBC",
+      "when": "2026-10-06T21:32:32.000Z"
     },
     {
       "title": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
@@ -83,12 +107,6 @@
       "url": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
       "source": "CNBC",
       "when": "2026-10-06T21:07:27.000Z"
-    },
-    {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-      "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-      "source": "CNBC",
-      "when": "2026-10-06T20:50:54.000Z"
     },
     {
       "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn't buy into an October jinx.",
@@ -125,24 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
       "source": "CNBC",
       "when": "2026-10-06T20:05:53.000Z"
-    },
-    {
-      "title": "Treasury yields slide as surge to multiyear highs cools",
-      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-      "source": "CNBC",
-      "when": "2026-10-06T20:04:22.000Z"
-    },
-    {
-      "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
-      "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-      "source": "CNBC",
-      "when": "2026-10-06T20:02:00.000Z"
-    },
-    {
-      "title": "A new analyst call on Home Depot reflects our feeling on what to do with the stock",
-      "url": "https://www.cnbc.com/investingclub/2026/10/06/a-new-analyst-call-on-home-depot-reflects-our-feeling-on-what-to-do-with-the-stock.html",
-      "source": "CNBC",
-      "when": "2026-10-06T20:00:53.000Z"
     }
   ],
   "errors": [
