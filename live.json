@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-08T14:48:42.746Z",
-  "fetchedLabel": "Oct 8, 10:48 AM ET",
+  "fetched": "2026-10-08T20:35:08.366Z",
+  "fetchedLabel": "Oct 8, 4:35 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,785.87",
-      "chg": "+119.42",
-      "pct": "+1.56%",
+      "value": "7,765.36",
+      "chg": "+98.91",
+      "pct": "+1.29%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,445.54",
-      "chg": "+573.94",
-      "pct": "+2.14%",
+      "value": "27,193.34",
+      "chg": "+321.74",
+      "pct": "+1.20%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,064.01",
-      "chg": "+137.45",
-      "pct": "+0.27%",
+      "value": "51,231.64",
+      "chg": "+305.08",
+      "pct": "+0.60%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,778.75",
-      "chg": "-27.89",
-      "pct": "-0.99%",
+      "value": "2,794.13",
+      "chg": "-12.50",
+      "pct": "-0.45%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.28%",
-      "chg": "+0.01",
-      "pct": "+0.13%",
-      "dir": "up"
+      "value": "5.23%",
+      "chg": "-0.05",
+      "pct": "-0.87%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$92.18",
-      "chg": "+2.75",
-      "pct": "+3.08%",
+      "value": "$90.78",
+      "chg": "+1.35",
+      "pct": "+1.51%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,156.60",
-      "chg": "-0.20",
-      "pct": "-0.00%",
-      "dir": "down"
+      "value": "$4,160.00",
+      "chg": "+3.20",
+      "pct": "+0.08%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.27",
-      "chg": "-0.04",
-      "pct": "-0.26%",
-      "dir": "down"
+      "value": "15.41",
+      "chg": "+0.10",
+      "pct": "+0.65%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
-      "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
-      "source": "CNBC",
-      "when": "2026-10-08T14:48:18.000Z"
-    },
-    {
-      "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
-      "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-      "source": "CNBC",
-      "when": "2026-10-08T14:47:05.000Z"
-    },
-    {
-      "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-      "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-08T14:43:38.000Z"
-    },
-    {
-      "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-      "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-08T14:43:05.000Z"
-    },
-    {
-      "title": "Layoffs haven't been this low since the 1960s. It's great if you have a job — but not if you don't.",
-      "url": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-08T14:35:00.000Z"
+      "when": "2026-10-08T20:32:00.000Z"
     },
     {
-      "title": "I'm a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
+      "url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-08T14:30:00.000Z"
+      "when": "2026-10-08T20:30:00.000Z"
     },
     {
-      "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-      "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-      "source": "CNBC",
-      "when": "2026-10-08T14:24:12.000Z"
+      "title": "These decisions you make in your 20s — not your income — determine whether you'll spend decades in debt or retire comfortably",
+      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-08T20:25:00.000Z"
     },
     {
-      "title": "Hundreds of new pro sports team ETFs lead world of retail investing to the edge of gambling",
+      "title": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
       "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
       "source": "CNBC",
-      "when": "2026-10-08T14:20:24.000Z"
+      "when": "2026-10-08T20:21:44.000Z"
     },
     {
-      "title": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-      "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
+      "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+      "url": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
       "source": "CNBC",
-      "when": "2026-10-08T14:12:10.000Z"
+      "when": "2026-10-08T20:16:21.000Z"
     },
     {
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T14:00:00.000Z"
-    },
-    {
-      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
-      "url": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T13:52:00.000Z"
-    },
-    {
-      "title": "College students have to use credit cards just to cover basic living expenses. Here's what it's costing them.",
-      "url": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T13:43:00.000Z"
-    },
-    {
-      "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-      "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
+      "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
+      "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
       "source": "CNBC",
-      "when": "2026-10-08T13:40:12.000Z"
+      "when": "2026-10-08T20:12:33.000Z"
     },
     {
-      "title": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-      "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+      "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
+      "url": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
       "source": "CNBC",
-      "when": "2026-10-08T13:37:01.000Z"
+      "when": "2026-10-08T20:06:52.000Z"
+    },
+    {
+      "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+      "url": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+      "source": "CNBC",
+      "when": "2026-10-08T20:06:31.000Z"
+    },
+    {
+      "title": "Costco's sales resilience is giving Cramer a reason to feel better about the stock",
+      "url": "https://www.cnbc.com/investingclub/2026/10/08/costco-sales-resilience-is-giving-cramer-a-reason-to-feel-better-about-the-stock.html",
+      "source": "CNBC",
+      "when": "2026-10-08T19:51:47.000Z"
+    },
+    {
+      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "source": "CNBC",
+      "when": "2026-10-08T19:49:23.000Z"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a 'prisoner of your possessions'",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-08T19:47:00.000Z"
+    },
+    {
+      "title": "Florida is voting on whether to slash property taxes. Here's who it would benefit — and hurt.",
+      "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-08T19:41:00.000Z"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-08T19:15:00.000Z"
+    },
+    {
+      "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-10-08T19:00:49.000Z"
     }
   ],
   "errors": [
