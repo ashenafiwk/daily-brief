@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-07T20:43:36.178Z",
-  "fetchedLabel": "Oct 7, 4:43 PM ET",
+  "fetched": "2026-10-08T00:51:00.520Z",
+  "fetchedLabel": "Oct 7, 8:51 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.05",
-      "chg": "-2.06",
-      "pct": "-2.26%",
+      "value": "$89.18",
+      "chg": "-1.93",
+      "pct": "-2.12%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,137.10",
-      "chg": "-25.20",
-      "pct": "-0.61%",
+      "value": "$4,131.80",
+      "chg": "-30.50",
+      "pct": "-0.73%",
       "dir": "down"
     },
     {
@@ -61,10 +61,76 @@
   ],
   "headlines": [
     {
+      "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
+      "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
+      "source": "CNBC",
+      "when": "2026-10-07T23:10:54.000Z"
+    },
+    {
+      "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-07T22:58:05.000Z"
+    },
+    {
+      "title": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
+      "url": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
+      "source": "CNBC",
+      "when": "2026-10-07T22:32:14.000Z"
+    },
+    {
+      "title": "Rising yields are quietly crashing the stock market's earlier winners of 2026",
+      "url": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-07T22:32:00.000Z"
+    },
+    {
+      "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "source": "CNBC",
+      "when": "2026-10-07T22:29:41.000Z"
+    },
+    {
+      "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
+      "url": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
+      "source": "CNBC",
+      "when": "2026-10-07T22:22:32.000Z"
+    },
+    {
       "title": "Lululemon poaches Athleta CEO as new chief product officer",
       "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
       "source": "CNBC",
-      "when": "2026-10-07T20:39:39.000Z"
+      "when": "2026-10-07T21:47:06.000Z"
+    },
+    {
+      "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+      "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-07T21:31:40.000Z"
+    },
+    {
+      "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+      "url": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+      "source": "CNBC",
+      "when": "2026-10-07T21:20:40.000Z"
+    },
+    {
+      "title": "Trump's diesel order exposes White House limits to counter surging fuel prices",
+      "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
+      "source": "CNBC",
+      "when": "2026-10-07T21:19:19.000Z"
+    },
+    {
+      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+      "source": "CNBC",
+      "when": "2026-10-07T21:16:24.000Z"
+    },
+    {
+      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+      "url": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-07T20:58:00.000Z"
     },
     {
       "title": "Options traders are betting on a dramatic drop in interest rates",
@@ -77,72 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
       "source": "CNBC",
       "when": "2026-10-07T20:33:34.000Z"
-    },
-    {
-      "title": "Trump's diesel order exposes White House limits to counter surging fuel prices",
-      "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:26:51.000Z"
-    },
-    {
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:26:13.000Z"
-    },
-    {
-      "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-      "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:25:25.000Z"
-    },
-    {
-      "title": "SpaceX's plans to buy more Nvidia GPUs is keeping Jim Cramer bullish on the chip stock",
-      "url": "https://www.cnbc.com/investingclub/2026/10/07/spacexs-plans-to-buy-more-nvidia-gpus-is-keeping-jim-cramer-bullish-on-the-chip-stock-.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:24:48.000Z"
-    },
-    {
-      "title": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
-      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:09:59.000Z"
-    },
-    {
-      "title": "FCC to vote on auctioning 25MHz of 'prime spectrum' in move that could benefit Amazon, SpaceX",
-      "url": "https://www.cnbc.com/2026/10/07/fcc-spectrum-auction-spacex-amazon.html",
-      "source": "CNBC",
-      "when": "2026-10-07T20:03:50.000Z"
-    },
-    {
-      "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-      "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-      "source": "CNBC",
-      "when": "2026-10-07T19:42:31.000Z"
-    },
-    {
-      "title": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of 'tough choices' ahead",
-      "url": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
-      "source": "CNBC",
-      "when": "2026-10-07T19:40:31.000Z"
-    },
-    {
-      "title": "Fed's minutes show no appetite for a series of interest-rate hikes",
-      "url": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-07T19:35:00.000Z"
-    },
-    {
-      "title": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
-      "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-10-07T19:17:01.000Z"
-    },
-    {
-      "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-      "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-      "source": "CNBC",
-      "when": "2026-10-07T19:14:03.000Z"
     }
   ],
   "errors": [
