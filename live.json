@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-09T01:04:05.060Z",
-  "fetchedLabel": "Oct 8, 9:04 PM ET",
+  "fetched": "2026-10-09T07:52:15.325Z",
+  "fetchedLabel": "Oct 9, 3:52 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "51,231.64",
-      "chg": "+305.08",
+      "value": "51,231.60",
+      "chg": "+305.04",
       "pct": "+0.60%",
       "dir": "up"
     },
@@ -39,27 +39,63 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.14",
-      "chg": "+1.71",
-      "pct": "+1.91%",
+      "value": "$90.62",
+      "chg": "+1.19",
+      "pct": "+1.33%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,168.60",
-      "chg": "+11.80",
-      "pct": "+0.28%",
+      "value": "$4,214.60",
+      "chg": "+57.80",
+      "pct": "+1.39%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.41",
-      "chg": "+0.10",
-      "pct": "+0.65%",
-      "dir": "up"
+      "value": "15.30",
+      "chg": "-0.22",
+      "pct": "-1.42%",
+      "dir": "down"
     }
   ],
   "headlines": [
+    {
+      "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+      "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+      "source": "CNBC",
+      "when": "2026-10-09T07:23:48.000Z"
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "source": "CNBC",
+      "when": "2026-10-09T06:30:01.000Z"
+    },
+    {
+      "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+      "url": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+      "source": "CNBC",
+      "when": "2026-10-09T06:16:19.000Z"
+    },
+    {
+      "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+      "url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+      "source": "CNBC",
+      "when": "2026-10-09T04:11:59.000Z"
+    },
+    {
+      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+      "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "source": "CNBC",
+      "when": "2026-10-09T03:51:15.000Z"
+    },
+    {
+      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
+      "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+      "source": "CNBC",
+      "when": "2026-10-09T02:52:15.000Z"
+    },
     {
       "title": "SpaceX's Starlink Mobile plans are pressuring AT&T and Verizon shares",
       "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
@@ -71,12 +107,6 @@
       "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-09T00:03:00.000Z"
-    },
-    {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-      "source": "CNBC",
-      "when": "2026-10-08T23:57:23.000Z"
     },
     {
       "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
@@ -113,36 +143,6 @@
       "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-08T21:45:00.000Z"
-    },
-    {
-      "title": "PepsiCo CEO's message to employees: If you're not producing growth, you're out",
-      "url": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T21:43:00.000Z"
-    },
-    {
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "source": "CNBC",
-      "when": "2026-10-08T21:19:14.000Z"
-    },
-    {
-      "title": "I'm a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T21:15:00.000Z"
-    },
-    {
-      "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
-      "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
-      "source": "CNBC",
-      "when": "2026-10-08T20:55:39.000Z"
-    },
-    {
-      "title": "Worse than taking away your parents' car keys? Taking away their cell phone. How to protect your aging parents.",
-      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T20:55:00.000Z"
     }
   ],
   "errors": [
