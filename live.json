@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-09T07:52:15.325Z",
-  "fetchedLabel": "Oct 9, 3:52 AM ET",
+  "fetched": "2026-10-09T15:07:23.753Z",
+  "fetchedLabel": "Oct 9, 11:07 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,765.36",
-      "chg": "+98.91",
-      "pct": "+1.29%",
+      "value": "7,796.38",
+      "chg": "+73.66",
+      "pct": "+0.95%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,193.34",
-      "chg": "+321.74",
-      "pct": "+1.20%",
+      "value": "27,317.49",
+      "chg": "+126.63",
+      "pct": "+0.47%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,231.60",
-      "chg": "+305.04",
-      "pct": "+0.60%",
+      "value": "51,446.62",
+      "chg": "+269.66",
+      "pct": "+0.53%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,794.13",
-      "chg": "-12.50",
-      "pct": "-0.45%",
+      "value": "2,801.11",
+      "chg": "-31.79",
+      "pct": "-1.12%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.23%",
-      "chg": "-0.05",
-      "pct": "-0.87%",
+      "value": "5.28%",
+      "chg": "-0.04",
+      "pct": "-0.66%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.62",
-      "chg": "+1.19",
-      "pct": "+1.33%",
+      "value": "$91.65",
+      "chg": "+2.22",
+      "pct": "+2.48%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,214.60",
-      "chg": "+57.80",
-      "pct": "+1.39%",
+      "value": "$4,208.00",
+      "chg": "+51.20",
+      "pct": "+1.23%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.30",
-      "chg": "-0.22",
-      "pct": "-1.42%",
+      "value": "14.99",
+      "chg": "-0.53",
+      "pct": "-3.41%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-      "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+      "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+      "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
       "source": "CNBC",
-      "when": "2026-10-09T07:23:48.000Z"
+      "when": "2026-10-09T15:03:10.000Z"
     },
     {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-      "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "title": "Here's how much stocks could fall if the Democrats sweep Congress, according to BofA",
+      "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T15:02:00.000Z"
+    },
+    {
+      "title": "Mortgage rates are soaring. In America, the smart money rents.",
+      "url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:55:00.000Z"
+    },
+    {
+      "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
+      "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
       "source": "CNBC",
-      "when": "2026-10-09T06:30:01.000Z"
+      "when": "2026-10-09T14:50:32.000Z"
     },
     {
-      "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
-      "url": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:50:00.000Z"
+    },
+    {
+      "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
+      "url": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:38:00.000Z"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:36:00.000Z"
+    },
+    {
+      "title": "Kalshi is coming for 'Dancing with the Stars' fans",
+      "url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:34:00.000Z"
+    },
+    {
+      "title": "College students have to use credit cards just to cover basic living expenses. Here's what it's costing them.",
+      "url": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:33:00.000Z"
+    },
+    {
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "source": "CNBC",
-      "when": "2026-10-09T06:16:19.000Z"
+      "when": "2026-10-09T14:30:06.000Z"
     },
     {
-      "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-      "url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:30:00.000Z"
+    },
+    {
+      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+      "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
       "source": "CNBC",
-      "when": "2026-10-09T04:11:59.000Z"
+      "when": "2026-10-09T14:29:59.000Z"
     },
     {
-      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-      "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+      "title": "Florida is voting on whether to slash property taxes. Here's who it would benefit — and hurt.",
+      "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T14:28:00.000Z"
+    },
+    {
+      "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
+      "url": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
       "source": "CNBC",
-      "when": "2026-10-09T03:51:15.000Z"
-    },
-    {
-      "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-      "url": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-      "source": "CNBC",
-      "when": "2026-10-09T02:52:15.000Z"
-    },
-    {
-      "title": "SpaceX's Starlink Mobile plans are pressuring AT&T and Verizon shares",
-      "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T00:52:00.000Z"
-    },
-    {
-      "title": "How to downsize like a pro — and free yourself from being a 'prisoner of your possessions'",
-      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T00:03:00.000Z"
-    },
-    {
-      "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-      "url": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T23:14:00.000Z"
-    },
-    {
-      "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-      "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-      "source": "CNBC",
-      "when": "2026-10-08T22:55:46.000Z"
-    },
-    {
-      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI's revenue causes 'undue concern'",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T22:08:00.000Z"
-    },
-    {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who's right?",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T22:00:00.000Z"
-    },
-    {
-      "title": "Why a longtime skeptic of Palantir's stock is finally saying it's time to buy",
-      "url": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T21:56:00.000Z"
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-08T21:45:00.000Z"
+      "when": "2026-10-09T14:15:38.000Z"
     }
   ],
   "errors": [
