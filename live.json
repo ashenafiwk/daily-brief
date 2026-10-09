@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-09T15:07:23.753Z",
-  "fetchedLabel": "Oct 9, 11:07 AM ET",
+  "fetched": "2026-10-09T20:15:54.308Z",
+  "fetchedLabel": "Oct 9, 4:15 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,796.38",
-      "chg": "+73.66",
-      "pct": "+0.95%",
+      "value": "7,811.54",
+      "chg": "+88.82",
+      "pct": "+1.15%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,317.49",
-      "chg": "+126.63",
-      "pct": "+0.47%",
+      "value": "27,366.17",
+      "chg": "+175.31",
+      "pct": "+0.64%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "51,446.62",
-      "chg": "+269.66",
-      "pct": "+0.53%",
+      "value": "51,654.95",
+      "chg": "+477.99",
+      "pct": "+0.93%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,801.11",
-      "chg": "-31.79",
-      "pct": "-1.12%",
+      "value": "2,806.98",
+      "chg": "-25.92",
+      "pct": "-0.92%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.28%",
-      "chg": "-0.04",
-      "pct": "-0.66%",
+      "value": "5.24%",
+      "chg": "-0.07",
+      "pct": "-1.26%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.65",
-      "chg": "+2.22",
-      "pct": "+2.48%",
+      "value": "$91.68",
+      "chg": "+2.25",
+      "pct": "+2.52%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,208.00",
-      "chg": "+51.20",
-      "pct": "+1.23%",
+      "value": "$4,219.30",
+      "chg": "+62.50",
+      "pct": "+1.50%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.99",
-      "chg": "-0.53",
-      "pct": "-3.41%",
+      "value": "14.79",
+      "chg": "-0.73",
+      "pct": "-4.70%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
-      "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
+      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+      "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
       "source": "CNBC",
-      "when": "2026-10-09T15:03:10.000Z"
+      "when": "2026-10-09T20:14:50.000Z"
     },
     {
-      "title": "Here's how much stocks could fall if the Democrats sweep Congress, according to BofA",
-      "url": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T15:02:00.000Z"
-    },
-    {
-      "title": "Mortgage rates are soaring. In America, the smart money rents.",
-      "url": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T14:55:00.000Z"
-    },
-    {
-      "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
-      "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
+      "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack telcos",
+      "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
       "source": "CNBC",
-      "when": "2026-10-09T14:50:32.000Z"
+      "when": "2026-10-09T20:13:26.000Z"
     },
     {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T14:50:00.000Z"
+      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+      "source": "CNBC",
+      "when": "2026-10-09T20:12:29.000Z"
     },
     {
-      "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-      "url": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+      "title": "Here's how Treasury yields could rise to 6% — even without market upheaval",
+      "url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-09T14:38:00.000Z"
+      "when": "2026-10-09T20:03:00.000Z"
     },
     {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
+      "url": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-09T14:36:00.000Z"
+      "when": "2026-10-09T19:48:00.000Z"
     },
     {
-      "title": "Kalshi is coming for 'Dancing with the Stars' fans",
-      "url": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T14:34:00.000Z"
+      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+      "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+      "source": "CNBC",
+      "when": "2026-10-09T19:25:28.000Z"
     },
     {
-      "title": "College students have to use credit cards just to cover basic living expenses. Here's what it's costing them.",
-      "url": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T14:33:00.000Z"
+      "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+      "url": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+      "source": "CNBC",
+      "when": "2026-10-09T19:21:14.000Z"
+    },
+    {
+      "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+      "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+      "source": "CNBC",
+      "when": "2026-10-09T19:19:00.000Z"
     },
     {
       "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
       "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "source": "CNBC",
-      "when": "2026-10-09T14:30:06.000Z"
+      "when": "2026-10-09T19:18:24.000Z"
     },
     {
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T14:30:00.000Z"
-    },
-    {
-      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-      "url": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+      "title": "NBA commissioner says league wants access to prediction market data to detect manipulation",
+      "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
       "source": "CNBC",
-      "when": "2026-10-09T14:29:59.000Z"
+      "when": "2026-10-09T19:11:09.000Z"
     },
     {
-      "title": "Florida is voting on whether to slash property taxes. Here's who it would benefit — and hurt.",
-      "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "title": "Elon Musk is now richer than any American ever — and it's not even close",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-09T14:28:00.000Z"
+      "when": "2026-10-09T19:04:00.000Z"
     },
     {
-      "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
-      "url": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+      "title": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+      "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
       "source": "CNBC",
-      "when": "2026-10-09T14:15:38.000Z"
+      "when": "2026-10-09T19:02:29.000Z"
+    },
+    {
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who's right?",
+      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T19:00:00.000Z"
+    },
+    {
+      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+      "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+      "source": "CNBC",
+      "when": "2026-10-09T18:50:21.000Z"
     }
   ],
   "errors": [
