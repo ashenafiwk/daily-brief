@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-09T20:15:54.308Z",
-  "fetchedLabel": "Oct 9, 4:15 PM ET",
+  "fetched": "2026-10-10T00:14:44.663Z",
+  "fetchedLabel": "Oct 9, 8:14 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -27,7 +27,7 @@
       "name": "Russell 2000",
       "value": "2,806.98",
       "chg": "-25.92",
-      "pct": "-0.92%",
+      "pct": "-0.91%",
       "dir": "down"
     },
     {
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.68",
-      "chg": "+2.25",
-      "pct": "+2.52%",
+      "value": "$91.66",
+      "chg": "+2.23",
+      "pct": "+2.49%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,219.30",
-      "chg": "+62.50",
-      "pct": "+1.50%",
+      "value": "$4,220.30",
+      "chg": "+63.50",
+      "pct": "+1.53%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.79",
-      "chg": "-0.73",
-      "pct": "-4.70%",
+      "value": "14.84",
+      "chg": "-0.68",
+      "pct": "-4.38%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "'I feel like a loser': I check my ETFs every day. They're up one minute, down the next. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T23:15:00.000Z"
+    },
+    {
+      "title": "How to provide guaranteed retirement income while paying no commissions",
+      "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T22:41:00.000Z"
+    },
+    {
+      "title": "Cramer's week ahead: Earnings kick off as banks and chipmakers face big tests",
+      "url": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+      "source": "CNBC",
+      "when": "2026-10-09T22:22:35.000Z"
+    },
+    {
+      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be 'too little, too late,' says strategist.",
+      "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T22:00:00.000Z"
+    },
+    {
+      "title": "Is iPhone 18 demand cooling off? Here's how deep Apple reportedly is cutting component orders.",
+      "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T21:30:00.000Z"
+    },
+    {
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T21:27:00.000Z"
+    },
+    {
+      "title": "Microsoft is nearing a big milestone that solidifies its revival",
+      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T21:24:00.000Z"
+    },
+    {
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T21:07:00.000Z"
+    },
+    {
+      "title": "I'm a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-09T21:00:00.000Z"
+    },
+    {
       "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
       "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
       "source": "CNBC",
-      "when": "2026-10-09T20:14:50.000Z"
-    },
-    {
-      "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack telcos",
-      "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-      "source": "CNBC",
-      "when": "2026-10-09T20:13:26.000Z"
+      "when": "2026-10-09T20:51:25.000Z"
     },
     {
       "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
       "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
       "source": "CNBC",
-      "when": "2026-10-09T20:12:29.000Z"
+      "when": "2026-10-09T20:20:57.000Z"
     },
     {
-      "title": "Here's how Treasury yields could rise to 6% — even without market upheaval",
-      "url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+      "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+      "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+      "source": "CNBC",
+      "when": "2026-10-09T20:16:58.000Z"
+    },
+    {
+      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-09T20:03:00.000Z"
-    },
-    {
-      "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
-      "url": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T19:48:00.000Z"
-    },
-    {
-      "title": "Trump Media advisor Katie Zacharia offered White House press secretary role",
-      "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:25:28.000Z"
-    },
-    {
-      "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-      "url": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:21:14.000Z"
-    },
-    {
-      "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
-      "url": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:19:00.000Z"
-    },
-    {
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:18:24.000Z"
-    },
-    {
-      "title": "NBA commissioner says league wants access to prediction market data to detect manipulation",
-      "url": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:11:09.000Z"
-    },
-    {
-      "title": "Elon Musk is now richer than any American ever — and it's not even close",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T19:04:00.000Z"
-    },
-    {
-      "title": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
-      "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
-      "source": "CNBC",
-      "when": "2026-10-09T19:02:29.000Z"
-    },
-    {
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who's right?",
-      "url": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T19:00:00.000Z"
-    },
-    {
-      "title": "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-      "url": "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
-      "source": "CNBC",
-      "when": "2026-10-09T18:50:21.000Z"
+      "when": "2026-10-09T20:15:00.000Z"
     }
   ],
   "errors": [
