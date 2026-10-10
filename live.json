@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-10T00:14:44.663Z",
-  "fetchedLabel": "Oct 9, 8:14 PM ET",
+  "fetched": "2026-10-10T06:15:32.783Z",
+  "fetchedLabel": "Oct 10, 2:15 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.66",
-      "chg": "+2.23",
-      "pct": "+2.49%",
+      "value": "$91.85",
+      "chg": "+2.42",
+      "pct": "+2.71%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,220.30",
-      "chg": "+63.50",
-      "pct": "+1.53%",
+      "value": "$4,216.30",
+      "chg": "+59.50",
+      "pct": "+1.43%",
       "dir": "up"
     },
     {
@@ -61,10 +61,34 @@
   ],
   "headlines": [
     {
-      "title": "'I feel like a loser': I check my ETFs every day. They're up one minute, down the next. Should I be worried?",
+      "title": "The world needs Ukraine's grain. Its farmers are running out of reasons to plant",
+      "url": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
+      "source": "CNBC",
+      "when": "2026-10-10T05:00:01.000Z"
+    },
+    {
+      "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
+      "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+      "source": "CNBC",
+      "when": "2026-10-10T05:00:01.000Z"
+    },
+    {
+      "title": "'I feel like a loser': My stock portfolio is swinging wildly. Should I be worried?",
       "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-10T00:00:00.000Z"
+      "when": "2026-10-10T03:15:00.000Z"
+    },
+    {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "source": "CNBC",
+      "when": "2026-10-10T02:09:00.000Z"
+    },
+    {
+      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T00:15:00.000Z"
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-09T21:00:00.000Z"
-    },
-    {
-      "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
-      "url": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-      "source": "CNBC",
-      "when": "2026-10-09T20:51:25.000Z"
-    },
-    {
-      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
-      "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-      "source": "CNBC",
-      "when": "2026-10-09T20:20:57.000Z"
-    },
-    {
-      "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
-      "url": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-      "source": "CNBC",
-      "when": "2026-10-09T20:16:58.000Z"
-    },
-    {
-      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T20:15:00.000Z"
     }
   ],
   "errors": [
