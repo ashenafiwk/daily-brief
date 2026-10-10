@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-10T17:43:43.366Z",
-  "fetchedLabel": "Oct 10, 1:43 PM ET",
+  "fetched": "2026-10-10T21:23:31.216Z",
+  "fetchedLabel": "Oct 10, 5:23 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,28 +61,70 @@
   ],
   "headlines": [
     {
-      "title": "Elon Musk is now richer than any American ever — and it's not even close",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T16:50:00.000Z"
+      "title": "Microsoft's Nadella says AI needs an 'emergency brake' that humans control",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "source": "CNBC",
+      "when": "2026-10-10T20:59:28.000Z"
     },
     {
-      "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people's home?",
-      "url": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "url": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-10T16:00:00.000Z"
+      "when": "2026-10-10T19:44:00.000Z"
     },
     {
-      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "title": "Worse than taking away your parents' car keys? Taking away their cell phone. How to protect your aging parents.",
+      "url": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-10T15:30:00.000Z"
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "These decisions you make in your 20s — not your income — determine whether you'll spend decades in debt or retire comfortably",
+      "url": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "How to downsize like a pro — and free yourself from being a 'prisoner of your possessions'",
+      "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here's who could pay the most.",
+      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
+    },
+    {
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T19:44:00.000Z"
     },
     {
       "title": "'I feel like a loser': My stock portfolio is swinging wildly. Is it finally time to worry?",
       "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-10T15:05:00.000Z"
+      "when": "2026-10-10T18:31:00.000Z"
+    },
+    {
+      "title": "Elon Musk is now richer than any American ever — and it's not even close",
+      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T16:50:00.000Z"
     },
     {
       "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
@@ -101,48 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
       "source": "CNBC",
       "when": "2026-10-10T14:00:01.000Z"
-    },
-    {
-      "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
-      "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "source": "CNBC",
-      "when": "2026-10-10T13:42:36.000Z"
-    },
-    {
-      "title": "Pokémon card values are soaring. What collectors should know before buying or selling",
-      "url": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
-      "source": "CNBC",
-      "when": "2026-10-10T13:30:02.000Z"
-    },
-    {
-      "title": "Flu season is already here. Here's what to know about this year's flu shots.",
-      "url": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T13:19:00.000Z"
-    },
-    {
-      "title": "'People in the U.S. need to wake up': As a mortgage loan officer, I rejected applications from wealthy couples. Here's why.",
-      "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T13:15:00.000Z"
-    },
-    {
-      "title": "I work hard to stay close to my friends. A researcher says it's good for my well-being—and these 3 habits can help",
-      "url": "https://www.cnbc.com/make-it/2026/10/10/how-to-maintain-close-friendships.html",
-      "source": "CNBC",
-      "when": "2026-10-10T13:05:01.000Z"
-    },
-    {
-      "title": "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-      "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-      "source": "CNBC",
-      "when": "2026-10-10T13:00:01.000Z"
-    },
-    {
-      "title": "Winter is coming and energy bills are climbing. 'Everything just keeps going up.'",
-      "url": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T13:00:00.000Z"
     }
   ],
   "errors": [
