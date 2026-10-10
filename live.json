@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-10T06:15:32.783Z",
-  "fetchedLabel": "Oct 10, 2:15 AM ET",
+  "fetched": "2026-10-10T12:55:46.061Z",
+  "fetchedLabel": "Oct 10, 8:55 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,60 @@
   ],
   "headlines": [
     {
+      "title": "Why Nvidia's stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+      "url": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T12:30:00.000Z"
+    },
+    {
+      "title": "Buffett's 'trips down YouTube rabbit hole' revealed",
+      "url": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
+      "source": "CNBC",
+      "when": "2026-10-10T12:01:16.000Z"
+    },
+    {
+      "title": "From BJ's to Lululemon, retailers are trimming assortments to boost business",
+      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+      "source": "CNBC",
+      "when": "2026-10-10T12:00:01.000Z"
+    },
+    {
+      "title": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
+      "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
+      "source": "CNBC",
+      "when": "2026-10-10T12:00:01.000Z"
+    },
+    {
+      "title": "'What you don't know is greater than anything you do know': How Ray Dalio would build a portfolio to withstand a popping AI bubble",
+      "url": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+      "source": "CNBC",
+      "when": "2026-10-10T11:00:01.000Z"
+    },
+    {
+      "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
+      "url": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T11:00:00.000Z"
+    },
+    {
+      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T11:00:00.000Z"
+    },
+    {
+      "title": "'I feel like a loser': My stock portfolio is swinging wildly. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-10T10:30:00.000Z"
+    },
+    {
       "title": "The world needs Ukraine's grain. Its farmers are running out of reasons to plant",
       "url": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
       "source": "CNBC",
@@ -73,22 +127,10 @@
       "when": "2026-10-10T05:00:01.000Z"
     },
     {
-      "title": "'I feel like a loser': My stock portfolio is swinging wildly. Should I be worried?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T03:15:00.000Z"
-    },
-    {
       "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
       "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
       "source": "CNBC",
       "when": "2026-10-10T02:09:00.000Z"
-    },
-    {
-      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T00:15:00.000Z"
     },
     {
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-09T22:41:00.000Z"
-    },
-    {
-      "title": "Cramer's week ahead: Earnings kick off as banks and chipmakers face big tests",
-      "url": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
-      "source": "CNBC",
-      "when": "2026-10-09T22:22:35.000Z"
-    },
-    {
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be 'too little, too late,' says strategist.",
-      "url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T22:00:00.000Z"
-    },
-    {
-      "title": "Is iPhone 18 demand cooling off? Here's how deep Apple reportedly is cutting component orders.",
-      "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T21:30:00.000Z"
-    },
-    {
-      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-      "url": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T21:27:00.000Z"
-    },
-    {
-      "title": "Microsoft is nearing a big milestone that solidifies its revival",
-      "url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T21:24:00.000Z"
-    },
-    {
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "url": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T21:07:00.000Z"
-    },
-    {
-      "title": "I'm a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-09T21:00:00.000Z"
     }
   ],
   "errors": [
