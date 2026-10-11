@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-11T06:15:04.102Z",
-  "fetchedLabel": "Oct 11, 2:15 AM ET",
+  "fetched": "2026-10-11T13:19:45.733Z",
+  "fetchedLabel": "Oct 11, 9:19 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,58 @@
   ],
   "headlines": [
     {
-      "title": "Microsoft's Nadella says AI needs an 'emergency brake' that humans control",
-      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-11T13:00:00.000Z"
+    },
+    {
+      "title": "NBA commissioner Adam Silver says league could introduce 'smart ball' technology as soon as next year",
+      "url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
       "source": "CNBC",
-      "when": "2026-10-10T20:59:28.000Z"
+      "when": "2026-10-11T12:54:04.000Z"
+    },
+    {
+      "title": "I'm a psychologist who studies couples: The No. 1 way to end a fight before it escalates—it works 'almost immediately'",
+      "url": "https://www.cnbc.com/make-it/2026/10/11/psychologist-couples-end-fight-before-escalates-partial-yield.html",
+      "source": "CNBC",
+      "when": "2026-10-11T12:48:01.000Z"
+    },
+    {
+      "title": "'I feel like a loser': My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-11T12:30:00.000Z"
+    },
+    {
+      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+      "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-11T12:00:00.000Z"
+    },
+    {
+      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "source": "CNBC",
+      "when": "2026-10-11T11:52:01.000Z"
+    },
+    {
+      "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+      "source": "CNBC",
+      "when": "2026-10-11T11:00:01.000Z"
+    },
+    {
+      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+      "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "source": "CNBC",
+      "when": "2026-10-11T05:00:01.000Z"
     },
     {
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
@@ -95,54 +143,6 @@
       "url": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-10T19:44:00.000Z"
-    },
-    {
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here's who could pay the most.",
-      "url": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T19:44:00.000Z"
-    },
-    {
-      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-      "url": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T19:44:00.000Z"
-    },
-    {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T19:44:00.000Z"
-    },
-    {
-      "title": "'I feel like a loser': My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T18:31:00.000Z"
-    },
-    {
-      "title": "Elon Musk is now richer than any American ever — and it's not even close",
-      "url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-10T16:50:00.000Z"
-    },
-    {
-      "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-      "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
-      "source": "CNBC",
-      "when": "2026-10-10T15:00:01.000Z"
-    },
-    {
-      "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here's what the visa data shows",
-      "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "source": "CNBC",
-      "when": "2026-10-10T14:22:23.000Z"
-    },
-    {
-      "title": "How de-extincting dire wolves and woolly mammoths may extend human life",
-      "url": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
-      "source": "CNBC",
-      "when": "2026-10-10T14:00:01.000Z"
     }
   ],
   "errors": [
