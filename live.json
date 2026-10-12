@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-12T01:36:37.536Z",
-  "fetchedLabel": "Oct 11, 9:36 PM ET",
+  "fetched": "2026-10-12T08:53:03.042Z",
+  "fetchedLabel": "Oct 12, 4:53 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,38 +39,68 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.22",
-      "chg": "+0.78",
-      "pct": "+0.87%",
+      "value": "$91.59",
+      "chg": "+3.31",
+      "pct": "+3.75%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,235.10",
-      "chg": "+48.00",
-      "pct": "+1.15%",
+      "value": "$4,202.70",
+      "chg": "+62.00",
+      "pct": "+1.50%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "14.84",
-      "chg": "-0.68",
-      "pct": "-4.38%",
-      "dir": "down"
+      "value": "15.41",
+      "chg": "+0.40",
+      "pct": "+2.66%",
+      "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Zelenskyy says Ukraine is ready to agree to energy ceasefire, but warns Russia must do same",
+      "url": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-12T08:48:11.000Z"
+    },
+    {
+      "title": "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground",
+      "url": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html",
+      "source": "CNBC",
+      "when": "2026-10-12T08:41:50.000Z"
+    },
+    {
+      "title": "World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI 'tsunami' hit",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "source": "CNBC",
+      "when": "2026-10-12T08:11:46.000Z"
+    },
+    {
+      "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+      "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+      "source": "CNBC",
+      "when": "2026-10-12T06:02:18.000Z"
+    },
+    {
+      "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+      "url": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+      "source": "CNBC",
+      "when": "2026-10-12T04:24:33.000Z"
+    },
+    {
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+      "source": "CNBC",
+      "when": "2026-10-12T02:28:54.000Z"
+    },
     {
       "title": "Why China is importing a record amount of gold — and what it means for prices",
       "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
       "source": "CNBC",
       "when": "2026-10-12T00:51:10.000Z"
-    },
-    {
-      "title": "Judge orders Trump admin to stop airing challenged government-funded ads immediately",
-      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-      "source": "CNBC",
-      "when": "2026-10-12T00:29:50.000Z"
     },
     {
       "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
@@ -113,36 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
       "source": "CNBC",
       "when": "2026-10-11T19:33:51.000Z"
-    },
-    {
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-11T19:32:00.000Z"
-    },
-    {
-      "title": "I'm a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "url": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-11T19:32:00.000Z"
-    },
-    {
-      "title": "From BJ's to Lululemon, retailers are trimming assortments to boost business",
-      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-      "source": "CNBC",
-      "when": "2026-10-11T17:08:30.000Z"
-    },
-    {
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "url": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-11T16:35:00.000Z"
-    },
-    {
-      "title": "AI's quiet safety gatekeepers are stepping into the spotlight",
-      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-      "source": "CNBC",
-      "when": "2026-10-11T14:08:44.000Z"
     }
   ],
   "errors": [
