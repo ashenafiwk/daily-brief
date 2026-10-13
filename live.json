@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-13T01:10:21.197Z",
-  "fetchedLabel": "Oct 12, 9:10 PM ET",
+  "fetched": "2026-10-13T08:15:54.564Z",
+  "fetchedLabel": "Oct 13, 4:15 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.16",
-      "chg": "+4.88",
-      "pct": "+5.53%",
+      "value": "$92.04",
+      "chg": "+0.55",
+      "pct": "+0.60%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,184.50",
-      "chg": "+43.80",
-      "pct": "+1.06%",
+      "value": "$4,211.10",
+      "chg": "+54.10",
+      "pct": "+1.30%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.21",
-      "chg": "+0.20",
-      "pct": "+1.33%",
+      "value": "15.51",
+      "chg": "+0.43",
+      "pct": "+2.85%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-      "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
+      "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+      "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
       "source": "CNBC",
-      "when": "2026-10-13T00:39:36.000Z"
+      "when": "2026-10-13T08:14:01.000Z"
     },
     {
-      "title": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
-      "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+      "title": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
+      "url": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
       "source": "CNBC",
-      "when": "2026-10-13T00:24:23.000Z"
+      "when": "2026-10-13T07:24:31.000Z"
     },
     {
-      "title": "The SpaceX threat could loom over AT&T's stock for a prolonged stretch, analyst cautions",
-      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-13T00:18:00.000Z"
-    },
-    {
-      "title": "'The house is worth $925,000': My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T23:31:00.000Z"
-    },
-    {
-      "title": "'The prospectus looks impressive': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T23:15:00.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "title": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as 'mother of democracy'",
+      "url": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
       "source": "CNBC",
-      "when": "2026-10-12T23:00:01.000Z"
+      "when": "2026-10-13T07:17:46.000Z"
     },
     {
-      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
-      "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T22:27:00.000Z"
-    },
-    {
-      "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-      "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+      "title": "Cyber attack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+      "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
       "source": "CNBC",
-      "when": "2026-10-12T22:26:59.000Z"
+      "when": "2026-10-13T06:44:00.000Z"
     },
     {
-      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T22:00:00.000Z"
-    },
-    {
-      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
-      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T22:00:00.000Z"
-    },
-    {
-      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
-      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-12T21:19:00.000Z"
-    },
-    {
-      "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
       "source": "CNBC",
-      "when": "2026-10-12T21:17:58.000Z"
+      "when": "2026-10-13T06:20:55.000Z"
     },
     {
-      "title": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
-      "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI 'tsunami'",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
       "source": "CNBC",
-      "when": "2026-10-12T21:02:09.000Z"
+      "when": "2026-10-13T05:24:17.000Z"
     },
     {
-      "title": "Why Ciena, Lumentum and other optical stocks were among the market's biggest losers on Monday",
-      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "source": "CNBC",
+      "when": "2026-10-13T04:54:07.000Z"
+    },
+    {
+      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "source": "CNBC",
+      "when": "2026-10-13T04:10:49.000Z"
+    },
+    {
+      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-10-13T03:49:23.000Z"
+    },
+    {
+      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+      "source": "CNBC",
+      "when": "2026-10-13T02:58:11.000Z"
+    },
+    {
+      "title": "How Red Bull's F1 team is using AI to make split-second decisions for Max Verstappen",
+      "url": "https://www.cnbc.com/2026/10/13/red-bull-f1-ai-max-verstappen.html",
+      "source": "CNBC",
+      "when": "2026-10-13T02:37:08.000Z"
+    },
+    {
+      "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+      "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+      "source": "CNBC",
+      "when": "2026-10-13T02:29:14.000Z"
+    },
+    {
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-12T20:46:00.000Z"
+      "when": "2026-10-13T02:00:00.000Z"
+    },
+    {
+      "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+      "source": "CNBC",
+      "when": "2026-10-13T01:26:41.000Z"
     }
   ],
   "errors": [
