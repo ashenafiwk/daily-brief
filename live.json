@@ -1,33 +1,33 @@
 {
-  "fetched": "2026-10-12T18:47:44.070Z",
-  "fetchedLabel": "Oct 12, 2:47 PM ET",
+  "fetched": "2026-10-13T01:10:21.197Z",
+  "fetchedLabel": "Oct 12, 9:10 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,802.26",
-      "chg": "+28.31",
-      "pct": "+0.36%",
+      "value": "7,807.24",
+      "chg": "+33.29",
+      "pct": "+0.43%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "27,244.37",
-      "chg": "-232.94",
-      "pct": "-0.85%",
+      "value": "27,245.90",
+      "chg": "-231.41",
+      "pct": "-0.84%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,834.63",
-      "chg": "+566.73",
-      "pct": "+1.11%",
+      "value": "51,850.55",
+      "chg": "+582.65",
+      "pct": "+1.14%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,798.90",
-      "chg": "-48.24",
-      "pct": "-1.69%",
+      "value": "2,794.48",
+      "chg": "-52.66",
+      "pct": "-1.85%",
       "dir": "down"
     },
     {
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$93.71",
-      "chg": "+5.43",
-      "pct": "+6.15%",
+      "value": "$93.16",
+      "chg": "+4.88",
+      "pct": "+5.53%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,192.40",
-      "chg": "+51.70",
-      "pct": "+1.25%",
+      "value": "$4,184.50",
+      "chg": "+43.80",
+      "pct": "+1.06%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "15.26",
-      "chg": "+0.25",
-      "pct": "+1.67%",
+      "value": "15.21",
+      "chg": "+0.20",
+      "pct": "+1.33%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "A massive trade just happened in surging shares of Snap",
-      "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+      "title": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
+      "url": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
       "source": "CNBC",
-      "when": "2026-10-12T18:43:44.000Z"
+      "when": "2026-10-13T00:39:36.000Z"
     },
     {
-      "title": "Trump's 'energy ceasefire' collides with real-world problems of dwindling fuel supplies",
-      "url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "title": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
+      "url": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
+      "source": "CNBC",
+      "when": "2026-10-13T00:24:23.000Z"
+    },
+    {
+      "title": "The SpaceX threat could loom over AT&T's stock for a prolonged stretch, analyst cautions",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-12T18:36:00.000Z"
+      "when": "2026-10-13T00:18:00.000Z"
     },
     {
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-      "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-      "source": "CNBC",
-      "when": "2026-10-12T18:32:03.000Z"
-    },
-    {
-      "title": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
-      "url": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-      "source": "CNBC",
-      "when": "2026-10-12T18:29:28.000Z"
-    },
-    {
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-      "url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html",
-      "source": "CNBC",
-      "when": "2026-10-12T18:18:39.000Z"
-    },
-    {
-      "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
-      "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
-      "source": "CNBC",
-      "when": "2026-10-12T18:14:45.000Z"
-    },
-    {
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-      "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-      "source": "CNBC",
-      "when": "2026-10-12T17:34:35.000Z"
-    },
-    {
-      "title": "Why older Americans' wealth may be helping keep consumer spending strong",
-      "url": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
-      "source": "CNBC",
-      "when": "2026-10-12T17:23:35.000Z"
-    },
-    {
-      "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-      "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
-      "source": "CNBC",
-      "when": "2026-10-12T17:15:21.000Z"
+      "title": "'The house is worth $925,000': My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-12T23:31:00.000Z"
     },
     {
       "title": "'The prospectus looks impressive': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
       "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-12T17:15:00.000Z"
+      "when": "2026-10-12T23:15:00.000Z"
     },
     {
-      "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-      "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
       "source": "CNBC",
-      "when": "2026-10-12T16:50:44.000Z"
+      "when": "2026-10-12T23:00:01.000Z"
     },
     {
-      "title": "These stocks could be the future winners — and losers — of a massive shift in IT spending",
-      "url": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-12T16:47:00.000Z"
+      "when": "2026-10-12T22:27:00.000Z"
     },
     {
-      "title": "UnitedHealth shares are doing something unusual ahead of earnings",
-      "url": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
+      "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+      "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
       "source": "CNBC",
-      "when": "2026-10-12T16:42:13.000Z"
+      "when": "2026-10-12T22:26:59.000Z"
     },
     {
-      "title": "Cramer: Starbucks tells me Chipotle takeover won't happen and that's good for the stock",
-      "url": "https://www.cnbc.com/investingclub/2026/10/12/cramer-starbucks-tells-me-chipotle-takeover-wont-happen-and-thats-good-for-the-stock.html",
+      "title": "'I have no children': My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-12T22:00:00.000Z"
+    },
+    {
+      "title": "Brazilian stocks are breaking out as investors look for opportunities beyond tech",
+      "url": "https://www.marketwatch.com/story/brazilian-stocks-are-breaking-out-as-investors-look-for-opportunities-beyond-tech-7fbed032?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-12T22:00:00.000Z"
+    },
+    {
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-12T21:19:00.000Z"
+    },
+    {
+      "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+      "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
       "source": "CNBC",
-      "when": "2026-10-12T16:37:59.000Z"
+      "when": "2026-10-12T21:17:58.000Z"
+    },
+    {
+      "title": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+      "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+      "source": "CNBC",
+      "when": "2026-10-12T21:02:09.000Z"
+    },
+    {
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market's biggest losers on Monday",
+      "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-12T20:46:00.000Z"
     }
   ],
   "errors": [
