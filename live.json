@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-14T20:31:24.185Z",
-  "fetchedLabel": "Oct 14, 4:31 PM ET",
+  "fetched": "2026-10-14T23:47:20.919Z",
+  "fetchedLabel": "Oct 14, 7:47 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.08",
-      "chg": "+3.23",
-      "pct": "+3.52%",
+      "value": "$94.78",
+      "chg": "+2.93",
+      "pct": "+3.19%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,122.10",
-      "chg": "-94.20",
-      "pct": "-2.23%",
+      "value": "$4,122.90",
+      "chg": "-93.40",
+      "pct": "-2.22%",
       "dir": "down"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
-      "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:24:13.000Z"
-    },
-    {
-      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:22:09.000Z"
-    },
-    {
-      "title": "CoreWeave sparks worry about broader credit-market stress as its bonds tumble",
-      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+      "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T20:22:00.000Z"
+      "when": "2026-10-14T23:36:00.000Z"
     },
     {
-      "title": "Why Dell's stock was one of the S&P 500's biggest laggards on Wednesday",
-      "url": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
+      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+      "source": "CNBC",
+      "when": "2026-10-14T22:48:06.000Z"
+    },
+    {
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T20:21:00.000Z"
+      "when": "2026-10-14T22:45:00.000Z"
     },
     {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:20:46.000Z"
-    },
-    {
-      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
-      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:19:25.000Z"
-    },
-    {
-      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:12:14.000Z"
-    },
-    {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:06:28.000Z"
-    },
-    {
-      "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
-      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:03:22.000Z"
-    },
-    {
-      "title": "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investment",
-      "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-      "source": "CNBC",
-      "when": "2026-10-14T20:01:26.000Z"
-    },
-    {
-      "title": "'I am a pretty cautious person': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "title": "Rocket Lab's stock slides as the company pushes back Neutron's first launch",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T20:01:00.000Z"
-    },
-    {
-      "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T19:30:00.000Z"
-    },
-    {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-      "source": "CNBC",
-      "when": "2026-10-14T19:22:00.000Z"
+      "when": "2026-10-14T22:33:00.000Z"
     },
     {
       "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
       "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T19:15:00.000Z"
+      "when": "2026-10-14T22:30:00.000Z"
+    },
+    {
+      "title": "You're probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
+      "url": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T22:25:00.000Z"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T22:24:00.000Z"
+    },
+    {
+      "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
+      "url": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T22:23:00.000Z"
+    },
+    {
+      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+      "url": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+      "source": "CNBC",
+      "when": "2026-10-14T22:19:32.000Z"
+    },
+    {
+      "title": "CoreWeave's AI bonds tumble, raising red flags for the wider market",
+      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T22:03:00.000Z"
+    },
+    {
+      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "url": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T21:54:00.000Z"
+    },
+    {
+      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T21:40:00.000Z"
+    },
+    {
+      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+      "source": "CNBC",
+      "when": "2026-10-14T21:19:09.000Z"
+    },
+    {
+      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+      "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+      "source": "CNBC",
+      "when": "2026-10-14T21:18:46.000Z"
     }
   ],
   "errors": [
