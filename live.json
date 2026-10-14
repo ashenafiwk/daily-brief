@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-14T11:39:28.248Z",
-  "fetchedLabel": "Oct 14, 7:39 AM ET",
+  "fetched": "2026-10-14T16:53:09.193Z",
+  "fetchedLabel": "Oct 14, 12:53 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,805.45",
-      "chg": "-13.48",
-      "pct": "-0.17%",
+      "value": "7,723.78",
+      "chg": "-77.99",
+      "pct": "-1.00%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "27,204.38",
-      "chg": "-395.41",
-      "pct": "-1.43%",
+      "value": "26,781.31",
+      "chg": "-757.38",
+      "pct": "-2.75%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,670.10",
-      "chg": "+148.82",
-      "pct": "+0.29%",
+      "value": "51,495.52",
+      "chg": "+315.65",
+      "pct": "+0.62%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,783.37",
-      "chg": "-46.93",
-      "pct": "-1.66%",
+      "value": "2,732.20",
+      "chg": "-61.00",
+      "pct": "-2.18%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.22%",
-      "chg": "-0.06",
-      "pct": "-1.14%",
-      "dir": "down"
+      "value": "5.24%",
+      "chg": "+0.01",
+      "pct": "+0.13%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.92",
-      "chg": "+4.07",
-      "pct": "+4.43%",
+      "value": "$95.82",
+      "chg": "+3.97",
+      "pct": "+4.32%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,161.80",
-      "chg": "-54.50",
-      "pct": "-1.29%",
+      "value": "$4,102.00",
+      "chg": "-114.30",
+      "pct": "-2.71%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "15.31",
-      "chg": "-0.10",
-      "pct": "-0.65%",
-      "dir": "down"
+      "value": "16.59",
+      "chg": "+1.18",
+      "pct": "+7.66%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-14T11:38:34.000Z"
-    },
-    {
-      "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
-      "url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+      "title": "3 things that are driving inflation higher",
+      "url": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T11:36:00.000Z"
+      "when": "2026-10-14T16:50:00.000Z"
     },
     {
-      "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+      "title": "Treasury says largest U.S. banks let politics influence who received banking services",
+      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:49:44.000Z"
+    },
+    {
+      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
       "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-14T11:28:19.000Z"
+      "when": "2026-10-14T16:49:11.000Z"
     },
     {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:46:08.000Z"
+    },
+    {
+      "title": "Trump's diesel dilemma — by the numbers",
+      "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:45:26.000Z"
+    },
+    {
+      "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:43:56.000Z"
+    },
+    {
+      "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+      "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:34:24.000Z"
+    },
+    {
+      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:27:12.000Z"
+    },
+    {
+      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+      "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T11:28:00.000Z"
+      "when": "2026-10-14T16:27:00.000Z"
     },
     {
-      "title": "Here's how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
-      "url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
+      "title": "Iran says it's 'counting the moments' until it can strike U.S. warships; Saudi Aramco facilities attacked",
+      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:26:14.000Z"
+    },
+    {
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+      "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:24:51.000Z"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T11:18:00.000Z"
+      "when": "2026-10-14T16:20:00.000Z"
     },
     {
-      "title": "'I am a pretty cautious person': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
+      "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+      "source": "CNBC",
+      "when": "2026-10-14T16:14:08.000Z"
+    },
+    {
+      "title": "Rising diesel prices have helped fuel inflation — and we're about to see how much worse it could get",
+      "url": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T11:16:00.000Z"
-    },
-    {
-      "title": "From Charles Schwab to DoorDash: Why these bargain stocks could lead the market higher",
-      "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T11:16:00.000Z"
-    },
-    {
-      "title": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-      "source": "CNBC",
-      "when": "2026-10-14T11:01:42.000Z"
-    },
-    {
-      "title": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-      "url": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-      "source": "CNBC",
-      "when": "2026-10-14T11:00:01.000Z"
-    },
-    {
-      "title": "Tech giants race to get AI gadgets on shelves for holiday rush",
-      "url": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-      "source": "CNBC",
-      "when": "2026-10-14T11:00:01.000Z"
-    },
-    {
-      "title": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
-      "url": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
-      "source": "CNBC",
-      "when": "2026-10-14T11:00:01.000Z"
-    },
-    {
-      "title": "BlackRock's assets equal half the size of the U.S. economy after 15% growth",
-      "url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T10:41:00.000Z"
-    },
-    {
-      "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-      "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
-      "source": "CNBC",
-      "when": "2026-10-14T10:37:42.000Z"
-    },
-    {
-      "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-      "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "source": "CNBC",
-      "when": "2026-10-14T10:33:13.000Z"
+      "when": "2026-10-14T16:07:00.000Z"
     }
   ],
   "errors": [
