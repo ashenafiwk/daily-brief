@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-14T16:53:09.193Z",
-  "fetchedLabel": "Oct 14, 12:53 PM ET",
+  "fetched": "2026-10-14T20:31:24.185Z",
+  "fetchedLabel": "Oct 14, 4:31 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,723.78",
-      "chg": "-77.99",
-      "pct": "-1.00%",
+      "value": "7,718.94",
+      "chg": "-82.83",
+      "pct": "-1.06%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,781.31",
-      "chg": "-757.38",
-      "pct": "-2.75%",
+      "value": "26,692.87",
+      "chg": "-845.82",
+      "pct": "-3.07%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,495.52",
-      "chg": "+315.65",
-      "pct": "+0.62%",
+      "value": "51,621.48",
+      "chg": "+441.61",
+      "pct": "+0.86%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,732.20",
-      "chg": "-61.00",
-      "pct": "-2.18%",
+      "value": "2,729.53",
+      "chg": "-63.67",
+      "pct": "-2.28%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.24%",
-      "chg": "+0.01",
-      "pct": "+0.13%",
-      "dir": "up"
+      "value": "5.19%",
+      "chg": "-0.04",
+      "pct": "-0.78%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.82",
-      "chg": "+3.97",
-      "pct": "+4.32%",
+      "value": "$95.08",
+      "chg": "+3.23",
+      "pct": "+3.52%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,102.00",
-      "chg": "-114.30",
-      "pct": "-2.71%",
+      "value": "$4,122.10",
+      "chg": "-94.20",
+      "pct": "-2.23%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.59",
-      "chg": "+1.18",
-      "pct": "+7.66%",
+      "value": "16.87",
+      "chg": "+1.46",
+      "pct": "+9.47%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "3 things that are driving inflation higher",
-      "url": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T16:50:00.000Z"
-    },
-    {
-      "title": "Treasury says largest U.S. banks let politics influence who received banking services",
-      "url": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+      "title": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+      "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
       "source": "CNBC",
-      "when": "2026-10-14T16:49:44.000Z"
+      "when": "2026-10-14T20:24:13.000Z"
     },
     {
-      "title": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-14T20:22:09.000Z"
+    },
+    {
+      "title": "CoreWeave sparks worry about broader credit-market stress as its bonds tumble",
+      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T20:22:00.000Z"
+    },
+    {
+      "title": "Why Dell's stock was one of the S&P 500's biggest laggards on Wednesday",
+      "url": "https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T20:21:00.000Z"
+    },
+    {
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
       "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-14T16:49:11.000Z"
+      "when": "2026-10-14T20:20:46.000Z"
     },
     {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+      "url": "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
       "source": "CNBC",
-      "when": "2026-10-14T16:46:08.000Z"
-    },
-    {
-      "title": "Trump's diesel dilemma — by the numbers",
-      "url": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
-      "source": "CNBC",
-      "when": "2026-10-14T16:45:26.000Z"
-    },
-    {
-      "title": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
-      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-      "source": "CNBC",
-      "when": "2026-10-14T16:43:56.000Z"
-    },
-    {
-      "title": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-      "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-      "source": "CNBC",
-      "when": "2026-10-14T16:34:24.000Z"
-    },
-    {
-      "title": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-      "url": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-      "source": "CNBC",
-      "when": "2026-10-14T16:27:12.000Z"
-    },
-    {
-      "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
-      "url": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T16:27:00.000Z"
-    },
-    {
-      "title": "Iran says it's 'counting the moments' until it can strike U.S. warships; Saudi Aramco facilities attacked",
-      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-      "source": "CNBC",
-      "when": "2026-10-14T16:26:14.000Z"
+      "when": "2026-10-14T20:19:25.000Z"
     },
     {
       "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
       "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
       "source": "CNBC",
-      "when": "2026-10-14T16:24:51.000Z"
+      "when": "2026-10-14T20:12:14.000Z"
     },
     {
-      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T16:20:00.000Z"
-    },
-    {
-      "title": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
-      "url": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+      "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
       "source": "CNBC",
-      "when": "2026-10-14T16:14:08.000Z"
+      "when": "2026-10-14T20:06:28.000Z"
     },
     {
-      "title": "Rising diesel prices have helped fuel inflation — and we're about to see how much worse it could get",
-      "url": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+      "title": "10-year Treasury yield dips as traders look ahead to Thursday economic reports",
+      "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "source": "CNBC",
+      "when": "2026-10-14T20:03:22.000Z"
+    },
+    {
+      "title": "Bending Spoons skyrockets 41% as Berkshire Hathaway makes $330 million investment",
+      "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+      "source": "CNBC",
+      "when": "2026-10-14T20:01:26.000Z"
+    },
+    {
+      "title": "'I am a pretty cautious person': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-14T16:07:00.000Z"
+      "when": "2026-10-14T20:01:00.000Z"
+    },
+    {
+      "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T19:30:00.000Z"
+    },
+    {
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+      "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+      "source": "CNBC",
+      "when": "2026-10-14T19:22:00.000Z"
+    },
+    {
+      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-14T19:15:00.000Z"
     }
   ],
   "errors": [
