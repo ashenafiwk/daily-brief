@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-13T21:27:18.680Z",
-  "fetchedLabel": "Oct 13, 5:27 PM ET",
+  "fetched": "2026-10-14T00:32:30.291Z",
+  "fetchedLabel": "Oct 13, 8:32 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.79",
-      "chg": "+3.30",
-      "pct": "+3.61%",
+      "value": "$94.85",
+      "chg": "+3.36",
+      "pct": "+3.67%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,184.20",
-      "chg": "+27.20",
-      "pct": "+0.65%",
+      "value": "$4,184.70",
+      "chg": "+27.70",
+      "pct": "+0.67%",
       "dir": "up"
     },
     {
@@ -61,10 +61,34 @@
   ],
   "headlines": [
     {
+      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+      "url": "https://www.cnbc.com/2026/10/14/singapore-gdp-q3.html",
+      "source": "CNBC",
+      "when": "2026-10-14T00:28:34.000Z"
+    },
+    {
       "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
       "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
       "source": "CNBC",
-      "when": "2026-10-13T21:25:55.000Z"
+      "when": "2026-10-14T00:13:45.000Z"
+    },
+    {
+      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
+      "source": "CNBC",
+      "when": "2026-10-13T23:05:12.000Z"
+    },
+    {
+      "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+      "source": "CNBC",
+      "when": "2026-10-13T22:54:21.000Z"
+    },
+    {
+      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "url": "https://www.cnbc.com/2026/10/13/jim-cramer-accelevation-stock.html",
+      "source": "CNBC",
+      "when": "2026-10-13T22:47:07.000Z"
     },
     {
       "title": "Six Flags shares decline following deadly roller coaster incident",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-13T20:42:00.000Z"
-    },
-    {
-      "title": "Six Flags' stock slumps near 17-year low after fatal incident",
-      "url": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-13T20:41:00.000Z"
-    },
-    {
-      "title": "AST SpaceMobile's stock is feeling the heat from SpaceX's wireless plans",
-      "url": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-13T20:32:00.000Z"
-    },
-    {
-      "title": "My wife says we can't afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-13T20:30:00.000Z"
-    },
-    {
-      "title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-      "url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
-      "source": "CNBC",
-      "when": "2026-10-13T20:29:06.000Z"
     }
   ],
   "errors": [
