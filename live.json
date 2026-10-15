@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-14T23:47:20.919Z",
-  "fetchedLabel": "Oct 14, 7:47 PM ET",
+  "fetched": "2026-10-15T03:59:22.726Z",
+  "fetchedLabel": "Oct 14, 11:59 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.78",
-      "chg": "+2.93",
-      "pct": "+3.19%",
+      "value": "$94.06",
+      "chg": "+2.21",
+      "pct": "+2.41%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,122.90",
-      "chg": "-93.40",
-      "pct": "-2.22%",
+      "value": "$4,167.20",
+      "chg": "-49.10",
+      "pct": "-1.16%",
       "dir": "down"
     },
     {
@@ -60,6 +60,48 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+      "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "source": "CNBC",
+      "when": "2026-10-15T03:55:35.000Z"
+    },
+    {
+      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "source": "CNBC",
+      "when": "2026-10-15T03:48:58.000Z"
+    },
+    {
+      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+      "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "source": "CNBC",
+      "when": "2026-10-15T01:56:53.000Z"
+    },
+    {
+      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "CNBC",
+      "when": "2026-10-15T01:07:01.000Z"
+    },
+    {
+      "title": "Anthropic's slowing growth could be the AI trade's latest red flag",
+      "url": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T01:07:00.000Z"
+    },
+    {
+      "title": "Inside India newsletter: Billionaire Ambani's mega-IPO faces a valuation reality check amid Musk spat",
+      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "source": "CNBC",
+      "when": "2026-10-15T00:30:13.000Z"
+    },
+    {
+      "title": "Rocket Lab's stock slides as the company pushes back Neutron's first launch",
+      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T00:02:00.000Z"
+    },
     {
       "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
       "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
@@ -77,12 +119,6 @@
       "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-14T22:45:00.000Z"
-    },
-    {
-      "title": "Rocket Lab's stock slides as the company pushes back Neutron's first launch",
-      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:33:00.000Z"
     },
     {
       "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
@@ -107,42 +143,6 @@
       "url": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-14T22:23:00.000Z"
-    },
-    {
-      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
-      "source": "CNBC",
-      "when": "2026-10-14T22:19:32.000Z"
-    },
-    {
-      "title": "CoreWeave's AI bonds tumble, raising red flags for the wider market",
-      "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:03:00.000Z"
-    },
-    {
-      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
-      "url": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T21:54:00.000Z"
-    },
-    {
-      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-      "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T21:40:00.000Z"
-    },
-    {
-      "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-      "url": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-      "source": "CNBC",
-      "when": "2026-10-14T21:19:09.000Z"
-    },
-    {
-      "title": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-      "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-      "source": "CNBC",
-      "when": "2026-10-14T21:18:46.000Z"
     }
   ],
   "errors": [
