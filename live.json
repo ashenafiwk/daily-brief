@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-15T03:59:22.726Z",
-  "fetchedLabel": "Oct 14, 11:59 PM ET",
+  "fetched": "2026-10-15T09:04:58.137Z",
+  "fetchedLabel": "Oct 15, 5:04 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,32 +39,98 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.06",
-      "chg": "+2.21",
-      "pct": "+2.41%",
+      "value": "$95.12",
+      "chg": "+1.38",
+      "pct": "+1.47%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,167.20",
-      "chg": "-49.10",
-      "pct": "-1.16%",
+      "value": "$4,174.30",
+      "chg": "-16.30",
+      "pct": "-0.39%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.87",
-      "chg": "+1.46",
-      "pct": "+9.47%",
+      "value": "17.43",
+      "chg": "+2.59",
+      "pct": "+17.45%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "source": "CNBC",
+      "when": "2026-10-15T09:02:31.000Z"
+    },
+    {
+      "title": "'New Girl' star Jake Johnson lists lush and private Pasadena estate for $3.3 million",
+      "url": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-lists-lush-and-private-pasadena-estate-for-3-3-million-b6788838?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T09:01:00.000Z"
+    },
+    {
+      "title": "Why the AI trade is not set up for a rebound like July's, according to JPMorgan",
+      "url": "https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T08:53:00.000Z"
+    },
+    {
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "source": "CNBC",
+      "when": "2026-10-15T08:44:17.000Z"
+    },
+    {
+      "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+      "url": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T08:42:00.000Z"
+    },
+    {
+      "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "source": "CNBC",
+      "when": "2026-10-15T08:18:14.000Z"
+    },
+    {
       "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
       "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
       "source": "CNBC",
-      "when": "2026-10-15T03:55:35.000Z"
+      "when": "2026-10-15T07:51:22.000Z"
+    },
+    {
+      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+      "source": "CNBC",
+      "when": "2026-10-15T07:46:30.000Z"
+    },
+    {
+      "title": "Inside India newsletter: Billionaire Ambani's mega-IPO faces a valuation reality check amid Musk spat",
+      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "source": "CNBC",
+      "when": "2026-10-15T06:22:45.000Z"
+    },
+    {
+      "title": "India's IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+      "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
+      "source": "CNBC",
+      "when": "2026-10-15T06:12:04.000Z"
+    },
+    {
+      "title": "From 'Dune' to 'Wicker,' how this 'tiny' European country became a hub for Hollywood",
+      "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+      "source": "CNBC",
+      "when": "2026-10-15T06:09:01.000Z"
+    },
+    {
+      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+      "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+      "source": "CNBC",
+      "when": "2026-10-15T04:09:18.000Z"
     },
     {
       "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
@@ -77,72 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
       "source": "CNBC",
       "when": "2026-10-15T01:56:53.000Z"
-    },
-    {
-      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "source": "CNBC",
-      "when": "2026-10-15T01:07:01.000Z"
-    },
-    {
-      "title": "Anthropic's slowing growth could be the AI trade's latest red flag",
-      "url": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T01:07:00.000Z"
-    },
-    {
-      "title": "Inside India newsletter: Billionaire Ambani's mega-IPO faces a valuation reality check amid Musk spat",
-      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "source": "CNBC",
-      "when": "2026-10-15T00:30:13.000Z"
-    },
-    {
-      "title": "Rocket Lab's stock slides as the company pushes back Neutron's first launch",
-      "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T00:02:00.000Z"
-    },
-    {
-      "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
-      "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T23:36:00.000Z"
-    },
-    {
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-      "source": "CNBC",
-      "when": "2026-10-14T22:48:06.000Z"
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:45:00.000Z"
-    },
-    {
-      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:30:00.000Z"
-    },
-    {
-      "title": "You're probably too invested in equities. Why a 60-40 portfolio is still the smart way to go.",
-      "url": "https://www.marketwatch.com/story/youre-probably-too-invested-in-equities-why-a-60-40-portfolio-is-still-the-smart-way-to-go-853daade?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:25:00.000Z"
-    },
-    {
-      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:24:00.000Z"
-    },
-    {
-      "title": "Big banks see risks in financing the AI boom, but are happy to keep writing the checks",
-      "url": "https://www.marketwatch.com/story/big-banks-see-risks-in-financing-the-ai-boom-but-are-happy-to-keep-writing-the-checks-e459a206?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-14T22:23:00.000Z"
     }
   ],
   "errors": [
