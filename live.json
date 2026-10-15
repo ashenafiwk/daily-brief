@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-15T09:04:58.137Z",
-  "fetchedLabel": "Oct 15, 5:04 AM ET",
+  "fetched": "2026-10-15T14:19:42.928Z",
+  "fetchedLabel": "Oct 15, 10:19 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,718.94",
-      "chg": "-82.83",
-      "pct": "-1.06%",
+      "value": "7,701.30",
+      "chg": "-64.06",
+      "pct": "-0.82%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,692.87",
-      "chg": "-845.82",
-      "pct": "-3.07%",
+      "value": "26,481.92",
+      "chg": "-711.42",
+      "pct": "-2.62%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,621.48",
-      "chg": "+441.61",
-      "pct": "+0.86%",
+      "value": "51,883.75",
+      "chg": "+652.11",
+      "pct": "+1.27%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,729.53",
-      "chg": "-63.67",
-      "pct": "-2.28%",
+      "value": "2,738.43",
+      "chg": "-55.70",
+      "pct": "-1.99%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.19%",
-      "chg": "-0.04",
-      "pct": "-0.78%",
+      "value": "5.05%",
+      "chg": "-0.19",
+      "pct": "-3.62%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.12",
-      "chg": "+1.38",
-      "pct": "+1.47%",
+      "value": "$94.79",
+      "chg": "+1.05",
+      "pct": "+1.12%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,174.30",
-      "chg": "-16.30",
-      "pct": "-0.39%",
+      "value": "$4,172.80",
+      "chg": "-17.80",
+      "pct": "-0.42%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.43",
-      "chg": "+2.59",
-      "pct": "+17.45%",
+      "value": "17.53",
+      "chg": "+2.69",
+      "pct": "+18.13%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+      "url": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-10-15T09:02:31.000Z"
-    },
-    {
-      "title": "'New Girl' star Jake Johnson lists lush and private Pasadena estate for $3.3 million",
-      "url": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-lists-lush-and-private-pasadena-estate-for-3-3-million-b6788838?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T09:01:00.000Z"
-    },
-    {
-      "title": "Why the AI trade is not set up for a rebound like July's, according to JPMorgan",
-      "url": "https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T08:53:00.000Z"
-    },
-    {
-      "title": "UK economy grew 0.1% in August, beating expectations",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "source": "CNBC",
-      "when": "2026-10-15T08:44:17.000Z"
-    },
-    {
-      "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
-      "url": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T08:42:00.000Z"
+      "when": "2026-10-15T14:19:26.000Z"
     },
     {
       "title": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
       "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
       "source": "CNBC",
-      "when": "2026-10-15T08:18:14.000Z"
+      "when": "2026-10-15T14:18:06.000Z"
     },
     {
-      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-      "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+      "title": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
+      "url": "https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html",
       "source": "CNBC",
-      "when": "2026-10-15T07:51:22.000Z"
+      "when": "2026-10-15T14:02:19.000Z"
     },
     {
-      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+      "title": "College was supposed to be 'good debt.' For many borrowers, it isn't paying off",
+      "url": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
       "source": "CNBC",
-      "when": "2026-10-15T07:46:30.000Z"
+      "when": "2026-10-15T13:58:36.000Z"
     },
     {
-      "title": "Inside India newsletter: Billionaire Ambani's mega-IPO faces a valuation reality check amid Musk spat",
-      "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
       "source": "CNBC",
-      "when": "2026-10-15T06:22:45.000Z"
+      "when": "2026-10-15T13:50:00.000Z"
     },
     {
-      "title": "India's IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
-      "url": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
-      "source": "CNBC",
-      "when": "2026-10-15T06:12:04.000Z"
+      "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T13:48:00.000Z"
     },
     {
-      "title": "From 'Dune' to 'Wicker,' how this 'tiny' European country became a hub for Hollywood",
-      "url": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
       "source": "CNBC",
-      "when": "2026-10-15T06:09:01.000Z"
+      "when": "2026-10-15T13:46:36.000Z"
     },
     {
-      "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
-      "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
       "source": "CNBC",
-      "when": "2026-10-15T04:09:18.000Z"
+      "when": "2026-10-15T13:42:32.000Z"
     },
     {
-      "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-      "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+      "title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+      "url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
       "source": "CNBC",
-      "when": "2026-10-15T03:48:58.000Z"
+      "when": "2026-10-15T13:24:53.000Z"
     },
     {
-      "title": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-      "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+      "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+      "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
       "source": "CNBC",
-      "when": "2026-10-15T01:56:53.000Z"
+      "when": "2026-10-15T13:24:41.000Z"
+    },
+    {
+      "title": "You can take it with you: Five tax tips before selling your business",
+      "url": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
+      "source": "CNBC",
+      "when": "2026-10-15T13:24:04.000Z"
+    },
+    {
+      "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
+      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T13:16:00.000Z"
+    },
+    {
+      "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+      "url": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T13:14:00.000Z"
+    },
+    {
+      "title": "Meet the baby chasers — they're transforming the housing market and solving the childcare crisis",
+      "url": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T13:09:00.000Z"
     }
   ],
   "errors": [
