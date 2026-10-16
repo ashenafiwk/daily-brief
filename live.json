@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-15T22:01:09.401Z",
-  "fetchedLabel": "Oct 15, 6:01 PM ET",
+  "fetched": "2026-10-16T00:37:37.144Z",
+  "fetchedLabel": "Oct 15, 8:37 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.12",
-      "chg": "+2.38",
-      "pct": "+2.54%",
+      "value": "$95.95",
+      "chg": "+2.21",
+      "pct": "+2.36%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,192.50",
-      "chg": "+1.90",
-      "pct": "+0.05%",
-      "dir": "up"
+      "value": "$4,176.60",
+      "chg": "-14.00",
+      "pct": "-0.33%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -60,6 +60,48 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+      "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+      "source": "CNBC",
+      "when": "2026-10-16T00:06:48.000Z"
+    },
+    {
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "url": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T23:29:00.000Z"
+    },
+    {
+      "title": "A lot changed in stock market in just a few months. The single biggest risk did not",
+      "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
+      "source": "CNBC",
+      "when": "2026-10-15T23:12:24.000Z"
+    },
+    {
+      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+      "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+      "source": "CNBC",
+      "when": "2026-10-15T23:08:05.000Z"
+    },
+    {
+      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+      "source": "CNBC",
+      "when": "2026-10-15T22:48:12.000Z"
+    },
+    {
+      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T22:31:00.000Z"
+    },
+    {
+      "title": "I'm 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-15T22:15:00.000Z"
+    },
     {
       "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
       "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-15T21:21:00.000Z"
-    },
-    {
-      "title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "source": "CNBC",
-      "when": "2026-10-15T21:03:50.000Z"
-    },
-    {
-      "title": "CoreWeave's polarizing stock rebounds as Wall Street squares off about AI spending",
-      "url": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T21:03:00.000Z"
-    },
-    {
-      "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-      "source": "CNBC",
-      "when": "2026-10-15T20:44:46.000Z"
-    },
-    {
-      "title": "Investors are dumping AI stocks as 'tech wreck' worsens. Here's where they're turning now.",
-      "url": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T20:40:00.000Z"
-    },
-    {
-      "title": "Anthropic taps nonprofits METR and SecureBio to help assess risks and safety practices",
-      "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html",
-      "source": "CNBC",
-      "when": "2026-10-15T20:35:21.000Z"
-    },
-    {
-      "title": "Porsche reveals Mission S concept car that previews new design identity",
-      "url": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
-      "source": "CNBC",
-      "when": "2026-10-15T20:30:01.000Z"
-    },
-    {
-      "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
-      "url": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T20:29:00.000Z"
     }
   ],
   "errors": [
