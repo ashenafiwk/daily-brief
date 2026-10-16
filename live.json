@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-16T00:37:37.144Z",
-  "fetchedLabel": "Oct 15, 8:37 PM ET",
+  "fetched": "2026-10-16T05:38:14.473Z",
+  "fetchedLabel": "Oct 16, 1:38 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$95.95",
-      "chg": "+2.21",
-      "pct": "+2.36%",
+      "value": "$95.94",
+      "chg": "+2.20",
+      "pct": "+2.35%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,176.60",
-      "chg": "-14.00",
-      "pct": "-0.33%",
-      "dir": "down"
+      "value": "$4,194.90",
+      "chg": "+4.30",
+      "pct": "+0.10%",
+      "dir": "up"
     },
     {
       "name": "VIX",
@@ -60,6 +60,54 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "source": "CNBC",
+      "when": "2026-10-16T05:07:20.000Z"
+    },
+    {
+      "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+      "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+      "source": "CNBC",
+      "when": "2026-10-16T05:00:01.000Z"
+    },
+    {
+      "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+      "source": "CNBC",
+      "when": "2026-10-16T04:29:27.000Z"
+    },
+    {
+      "title": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+      "url": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+      "source": "CNBC",
+      "when": "2026-10-16T03:53:48.000Z"
+    },
+    {
+      "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
+      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "source": "CNBC",
+      "when": "2026-10-16T03:47:50.000Z"
+    },
+    {
+      "title": "Tesla finally delivers on its promise to create a flying car",
+      "url": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T02:42:00.000Z"
+    },
+    {
+      "title": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+      "url": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+      "source": "CNBC",
+      "when": "2026-10-16T02:25:32.000Z"
+    },
+    {
+      "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+      "url": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+      "source": "CNBC",
+      "when": "2026-10-16T00:54:25.000Z"
+    },
     {
       "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
       "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
@@ -73,16 +121,16 @@
       "when": "2026-10-15T23:29:00.000Z"
     },
     {
-      "title": "A lot changed in stock market in just a few months. The single biggest risk did not",
-      "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-      "source": "CNBC",
-      "when": "2026-10-15T23:12:24.000Z"
-    },
-    {
       "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
       "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
       "source": "CNBC",
       "when": "2026-10-15T23:08:05.000Z"
+    },
+    {
+      "title": "People in China are spending nearly as much of their income as Americans on healthcare",
+      "url": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+      "source": "CNBC",
+      "when": "2026-10-15T23:00:01.000Z"
     },
     {
       "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
@@ -95,54 +143,6 @@
       "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-15T22:31:00.000Z"
-    },
-    {
-      "title": "I'm 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T22:15:00.000Z"
-    },
-    {
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "url": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T21:56:00.000Z"
-    },
-    {
-      "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-      "url": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "source": "CNBC",
-      "when": "2026-10-15T21:42:14.000Z"
-    },
-    {
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-      "source": "CNBC",
-      "when": "2026-10-15T21:33:24.000Z"
-    },
-    {
-      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "source": "CNBC",
-      "when": "2026-10-15T21:26:05.000Z"
-    },
-    {
-      "title": "U.S. sues California in fight over checking citizenship of mail voters",
-      "url": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-      "source": "CNBC",
-      "when": "2026-10-15T21:24:57.000Z"
-    },
-    {
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T21:23:00.000Z"
-    },
-    {
-      "title": "Don't ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "url": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-15T21:21:00.000Z"
     }
   ],
   "errors": [
