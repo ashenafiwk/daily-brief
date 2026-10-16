@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-16T18:57:37.890Z",
-  "fetchedLabel": "Oct 16, 2:57 PM ET",
+  "fetched": "2026-10-16T21:59:51.739Z",
+  "fetchedLabel": "Oct 16, 5:59 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,638.91",
-      "chg": "-172.63",
-      "pct": "-2.21%",
+      "value": "7,659.44",
+      "chg": "-152.10",
+      "pct": "-1.95%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,061.82",
-      "chg": "-1304.35",
-      "pct": "-4.77%",
+      "value": "26,140.03",
+      "chg": "-1226.14",
+      "pct": "-4.48%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,867.72",
-      "chg": "+212.77",
-      "pct": "+0.41%",
+      "value": "52,002.41",
+      "chg": "+347.46",
+      "pct": "+0.67%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,720.95",
-      "chg": "-86.03",
-      "pct": "-3.06%",
+      "value": "2,721.37",
+      "chg": "-85.61",
+      "pct": "-3.05%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.11%",
-      "chg": "-0.13",
-      "pct": "-2.52%",
+      "value": "5.10%",
+      "chg": "-0.14",
+      "pct": "-2.71%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.29",
-      "chg": "+5.55",
-      "pct": "+5.92%",
+      "value": "$99.04",
+      "chg": "+5.30",
+      "pct": "+5.65%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,178.80",
-      "chg": "-11.80",
-      "pct": "-0.28%",
+      "value": "$4,186.70",
+      "chg": "-3.90",
+      "pct": "-0.09%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "20.53",
-      "chg": "+5.32",
-      "pct": "+34.98%",
+      "value": "19.99",
+      "chg": "+4.78",
+      "pct": "+31.43%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Katie Zacharia out as Trump's White House press secretary",
-      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "source": "CNBC",
-      "when": "2026-10-16T18:55:24.000Z"
-    },
-    {
-      "title": "Apple's $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "source": "CNBC",
-      "when": "2026-10-16T18:55:17.000Z"
-    },
-    {
-      "title": "AI investors have woken up to the bond market's warning signs",
-      "url": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "url": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-16T18:52:00.000Z"
-    },
-    {
-      "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-      "source": "CNBC",
-      "when": "2026-10-16T18:46:19.000Z"
+      "when": "2026-10-16T21:43:00.000Z"
     },
     {
       "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
       "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-16T18:37:00.000Z"
+      "when": "2026-10-16T21:35:00.000Z"
     },
     {
-      "title": "'I like the idea of a big return': My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
+      "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-16T18:30:00.000Z"
+      "when": "2026-10-16T21:30:00.000Z"
+    },
+    {
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "CNBC",
+      "when": "2026-10-16T21:26:15.000Z"
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T21:21:00.000Z"
+    },
+    {
+      "title": "I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T21:15:00.000Z"
+    },
+    {
+      "title": "Don't buy this dip: Several signs suggest there's more pain ahead for tech stocks",
+      "url": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T20:58:00.000Z"
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
+      "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
+      "source": "CNBC",
+      "when": "2026-10-16T20:33:55.000Z"
     },
     {
       "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
       "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
       "source": "CNBC",
-      "when": "2026-10-16T18:27:02.000Z"
+      "when": "2026-10-16T20:28:10.000Z"
     },
     {
-      "title": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
-      "url": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
+      "title": "EchoStar's stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "url": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T20:05:00.000Z"
+    },
+    {
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
       "source": "CNBC",
-      "when": "2026-10-16T18:24:35.000Z"
+      "when": "2026-10-16T20:02:21.000Z"
     },
     {
       "title": "Debt is eating up a bigger chunk of your raise, research shows",
       "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
       "source": "CNBC",
-      "when": "2026-10-16T18:08:00.000Z"
+      "when": "2026-10-16T19:47:46.000Z"
     },
     {
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "source": "CNBC",
-      "when": "2026-10-16T18:04:20.000Z"
-    },
-    {
-      "title": "I'm 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-16T18:01:00.000Z"
+      "when": "2026-10-16T19:46:00.000Z"
     },
     {
-      "title": "Welcome to the 'AI burnout trade' — as investors grow tired of debating tech's promises",
-      "url": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-16T18:01:00.000Z"
-    },
-    {
-      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-16T18:00:15.000Z"
-    },
-    {
-      "title": "The U.S. budget deficit just hit almost $2 trillion — and Washington isn't doing much about it",
-      "url": "https://www.marketwatch.com/story/the-u-s-budget-deficit-just-hit-almost-2-trillion-and-washington-isnt-doing-much-about-it-a1b5c4ea?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-16T18:00:00.000Z"
+      "when": "2026-10-16T19:45:00.000Z"
     }
   ],
   "errors": [
