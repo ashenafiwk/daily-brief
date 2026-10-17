@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-17T19:07:32.725Z",
-  "fetchedLabel": "Oct 17, 3:07 PM ET",
+  "fetched": "2026-10-17T21:38:35.417Z",
+  "fetchedLabel": "Oct 17, 5:38 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-17T20:53:00.000Z"
+    },
+    {
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "source": "CNBC",
+      "when": "2026-10-17T19:35:18.000Z"
+    },
     {
       "title": "Fake shopping sprees and 'happiness insurance': The latest fintech apps reveal our financial anxieties",
       "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
@@ -131,18 +143,6 @@
       "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-      "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-      "source": "CNBC",
-      "when": "2026-10-17T12:46:21.000Z"
-    },
-    {
-      "title": "Influencers and biohackers swear by fasting. Here's what the science says.",
-      "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T12:31:00.000Z"
     }
   ],
   "errors": [
