@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-16T21:59:51.739Z",
-  "fetchedLabel": "Oct 16, 5:59 PM ET",
+  "fetched": "2026-10-17T00:20:45.762Z",
+  "fetchedLabel": "Oct 16, 8:20 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC",
+      "when": "2026-10-16T22:33:05.000Z"
+    },
+    {
+      "title": "Apple's $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+      "source": "CNBC",
+      "when": "2026-10-16T22:31:26.000Z"
+    },
+    {
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-16T21:59:00.000Z"
+    },
     {
       "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
       "url": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
@@ -125,24 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
       "source": "CNBC",
       "when": "2026-10-16T20:02:21.000Z"
-    },
-    {
-      "title": "Debt is eating up a bigger chunk of your raise, research shows",
-      "url": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-      "source": "CNBC",
-      "when": "2026-10-16T19:47:46.000Z"
-    },
-    {
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "url": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-16T19:46:00.000Z"
-    },
-    {
-      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-16T19:45:00.000Z"
     }
   ],
   "errors": [
