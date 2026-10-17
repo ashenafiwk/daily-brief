@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-17T04:52:31.618Z",
-  "fetchedLabel": "Oct 17, 12:52 AM ET",
+  "fetched": "2026-10-17T09:05:49.699Z",
+  "fetchedLabel": "Oct 17, 5:05 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "source": "CNBC",
+      "when": "2026-10-17T05:46:20.000Z"
+    },
+    {
+      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+      "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+      "source": "CNBC",
+      "when": "2026-10-17T05:00:01.000Z"
+    },
+    {
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-16T22:34:29.000Z"
+    },
     {
       "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
       "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -125,24 +143,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
       "source": "CNBC",
       "when": "2026-10-16T20:33:55.000Z"
-    },
-    {
-      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "source": "CNBC",
-      "when": "2026-10-16T20:28:10.000Z"
-    },
-    {
-      "title": "EchoStar's stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "url": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-16T20:05:00.000Z"
-    },
-    {
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "source": "CNBC",
-      "when": "2026-10-16T20:02:21.000Z"
     }
   ],
   "errors": [
