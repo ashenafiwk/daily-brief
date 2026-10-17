@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-17T16:36:17.826Z",
-  "fetchedLabel": "Oct 17, 12:36 PM ET",
+  "fetched": "2026-10-17T19:07:32.725Z",
+  "fetchedLabel": "Oct 17, 3:07 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,34 @@
   ],
   "headlines": [
     {
+      "title": "Fake shopping sprees and 'happiness insurance': The latest fintech apps reveal our financial anxieties",
+      "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-17T18:52:00.000Z"
+    },
+    {
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-17T18:40:00.000Z"
+    },
+    {
+      "title": "Is Apple's foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-17T18:40:00.000Z"
+    },
+    {
+      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-17T16:47:00.000Z"
+    },
+    {
       "title": "Semiconductor market to remain solid 'at least through next year,' South Korea finance minister says",
       "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
       "source": "CNBC",
-      "when": "2026-10-17T16:31:29.000Z"
+      "when": "2026-10-17T16:45:15.000Z"
     },
     {
       "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
@@ -103,12 +127,6 @@
       "when": "2026-10-17T13:00:01.000Z"
     },
     {
-      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T13:00:00.000Z"
-    },
-    {
       "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
       "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-17T12:31:00.000Z"
-    },
-    {
-      "title": "Silver's recent 50% drop from a record high hints that an economic slowdown looms",
-      "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T12:30:00.000Z"
-    },
-    {
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T12:01:00.000Z"
-    },
-    {
-      "title": "I'm 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T12:00:00.000Z"
     }
   ],
   "errors": [
