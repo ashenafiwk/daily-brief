@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-18T08:43:35.176Z",
-  "fetchedLabel": "Oct 18, 4:43 AM ET",
+  "fetched": "2026-10-18T13:05:46.019Z",
+  "fetchedLabel": "Oct 18, 9:05 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,42 @@
   ],
   "headlines": [
     {
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-18T13:00:00.000Z"
+    },
+    {
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "source": "CNBC",
+      "when": "2026-10-18T12:50:33.000Z"
+    },
+    {
+      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+      "source": "CNBC",
+      "when": "2026-10-18T12:34:51.000Z"
+    },
+    {
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "source": "CNBC",
+      "when": "2026-10-18T12:00:01.000Z"
+    },
+    {
+      "title": "There is a silent market rotation inside the S&P 500 that's warning of more weakness ahead",
+      "url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-18T12:00:00.000Z"
+    },
+    {
+      "title": "Semiconductor market to remain solid 'at least through next year,' South Korea finance minister says",
+      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "source": "CNBC",
+      "when": "2026-10-18T11:10:44.000Z"
+    },
+    {
       "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
       "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
       "source": "CNBC",
@@ -77,12 +113,6 @@
       "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-17T20:53:00.000Z"
-    },
-    {
-      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-      "source": "CNBC",
-      "when": "2026-10-17T19:35:18.000Z"
     },
     {
       "title": "Fake shopping sprees and 'happiness insurance': The latest fintech apps reveal our financial anxieties",
@@ -109,40 +139,10 @@
       "when": "2026-10-17T16:47:00.000Z"
     },
     {
-      "title": "Semiconductor market to remain solid 'at least through next year,' South Korea finance minister says",
-      "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-      "source": "CNBC",
-      "when": "2026-10-17T16:45:15.000Z"
-    },
-    {
       "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
       "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
       "source": "CNBC",
       "when": "2026-10-17T16:31:06.000Z"
-    },
-    {
-      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-      "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "source": "CNBC",
-      "when": "2026-10-17T15:42:34.000Z"
-    },
-    {
-      "title": "Software's new consolidator gets big vote of confidence from Berkshire",
-      "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "source": "CNBC",
-      "when": "2026-10-17T15:11:30.000Z"
-    },
-    {
-      "title": "'Dead money' for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "source": "CNBC",
-      "when": "2026-10-17T15:00:01.000Z"
-    },
-    {
-      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-      "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-      "source": "CNBC",
-      "when": "2026-10-17T13:30:01.000Z"
     }
   ],
   "errors": [
