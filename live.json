@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-18T03:52:40.243Z",
-  "fetchedLabel": "Oct 17, 11:52 PM ET",
+  "fetched": "2026-10-18T08:43:35.176Z",
+  "fetchedLabel": "Oct 18, 4:43 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,16 +40,16 @@
     {
       "name": "Crude (WTI)",
       "value": "$99.02",
-      "chg": "+5.28",
-      "pct": "+5.63%",
+      "chg": "+4.88",
+      "pct": "+5.18%",
       "dir": "up"
     },
     {
       "name": "Gold",
       "value": "$4,181.10",
-      "chg": "-9.50",
-      "pct": "-0.23%",
-      "dir": "down"
+      "chg": "+3.80",
+      "pct": "+0.09%",
+      "dir": "up"
     },
     {
       "name": "VIX",
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+      "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "source": "CNBC",
+      "when": "2026-10-18T07:22:07.000Z"
+    },
+    {
+      "title": "Why hedge funds could be making a bond market shock more likely",
+      "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+      "source": "CNBC",
+      "when": "2026-10-18T06:13:05.000Z"
+    },
     {
       "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
       "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
       "source": "CNBC",
       "when": "2026-10-17T13:30:01.000Z"
-    },
-    {
-      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-      "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-      "source": "CNBC",
-      "when": "2026-10-17T13:00:01.000Z"
-    },
-    {
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-17T13:00:00.000Z"
     }
   ],
   "errors": [
