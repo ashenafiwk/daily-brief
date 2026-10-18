@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-18T19:19:45.751Z",
-  "fetchedLabel": "Oct 18, 3:19 PM ET",
+  "fetched": "2026-10-18T21:43:25.949Z",
+  "fetchedLabel": "Oct 18, 5:43 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,16 +61,16 @@
   ],
   "headlines": [
     {
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+      "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+      "source": "CNBC",
+      "when": "2026-10-18T19:37:28.000Z"
+    },
+    {
       "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
       "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-18T17:00:00.000Z"
-    },
-    {
-      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
-      "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
-      "source": "CNBC",
-      "when": "2026-10-18T16:44:10.000Z"
     },
     {
       "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
