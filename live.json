@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-19T05:07:23.272Z",
-  "fetchedLabel": "Oct 19, 1:07 AM ET",
+  "fetched": "2026-10-19T11:06:04.711Z",
+  "fetchedLabel": "Oct 19, 7:06 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.39",
-      "chg": "+2.30",
-      "pct": "+2.42%",
+      "value": "$97.96",
+      "chg": "+2.87",
+      "pct": "+3.02%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,204.80",
-      "chg": "+96.90",
-      "pct": "+2.36%",
+      "value": "$4,190.90",
+      "chg": "+83.00",
+      "pct": "+2.02%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "19.99",
-      "chg": "+4.78",
-      "pct": "+31.43%",
+      "value": "18.52",
+      "chg": "+3.25",
+      "pct": "+21.28%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "India's Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-      "source": "CNBC",
-      "when": "2026-10-19T04:46:26.000Z"
+      "title": "'My husband suffered a massive stroke at 53': I'm 64 and will rent for the rest of my life — but I'm still hopeful",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-19T11:00:00.000Z"
     },
     {
-      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
       "source": "CNBC",
-      "when": "2026-10-19T04:36:39.000Z"
+      "when": "2026-10-19T10:37:43.000Z"
     },
     {
-      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+      "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
       "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
       "source": "CNBC",
-      "when": "2026-10-19T03:56:03.000Z"
-    },
-    {
-      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-      "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "source": "CNBC",
-      "when": "2026-10-19T03:18:51.000Z"
-    },
-    {
-      "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-      "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
-      "source": "CNBC",
-      "when": "2026-10-19T03:00:33.000Z"
-    },
-    {
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "source": "CNBC",
-      "when": "2026-10-19T01:56:34.000Z"
-    },
-    {
-      "title": "Why I am taking the other side of the trade that crushed the market Friday",
-      "url": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
-      "source": "CNBC",
-      "when": "2026-10-18T22:23:08.000Z"
-    },
-    {
-      "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
-      "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-18T17:00:00.000Z"
-    },
-    {
-      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-18T16:15:00.000Z"
-    },
-    {
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-18T16:00:00.000Z"
-    },
-    {
-      "title": "I'm 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-18T15:15:00.000Z"
+      "when": "2026-10-19T10:36:47.000Z"
     },
     {
       "title": "I'm 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
       "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-18T15:00:00.000Z"
+      "when": "2026-10-19T10:36:00.000Z"
     },
     {
-      "title": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
-      "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
-      "source": "CNBC",
-      "when": "2026-10-18T14:00:01.000Z"
-    },
-    {
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-18T14:00:00.000Z"
+      "when": "2026-10-19T10:23:00.000Z"
+    },
+    {
+      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+      "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+      "source": "CNBC",
+      "when": "2026-10-19T10:21:39.000Z"
+    },
+    {
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "source": "CNBC",
+      "when": "2026-10-19T10:00:01.000Z"
+    },
+    {
+      "title": "Big tech is wobbling. Goldman Sachs says it's time to buy these 23 unloved stocks instead.",
+      "url": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-19T09:58:00.000Z"
+    },
+    {
+      "title": "France and the U.S. share the same debt trap. Only one has a global lifeline.",
+      "url": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-19T09:30:00.000Z"
+    },
+    {
+      "title": "Kelly Clarkson's expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
+      "url": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-19T09:03:00.000Z"
+    },
+    {
+      "title": "The Beach Boys' Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
+      "url": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-19T09:01:00.000Z"
+    },
+    {
+      "title": "India's finance minister says market liquidity makes it easier for investors to exit",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "source": "CNBC",
+      "when": "2026-10-19T08:23:33.000Z"
+    },
+    {
+      "title": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+      "source": "CNBC",
+      "when": "2026-10-19T08:10:26.000Z"
+    },
+    {
+      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "source": "CNBC",
+      "when": "2026-10-19T07:48:53.000Z"
     }
   ],
   "errors": [
