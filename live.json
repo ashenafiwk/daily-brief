@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-19T00:01:03.519Z",
-  "fetchedLabel": "Oct 18, 8:01 PM ET",
+  "fetched": "2026-10-19T05:07:23.272Z",
+  "fetchedLabel": "Oct 19, 1:07 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.77",
-      "chg": "+3.63",
-      "pct": "+3.86%",
+      "value": "$97.39",
+      "chg": "+2.30",
+      "pct": "+2.42%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,202.60",
-      "chg": "+25.30",
-      "pct": "+0.61%",
+      "value": "$4,204.80",
+      "chg": "+96.90",
+      "pct": "+2.36%",
       "dir": "up"
     },
     {
@@ -61,10 +61,40 @@
   ],
   "headlines": [
     {
-      "title": "India's Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+      "title": "India's Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
       "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
       "source": "CNBC",
-      "when": "2026-10-18T23:00:01.000Z"
+      "when": "2026-10-19T04:46:26.000Z"
+    },
+    {
+      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+      "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+      "source": "CNBC",
+      "when": "2026-10-19T04:36:39.000Z"
+    },
+    {
+      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+      "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "source": "CNBC",
+      "when": "2026-10-19T03:56:03.000Z"
+    },
+    {
+      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+      "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
+      "source": "CNBC",
+      "when": "2026-10-19T03:18:51.000Z"
+    },
+    {
+      "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+      "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
+      "source": "CNBC",
+      "when": "2026-10-19T03:00:33.000Z"
+    },
+    {
+      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+      "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+      "source": "CNBC",
+      "when": "2026-10-19T01:56:34.000Z"
     },
     {
       "title": "Why I am taking the other side of the trade that crushed the market Friday",
@@ -113,36 +143,6 @@
       "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-18T14:00:00.000Z"
-    },
-    {
-      "title": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
-      "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
-      "source": "CNBC",
-      "when": "2026-10-18T13:37:01.000Z"
-    },
-    {
-      "title": "Roth conversions: When the 'juice isn't really worth the squeeze,' according to a top-ranked advisor",
-      "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-18T13:30:01.000Z"
-    },
-    {
-      "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-      "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-      "source": "CNBC",
-      "when": "2026-10-18T13:10:33.000Z"
-    },
-    {
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-18T13:00:00.000Z"
-    },
-    {
-      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "source": "CNBC",
-      "when": "2026-10-18T12:34:51.000Z"
     }
   ],
   "errors": [
