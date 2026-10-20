@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-20T01:09:49.551Z",
-  "fetchedLabel": "Oct 19, 9:09 PM ET",
+  "fetched": "2026-10-20T06:25:07.426Z",
+  "fetchedLabel": "Oct 20, 2:25 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,17 +39,17 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$98.53",
-      "chg": "+3.44",
-      "pct": "+3.62%",
+      "value": "$99.38",
+      "chg": "+1.41",
+      "pct": "+1.44%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,150.60",
-      "chg": "+42.70",
-      "pct": "+1.04%",
-      "dir": "up"
+      "value": "$4,139.50",
+      "chg": "-30.60",
+      "pct": "-0.73%",
+      "dir": "down"
     },
     {
       "name": "VIX",
@@ -60,6 +60,60 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+      "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+      "source": "CNBC",
+      "when": "2026-10-20T05:57:34.000Z"
+    },
+    {
+      "title": "The world's finance chiefs see new risks — and less China angst",
+      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "CNBC",
+      "when": "2026-10-20T05:27:53.000Z"
+    },
+    {
+      "title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+      "url": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+      "source": "CNBC",
+      "when": "2026-10-20T04:48:52.000Z"
+    },
+    {
+      "title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
+      "url": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
+      "source": "CNBC",
+      "when": "2026-10-20T03:59:35.000Z"
+    },
+    {
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+      "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+      "source": "CNBC",
+      "when": "2026-10-20T02:44:35.000Z"
+    },
+    {
+      "title": "'Open your doors for AI': German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+      "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+      "source": "CNBC",
+      "when": "2026-10-20T02:16:25.000Z"
+    },
+    {
+      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+      "source": "CNBC",
+      "when": "2026-10-20T01:53:34.000Z"
+    },
+    {
+      "title": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+      "url": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+      "source": "CNBC",
+      "when": "2026-10-20T01:52:05.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+      "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+      "source": "CNBC",
+      "when": "2026-10-19T23:00:02.000Z"
+    },
     {
       "title": "Blood clots are 'incredibly common,' even for pro athletes like Jalen Hurts. Here's what to know.",
       "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
@@ -89,60 +143,6 @@
       "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-19T21:15:00.000Z"
-    },
-    {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-19T21:06:00.000Z"
-    },
-    {
-      "title": "SpaceX earnings will be all about AI — for better or for worse",
-      "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-19T21:02:00.000Z"
-    },
-    {
-      "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
-      "url": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-19T21:00:00.000Z"
-    },
-    {
-      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
-      "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-19T21:00:00.000Z"
-    },
-    {
-      "title": "Retiring abroad? Don't cut these financial ties to the U.S.",
-      "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-19T20:33:00.000Z"
-    },
-    {
-      "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-      "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-      "source": "CNBC",
-      "when": "2026-10-19T19:13:00.000Z"
-    },
-    {
-      "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-      "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-      "source": "CNBC",
-      "when": "2026-10-19T16:17:37.000Z"
-    },
-    {
-      "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
-      "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
-      "source": "CNBC",
-      "when": "2026-10-19T12:58:03.000Z"
-    },
-    {
-      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
-      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "source": "CNBC",
-      "when": "2026-10-19T12:34:01.000Z"
     }
   ],
   "errors": [
