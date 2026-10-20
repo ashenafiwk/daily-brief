@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-20T16:48:20.949Z",
-  "fetchedLabel": "Oct 20, 12:48 PM ET",
+  "fetched": "2026-10-20T20:20:05.013Z",
+  "fetchedLabel": "Oct 20, 4:20 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,720.62",
-      "chg": "-84.83",
-      "pct": "-1.09%",
+      "value": "7,712.57",
+      "chg": "-92.88",
+      "pct": "-1.19%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,480.73",
-      "chg": "-723.65",
-      "pct": "-2.66%",
+      "value": "26,424.82",
+      "chg": "-779.56",
+      "pct": "-2.87%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,499.72",
-      "chg": "+829.62",
-      "pct": "+1.61%",
+      "value": "52,495.88",
+      "chg": "+825.78",
+      "pct": "+1.60%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,772.41",
-      "chg": "-10.96",
-      "pct": "-0.39%",
+      "value": "2,773.42",
+      "chg": "-9.95",
+      "pct": "-0.36%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.13%",
+      "value": "5.12%",
       "chg": "-0.07",
-      "pct": "-1.25%",
+      "pct": "-1.41%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.70",
-      "chg": "-0.27",
-      "pct": "-0.28%",
-      "dir": "down"
+      "value": "$98.06",
+      "chg": "+0.09",
+      "pct": "+0.09%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,146.00",
-      "chg": "-24.10",
-      "pct": "-0.58%",
+      "value": "$4,142.20",
+      "chg": "-27.90",
+      "pct": "-0.67%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.67",
-      "chg": "+0.80",
-      "pct": "+4.74%",
+      "value": "17.38",
+      "chg": "+0.51",
+      "pct": "+3.02%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "title": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
+      "url": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
       "source": "CNBC",
-      "when": "2026-10-20T16:43:42.000Z"
-    },
-    {
-      "title": "What options traders expect from SpaceX earnings after the bell",
-      "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-      "source": "CNBC",
-      "when": "2026-10-20T16:34:36.000Z"
-    },
-    {
-      "title": "'I'm naturally skeptical': I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T16:25:00.000Z"
-    },
-    {
-      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
-      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-      "source": "CNBC",
-      "when": "2026-10-20T16:19:38.000Z"
-    },
-    {
-      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "source": "CNBC",
-      "when": "2026-10-20T16:11:02.000Z"
-    },
-    {
-      "title": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
-      "source": "CNBC",
-      "when": "2026-10-20T16:01:17.000Z"
-    },
-    {
-      "title": "Here's what to expect when Netflix reports earnings after the bell",
-      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-20T16:00:01.000Z"
-    },
-    {
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T15:58:00.000Z"
-    },
-    {
-      "title": "It's no secret what the best financial advice for retirement is — but most people ignore it anyway",
-      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T15:54:00.000Z"
-    },
-    {
-      "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "source": "CNBC",
-      "when": "2026-10-20T15:45:47.000Z"
+      "when": "2026-10-20T20:10:30.000Z"
     },
     {
       "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
       "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
       "source": "CNBC",
-      "when": "2026-10-20T15:43:44.000Z"
+      "when": "2026-10-20T20:08:44.000Z"
     },
     {
-      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T15:35:00.000Z"
+      "title": "Netflix posts third-quarter earnings beat, says viewer engagement remains 'healthy'",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-20T20:06:55.000Z"
     },
     {
-      "title": "Salesforce's stock falls as investors chafe at the cost of latest AI purchase",
-      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T15:27:00.000Z"
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays",
+      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "source": "CNBC",
+      "when": "2026-10-20T20:06:32.000Z"
     },
     {
-      "title": "Elon Musk promised a SpaceX share to every kid in America — don't hold your breath",
-      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-20T20:03:05.000Z"
+    },
+    {
+      "title": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+      "url": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+      "source": "CNBC",
+      "when": "2026-10-20T20:00:22.000Z"
+    },
+    {
+      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "source": "CNBC",
+      "when": "2026-10-20T19:40:51.000Z"
+    },
+    {
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "url": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-20T15:17:00.000Z"
+      "when": "2026-10-20T19:35:00.000Z"
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "source": "CNBC",
+      "when": "2026-10-20T19:28:43.000Z"
+    },
+    {
+      "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+      "url": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-20T18:30:53.000Z"
+    },
+    {
+      "title": "Here's what matters most to Tesla investors heading into earnings",
+      "url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T18:15:00.000Z"
+    },
+    {
+      "title": "Traders are betting Netflix's stock drama may be coming to an end",
+      "url": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+      "source": "CNBC",
+      "when": "2026-10-20T18:10:13.000Z"
+    },
+    {
+      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+      "source": "CNBC",
+      "when": "2026-10-20T18:06:13.000Z"
+    },
+    {
+      "title": "Investors' search for safety has made toothpaste stocks more expensive than tech",
+      "url": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T17:38:00.000Z"
     }
   ],
   "errors": [
