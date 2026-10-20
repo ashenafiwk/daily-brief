@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-20T11:58:00.215Z",
-  "fetchedLabel": "Oct 20, 7:58 AM ET",
+  "fetched": "2026-10-20T16:48:20.949Z",
+  "fetchedLabel": "Oct 20, 12:48 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,690.73",
-      "chg": "-116.51",
-      "pct": "-1.49%",
+      "value": "7,720.62",
+      "chg": "-84.83",
+      "pct": "-1.09%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,430.89",
-      "chg": "-815.01",
-      "pct": "-2.99%",
+      "value": "26,480.73",
+      "chg": "-723.65",
+      "pct": "-2.66%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,966.03",
-      "chg": "+115.48",
-      "pct": "+0.22%",
+      "value": "52,499.72",
+      "chg": "+829.62",
+      "pct": "+1.61%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,728.30",
-      "chg": "-66.18",
-      "pct": "-2.37%",
+      "value": "2,772.41",
+      "chg": "-10.96",
+      "pct": "-0.39%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.14%",
-      "chg": "-0.08",
-      "pct": "-1.55%",
+      "value": "5.13%",
+      "chg": "-0.07",
+      "pct": "-1.25%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.01",
-      "chg": "+3.04",
-      "pct": "+3.10%",
-      "dir": "up"
+      "value": "$97.70",
+      "chg": "-0.27",
+      "pct": "-0.28%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,139.50",
-      "chg": "-30.60",
-      "pct": "-0.73%",
+      "value": "$4,146.00",
+      "chg": "-24.10",
+      "pct": "-0.58%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.68",
-      "chg": "+1.81",
-      "pct": "+10.73%",
+      "value": "17.67",
+      "chg": "+0.80",
+      "pct": "+4.74%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
-      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+      "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+      "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
       "source": "CNBC",
-      "when": "2026-10-20T11:49:45.000Z"
+      "when": "2026-10-20T16:43:42.000Z"
     },
     {
-      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "title": "What options traders expect from SpaceX earnings after the bell",
+      "url": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
       "source": "CNBC",
-      "when": "2026-10-20T11:45:30.000Z"
-    },
-    {
-      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life — but here's why I'm still hopeful",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T11:41:00.000Z"
-    },
-    {
-      "title": "The AI boom is getting all the attention. We're about to find out how the rest of the economy is holding up.",
-      "url": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T11:30:00.000Z"
-    },
-    {
-      "title": "Blood clots are 'incredibly common,' even for pro athletes like Jalen Hurts. Here's what to know.",
-      "url": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T11:11:00.000Z"
-    },
-    {
-      "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-      "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-      "source": "CNBC",
-      "when": "2026-10-20T11:00:01.000Z"
-    },
-    {
-      "title": "HSBC CEO warns the AI boom won't make every data center a good bet",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-      "source": "CNBC",
-      "when": "2026-10-20T10:39:17.000Z"
-    },
-    {
-      "title": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-      "url": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
-      "source": "CNBC",
-      "when": "2026-10-20T10:30:49.000Z"
-    },
-    {
-      "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
-      "url": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T10:30:00.000Z"
-    },
-    {
-      "title": "Strategist Tom Lee says he's buying the AI-stock dip, and Cisco holds the key",
-      "url": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T10:15:00.000Z"
-    },
-    {
-      "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-      "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "source": "CNBC",
-      "when": "2026-10-20T10:02:57.000Z"
-    },
-    {
-      "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-      "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-      "source": "CNBC",
-      "when": "2026-10-20T10:00:01.000Z"
+      "when": "2026-10-20T16:34:36.000Z"
     },
     {
       "title": "'I'm naturally skeptical': I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
       "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-20T10:00:00.000Z"
+      "when": "2026-10-20T16:25:00.000Z"
     },
     {
-      "title": "U.S. Treasury yields move lower as investors await housing data",
-      "url": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+      "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+      "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
       "source": "CNBC",
-      "when": "2026-10-20T09:57:07.000Z"
+      "when": "2026-10-20T16:19:38.000Z"
+    },
+    {
+      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+      "url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "source": "CNBC",
+      "when": "2026-10-20T16:11:02.000Z"
+    },
+    {
+      "title": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
+      "url": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
+      "source": "CNBC",
+      "when": "2026-10-20T16:01:17.000Z"
+    },
+    {
+      "title": "Here's what to expect when Netflix reports earnings after the bell",
+      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-20T16:00:01.000Z"
+    },
+    {
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "url": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T15:58:00.000Z"
+    },
+    {
+      "title": "It's no secret what the best financial advice for retirement is — but most people ignore it anyway",
+      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T15:54:00.000Z"
+    },
+    {
+      "title": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "source": "CNBC",
+      "when": "2026-10-20T15:45:47.000Z"
+    },
+    {
+      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-20T15:43:44.000Z"
+    },
+    {
+      "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+      "url": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T15:35:00.000Z"
+    },
+    {
+      "title": "Salesforce's stock falls as investors chafe at the cost of latest AI purchase",
+      "url": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T15:27:00.000Z"
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don't hold your breath",
+      "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-20T15:17:00.000Z"
     }
   ],
   "errors": [
