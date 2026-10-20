@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-19T22:09:36.025Z",
-  "fetchedLabel": "Oct 19, 6:09 PM ET",
+  "fetched": "2026-10-20T01:09:49.551Z",
+  "fetchedLabel": "Oct 19, 9:09 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$98.24",
-      "chg": "+3.15",
-      "pct": "+3.31%",
+      "value": "$98.53",
+      "chg": "+3.44",
+      "pct": "+3.62%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,160.30",
-      "chg": "+52.40",
-      "pct": "+1.28%",
+      "value": "$4,150.60",
+      "chg": "+42.70",
+      "pct": "+1.04%",
       "dir": "up"
     },
     {
@@ -97,22 +97,10 @@
       "when": "2026-10-19T21:06:00.000Z"
     },
     {
-      "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-      "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-      "source": "CNBC",
-      "when": "2026-10-19T21:05:20.000Z"
-    },
-    {
       "title": "SpaceX earnings will be all about AI — for better or for worse",
       "url": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-19T21:02:00.000Z"
-    },
-    {
-      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-      "source": "CNBC",
-      "when": "2026-10-19T21:00:02.000Z"
     },
     {
       "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
@@ -127,22 +115,34 @@
       "when": "2026-10-19T21:00:00.000Z"
     },
     {
-      "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
-      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-19T20:57:14.000Z"
-    },
-    {
-      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "source": "CNBC",
-      "when": "2026-10-19T20:54:40.000Z"
-    },
-    {
       "title": "Retiring abroad? Don't cut these financial ties to the U.S.",
       "url": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-19T20:33:00.000Z"
+    },
+    {
+      "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+      "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+      "source": "CNBC",
+      "when": "2026-10-19T19:13:00.000Z"
+    },
+    {
+      "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+      "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+      "source": "CNBC",
+      "when": "2026-10-19T16:17:37.000Z"
+    },
+    {
+      "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+      "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+      "source": "CNBC",
+      "when": "2026-10-19T12:58:03.000Z"
+    },
+    {
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "source": "CNBC",
+      "when": "2026-10-19T12:34:01.000Z"
     }
   ],
   "errors": [
