@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-21T13:06:16.849Z",
-  "fetchedLabel": "Oct 21, 9:06 AM ET",
+  "fetched": "2026-10-21T18:11:46.349Z",
+  "fetchedLabel": "Oct 21, 2:11 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,712.57",
-      "chg": "-92.88",
-      "pct": "-1.19%",
-      "dir": "down"
+      "value": "7,765.16",
+      "chg": "+46.22",
+      "pct": "+0.60%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,424.82",
-      "chg": "-779.56",
-      "pct": "-2.87%",
-      "dir": "down"
+      "value": "26,745.83",
+      "chg": "+52.96",
+      "pct": "+0.20%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,495.88",
-      "chg": "+825.78",
-      "pct": "+1.60%",
+      "value": "52,786.83",
+      "chg": "+1165.35",
+      "pct": "+2.26%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,773.42",
-      "chg": "-9.95",
-      "pct": "-0.36%",
-      "dir": "down"
+      "value": "2,788.07",
+      "chg": "+58.54",
+      "pct": "+2.14%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.10%",
-      "chg": "+0.01",
-      "pct": "+0.14%",
+      "value": "5.11%",
+      "chg": "+0.02",
+      "pct": "+0.43%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.51",
-      "chg": "-3.90",
-      "pct": "-3.85%",
+      "value": "$96.90",
+      "chg": "-4.51",
+      "pct": "-4.45%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,146.30",
-      "chg": "-34.80",
-      "pct": "-0.83%",
+      "value": "$4,154.60",
+      "chg": "-26.50",
+      "pct": "-0.63%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.13",
-      "chg": "+0.67",
-      "pct": "+4.07%",
+      "value": "16.61",
+      "chg": "+0.15",
+      "pct": "+0.91%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Oil prices little changed as traders assess Middle East developments",
-      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+      "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
+      "url": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
       "source": "CNBC",
-      "when": "2026-10-21T12:48:55.000Z"
+      "when": "2026-10-21T18:06:31.000Z"
     },
     {
-      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-      "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+      "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+      "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
       "source": "CNBC",
-      "when": "2026-10-21T12:43:49.000Z"
+      "when": "2026-10-21T18:03:55.000Z"
     },
     {
-      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
       "source": "CNBC",
-      "when": "2026-10-21T12:33:34.000Z"
+      "when": "2026-10-21T17:51:21.000Z"
     },
     {
-      "title": "Heckler disrupts Nvidia CEO Huang's speech at Berlin conference",
-      "url": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
+      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "CNBC",
+      "when": "2026-10-21T17:45:23.000Z"
+    },
+    {
+      "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "source": "CNBC",
+      "when": "2026-10-21T17:34:00.000Z"
+    },
+    {
+      "title": "How Ukraine's drone strikes on Russia crippled the world's second-largest diesel supplier",
+      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "source": "CNBC",
+      "when": "2026-10-21T17:27:34.000Z"
+    },
+    {
+      "title": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
+      "url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+      "source": "CNBC",
+      "when": "2026-10-21T17:14:14.000Z"
+    },
+    {
+      "title": "Intel hits construction milestone at Ohio chip fab that's at least 5 years behind schedule",
+      "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
+      "source": "CNBC",
+      "when": "2026-10-21T16:55:51.000Z"
+    },
+    {
+      "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+      "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-21T16:35:48.000Z"
+    },
+    {
+      "title": "Medicare is a bargain. What America can't afford is private health insurance.",
+      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-21T12:32:00.000Z"
+      "when": "2026-10-21T16:34:00.000Z"
     },
     {
-      "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
-      "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
-      "source": "CNBC",
-      "when": "2026-10-21T12:31:32.000Z"
-    },
-    {
-      "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
       "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
       "source": "CNBC",
-      "when": "2026-10-21T12:23:13.000Z"
+      "when": "2026-10-21T16:08:50.000Z"
     },
     {
-      "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
-      "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+      "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
       "source": "CNBC",
-      "when": "2026-10-21T12:21:07.000Z"
+      "when": "2026-10-21T16:01:25.000Z"
     },
     {
-      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-      "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
-      "source": "CNBC",
-      "when": "2026-10-21T12:20:13.000Z"
-    },
-    {
-      "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-      "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-      "source": "CNBC",
-      "when": "2026-10-21T12:09:51.000Z"
-    },
-    {
-      "title": "Why SpaceX's stock is surging — and lifting the broader AI universe along with it",
-      "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year's Day",
+      "url": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-21T12:06:00.000Z"
+      "when": "2026-10-21T15:59:00.000Z"
     },
     {
-      "title": "Musk says he's exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
-      "url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T11:39:00.000Z"
-    },
-    {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
+      "url": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
       "source": "CNBC",
-      "when": "2026-10-21T11:20:58.000Z"
-    },
-    {
-      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T11:15:00.000Z"
-    },
-    {
-      "title": "House committee says Webull messages point to China access to U.S. customer data",
-      "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-      "source": "CNBC",
-      "when": "2026-10-21T11:05:18.000Z"
+      "when": "2026-10-21T15:58:45.000Z"
     }
   ],
   "errors": [
