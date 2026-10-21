@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-20T23:18:10.653Z",
-  "fetchedLabel": "Oct 20, 7:18 PM ET",
+  "fetched": "2026-10-21T01:53:12.030Z",
+  "fetchedLabel": "Oct 20, 9:53 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$98.30",
-      "chg": "+0.33",
-      "pct": "+0.34%",
+      "value": "$98.89",
+      "chg": "+0.92",
+      "pct": "+0.94%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,138.00",
-      "chg": "-32.10",
-      "pct": "-0.77%",
+      "value": "$4,135.10",
+      "chg": "-35.00",
+      "pct": "-0.84%",
       "dir": "down"
     },
     {
@@ -60,6 +60,54 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+      "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+      "source": "CNBC",
+      "when": "2026-10-21T01:44:42.000Z"
+    },
+    {
+      "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "source": "CNBC",
+      "when": "2026-10-21T01:02:36.000Z"
+    },
+    {
+      "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+      "source": "CNBC",
+      "when": "2026-10-21T00:44:16.000Z"
+    },
+    {
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T00:24:00.000Z"
+    },
+    {
+      "title": "Super Micro's stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T00:15:00.000Z"
+    },
+    {
+      "title": "Tesla's stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T00:14:00.000Z"
+    },
+    {
+      "title": "Netflix vows to revive viewership trends, but investors hit 'sell' on the stock",
+      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T00:12:00.000Z"
+    },
+    {
+      "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+      "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+      "source": "CNBC",
+      "when": "2026-10-20T23:34:14.000Z"
+    },
     {
       "title": "Why SpaceX's stock is surging — and lifting the broader AI universe along with it",
       "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
@@ -73,26 +121,8 @@
       "when": "2026-10-20T22:45:00.000Z"
     },
     {
-      "title": "Super Micro's stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T22:37:00.000Z"
-    },
-    {
-      "title": "Tesla's stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T22:33:00.000Z"
-    },
-    {
       "title": "My wife says we can't afford to retire. I vetoed her $8,000 trip to Italy. We're in our 60s and have $4 million. Do I keep work...",
       "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T22:30:00.000Z"
-    },
-    {
-      "title": "Netflix vows to revive viewership trends, but investors hit 'sell' on the stock",
-      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-20T22:30:00.000Z"
     },
@@ -113,36 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
       "source": "CNBC",
       "when": "2026-10-20T22:01:11.000Z"
-    },
-    {
-      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-      "url": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T21:47:00.000Z"
-    },
-    {
-      "title": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
-      "source": "CNBC",
-      "when": "2026-10-20T21:17:47.000Z"
-    },
-    {
-      "title": "It's no secret what the best financial advice for retirement is — but most people ignore it anyway",
-      "url": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T20:57:00.000Z"
-    },
-    {
-      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-20T20:45:00.000Z"
-    },
-    {
-      "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
-      "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
-      "source": "CNBC",
-      "when": "2026-10-20T20:34:23.000Z"
     }
   ],
   "errors": [
