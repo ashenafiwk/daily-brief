@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-21T18:11:46.349Z",
-  "fetchedLabel": "Oct 21, 2:11 PM ET",
+  "fetched": "2026-10-21T21:54:33.602Z",
+  "fetchedLabel": "Oct 21, 5:54 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,765.16",
-      "chg": "+46.22",
-      "pct": "+0.60%",
+      "value": "7,757.17",
+      "chg": "+38.23",
+      "pct": "+0.50%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,745.83",
-      "chg": "+52.96",
-      "pct": "+0.20%",
+      "value": "26,702.86",
+      "chg": "+9.99",
+      "pct": "+0.04%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,786.83",
-      "chg": "+1165.35",
-      "pct": "+2.26%",
+      "value": "52,856.09",
+      "chg": "+1234.61",
+      "pct": "+2.39%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,788.07",
-      "chg": "+58.54",
-      "pct": "+2.14%",
+      "value": "2,781.02",
+      "chg": "+51.49",
+      "pct": "+1.89%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.11%",
-      "chg": "+0.02",
-      "pct": "+0.43%",
+      "value": "5.15%",
+      "chg": "+0.06",
+      "pct": "+1.12%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.90",
-      "chg": "-4.51",
-      "pct": "-4.45%",
+      "value": "$97.71",
+      "chg": "-3.70",
+      "pct": "-3.65%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,154.60",
-      "chg": "-26.50",
-      "pct": "-0.63%",
+      "value": "$4,159.50",
+      "chg": "-21.60",
+      "pct": "-0.52%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.61",
-      "chg": "+0.15",
-      "pct": "+0.91%",
+      "value": "16.68",
+      "chg": "+0.22",
+      "pct": "+1.34%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
-      "url": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
+      "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+      "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
       "source": "CNBC",
-      "when": "2026-10-21T18:06:31.000Z"
+      "when": "2026-10-21T21:48:02.000Z"
     },
     {
-      "title": "GM aims to develop vehicles in as little as two years with AI, software push",
-      "url": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-      "source": "CNBC",
-      "when": "2026-10-21T18:03:55.000Z"
-    },
-    {
-      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-      "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
-      "source": "CNBC",
-      "when": "2026-10-21T17:51:21.000Z"
-    },
-    {
-      "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "source": "CNBC",
-      "when": "2026-10-21T17:45:23.000Z"
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "url": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T21:44:00.000Z"
     },
     {
       "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
       "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
       "source": "CNBC",
-      "when": "2026-10-21T17:34:00.000Z"
+      "when": "2026-10-21T21:41:23.000Z"
     },
     {
-      "title": "How Ukraine's drone strikes on Russia crippled the world's second-largest diesel supplier",
-      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-      "source": "CNBC",
-      "when": "2026-10-21T17:27:34.000Z"
-    },
-    {
-      "title": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
-      "url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
-      "source": "CNBC",
-      "when": "2026-10-21T17:14:14.000Z"
-    },
-    {
-      "title": "Intel hits construction milestone at Ohio chip fab that's at least 5 years behind schedule",
-      "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-      "source": "CNBC",
-      "when": "2026-10-21T16:55:51.000Z"
-    },
-    {
-      "title": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-      "url": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-21T16:35:48.000Z"
-    },
-    {
-      "title": "Medicare is a bargain. What America can't afford is private health insurance.",
-      "url": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
+      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "url": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-21T16:34:00.000Z"
+      "when": "2026-10-21T21:31:00.000Z"
     },
     {
-      "title": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
-      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
       "source": "CNBC",
-      "when": "2026-10-21T16:08:50.000Z"
+      "when": "2026-10-21T21:21:40.000Z"
     },
     {
-      "title": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
       "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
       "source": "CNBC",
-      "when": "2026-10-21T16:01:25.000Z"
+      "when": "2026-10-21T21:15:57.000Z"
     },
     {
-      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year's Day",
-      "url": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-21T15:59:00.000Z"
+      "when": "2026-10-21T21:14:00.000Z"
     },
     {
-      "title": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-      "url": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
+      "title": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "source": "CNBC",
-      "when": "2026-10-21T15:58:45.000Z"
+      "when": "2026-10-21T21:12:29.000Z"
+    },
+    {
+      "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-21T21:07:11.000Z"
+    },
+    {
+      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T21:00:00.000Z"
+    },
+    {
+      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "url": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T20:59:00.000Z"
+    },
+    {
+      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+      "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+      "source": "CNBC",
+      "when": "2026-10-21T20:57:12.000Z"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T20:31:00.000Z"
+    },
+    {
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T20:18:00.000Z"
     }
   ],
   "errors": [
