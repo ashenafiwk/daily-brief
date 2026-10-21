@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-21T07:19:30.327Z",
-  "fetchedLabel": "Oct 21, 3:19 AM ET",
+  "fetched": "2026-10-21T13:06:16.849Z",
+  "fetchedLabel": "Oct 21, 9:06 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "52,495.90",
-      "chg": "+825.80",
+      "value": "52,495.88",
+      "chg": "+825.78",
       "pct": "+1.60%",
       "dir": "up"
     },
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "5.12%",
-      "chg": "-0.07",
-      "pct": "-1.41%",
-      "dir": "down"
+      "value": "5.10%",
+      "chg": "+0.01",
+      "pct": "+0.14%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.04",
-      "chg": "-2.37",
-      "pct": "-2.34%",
+      "value": "$97.51",
+      "chg": "-3.90",
+      "pct": "-3.85%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,132.60",
-      "chg": "-48.50",
-      "pct": "-1.16%",
+      "value": "$4,146.30",
+      "chg": "-34.80",
+      "pct": "-0.83%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.31",
-      "chg": "+0.85",
-      "pct": "+5.16%",
+      "value": "17.13",
+      "chg": "+0.67",
+      "pct": "+4.07%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "source": "CNBC",
-      "when": "2026-10-21T07:08:25.000Z"
-    },
-    {
-      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
-      "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-      "source": "CNBC",
-      "when": "2026-10-21T07:03:48.000Z"
-    },
-    {
-      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-      "url": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-      "source": "CNBC",
-      "when": "2026-10-21T06:52:28.000Z"
-    },
-    {
-      "title": "Oil prices climb as traders assess Middle East developments",
+      "title": "Oil prices little changed as traders assess Middle East developments",
       "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
       "source": "CNBC",
-      "when": "2026-10-21T05:27:19.000Z"
+      "when": "2026-10-21T12:48:55.000Z"
     },
     {
-      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
-      "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+      "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+      "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
       "source": "CNBC",
-      "when": "2026-10-21T04:47:43.000Z"
+      "when": "2026-10-21T12:43:49.000Z"
     },
     {
-      "title": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-      "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+      "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+      "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
       "source": "CNBC",
-      "when": "2026-10-21T02:55:38.000Z"
+      "when": "2026-10-21T12:33:34.000Z"
     },
     {
-      "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
-      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-      "source": "CNBC",
-      "when": "2026-10-21T01:02:36.000Z"
-    },
-    {
-      "title": "Japan exports post huge miss in September as growth slows to 16.7%",
-      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-      "source": "CNBC",
-      "when": "2026-10-21T00:44:16.000Z"
-    },
-    {
-      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-      "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "title": "Heckler disrupts Nvidia CEO Huang's speech at Berlin conference",
+      "url": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-21T00:24:00.000Z"
+      "when": "2026-10-21T12:32:00.000Z"
     },
     {
-      "title": "Super Micro's stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T00:15:00.000Z"
-    },
-    {
-      "title": "Tesla's stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T00:14:00.000Z"
-    },
-    {
-      "title": "Netflix vows to revive viewership trends, but investors hit 'sell' on the stock",
-      "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T00:12:00.000Z"
-    },
-    {
-      "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+      "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
+      "url": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
       "source": "CNBC",
-      "when": "2026-10-20T23:34:14.000Z"
+      "when": "2026-10-21T12:31:32.000Z"
+    },
+    {
+      "title": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "source": "CNBC",
+      "when": "2026-10-21T12:23:13.000Z"
+    },
+    {
+      "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+      "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+      "source": "CNBC",
+      "when": "2026-10-21T12:21:07.000Z"
+    },
+    {
+      "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+      "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
+      "source": "CNBC",
+      "when": "2026-10-21T12:20:13.000Z"
+    },
+    {
+      "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+      "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+      "source": "CNBC",
+      "when": "2026-10-21T12:09:51.000Z"
     },
     {
       "title": "Why SpaceX's stock is surging — and lifting the broader AI universe along with it",
       "url": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-20T23:10:00.000Z"
+      "when": "2026-10-21T12:06:00.000Z"
+    },
+    {
+      "title": "Musk says he's exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
+      "url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T11:39:00.000Z"
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "source": "CNBC",
+      "when": "2026-10-21T11:20:58.000Z"
+    },
+    {
+      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T11:15:00.000Z"
+    },
+    {
+      "title": "House committee says Webull messages point to China access to U.S. customer data",
+      "url": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
+      "source": "CNBC",
+      "when": "2026-10-21T11:05:18.000Z"
     }
   ],
   "errors": [
