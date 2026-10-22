@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-22T05:52:38.300Z",
-  "fetchedLabel": "Oct 22, 1:52 AM ET",
+  "fetched": "2026-10-22T11:28:16.492Z",
+  "fetchedLabel": "Oct 22, 7:28 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.06",
-      "chg": "-4.60",
-      "pct": "-4.44%",
+      "value": "$99.05",
+      "chg": "-4.61",
+      "pct": "-4.45%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,094.20",
-      "chg": "-65.90",
-      "pct": "-1.58%",
+      "value": "$4,088.00",
+      "chg": "-72.10",
+      "pct": "-1.73%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "16.68",
-      "chg": "+0.22",
-      "pct": "+1.34%",
-      "dir": "up"
+      "value": "18.23",
+      "chg": "-1.76",
+      "pct": "-8.80%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+      "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-22T11:21:27.000Z"
+    },
+    {
+      "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
+      "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+      "source": "CNBC",
+      "when": "2026-10-22T11:21:02.000Z"
+    },
+    {
+      "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue",
+      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-22T11:11:32.000Z"
+    },
+    {
+      "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+      "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+      "source": "CNBC",
+      "when": "2026-10-22T11:00:02.000Z"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "source": "CNBC",
+      "when": "2026-10-22T10:49:16.000Z"
+    },
+    {
+      "title": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
+      "url": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
+      "source": "CNBC",
+      "when": "2026-10-22T10:43:38.000Z"
+    },
+    {
+      "title": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
       "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
       "source": "CNBC",
-      "when": "2026-10-22T05:18:24.000Z"
+      "when": "2026-10-22T10:42:21.000Z"
     },
     {
-      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-      "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+      "title": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
+      "url": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
       "source": "CNBC",
-      "when": "2026-10-22T04:35:54.000Z"
+      "when": "2026-10-22T10:30:01.000Z"
     },
     {
-      "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-      "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+      "title": "Trump's tariffs loom over Maine Senate race between Collins and Jackson",
+      "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
       "source": "CNBC",
-      "when": "2026-10-22T04:02:18.000Z"
+      "when": "2026-10-22T10:00:01.000Z"
     },
     {
-      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter's $50,000 debt. What happens to him now?",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "title": "Meta's stock falls in early trading amid broader sector selloff, despite well-received results",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T03:15:00.000Z"
+      "when": "2026-10-22T09:55:00.000Z"
     },
     {
-      "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
-      "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
       "source": "CNBC",
-      "when": "2026-10-22T02:20:50.000Z"
+      "when": "2026-10-22T09:25:09.000Z"
     },
     {
-      "title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
-      "url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+      "title": "Barclays to slash 5,000 jobs in AI efficiency push",
+      "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
       "source": "CNBC",
-      "when": "2026-10-22T02:18:29.000Z"
+      "when": "2026-10-22T09:23:59.000Z"
     },
     {
-      "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-      "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-      "source": "CNBC",
-      "when": "2026-10-22T02:01:48.000Z"
-    },
-    {
-      "title": "The Social Security Administration wants more babies signed up for 'Trump accounts.' But there's still a catch.",
-      "url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+      "title": "A top strategist has a warning for retail investors chasing the AI rally",
+      "url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T01:50:00.000Z"
+      "when": "2026-10-22T09:07:00.000Z"
     },
     {
-      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-      "url": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "source": "CNBC",
-      "when": "2026-10-22T01:21:10.000Z"
-    },
-    {
-      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "source": "CNBC",
-      "when": "2026-10-22T01:05:15.000Z"
-    },
-    {
-      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-      "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-      "source": "CNBC",
-      "when": "2026-10-22T00:53:01.000Z"
-    },
-    {
-      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-      "url": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+      "title": "Why a JPMorgan strategist says the stock market's tailspin might have run its course",
+      "url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T00:48:00.000Z"
-    },
-    {
-      "title": "Inside India newsletter: Asia's hottest data center market aims to quell concerns over water and power use",
-      "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
-      "source": "CNBC",
-      "when": "2026-10-22T00:07:48.000Z"
-    },
-    {
-      "title": "Tesla beats on earnings and sales even as auto revenue declines",
-      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "CNBC",
-      "when": "2026-10-21T23:32:04.000Z"
+      "when": "2026-10-22T09:04:00.000Z"
     }
   ],
   "errors": [
