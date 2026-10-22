@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-22T15:59:40.911Z",
-  "fetchedLabel": "Oct 22, 11:59 AM ET",
+  "fetched": "2026-10-22T19:59:09.467Z",
+  "fetchedLabel": "Oct 22, 3:59 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,672.47",
-      "chg": "-71.59",
-      "pct": "-0.92%",
+      "value": "7,660.58",
+      "chg": "-83.48",
+      "pct": "-1.08%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,153.39",
-      "chg": "-559.65",
-      "pct": "-2.10%",
+      "value": "25,999.41",
+      "chg": "-713.62",
+      "pct": "-2.67%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,828.40",
-      "chg": "+650.71",
-      "pct": "+1.25%",
+      "value": "52,848.01",
+      "chg": "+670.32",
+      "pct": "+1.28%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,773.47",
-      "chg": "+6.20",
-      "pct": "+0.22%",
+      "value": "2,776.28",
+      "chg": "+9.01",
+      "pct": "+0.33%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.00%",
-      "chg": "-0.10",
-      "pct": "-2.00%",
+      "value": "4.95%",
+      "chg": "-0.14",
+      "pct": "-2.84%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$98.35",
-      "chg": "-5.31",
-      "pct": "-5.12%",
+      "value": "$99.31",
+      "chg": "-4.35",
+      "pct": "-4.20%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,068.40",
-      "chg": "-91.70",
-      "pct": "-2.20%",
+      "value": "$4,040.30",
+      "chg": "-119.80",
+      "pct": "-2.88%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.80",
-      "chg": "-1.19",
-      "pct": "-5.95%",
+      "value": "19.77",
+      "chg": "-0.22",
+      "pct": "-1.10%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-      "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+      "title": "Reported fraud losses among older Americans hit $3 billion in 2025 as big losses surge: FTC report",
+      "url": "https://www.cnbc.com/2026/10/22/older-americans-fraud-losses-2025.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:52:16.000Z"
+      "when": "2026-10-22T19:39:51.000Z"
     },
     {
-      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "title": "Elon Musk invests about $1 billion in Skydance",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:52:00.000Z"
+      "when": "2026-10-22T19:34:46.000Z"
     },
     {
-      "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+      "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+      "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:48:37.000Z"
+      "when": "2026-10-22T19:34:18.000Z"
     },
     {
-      "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "source": "CNBC",
-      "when": "2026-10-22T15:45:57.000Z"
+      "title": "Moderna's cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
+      "url": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-22T19:31:00.000Z"
     },
     {
-      "title": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
-      "url": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
+      "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+      "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:45:57.000Z"
+      "when": "2026-10-22T19:26:33.000Z"
     },
     {
-      "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+      "title": "Is getting a wedding band from Quince a bad idea? 'It's a third of the price.'",
+      "url": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-22T19:25:00.000Z"
+    },
+    {
+      "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran",
       "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:36:13.000Z"
+      "when": "2026-10-22T19:19:41.000Z"
     },
     {
-      "title": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
-      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:35:55.000Z"
+      "when": "2026-10-22T19:09:11.000Z"
     },
     {
-      "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+      "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:35:50.000Z"
-    },
-    {
-      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-22T15:33:00.000Z"
-    },
-    {
-      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-      "source": "CNBC",
-      "when": "2026-10-22T15:20:12.000Z"
-    },
-    {
-      "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-      "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
-      "source": "CNBC",
-      "when": "2026-10-22T15:16:48.000Z"
-    },
-    {
-      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
-      "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
-      "source": "CNBC",
-      "when": "2026-10-22T15:16:05.000Z"
-    },
-    {
-      "title": "Investors' recent money moves show a preference for lowering risks over boosting rewards",
-      "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-22T15:10:00.000Z"
+      "when": "2026-10-22T19:05:32.000Z"
     },
     {
       "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
       "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
       "source": "CNBC",
-      "when": "2026-10-22T15:08:47.000Z"
+      "when": "2026-10-22T18:55:38.000Z"
+    },
+    {
+      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "source": "CNBC",
+      "when": "2026-10-22T18:51:44.000Z"
+    },
+    {
+      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "source": "CNBC",
+      "when": "2026-10-22T18:51:14.000Z"
+    },
+    {
+      "title": "The perfect storm behind the Nasdaq's rout — plus, some of the bright spots in the market",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+      "source": "CNBC",
+      "when": "2026-10-22T18:23:05.000Z"
+    },
+    {
+      "title": "AI debt and French bonds face a stress test — why it may not be over",
+      "url": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+      "source": "CNBC",
+      "when": "2026-10-22T18:13:37.000Z"
     }
   ],
   "errors": [
