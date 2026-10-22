@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-21T21:54:33.602Z",
-  "fetchedLabel": "Oct 21, 5:54 PM ET",
+  "fetched": "2026-10-22T00:30:36.369Z",
+  "fetchedLabel": "Oct 21, 8:30 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$97.71",
-      "chg": "-3.70",
-      "pct": "-3.65%",
+      "value": "$98.02",
+      "chg": "-3.39",
+      "pct": "-3.34%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,159.50",
-      "chg": "-21.60",
-      "pct": "-0.52%",
+      "value": "$4,137.80",
+      "chg": "-43.30",
+      "pct": "-1.04%",
       "dir": "down"
     },
     {
@@ -60,6 +60,42 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Inside India newsletter: Asia's hottest data center market aims to quell concerns over water and power use",
+      "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+      "source": "CNBC",
+      "when": "2026-10-22T00:07:48.000Z"
+    },
+    {
+      "title": "Tesla beats on earnings and sales even as auto revenue declines",
+      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+      "source": "CNBC",
+      "when": "2026-10-21T23:32:04.000Z"
+    },
+    {
+      "title": "Tesla's stock falls as Elon Musk leaves investors wanting more",
+      "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T23:29:00.000Z"
+    },
+    {
+      "title": "Meta's stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-21T23:07:00.000Z"
+    },
+    {
+      "title": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+      "source": "CNBC",
+      "when": "2026-10-21T22:50:35.000Z"
+    },
+    {
+      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-21T22:03:37.000Z"
+    },
     {
       "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
       "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
@@ -85,28 +121,10 @@
       "when": "2026-10-21T21:31:00.000Z"
     },
     {
-      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-      "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-21T21:21:40.000Z"
-    },
-    {
-      "title": "Tesla beats on earnings and sales even as auto revenue declines",
-      "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-      "source": "CNBC",
-      "when": "2026-10-21T21:15:57.000Z"
-    },
-    {
       "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
       "url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-21T21:14:00.000Z"
-    },
-    {
-      "title": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
-      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "source": "CNBC",
-      "when": "2026-10-21T21:12:29.000Z"
     },
     {
       "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
@@ -125,24 +143,6 @@
       "url": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-21T20:59:00.000Z"
-    },
-    {
-      "title": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-      "url": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
-      "source": "CNBC",
-      "when": "2026-10-21T20:57:12.000Z"
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T20:31:00.000Z"
-    },
-    {
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "url": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-21T20:18:00.000Z"
     }
   ],
   "errors": [
