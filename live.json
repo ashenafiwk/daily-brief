@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-22T11:28:16.492Z",
-  "fetchedLabel": "Oct 22, 7:28 AM ET",
+  "fetched": "2026-10-22T15:59:40.911Z",
+  "fetchedLabel": "Oct 22, 11:59 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,757.17",
-      "chg": "+38.23",
-      "pct": "+0.50%",
-      "dir": "up"
+      "value": "7,672.47",
+      "chg": "-71.59",
+      "pct": "-0.92%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,702.86",
-      "chg": "+9.99",
-      "pct": "+0.04%",
-      "dir": "up"
+      "value": "26,153.39",
+      "chg": "-559.65",
+      "pct": "-2.10%",
+      "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,856.09",
-      "chg": "+1234.61",
-      "pct": "+2.39%",
+      "value": "52,828.40",
+      "chg": "+650.71",
+      "pct": "+1.25%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,781.02",
-      "chg": "+51.49",
-      "pct": "+1.89%",
+      "value": "2,773.47",
+      "chg": "+6.20",
+      "pct": "+0.22%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.15%",
-      "chg": "+0.06",
-      "pct": "+1.12%",
-      "dir": "up"
+      "value": "5.00%",
+      "chg": "-0.10",
+      "pct": "-2.00%",
+      "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.05",
-      "chg": "-4.61",
-      "pct": "-4.45%",
+      "value": "$98.35",
+      "chg": "-5.31",
+      "pct": "-5.12%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,088.00",
-      "chg": "-72.10",
-      "pct": "-1.73%",
+      "value": "$4,068.40",
+      "chg": "-91.70",
+      "pct": "-2.20%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.23",
-      "chg": "-1.76",
-      "pct": "-8.80%",
+      "value": "18.80",
+      "chg": "-1.19",
+      "pct": "-5.95%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-      "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+      "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
       "source": "CNBC",
-      "when": "2026-10-22T11:21:27.000Z"
+      "when": "2026-10-22T15:52:16.000Z"
     },
     {
-      "title": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
-      "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
       "source": "CNBC",
-      "when": "2026-10-22T11:21:02.000Z"
+      "when": "2026-10-22T15:52:00.000Z"
     },
     {
-      "title": "American Airlines expects deeper 2026 loss on pricier fuel despite record revenue",
-      "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
       "source": "CNBC",
-      "when": "2026-10-22T11:11:32.000Z"
+      "when": "2026-10-22T15:48:37.000Z"
     },
     {
-      "title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
-      "url": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+      "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+      "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
       "source": "CNBC",
-      "when": "2026-10-22T11:00:02.000Z"
+      "when": "2026-10-22T15:45:57.000Z"
     },
     {
-      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "title": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
+      "url": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
       "source": "CNBC",
-      "when": "2026-10-22T10:49:16.000Z"
+      "when": "2026-10-22T15:45:57.000Z"
     },
     {
-      "title": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
-      "url": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
-      "source": "CNBC",
-      "when": "2026-10-22T10:43:38.000Z"
-    },
-    {
-      "title": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "title": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
       "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
       "source": "CNBC",
-      "when": "2026-10-22T10:42:21.000Z"
+      "when": "2026-10-22T15:36:13.000Z"
     },
     {
-      "title": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
-      "url": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
+      "title": "CoreWeave's market confidence erodes as bond yields spike and stock sinks",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "source": "CNBC",
-      "when": "2026-10-22T10:30:01.000Z"
+      "when": "2026-10-22T15:35:55.000Z"
     },
     {
-      "title": "Trump's tariffs loom over Maine Senate race between Collins and Jackson",
-      "url": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
+      "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
+      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
       "source": "CNBC",
-      "when": "2026-10-22T10:00:01.000Z"
+      "when": "2026-10-22T15:35:50.000Z"
     },
     {
-      "title": "Meta's stock falls in early trading amid broader sector selloff, despite well-received results",
-      "url": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T09:55:00.000Z"
+      "when": "2026-10-22T15:33:00.000Z"
     },
     {
-      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
       "source": "CNBC",
-      "when": "2026-10-22T09:25:09.000Z"
+      "when": "2026-10-22T15:20:12.000Z"
     },
     {
-      "title": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+      "title": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+      "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
       "source": "CNBC",
-      "when": "2026-10-22T09:23:59.000Z"
+      "when": "2026-10-22T15:16:48.000Z"
     },
     {
-      "title": "A top strategist has a warning for retail investors chasing the AI rally",
-      "url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-22T09:07:00.000Z"
+      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+      "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+      "source": "CNBC",
+      "when": "2026-10-22T15:16:05.000Z"
     },
     {
-      "title": "Why a JPMorgan strategist says the stock market's tailspin might have run its course",
-      "url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "title": "Investors' recent money moves show a preference for lowering risks over boosting rewards",
+      "url": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T09:04:00.000Z"
+      "when": "2026-10-22T15:10:00.000Z"
+    },
+    {
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "source": "CNBC",
+      "when": "2026-10-22T15:08:47.000Z"
     }
   ],
   "errors": [
