@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-23T07:13:38.175Z",
-  "fetchedLabel": "Oct 23, 3:13 AM ET",
+  "fetched": "2026-10-23T12:47:17.752Z",
+  "fetchedLabel": "Oct 23, 8:47 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "4.95%",
-      "chg": "-0.14",
-      "pct": "-2.84%",
+      "value": "4.98%",
+      "chg": "-0.15",
+      "pct": "-3.00%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.88",
-      "chg": "-2.78",
-      "pct": "-2.68%",
+      "value": "$101.15",
+      "chg": "-2.51",
+      "pct": "-2.42%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,027.20",
-      "chg": "-132.90",
-      "pct": "-3.19%",
+      "value": "$4,039.00",
+      "chg": "-121.10",
+      "pct": "-2.91%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "19.03",
-      "chg": "+0.59",
-      "pct": "+3.20%",
+      "value": "19.94",
+      "chg": "+1.50",
+      "pct": "+8.13%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-      "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+      "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it's prepared for warfare",
+      "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
       "source": "CNBC",
-      "when": "2026-10-23T06:15:54.000Z"
+      "when": "2026-10-23T12:46:11.000Z"
     },
     {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I'm crazy. Who's right?",
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+      "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "source": "CNBC",
+      "when": "2026-10-23T12:39:27.000Z"
+    },
+    {
+      "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
+      "url": "https://www.marketwatch.com/story/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-plain-english-when-talking-to-clients-2a16fc6f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-23T06:15:00.000Z"
+      "when": "2026-10-23T12:30:00.000Z"
     },
     {
-      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing's tax net widens",
-      "url": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-      "source": "CNBC",
-      "when": "2026-10-23T04:55:59.000Z"
-    },
-    {
-      "title": "Japan core inflation in September surges to its highest this year at 2.1%",
-      "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-23T00:55:11.000Z"
-    },
-    {
-      "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-      "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-      "source": "CNBC",
-      "when": "2026-10-23T00:46:09.000Z"
-    },
-    {
-      "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-      "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-      "source": "CNBC",
-      "when": "2026-10-22T23:45:50.000Z"
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "title": "It's been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
+      "url": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T23:15:00.000Z"
+      "when": "2026-10-23T12:23:00.000Z"
     },
     {
-      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-22T23:00:00.000Z"
-    },
-    {
-      "title": "CoreWeave set off a wave of anxiety — but Wall Street's dire prognosis is premature",
-      "url": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-22T22:54:00.000Z"
-    },
-    {
-      "title": "Meta's deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-      "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+      "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+      "url": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
       "source": "CNBC",
-      "when": "2026-10-22T22:21:08.000Z"
+      "when": "2026-10-23T12:22:10.000Z"
     },
     {
-      "title": "The U.S. stock market is fracturing into two camps, and it's leaving investors with a brutal case of whiplash",
-      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T22:17:00.000Z"
+      "when": "2026-10-23T12:16:00.000Z"
     },
     {
-      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here's what's going on.",
-      "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "title": "Higher interest rates have made family offices pickier about investing in real estate",
+      "url": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
+      "source": "CNBC",
+      "when": "2026-10-23T12:15:03.000Z"
+    },
+    {
+      "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+      "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+      "source": "CNBC",
+      "when": "2026-10-23T12:12:18.000Z"
+    },
+    {
+      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "source": "CNBC",
+      "when": "2026-10-23T12:11:48.000Z"
+    },
+    {
+      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+      "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "source": "CNBC",
+      "when": "2026-10-23T12:08:30.000Z"
+    },
+    {
+      "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
+      "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+      "source": "CNBC",
+      "when": "2026-10-23T11:58:40.000Z"
+    },
+    {
+      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
+      "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-22T22:07:00.000Z"
+      "when": "2026-10-23T11:32:00.000Z"
     },
     {
-      "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-      "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-      "source": "CNBC",
-      "when": "2026-10-22T22:02:34.000Z"
+      "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-23T11:24:00.000Z"
     },
     {
-      "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
       "source": "CNBC",
-      "when": "2026-10-22T21:58:42.000Z"
+      "when": "2026-10-23T11:16:30.000Z"
     }
   ],
   "errors": [
