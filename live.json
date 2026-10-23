@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-23T12:47:17.752Z",
-  "fetchedLabel": "Oct 23, 8:47 AM ET",
+  "fetched": "2026-10-23T17:47:45.261Z",
+  "fetchedLabel": "Oct 23, 1:47 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,663.43",
-      "chg": "-80.63",
-      "pct": "-1.04%",
+      "value": "7,633.12",
+      "chg": "-26.32",
+      "pct": "-0.34%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,008.86",
-      "chg": "-704.17",
-      "pct": "-2.64%",
+      "value": "25,999.04",
+      "chg": "-140.99",
+      "pct": "-0.54%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,867.98",
-      "chg": "+690.29",
-      "pct": "+1.32%",
+      "value": "52,261.97",
+      "chg": "+259.56",
+      "pct": "+0.50%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,784.03",
-      "chg": "+16.76",
-      "pct": "+0.61%",
+      "value": "2,773.49",
+      "chg": "+52.12",
+      "pct": "+1.92%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.98%",
+      "value": "4.99%",
       "chg": "-0.15",
-      "pct": "-3.00%",
+      "pct": "-2.92%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.15",
-      "chg": "-2.51",
-      "pct": "-2.42%",
+      "value": "$103.27",
+      "chg": "-0.39",
+      "pct": "-0.38%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,039.00",
-      "chg": "-121.10",
-      "pct": "-2.91%",
+      "value": "$4,007.60",
+      "chg": "-152.50",
+      "pct": "-3.67%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "19.94",
-      "chg": "+1.50",
-      "pct": "+8.13%",
+      "value": "20.16",
+      "chg": "+1.72",
+      "pct": "+9.33%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it's prepared for warfare",
-      "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:46:11.000Z"
+      "when": "2026-10-23T17:42:30.000Z"
     },
     {
-      "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-      "url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:39:27.000Z"
+      "when": "2026-10-23T17:41:25.000Z"
     },
     {
-      "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
-      "url": "https://www.marketwatch.com/story/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-plain-english-when-talking-to-clients-2a16fc6f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T12:30:00.000Z"
-    },
-    {
-      "title": "It's been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
-      "url": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T12:23:00.000Z"
-    },
-    {
-      "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
-      "url": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+      "title": "Investors are starting to find opportunities in the battered bond market",
+      "url": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:22:10.000Z"
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T12:16:00.000Z"
-    },
-    {
-      "title": "Higher interest rates have made family offices pickier about investing in real estate",
-      "url": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
-      "source": "CNBC",
-      "when": "2026-10-23T12:15:03.000Z"
+      "when": "2026-10-23T17:40:31.000Z"
     },
     {
       "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
       "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:12:18.000Z"
+      "when": "2026-10-23T17:26:23.000Z"
+    },
+    {
+      "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
+      "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
+      "source": "CNBC",
+      "when": "2026-10-23T17:26:12.000Z"
+    },
+    {
+      "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-10-23T17:25:29.000Z"
+    },
+    {
+      "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "source": "CNBC",
+      "when": "2026-10-23T17:21:10.000Z"
+    },
+    {
+      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
+      "url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
+      "source": "CNBC",
+      "when": "2026-10-23T17:15:08.000Z"
+    },
+    {
+      "title": "'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-23T17:00:00.000Z"
+    },
+    {
+      "title": "AI's 'Black October': Critical PHP flaws set off global security scramble",
+      "url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+      "source": "CNBC",
+      "when": "2026-10-23T16:55:37.000Z"
     },
     {
       "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
       "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:11:48.000Z"
+      "when": "2026-10-23T16:51:21.000Z"
     },
     {
-      "title": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
-      "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+      "title": "College campuses have (largely) gone silent. Can practicing small talk and phone-free spaces change that?",
+      "url": "https://www.cnbc.com/make-it/2026/10/23/college-students-socializing-less-campus-life.html",
       "source": "CNBC",
-      "when": "2026-10-23T12:08:30.000Z"
+      "when": "2026-10-23T16:44:35.000Z"
     },
     {
-      "title": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
-      "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-      "source": "CNBC",
-      "when": "2026-10-23T11:58:40.000Z"
-    },
-    {
-      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-      "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different sh...",
+      "url": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-23T11:32:00.000Z"
+      "when": "2026-10-23T16:41:00.000Z"
     },
     {
-      "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T11:24:00.000Z"
-    },
-    {
-      "title": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+      "url": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
       "source": "CNBC",
-      "when": "2026-10-23T11:16:30.000Z"
+      "when": "2026-10-23T16:32:44.000Z"
     }
   ],
   "errors": [
