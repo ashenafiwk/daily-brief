@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-23T01:47:45.584Z",
-  "fetchedLabel": "Oct 22, 9:47 PM ET",
+  "fetched": "2026-10-23T07:13:38.175Z",
+  "fetchedLabel": "Oct 23, 3:13 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,44 +39,50 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$99.64",
-      "chg": "-4.02",
-      "pct": "-3.88%",
+      "value": "$100.88",
+      "chg": "-2.78",
+      "pct": "-2.68%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,030.50",
-      "chg": "-129.60",
-      "pct": "-3.12%",
+      "value": "$4,027.20",
+      "chg": "-132.90",
+      "pct": "-3.19%",
       "dir": "down"
     },
     {
       "name": "VIX",
       "value": "19.03",
-      "chg": "-0.96",
-      "pct": "-4.80%",
-      "dir": "down"
+      "chg": "+0.59",
+      "pct": "+3.20%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+      "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+      "source": "CNBC",
+      "when": "2026-10-23T06:15:54.000Z"
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I'm crazy. Who's right?",
+      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-23T06:15:00.000Z"
+    },
+    {
       "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing's tax net widens",
       "url": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
       "source": "CNBC",
-      "when": "2026-10-23T01:23:12.000Z"
+      "when": "2026-10-23T04:55:59.000Z"
     },
     {
       "title": "Japan core inflation in September surges to its highest this year at 2.1%",
       "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
       "source": "CNBC",
       "when": "2026-10-23T00:55:11.000Z"
-    },
-    {
-      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-      "source": "CNBC",
-      "when": "2026-10-23T00:53:36.000Z"
     },
     {
       "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
       "source": "CNBC",
       "when": "2026-10-22T21:58:42.000Z"
-    },
-    {
-      "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-      "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "source": "CNBC",
-      "when": "2026-10-22T21:52:02.000Z"
     }
   ],
   "errors": [
