@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-24T09:02:07.872Z",
-  "fetchedLabel": "Oct 24, 5:02 AM ET",
+  "fetched": "2026-10-24T13:30:51.513Z",
+  "fetchedLabel": "Oct 24, 9:30 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "title": "My niece's college rent is covered by a 529 plan. What else can I pay for tax-free?",
+      "url": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-24T08:00:00.000Z"
+      "when": "2026-10-24T13:28:00.000Z"
+    },
+    {
+      "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+      "url": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+      "source": "CNBC",
+      "when": "2026-10-24T13:05:01.000Z"
+    },
+    {
+      "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+      "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "source": "CNBC",
+      "when": "2026-10-24T13:00:35.000Z"
     },
     {
       "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
       "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-24T07:00:00.000Z"
+      "when": "2026-10-24T13:00:00.000Z"
     },
     {
-      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "title": "Why popular airplanes are getting scrapped years early",
+      "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
       "source": "CNBC",
-      "when": "2026-10-24T06:41:14.000Z"
+      "when": "2026-10-24T12:59:59.000Z"
     },
     {
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-      "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+      "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+      "url": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
       "source": "CNBC",
-      "when": "2026-10-24T06:23:02.000Z"
+      "when": "2026-10-24T12:48:32.000Z"
     },
     {
-      "title": "What a day in customer service looks like — as AI changes everything",
-      "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-      "source": "CNBC",
-      "when": "2026-10-24T05:00:01.000Z"
-    },
-    {
-      "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-      "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-      "source": "CNBC",
-      "when": "2026-10-23T22:49:42.000Z"
-    },
-    {
-      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-23T22:49:00.000Z"
+      "when": "2026-10-24T12:30:00.000Z"
     },
     {
-      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-      "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-      "source": "CNBC",
-      "when": "2026-10-23T22:27:06.000Z"
-    },
-    {
-      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T22:00:00.000Z"
-    },
-    {
-      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn't work out.",
-      "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T21:46:00.000Z"
-    },
-    {
-      "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-      "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-      "source": "CNBC",
-      "when": "2026-10-23T21:26:59.000Z"
-    },
-    {
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T21:13:00.000Z"
-    },
-    {
-      "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here's what the latest developments mean.",
-      "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-23T21:11:00.000Z"
-    },
-    {
-      "title": "The real test for Moderna's cancer vaccine isn't about beating Keytruda. It's keeping cancer from coming back in the long term.",
+      "title": "Moderna's cancer vaccine is 'likely' to get approved. Skeptics question if it will be the best option.",
       "url": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-23T21:06:00.000Z"
+      "when": "2026-10-24T12:25:00.000Z"
+    },
+    {
+      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+      "url": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can't bear...",
+      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T12:00:00.000Z"
+    },
+    {
+      "title": "'Non-answers' aren't working. This is what investors really need from the Fed.",
+      "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T11:30:00.000Z"
+    },
+    {
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+      "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "source": "CNBC",
+      "when": "2026-10-24T11:00:01.000Z"
+    },
+    {
+      "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
+      "url": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T11:00:00.000Z"
+    },
+    {
+      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+      "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+      "source": "CNBC",
+      "when": "2026-10-24T10:59:16.000Z"
     }
   ],
   "errors": [
