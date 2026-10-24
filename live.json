@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-23T23:56:16.183Z",
-  "fetchedLabel": "Oct 23, 7:56 PM ET",
+  "fetched": "2026-10-24T04:20:54.468Z",
+  "fetchedLabel": "Oct 24, 12:20 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,16 +61,16 @@
   ],
   "headlines": [
     {
+      "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+      "source": "CNBC",
+      "when": "2026-10-24T01:57:24.000Z"
+    },
+    {
       "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
       "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
       "source": "CNBC",
       "when": "2026-10-23T22:49:42.000Z"
-    },
-    {
-      "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-      "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-      "source": "CNBC",
-      "when": "2026-10-23T22:49:04.000Z"
     },
     {
       "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
