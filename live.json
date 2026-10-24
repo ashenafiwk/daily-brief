@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-24T19:41:00.873Z",
-  "fetchedLabel": "Oct 24, 3:41 PM ET",
+  "fetched": "2026-10-24T22:19:05.591Z",
+  "fetchedLabel": "Oct 24, 6:19 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,40 @@
   ],
   "headlines": [
     {
-      "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-      "url": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
+      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
       "source": "CNBC",
-      "when": "2026-10-24T18:56:29.000Z"
+      "when": "2026-10-24T21:07:01.000Z"
+    },
+    {
+      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+      "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "source": "CNBC",
+      "when": "2026-10-24T20:38:30.000Z"
+    },
+    {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter's $50,000 debt. How can I keep him from becoming destitute?",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T20:15:00.000Z"
+    },
+    {
+      "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T20:00:00.000Z"
+    },
+    {
+      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+      "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+      "source": "CNBC",
+      "when": "2026-10-24T19:57:24.000Z"
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can't bear...",
+      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-24T19:45:00.000Z"
     },
     {
       "title": "Young Americans are giving up on car ownership. It's a path to financial freedom for some.",
@@ -91,12 +121,6 @@
       "when": "2026-10-24T17:23:00.000Z"
     },
     {
-      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-      "source": "CNBC",
-      "when": "2026-10-24T17:22:21.000Z"
-    },
-    {
       "title": "Elon Musk promised a SpaceX share to every kid in America — don't hold your breath",
       "url": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -119,30 +143,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
       "source": "CNBC",
       "when": "2026-10-24T16:14:00.000Z"
-    },
-    {
-      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "url": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-24T16:04:00.000Z"
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-24T16:00:00.000Z"
-    },
-    {
-      "title": "Money-saving habits to cope with higher prices — from our readers",
-      "url": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-24T15:27:00.000Z"
-    },
-    {
-      "title": "Why popular airplanes are getting scrapped years early",
-      "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-      "source": "CNBC",
-      "when": "2026-10-24T15:18:30.000Z"
     }
   ],
   "errors": [
