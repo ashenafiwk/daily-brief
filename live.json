@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-25T14:31:04.452Z",
-  "fetchedLabel": "Oct 25, 10:31 AM ET",
+  "fetched": "2026-10-25T18:16:17.534Z",
+  "fetchedLabel": "Oct 25, 2:16 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,64 @@
   ],
   "headlines": [
     {
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter's $50,000 debt. How can I keep him from becoming destitute?",
+      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T18:00:00.000Z"
+    },
+    {
+      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I'm crazy. Who's right?",
+      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T17:00:00.000Z"
+    },
+    {
+      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
+      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T16:45:00.000Z"
+    },
+    {
+      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "source": "CNBC",
+      "when": "2026-10-25T16:42:42.000Z"
+    },
+    {
+      "title": "Here are 4 big things we're watching in the stock market this week",
+      "url": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source": "CNBC",
+      "when": "2026-10-25T14:58:26.000Z"
+    },
+    {
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-25T14:30:00.000Z"
+    },
+    {
       "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
       "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
       "source": "CNBC",
       "when": "2026-10-25T14:14:23.000Z"
+    },
+    {
+      "title": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
+      "url": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
+      "source": "CNBC",
+      "when": "2026-10-25T14:00:01.000Z"
     },
     {
       "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -89,60 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
       "source": "CNBC",
       "when": "2026-10-25T13:41:37.000Z"
-    },
-    {
-      "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-      "url": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T13:00:00.000Z"
-    },
-    {
-      "title": "'Nonanswers' aren't working. This is what investors really need from the Fed.",
-      "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T12:44:00.000Z"
-    },
-    {
-      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-      "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-      "source": "CNBC",
-      "when": "2026-10-25T12:00:01.000Z"
-    },
-    {
-      "title": "Marc Lore's Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-      "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-      "source": "CNBC",
-      "when": "2026-10-25T12:00:01.000Z"
-    },
-    {
-      "title": "Why economic health no longer dictates stock-market returns",
-      "url": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T12:00:00.000Z"
-    },
-    {
-      "title": "Here's the real signal to watch for the Fed's next move",
-      "url": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T11:30:00.000Z"
-    },
-    {
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-      "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-      "source": "CNBC",
-      "when": "2026-10-25T08:06:11.000Z"
-    },
-    {
-      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-      "source": "CNBC",
-      "when": "2026-10-24T21:07:01.000Z"
-    },
-    {
-      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-      "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-      "source": "CNBC",
-      "when": "2026-10-24T20:38:30.000Z"
     }
   ],
   "errors": [
