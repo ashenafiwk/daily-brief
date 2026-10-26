@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-25T23:28:14.248Z",
-  "fetchedLabel": "Oct 25, 7:28 PM ET",
+  "fetched": "2026-10-26T01:34:58.216Z",
+  "fetchedLabel": "Oct 25, 9:34 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.28",
-      "chg": "+0.49",
-      "pct": "+0.48%",
-      "dir": "up"
+      "value": "$101.40",
+      "chg": "-0.39",
+      "pct": "-0.38%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,010.50",
-      "chg": "-132.10",
-      "pct": "-3.19%",
+      "value": "$4,007.80",
+      "chg": "-134.80",
+      "pct": "-3.25%",
       "dir": "down"
     },
     {
@@ -61,10 +61,34 @@
   ],
   "headlines": [
     {
+      "title": "Brazil's Lula wins presidential election in runoff vote",
+      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "source": "CNBC",
+      "when": "2026-10-26T01:10:46.000Z"
+    },
+    {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "source": "CNBC",
+      "when": "2026-10-26T00:37:51.000Z"
+    },
+    {
+      "title": "Behind 'Mad Money' was a brilliant writer viewers never saw. We lost him too soon",
+      "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+      "source": "CNBC",
+      "when": "2026-10-26T00:28:36.000Z"
+    },
+    {
       "title": "'Ticking time bomb': The world's pension funds face an ageing crisis",
       "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
       "source": "CNBC",
-      "when": "2026-10-25T23:19:12.000Z"
+      "when": "2026-10-26T00:03:20.000Z"
+    },
+    {
+      "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
+      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "source": "CNBC",
+      "when": "2026-10-25T23:55:22.000Z"
     },
     {
       "title": "More pain may be coming for the AI trade. Why I'm not giving up on it",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-25T17:00:00.000Z"
-    },
-    {
-      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-      "source": "CNBC",
-      "when": "2026-10-25T16:42:42.000Z"
-    },
-    {
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T14:30:00.000Z"
-    },
-    {
-      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-      "source": "CNBC",
-      "when": "2026-10-25T14:14:23.000Z"
-    },
-    {
-      "title": "I paid off $11,000 of credit card debt in 18 months while still traveling, shopping and living my life",
-      "url": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
-      "source": "CNBC",
-      "when": "2026-10-25T14:00:01.000Z"
     }
   ],
   "errors": [
