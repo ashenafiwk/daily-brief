@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-26T14:59:53.300Z",
-  "fetchedLabel": "Oct 26, 10:59 AM ET",
+  "fetched": "2026-10-26T20:25:47.893Z",
+  "fetchedLabel": "Oct 26, 4:25 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,695.83",
-      "chg": "+5.10",
-      "pct": "+0.07%",
-      "dir": "up"
+      "value": "7,676.77",
+      "chg": "-13.96",
+      "pct": "-0.18%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,272.63",
-      "chg": "-158.26",
-      "pct": "-0.60%",
+      "value": "26,169.38",
+      "chg": "-261.51",
+      "pct": "-0.99%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,471.38",
-      "chg": "+505.35",
-      "pct": "+0.97%",
+      "value": "52,361.58",
+      "chg": "+395.55",
+      "pct": "+0.76%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,793.78",
-      "chg": "+65.48",
-      "pct": "+2.40%",
+      "value": "2,786.42",
+      "chg": "+58.12",
+      "pct": "+2.13%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.97%",
-      "chg": "-0.15",
-      "pct": "-2.91%",
+      "value": "4.99%",
+      "chg": "-0.13",
+      "pct": "-2.56%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.10",
-      "chg": "+3.95",
-      "pct": "+4.07%",
+      "value": "$101.58",
+      "chg": "+4.43",
+      "pct": "+4.56%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,031.80",
-      "chg": "-118.20",
-      "pct": "-2.85%",
+      "value": "$4,026.10",
+      "chg": "-123.90",
+      "pct": "-2.99%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.02",
-      "chg": "+0.71",
-      "pct": "+4.10%",
+      "value": "18.43",
+      "chg": "+1.12",
+      "pct": "+6.47%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-      "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-      "source": "CNBC",
-      "when": "2026-10-26T14:57:08.000Z"
-    },
-    {
-      "title": "Two stock picks to capitalize on Wall Street's misguided AI fears",
-      "url": "https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-26T14:47:00.000Z"
+      "when": "2026-10-26T20:15:00.000Z"
     },
     {
-      "title": "Trump says he'll soon decide whether to 'make a deal' with Iran or 'finish it off'",
-      "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+      "title": "Sorry investors, but there's no such thing as an early 'Santa Claus rally.' Here's when the real gains typically happen.",
+      "url": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T20:09:00.000Z"
+    },
+    {
+      "title": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+      "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
       "source": "CNBC",
-      "when": "2026-10-26T14:36:03.000Z"
+      "when": "2026-10-26T20:08:57.000Z"
+    },
+    {
+      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-26T20:03:58.000Z"
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can't bear...",
+      "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T20:00:00.000Z"
+    },
+    {
+      "title": "The house, the kids' college and the raise: Where people in their 30s and 40s go wrong",
+      "url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T19:42:00.000Z"
     },
     {
       "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
       "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-26T14:15:00.000Z"
+      "when": "2026-10-26T19:30:00.000Z"
     },
     {
-      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-      "source": "CNBC",
-      "when": "2026-10-26T14:09:38.000Z"
-    },
-    {
-      "title": "Meta announces $95 billion stock offering to fund AI expansion",
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "source": "CNBC",
-      "when": "2026-10-26T14:05:36.000Z"
-    },
-    {
-      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
-      "url": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
-      "source": "CNBC",
-      "when": "2026-10-26T14:00:01.000Z"
-    },
-    {
-      "title": "The excitement around Moderna's cancer vaccine is cooling. Here's why.",
-      "url": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
+      "title": "'You need only watch episodes of Judge Judy': I'm in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-26T13:50:00.000Z"
+      "when": "2026-10-26T19:30:00.000Z"
     },
     {
-      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "title": "McDonald's new bet on chicken hits a snag as franchisees say the birds are too big",
+      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T19:17:00.000Z"
+    },
+    {
+      "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+      "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
       "source": "CNBC",
-      "when": "2026-10-26T13:43:14.000Z"
+      "when": "2026-10-26T18:51:23.000Z"
     },
     {
-      "title": "Retail investors are getting cold feet about stocks, just when the market needs them most",
-      "url": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T13:37:00.000Z"
-    },
-    {
-      "title": "The stock market's biggest test in weeks is here",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T13:33:00.000Z"
-    },
-    {
-      "title": "The 5 big voting issues in the midterm elections that will impact your wallet",
-      "url": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T13:30:00.000Z"
-    },
-    {
-      "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
       "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
       "source": "CNBC",
-      "when": "2026-10-26T13:28:57.000Z"
+      "when": "2026-10-26T18:50:05.000Z"
     },
     {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "url": "https://www.cnbc.com/investingclub/2026/10/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "title": "J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean",
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
       "source": "CNBC",
-      "when": "2026-10-26T13:20:55.000Z"
+      "when": "2026-10-26T18:45:33.000Z"
+    },
+    {
+      "title": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+      "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+      "source": "CNBC",
+      "when": "2026-10-26T18:43:25.000Z"
+    },
+    {
+      "title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+      "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+      "source": "CNBC",
+      "when": "2026-10-26T18:37:01.000Z"
     }
   ],
   "errors": [
