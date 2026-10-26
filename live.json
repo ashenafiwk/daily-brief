@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-26T01:34:58.216Z",
-  "fetchedLabel": "Oct 25, 9:34 PM ET",
+  "fetched": "2026-10-26T07:36:03.320Z",
+  "fetchedLabel": "Oct 26, 3:36 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,32 +39,62 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.40",
-      "chg": "-0.39",
-      "pct": "-0.38%",
-      "dir": "down"
+      "value": "$101.41",
+      "chg": "+4.26",
+      "pct": "+4.38%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,007.80",
-      "chg": "-134.80",
-      "pct": "-3.25%",
+      "value": "$4,019.80",
+      "chg": "-130.20",
+      "pct": "-3.14%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "19.45",
-      "chg": "+1.01",
-      "pct": "+5.48%",
+      "value": "19.70",
+      "chg": "+2.39",
+      "pct": "+13.81%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Brazil's Lula wins presidential election in runoff vote",
+      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+      "url": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+      "source": "CNBC",
+      "when": "2026-10-26T06:00:01.000Z"
+    },
+    {
+      "title": "'Ticking time bomb': The world's pension funds face an ageing crisis",
+      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+      "source": "CNBC",
+      "when": "2026-10-26T05:22:30.000Z"
+    },
+    {
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "source": "CNBC",
+      "when": "2026-10-26T05:18:01.000Z"
+    },
+    {
+      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
+      "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+      "source": "CNBC",
+      "when": "2026-10-26T04:56:16.000Z"
+    },
+    {
+      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
       "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
       "source": "CNBC",
-      "when": "2026-10-26T01:10:46.000Z"
+      "when": "2026-10-26T04:09:41.000Z"
+    },
+    {
+      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+      "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T01:50:00.000Z"
     },
     {
       "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
@@ -77,12 +107,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
       "source": "CNBC",
       "when": "2026-10-26T00:28:36.000Z"
-    },
-    {
-      "title": "'Ticking time bomb': The world's pension funds face an ageing crisis",
-      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-      "source": "CNBC",
-      "when": "2026-10-26T00:03:20.000Z"
     },
     {
       "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
@@ -119,30 +143,6 @@
       "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-25T19:30:00.000Z"
-    },
-    {
-      "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink terms during drone operations",
-      "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-      "source": "CNBC",
-      "when": "2026-10-25T18:18:49.000Z"
-    },
-    {
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter's $50,000 debt. How can I keep him from becoming destitute?",
-      "url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T18:00:00.000Z"
-    },
-    {
-      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-      "url": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T17:00:00.000Z"
-    },
-    {
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I'm crazy. Who's right?",
-      "url": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-25T17:00:00.000Z"
     }
   ],
   "errors": [
