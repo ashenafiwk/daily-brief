@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-26T07:36:03.320Z",
-  "fetchedLabel": "Oct 26, 3:36 AM ET",
+  "fetched": "2026-10-26T14:59:53.300Z",
+  "fetchedLabel": "Oct 26, 10:59 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,623.68",
-      "chg": "-35.76",
-      "pct": "-0.47%",
-      "dir": "down"
+      "value": "7,695.83",
+      "chg": "+5.10",
+      "pct": "+0.07%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "25,955.34",
-      "chg": "-184.69",
-      "pct": "-0.71%",
+      "value": "26,272.63",
+      "chg": "-158.26",
+      "pct": "-0.60%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,215.16",
-      "chg": "+212.75",
-      "pct": "+0.41%",
+      "value": "52,471.38",
+      "chg": "+505.35",
+      "pct": "+0.97%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,775.90",
-      "chg": "+54.53",
-      "pct": "+2.00%",
+      "value": "2,793.78",
+      "chg": "+65.48",
+      "pct": "+2.40%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.99%",
+      "value": "4.97%",
       "chg": "-0.15",
-      "pct": "-2.88%",
+      "pct": "-2.91%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.41",
-      "chg": "+4.26",
-      "pct": "+4.38%",
+      "value": "$101.10",
+      "chg": "+3.95",
+      "pct": "+4.07%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,019.80",
-      "chg": "-130.20",
-      "pct": "-3.14%",
+      "value": "$4,031.80",
+      "chg": "-118.20",
+      "pct": "-2.85%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "19.70",
-      "chg": "+2.39",
-      "pct": "+13.81%",
+      "value": "18.02",
+      "chg": "+0.71",
+      "pct": "+4.10%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-      "url": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+      "title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+      "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
       "source": "CNBC",
-      "when": "2026-10-26T06:00:01.000Z"
+      "when": "2026-10-26T14:57:08.000Z"
     },
     {
-      "title": "'Ticking time bomb': The world's pension funds face an ageing crisis",
-      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-      "source": "CNBC",
-      "when": "2026-10-26T05:22:30.000Z"
+      "title": "Two stock picks to capitalize on Wall Street's misguided AI fears",
+      "url": "https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T14:47:00.000Z"
     },
     {
-      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "title": "Trump says he'll soon decide whether to 'make a deal' with Iran or 'finish it off'",
+      "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
       "source": "CNBC",
-      "when": "2026-10-26T05:18:01.000Z"
+      "when": "2026-10-26T14:36:03.000Z"
     },
     {
-      "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-      "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-      "source": "CNBC",
-      "when": "2026-10-26T04:56:16.000Z"
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-26T14:15:00.000Z"
     },
     {
-      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
       "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
       "source": "CNBC",
-      "when": "2026-10-26T04:09:41.000Z"
+      "when": "2026-10-26T14:09:38.000Z"
     },
     {
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-      "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+      "title": "Meta announces $95 billion stock offering to fund AI expansion",
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "source": "CNBC",
+      "when": "2026-10-26T14:05:36.000Z"
+    },
+    {
+      "title": "Mortgage rates above 7% are the 'new normal'—here's why",
+      "url": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+      "source": "CNBC",
+      "when": "2026-10-26T14:00:01.000Z"
+    },
+    {
+      "title": "The excitement around Moderna's cancer vaccine is cooling. Here's why.",
+      "url": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-26T01:50:00.000Z"
+      "when": "2026-10-26T13:50:00.000Z"
     },
     {
-      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-      "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
       "source": "CNBC",
-      "when": "2026-10-26T00:37:51.000Z"
+      "when": "2026-10-26T13:43:14.000Z"
     },
     {
-      "title": "Behind 'Mad Money' was a brilliant writer viewers never saw. We lost him too soon",
-      "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
-      "source": "CNBC",
-      "when": "2026-10-26T00:28:36.000Z"
-    },
-    {
-      "title": "In pictures: Protests over inequality, rising living costs turn violent across France",
-      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-      "source": "CNBC",
-      "when": "2026-10-25T23:55:22.000Z"
-    },
-    {
-      "title": "More pain may be coming for the AI trade. Why I'm not giving up on it",
-      "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
-      "source": "CNBC",
-      "when": "2026-10-25T21:13:50.000Z"
-    },
-    {
-      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-      "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-      "source": "CNBC",
-      "when": "2026-10-25T20:28:55.000Z"
-    },
-    {
-      "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "title": "Retail investors are getting cold feet about stocks, just when the market needs them most",
+      "url": "https://www.marketwatch.com/story/retail-investors-are-getting-cold-feet-about-stocks-just-when-the-market-needs-them-most-00a5c9c8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-25T20:15:00.000Z"
+      "when": "2026-10-26T13:37:00.000Z"
     },
     {
-      "title": "'I don't feel sorry for myself': I'm 64 and will be renting for the rest of my life. Is that so bad?",
-      "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "title": "The stock market's biggest test in weeks is here",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-25T20:00:00.000Z"
+      "when": "2026-10-26T13:33:00.000Z"
     },
     {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "title": "The 5 big voting issues in the midterm elections that will impact your wallet",
+      "url": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-25T19:30:00.000Z"
+      "when": "2026-10-26T13:30:00.000Z"
+    },
+    {
+      "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+      "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+      "source": "CNBC",
+      "when": "2026-10-26T13:28:57.000Z"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "url": "https://www.cnbc.com/investingclub/2026/10/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source": "CNBC",
+      "when": "2026-10-26T13:20:55.000Z"
     }
   ],
   "errors": [
