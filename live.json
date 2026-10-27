@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-27T05:25:58.436Z",
-  "fetchedLabel": "Oct 27, 1:25 AM ET",
+  "fetched": "2026-10-27T10:50:14.939Z",
+  "fetchedLabel": "Oct 27, 6:50 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.70",
-      "chg": "+1.23",
-      "pct": "+1.24%",
+      "value": "$101.75",
+      "chg": "+2.28",
+      "pct": "+2.29%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,020.20",
-      "chg": "-40.20",
-      "pct": "-0.99%",
+      "value": "$4,013.40",
+      "chg": "-47.00",
+      "pct": "-1.16%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.39",
-      "chg": "+1.08",
-      "pct": "+6.24%",
+      "value": "18.33",
+      "chg": "+1.65",
+      "pct": "+9.89%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+      "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
       "source": "CNBC",
-      "when": "2026-10-27T05:13:02.000Z"
+      "when": "2026-10-27T10:49:45.000Z"
     },
     {
-      "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
       "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
       "source": "CNBC",
-      "when": "2026-10-27T05:09:59.000Z"
+      "when": "2026-10-27T10:41:01.000Z"
     },
     {
-      "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-      "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+      "title": "CRE debt is due, presenting a 'massive' opportunity",
+      "url": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
       "source": "CNBC",
-      "when": "2026-10-27T04:40:30.000Z"
+      "when": "2026-10-27T10:35:51.000Z"
     },
     {
-      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "title": "Coca-Cola is about to report earnings. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-27T04:12:50.000Z"
+      "when": "2026-10-27T10:25:02.000Z"
     },
     {
-      "title": "What gave this city its 'best place to retire' crown? You can actually afford to live there.",
-      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "title": "UPS beats quarterly expectations, raises full-year guidance again",
+      "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-27T10:24:01.000Z"
+    },
+    {
+      "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
+      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T04:01:00.000Z"
+      "when": "2026-10-27T10:15:00.000Z"
     },
     {
-      "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
-      "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+      "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
       "source": "CNBC",
-      "when": "2026-10-27T03:34:08.000Z"
+      "when": "2026-10-27T10:08:51.000Z"
     },
     {
-      "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-      "source": "CNBC",
-      "when": "2026-10-27T03:30:04.000Z"
+      "title": "Customers are chasing higher-rate products. That's bad news for banks like HSBC.",
+      "url": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T10:02:00.000Z"
     },
     {
-      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
+      "url": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
       "source": "CNBC",
-      "when": "2026-10-27T02:37:31.000Z"
+      "when": "2026-10-27T10:00:01.000Z"
     },
     {
-      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-      "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
       "source": "CNBC",
-      "when": "2026-10-27T01:24:28.000Z"
+      "when": "2026-10-27T09:07:41.000Z"
     },
     {
-      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "source": "CNBC",
-      "when": "2026-10-27T01:05:06.000Z"
+      "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
+      "url": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T09:02:00.000Z"
     },
     {
-      "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-      "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-      "source": "CNBC",
-      "when": "2026-10-27T00:17:44.000Z"
+      "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of 'Big Bang Theory' and 'Two and a Half Men' fame",
+      "url": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T08:58:00.000Z"
     },
     {
-      "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-      "url": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+      "title": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
+      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
       "source": "CNBC",
-      "when": "2026-10-26T23:10:16.000Z"
+      "when": "2026-10-27T08:28:01.000Z"
     },
     {
-      "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+      "title": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
+      "url": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
       "source": "CNBC",
-      "when": "2026-10-26T22:50:07.000Z"
-    },
-    {
-      "title": "Israeli election draws tens of thousands of citizens flying back to vote",
-      "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
-      "source": "CNBC",
-      "when": "2026-10-26T22:46:35.000Z"
+      "when": "2026-10-27T07:16:35.000Z"
     }
   ],
   "errors": [
