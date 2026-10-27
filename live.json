@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-27T16:17:35.747Z",
-  "fetchedLabel": "Oct 27, 12:17 PM ET",
+  "fetched": "2026-10-27T20:51:58.502Z",
+  "fetchedLabel": "Oct 27, 4:51 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,726.89",
-      "chg": "+14.32",
-      "pct": "+0.19%",
+      "value": "7,722.60",
+      "chg": "+10.03",
+      "pct": "+0.13%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,505.84",
-      "chg": "+81.02",
-      "pct": "+0.31%",
+      "value": "26,477.81",
+      "chg": "+52.99",
+      "pct": "+0.20%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,396.48",
-      "chg": "-99.40",
-      "pct": "-0.19%",
+      "value": "52,377.57",
+      "chg": "-118.31",
+      "pct": "-0.23%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,815.66",
-      "chg": "+42.24",
-      "pct": "+1.52%",
+      "value": "2,818.87",
+      "chg": "+45.45",
+      "pct": "+1.64%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
       "value": "4.99%",
-      "chg": "-0.16",
-      "pct": "-3.07%",
+      "chg": "-0.15",
+      "pct": "-2.97%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.04",
-      "chg": "+0.57",
-      "pct": "+0.57%",
+      "value": "$100.26",
+      "chg": "+0.79",
+      "pct": "+0.79%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,075.50",
-      "chg": "+15.10",
-      "pct": "+0.37%",
+      "value": "$4,073.20",
+      "chg": "+12.80",
+      "pct": "+0.32%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.54",
-      "chg": "+0.86",
-      "pct": "+5.16%",
+      "value": "17.52",
+      "chg": "+0.84",
+      "pct": "+5.04%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+      "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
       "source": "CNBC",
-      "when": "2026-10-27T16:15:35.000Z"
+      "when": "2026-10-27T20:48:38.000Z"
     },
     {
-      "title": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
-      "url": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
-      "source": "CNBC",
-      "when": "2026-10-27T16:13:07.000Z"
+      "title": "The big reason Boeing's stock is falling so hard after earnings",
+      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T20:43:00.000Z"
     },
     {
-      "title": "Lula's election win leaves Brazil facing a fiscal tightrope",
-      "url": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
+      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+      "url": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
       "source": "CNBC",
-      "when": "2026-10-27T16:12:05.000Z"
+      "when": "2026-10-27T20:42:17.000Z"
     },
     {
-      "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-      "source": "CNBC",
-      "when": "2026-10-27T16:04:46.000Z"
+      "title": "How Broadcom's stock can surge and overcome 'the biggest dislocation in the market'",
+      "url": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T20:40:00.000Z"
     },
     {
-      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+      "title": "Robinhood shares fall 5% as crypto slump weighs on profits, offsetting gains in new businesses",
+      "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-27T15:52:26.000Z"
+      "when": "2026-10-27T20:39:49.000Z"
     },
     {
-      "title": "Anthropic's IPO is risky business",
-      "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-      "source": "CNBC",
-      "when": "2026-10-27T15:51:41.000Z"
+      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T20:38:00.000Z"
     },
     {
-      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "source": "CNBC",
-      "when": "2026-10-27T15:48:32.000Z"
-    },
-    {
-      "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
       "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-27T15:45:49.000Z"
-    },
-    {
-      "title": "Man charged with assisting 'foreign intelligence service' after incident at UK base used for Iran strikes",
-      "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "source": "CNBC",
-      "when": "2026-10-27T15:41:11.000Z"
-    },
-    {
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T15:34:00.000Z"
+      "when": "2026-10-27T20:32:24.000Z"
     },
     {
       "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
       "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T15:30:00.000Z"
+      "when": "2026-10-27T20:30:00.000Z"
     },
     {
-      "title": "UPS beats quarterly expectations, raises full-year guidance again",
-      "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "title": "What gold and platinum are telling us about the stock market's direction",
+      "url": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T20:30:00.000Z"
+    },
+    {
+      "title": "Speaker Mike Johnson calls election-transfer concerns 'absurd'",
+      "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
       "source": "CNBC",
-      "when": "2026-10-27T15:29:49.000Z"
+      "when": "2026-10-27T20:28:56.000Z"
     },
     {
-      "title": "McDonald's new bet on chicken hits a snag as franchisees say the birds are too big",
-      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T15:27:00.000Z"
+      "title": "JetBlue stock surges as company outlook calms investors",
+      "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-27T20:13:21.000Z"
     },
     {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "title": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+      "url": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T15:25:00.000Z"
+      "when": "2026-10-27T20:00:00.000Z"
+    },
+    {
+      "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
+      "url": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-27T19:57:35.000Z"
+    },
+    {
+      "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+      "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+      "source": "CNBC",
+      "when": "2026-10-27T19:51:41.000Z"
     }
   ],
   "errors": [
