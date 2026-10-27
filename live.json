@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-27T10:50:14.939Z",
-  "fetchedLabel": "Oct 27, 6:50 AM ET",
+  "fetched": "2026-10-27T16:17:35.747Z",
+  "fetchedLabel": "Oct 27, 12:17 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,676.77",
-      "chg": "-13.96",
-      "pct": "-0.18%",
-      "dir": "down"
-    },
-    {
-      "name": "Nasdaq",
-      "value": "26,169.38",
-      "chg": "-261.51",
-      "pct": "-0.99%",
-      "dir": "down"
-    },
-    {
-      "name": "Dow 30",
-      "value": "52,361.58",
-      "chg": "+395.55",
-      "pct": "+0.76%",
+      "value": "7,726.89",
+      "chg": "+14.32",
+      "pct": "+0.19%",
       "dir": "up"
     },
     {
+      "name": "Nasdaq",
+      "value": "26,505.84",
+      "chg": "+81.02",
+      "pct": "+0.31%",
+      "dir": "up"
+    },
+    {
+      "name": "Dow 30",
+      "value": "52,396.48",
+      "chg": "-99.40",
+      "pct": "-0.19%",
+      "dir": "down"
+    },
+    {
       "name": "Russell 2000",
-      "value": "2,786.42",
-      "chg": "+58.12",
-      "pct": "+2.13%",
+      "value": "2,815.66",
+      "chg": "+42.24",
+      "pct": "+1.52%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
       "value": "4.99%",
-      "chg": "-0.13",
-      "pct": "-2.56%",
+      "chg": "-0.16",
+      "pct": "-3.07%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.75",
-      "chg": "+2.28",
-      "pct": "+2.29%",
+      "value": "$100.04",
+      "chg": "+0.57",
+      "pct": "+0.57%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,013.40",
-      "chg": "-47.00",
-      "pct": "-1.16%",
-      "dir": "down"
+      "value": "$4,075.50",
+      "chg": "+15.10",
+      "pct": "+0.37%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "18.33",
-      "chg": "+1.65",
-      "pct": "+9.89%",
+      "value": "17.54",
+      "chg": "+0.86",
+      "pct": "+5.16%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-      "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
       "source": "CNBC",
-      "when": "2026-10-27T10:49:45.000Z"
+      "when": "2026-10-27T16:15:35.000Z"
     },
     {
-      "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+      "title": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
+      "url": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
+      "source": "CNBC",
+      "when": "2026-10-27T16:13:07.000Z"
+    },
+    {
+      "title": "Lula's election win leaves Brazil facing a fiscal tightrope",
+      "url": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
+      "source": "CNBC",
+      "when": "2026-10-27T16:12:05.000Z"
+    },
+    {
+      "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
       "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
       "source": "CNBC",
-      "when": "2026-10-27T10:41:01.000Z"
+      "when": "2026-10-27T16:04:46.000Z"
     },
     {
-      "title": "CRE debt is due, presenting a 'massive' opportunity",
-      "url": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
       "source": "CNBC",
-      "when": "2026-10-27T10:35:51.000Z"
+      "when": "2026-10-27T15:52:26.000Z"
     },
     {
-      "title": "Coca-Cola is about to report earnings. Here's what to expect",
-      "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "title": "Anthropic's IPO is risky business",
+      "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
       "source": "CNBC",
-      "when": "2026-10-27T10:25:02.000Z"
+      "when": "2026-10-27T15:51:41.000Z"
+    },
+    {
+      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "source": "CNBC",
+      "when": "2026-10-27T15:48:32.000Z"
+    },
+    {
+      "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+      "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-27T15:45:49.000Z"
+    },
+    {
+      "title": "Man charged with assisting 'foreign intelligence service' after incident at UK base used for Iran strikes",
+      "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+      "source": "CNBC",
+      "when": "2026-10-27T15:41:11.000Z"
+    },
+    {
+      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
+      "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T15:34:00.000Z"
+    },
+    {
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T15:30:00.000Z"
     },
     {
       "title": "UPS beats quarterly expectations, raises full-year guidance again",
       "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-27T10:24:01.000Z"
+      "when": "2026-10-27T15:29:49.000Z"
     },
     {
-      "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
-      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "title": "McDonald's new bet on chicken hits a snag as franchisees say the birds are too big",
+      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T10:15:00.000Z"
+      "when": "2026-10-27T15:27:00.000Z"
     },
     {
-      "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-      "url": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-      "source": "CNBC",
-      "when": "2026-10-27T10:08:51.000Z"
-    },
-    {
-      "title": "Customers are chasing higher-rate products. That's bad news for banks like HSBC.",
-      "url": "https://www.marketwatch.com/story/customers-are-chasing-higher-rate-products-and-thats-bad-news-for-banks-like-hsbc-3a6ec793?mod=mw_rss_topstories",
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T10:02:00.000Z"
-    },
-    {
-      "title": "Silicon Valley AI political groups turn on each other in the 2026 election",
-      "url": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
-      "source": "CNBC",
-      "when": "2026-10-27T10:00:01.000Z"
-    },
-    {
-      "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
-      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
-      "source": "CNBC",
-      "when": "2026-10-27T09:07:41.000Z"
-    },
-    {
-      "title": "Designer Betsey Johnson takes $7 million SoCal home off the market",
-      "url": "https://www.marketwatch.com/story/designer-betsey-johnson-takes-7-million-socal-home-off-the-market-1f027f0e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T09:02:00.000Z"
-    },
-    {
-      "title": "The impressive real estate portfolio of sitcom producer Chuck Lorre of 'Big Bang Theory' and 'Two and a Half Men' fame",
-      "url": "https://www.marketwatch.com/story/the-impressive-real-estate-portfolio-of-sitcom-producer-chuck-lorre-of-big-bang-theory-and-two-and-a-half-men-fame-f8e43ed4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T08:58:00.000Z"
-    },
-    {
-      "title": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
-      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-      "source": "CNBC",
-      "when": "2026-10-27T08:28:01.000Z"
-    },
-    {
-      "title": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
-      "url": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
-      "source": "CNBC",
-      "when": "2026-10-27T07:16:35.000Z"
+      "when": "2026-10-27T15:25:00.000Z"
     }
   ],
   "errors": [
