@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-27T00:01:31.972Z",
-  "fetchedLabel": "Oct 26, 8:01 PM ET",
+  "fetched": "2026-10-27T05:25:58.436Z",
+  "fetchedLabel": "Oct 27, 1:25 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.53",
-      "chg": "+4.38",
-      "pct": "+4.51%",
+      "value": "$100.70",
+      "chg": "+1.23",
+      "pct": "+1.24%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,018.60",
-      "chg": "-131.40",
-      "pct": "-3.17%",
+      "value": "$4,020.20",
+      "chg": "-40.20",
+      "pct": "-0.99%",
       "dir": "down"
     },
     {
@@ -61,10 +61,70 @@
   ],
   "headlines": [
     {
+      "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+      "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+      "source": "CNBC",
+      "when": "2026-10-27T05:13:02.000Z"
+    },
+    {
+      "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+      "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-27T05:09:59.000Z"
+    },
+    {
+      "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+      "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+      "source": "CNBC",
+      "when": "2026-10-27T04:40:30.000Z"
+    },
+    {
+      "title": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-27T04:12:50.000Z"
+    },
+    {
+      "title": "What gave this city its 'best place to retire' crown? You can actually afford to live there.",
+      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-27T04:01:00.000Z"
+    },
+    {
+      "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+      "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+      "source": "CNBC",
+      "when": "2026-10-27T03:34:08.000Z"
+    },
+    {
+      "title": "DOJ charges ex-FBI Director James Comey in new case",
+      "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "source": "CNBC",
+      "when": "2026-10-27T03:30:04.000Z"
+    },
+    {
+      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+      "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+      "source": "CNBC",
+      "when": "2026-10-27T02:37:31.000Z"
+    },
+    {
+      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "source": "CNBC",
+      "when": "2026-10-27T01:24:28.000Z"
+    },
+    {
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "source": "CNBC",
+      "when": "2026-10-27T01:05:06.000Z"
+    },
+    {
       "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
       "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
       "source": "CNBC",
-      "when": "2026-10-26T23:51:07.000Z"
+      "when": "2026-10-27T00:17:44.000Z"
     },
     {
       "title": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
@@ -83,66 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
       "source": "CNBC",
       "when": "2026-10-26T22:46:35.000Z"
-    },
-    {
-      "title": "'You need only watch episodes of Judge Judy': I'm in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T22:30:00.000Z"
-    },
-    {
-      "title": "DOJ charges ex-FBI Director James Comey in new case",
-      "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-      "source": "CNBC",
-      "when": "2026-10-26T22:24:36.000Z"
-    },
-    {
-      "title": "Dividend stocks are having an excellent October as tech sector struggles",
-      "url": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T22:10:00.000Z"
-    },
-    {
-      "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
-      "url": "https://www.cnbc.com/2026/10/26/jim-cramer-ipos-capital-raises-bull-market.html",
-      "source": "CNBC",
-      "when": "2026-10-26T22:09:35.000Z"
-    },
-    {
-      "title": "Options traders are seizing control of the S&P 500",
-      "url": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T22:03:00.000Z"
-    },
-    {
-      "title": "TikTok parent ByteDance's chatbot is now giving travel-booking sites a run for their money. And yours.",
-      "url": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T22:00:00.000Z"
-    },
-    {
-      "title": "Over 40% of Americans are heading toward retirement 'blind' — with no plan",
-      "url": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T21:55:00.000Z"
-    },
-    {
-      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-      "url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T21:46:00.000Z"
-    },
-    {
-      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-26T21:44:00.000Z"
-    },
-    {
-      "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-      "url": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-      "source": "CNBC",
-      "when": "2026-10-26T21:38:17.000Z"
     }
   ],
   "errors": [
