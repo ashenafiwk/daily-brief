@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-28T13:24:36.007Z",
-  "fetchedLabel": "Oct 28, 9:24 AM ET",
+  "fetched": "2026-10-28T19:01:00.079Z",
+  "fetchedLabel": "Oct 28, 3:01 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,722.60",
-      "chg": "+10.03",
-      "pct": "+0.13%",
-      "dir": "up"
+      "value": "7,737.44",
+      "chg": "-19.73",
+      "pct": "-0.25%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,477.81",
-      "chg": "+52.99",
-      "pct": "+0.20%",
-      "dir": "up"
+      "value": "26,499.90",
+      "chg": "-202.96",
+      "pct": "-0.76%",
+      "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,377.57",
-      "chg": "-118.31",
-      "pct": "-0.23%",
+      "value": "52,421.23",
+      "chg": "-434.86",
+      "pct": "-0.82%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,818.87",
-      "chg": "+45.45",
-      "pct": "+1.64%",
+      "value": "2,821.52",
+      "chg": "+40.50",
+      "pct": "+1.46%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.00%",
-      "chg": "+0.04",
-      "pct": "+0.85%",
+      "value": "5.02%",
+      "chg": "+0.06",
+      "pct": "+1.27%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.66",
-      "chg": "-1.61",
-      "pct": "-1.56%",
+      "value": "$102.63",
+      "chg": "-0.64",
+      "pct": "-0.62%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,067.40",
-      "chg": "+59.50",
-      "pct": "+1.48%",
+      "value": "$4,071.20",
+      "chg": "+63.30",
+      "pct": "+1.58%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.32",
-      "chg": "-1.71",
-      "pct": "-8.99%",
+      "value": "17.23",
+      "chg": "-1.80",
+      "pct": "-9.46%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-      "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
+      "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
+      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
       "source": "CNBC",
-      "when": "2026-10-28T13:21:49.000Z"
+      "when": "2026-10-28T18:58:55.000Z"
     },
     {
-      "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-      "url": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-      "source": "CNBC",
-      "when": "2026-10-28T13:20:54.000Z"
-    },
-    {
-      "title": "Why China is desperate to ship cars outside of the country",
-      "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-      "source": "CNBC",
-      "when": "2026-10-28T13:17:20.000Z"
-    },
-    {
-      "title": "Stellantis stock rises as automaker's turnaround plan, cost cuts gain traction",
-      "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "source": "CNBC",
-      "when": "2026-10-28T13:15:26.000Z"
-    },
-    {
-      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-      "source": "CNBC",
-      "when": "2026-10-28T13:09:08.000Z"
-    },
-    {
-      "title": "At least 64 people dead in high-speed Spain train crash",
-      "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-      "source": "CNBC",
-      "when": "2026-10-28T13:01:49.000Z"
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "url": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "source": "CNBC",
-      "when": "2026-10-28T12:56:05.000Z"
-    },
-    {
-      "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
-      "url": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+      "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T12:54:00.000Z"
+      "when": "2026-10-28T18:58:00.000Z"
     },
     {
-      "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-      "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
-      "source": "CNBC",
-      "when": "2026-10-28T12:52:41.000Z"
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T18:56:00.000Z"
     },
     {
-      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-      "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T18:56:00.000Z"
+    },
+    {
+      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+      "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
       "source": "CNBC",
-      "when": "2026-10-28T12:49:09.000Z"
+      "when": "2026-10-28T18:44:40.000Z"
+    },
+    {
+      "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+      "source": "CNBC",
+      "when": "2026-10-28T18:33:53.000Z"
+    },
+    {
+      "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+      "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+      "source": "CNBC",
+      "when": "2026-10-28T18:32:45.000Z"
+    },
+    {
+      "title": "I'm planning a trip to Europe. Is it dumb to take travel advice from influencers?",
+      "url": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T18:30:00.000Z"
+    },
+    {
+      "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+      "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+      "source": "CNBC",
+      "when": "2026-10-28T18:22:14.000Z"
+    },
+    {
+      "title": "Here is what changed in the new Fed statement",
+      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-28T18:06:50.000Z"
+    },
+    {
+      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+      "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+      "source": "CNBC",
+      "when": "2026-10-28T18:01:20.000Z"
+    },
+    {
+      "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+      "source": "CNBC",
+      "when": "2026-10-28T17:56:10.000Z"
     },
     {
       "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
       "url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T12:48:00.000Z"
+      "when": "2026-10-28T17:44:00.000Z"
     },
     {
-      "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-      "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T12:45:00.000Z"
-    },
-    {
-      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
       "source": "CNBC",
-      "when": "2026-10-28T12:37:51.000Z"
-    },
-    {
-      "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
-      "url": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T12:34:00.000Z"
+      "when": "2026-10-28T17:39:43.000Z"
     }
   ],
   "errors": [
