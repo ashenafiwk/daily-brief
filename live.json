@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-28T19:01:00.079Z",
-  "fetchedLabel": "Oct 28, 3:01 PM ET",
+  "fetched": "2026-10-28T23:25:51.201Z",
+  "fetchedLabel": "Oct 28, 7:25 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,737.44",
-      "chg": "-19.73",
-      "pct": "-0.25%",
+      "value": "7,743.98",
+      "chg": "-13.19",
+      "pct": "-0.17%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "26,499.90",
-      "chg": "-202.96",
-      "pct": "-0.76%",
+      "value": "26,549.85",
+      "chg": "-153.01",
+      "pct": "-0.57%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,421.23",
-      "chg": "-434.86",
-      "pct": "-0.82%",
+      "value": "52,475.10",
+      "chg": "-380.99",
+      "pct": "-0.72%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,821.52",
-      "chg": "+40.50",
-      "pct": "+1.46%",
+      "value": "2,830.51",
+      "chg": "+49.49",
+      "pct": "+1.78%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.02%",
-      "chg": "+0.06",
-      "pct": "+1.27%",
+      "value": "5.05%",
+      "chg": "+0.09",
+      "pct": "+1.86%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.63",
-      "chg": "-0.64",
-      "pct": "-0.62%",
+      "value": "$101.95",
+      "chg": "-1.32",
+      "pct": "-1.28%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,071.20",
-      "chg": "+63.30",
-      "pct": "+1.58%",
+      "value": "$4,067.90",
+      "chg": "+60.00",
+      "pct": "+1.50%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.23",
-      "chg": "-1.80",
-      "pct": "-9.46%",
+      "value": "16.91",
+      "chg": "-2.12",
+      "pct": "-11.14%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Oracle stock pops 13% as long-term revenue forecast and clarity on financing ease debt concerns",
-      "url": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
       "source": "CNBC",
-      "when": "2026-10-28T18:58:55.000Z"
+      "when": "2026-10-28T23:24:37.000Z"
     },
     {
-      "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
-      "url": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
+      "title": "Fortinet's stock is taking a dive after earnings. Here's why.",
+      "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T18:58:00.000Z"
+      "when": "2026-10-28T23:18:00.000Z"
     },
     {
-      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
-      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T18:56:00.000Z"
+      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "source": "CNBC",
+      "when": "2026-10-28T23:17:17.000Z"
     },
     {
-      "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
-      "url": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
+      "title": "ServiceNow's stock slides as earnings miss overshadows a raised AI outlook",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T18:56:00.000Z"
+      "when": "2026-10-28T23:02:00.000Z"
+    },
+    {
+      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T22:41:00.000Z"
+    },
+    {
+      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+      "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+      "source": "CNBC",
+      "when": "2026-10-28T22:38:41.000Z"
+    },
+    {
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source": "CNBC",
+      "when": "2026-10-28T22:34:56.000Z"
+    },
+    {
+      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-28T22:27:00.000Z"
+    },
+    {
+      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+      "url": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T22:25:00.000Z"
+    },
+    {
+      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+      "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-28T22:12:28.000Z"
+    },
+    {
+      "title": "Lumentum's stock pops as investors cheer a possible sale to Marvell",
+      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T22:08:00.000Z"
+    },
+    {
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-28T22:07:17.000Z"
     },
     {
       "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
       "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
       "source": "CNBC",
-      "when": "2026-10-28T18:44:40.000Z"
+      "when": "2026-10-28T22:04:19.000Z"
     },
     {
-      "title": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-      "url": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-      "source": "CNBC",
-      "when": "2026-10-28T18:33:53.000Z"
-    },
-    {
-      "title": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-      "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-      "source": "CNBC",
-      "when": "2026-10-28T18:32:45.000Z"
-    },
-    {
-      "title": "I'm planning a trip to Europe. Is it dumb to take travel advice from influencers?",
-      "url": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
+      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T18:30:00.000Z"
-    },
-    {
-      "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-      "url": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-      "source": "CNBC",
-      "when": "2026-10-28T18:22:14.000Z"
-    },
-    {
-      "title": "Here is what changed in the new Fed statement",
-      "url": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-28T18:06:50.000Z"
-    },
-    {
-      "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-      "url": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-      "source": "CNBC",
-      "when": "2026-10-28T18:01:20.000Z"
-    },
-    {
-      "title": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
-      "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-      "source": "CNBC",
-      "when": "2026-10-28T17:56:10.000Z"
-    },
-    {
-      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-      "url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T17:44:00.000Z"
-    },
-    {
-      "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-      "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-      "source": "CNBC",
-      "when": "2026-10-28T17:39:43.000Z"
+      "when": "2026-10-28T22:00:00.000Z"
     }
   ],
   "errors": [
