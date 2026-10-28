@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-28T00:20:19.041Z",
-  "fetchedLabel": "Oct 27, 8:20 PM ET",
+  "fetched": "2026-10-28T06:06:49.898Z",
+  "fetchedLabel": "Oct 28, 2:06 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$100.37",
-      "chg": "+0.90",
-      "pct": "+0.90%",
-      "dir": "up"
+      "value": "$101.43",
+      "chg": "-1.84",
+      "pct": "-1.78%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,082.60",
-      "chg": "+22.20",
-      "pct": "+0.55%",
+      "value": "$4,045.10",
+      "chg": "+37.20",
+      "pct": "+0.93%",
       "dir": "up"
     },
     {
@@ -61,16 +61,70 @@
   ],
   "headlines": [
     {
+      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
+      "url": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+      "source": "CNBC",
+      "when": "2026-10-28T05:58:39.000Z"
+    },
+    {
+      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "source": "CNBC",
+      "when": "2026-10-28T05:54:33.000Z"
+    },
+    {
+      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+      "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-10-28T05:52:51.000Z"
+    },
+    {
+      "title": "Meta- and Google-backed Jio Platforms' shares soar over 21% on trading debut after record IPO",
+      "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "source": "CNBC",
+      "when": "2026-10-28T05:16:41.000Z"
+    },
+    {
+      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+      "source": "CNBC",
+      "when": "2026-10-28T04:29:20.000Z"
+    },
+    {
+      "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+      "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+      "source": "CNBC",
+      "when": "2026-10-28T03:33:53.000Z"
+    },
+    {
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+      "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+      "source": "CNBC",
+      "when": "2026-10-28T03:02:44.000Z"
+    },
+    {
+      "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+      "url": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-28T02:57:36.000Z"
+    },
+    {
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+      "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+      "source": "CNBC",
+      "when": "2026-10-28T02:15:55.000Z"
+    },
+    {
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T02:15:00.000Z"
+    },
+    {
       "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
       "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
       "source": "CNBC",
       "when": "2026-10-28T00:14:24.000Z"
-    },
-    {
-      "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-      "source": "CNBC",
-      "when": "2026-10-28T00:09:17.000Z"
     },
     {
       "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
@@ -89,60 +143,6 @@
       "url": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-27T22:51:00.000Z"
-    },
-    {
-      "title": "Speaker Mike Johnson calls election-transfer concerns 'absurd'",
-      "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-      "source": "CNBC",
-      "when": "2026-10-27T22:35:25.000Z"
-    },
-    {
-      "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "url": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-      "source": "CNBC",
-      "when": "2026-10-27T22:24:19.000Z"
-    },
-    {
-      "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-      "source": "CNBC",
-      "when": "2026-10-27T22:18:59.000Z"
-    },
-    {
-      "title": "'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T22:18:00.000Z"
-    },
-    {
-      "title": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-      "url": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-27T21:58:48.000Z"
-    },
-    {
-      "title": "CoreWeave and other AI stocks rise as Anthropic restores the market's faith in sustained spending",
-      "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T21:41:00.000Z"
-    },
-    {
-      "title": "As Trump touts energy companies' fortunes, U.S. consumers face the most expensive year for gas prices ever",
-      "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T21:29:00.000Z"
-    },
-    {
-      "title": "The rest of the market is leaving Big Tech behind after a historic comeback",
-      "url": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-27T21:28:00.000Z"
-    },
-    {
-      "title": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
-      "url": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
-      "source": "CNBC",
-      "when": "2026-10-27T21:24:06.000Z"
     }
   ],
   "errors": [
