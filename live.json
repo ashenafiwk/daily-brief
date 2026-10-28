@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-28T06:06:49.898Z",
-  "fetchedLabel": "Oct 28, 2:06 AM ET",
+  "fetched": "2026-10-28T13:24:36.007Z",
+  "fetchedLabel": "Oct 28, 9:24 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -32,117 +32,117 @@
     },
     {
       "name": "10Y Treasury",
-      "value": "4.99%",
-      "chg": "-0.15",
-      "pct": "-2.97%",
-      "dir": "down"
+      "value": "5.00%",
+      "chg": "+0.04",
+      "pct": "+0.85%",
+      "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.43",
-      "chg": "-1.84",
-      "pct": "-1.78%",
+      "value": "$101.66",
+      "chg": "-1.61",
+      "pct": "-1.56%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,045.10",
-      "chg": "+37.20",
-      "pct": "+0.93%",
+      "value": "$4,067.40",
+      "chg": "+59.50",
+      "pct": "+1.48%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "17.52",
-      "chg": "+0.84",
-      "pct": "+5.04%",
-      "dir": "up"
+      "value": "17.32",
+      "chg": "-1.71",
+      "pct": "-8.99%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-      "url": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+      "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
+      "url": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
       "source": "CNBC",
-      "when": "2026-10-28T05:58:39.000Z"
+      "when": "2026-10-28T13:21:49.000Z"
     },
     {
-      "title": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
-      "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+      "url": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
       "source": "CNBC",
-      "when": "2026-10-28T05:54:33.000Z"
+      "when": "2026-10-28T13:20:54.000Z"
     },
     {
-      "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-      "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "title": "Why China is desperate to ship cars outside of the country",
+      "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
       "source": "CNBC",
-      "when": "2026-10-28T05:52:51.000Z"
+      "when": "2026-10-28T13:17:20.000Z"
     },
     {
-      "title": "Meta- and Google-backed Jio Platforms' shares soar over 21% on trading debut after record IPO",
-      "url": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+      "title": "Stellantis stock rises as automaker's turnaround plan, cost cuts gain traction",
+      "url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
       "source": "CNBC",
-      "when": "2026-10-28T05:16:41.000Z"
+      "when": "2026-10-28T13:15:26.000Z"
     },
     {
-      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
+      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "source": "CNBC",
+      "when": "2026-10-28T13:09:08.000Z"
+    },
+    {
+      "title": "At least 64 people dead in high-speed Spain train crash",
+      "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+      "source": "CNBC",
+      "when": "2026-10-28T13:01:49.000Z"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "CNBC",
+      "when": "2026-10-28T12:56:05.000Z"
+    },
+    {
+      "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
+      "url": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T12:54:00.000Z"
+    },
+    {
+      "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+      "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+      "source": "CNBC",
+      "when": "2026-10-28T12:52:41.000Z"
+    },
+    {
+      "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
       "url": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
       "source": "CNBC",
-      "when": "2026-10-28T04:29:20.000Z"
+      "when": "2026-10-28T12:49:09.000Z"
     },
     {
-      "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
-      "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
-      "source": "CNBC",
-      "when": "2026-10-28T03:33:53.000Z"
-    },
-    {
-      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-      "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-      "source": "CNBC",
-      "when": "2026-10-28T03:02:44.000Z"
-    },
-    {
-      "title": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-      "url": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-28T02:57:36.000Z"
-    },
-    {
-      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-      "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-      "source": "CNBC",
-      "when": "2026-10-28T02:15:55.000Z"
-    },
-    {
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
+      "url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-28T02:15:00.000Z"
+      "when": "2026-10-28T12:48:00.000Z"
     },
     {
-      "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-      "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-      "source": "CNBC",
-      "when": "2026-10-28T00:14:24.000Z"
-    },
-    {
-      "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "url": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-      "source": "CNBC",
-      "when": "2026-10-27T23:50:03.000Z"
-    },
-    {
-      "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "source": "CNBC",
-      "when": "2026-10-27T23:03:09.000Z"
-    },
-    {
-      "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
-      "url": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+      "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
+      "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-27T22:51:00.000Z"
+      "when": "2026-10-28T12:45:00.000Z"
+    },
+    {
+      "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "source": "CNBC",
+      "when": "2026-10-28T12:37:51.000Z"
+    },
+    {
+      "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
+      "url": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-28T12:34:00.000Z"
     }
   ],
   "errors": [
