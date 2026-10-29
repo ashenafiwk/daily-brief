@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-29T09:40:12.093Z",
-  "fetchedLabel": "Oct 29, 5:40 AM ET",
+  "fetched": "2026-10-29T16:46:07.708Z",
+  "fetchedLabel": "Oct 29, 12:46 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,743.98",
-      "chg": "-13.19",
-      "pct": "-0.17%",
-      "dir": "down"
+      "value": "7,715.91",
+      "chg": "+52.48",
+      "pct": "+0.68%",
+      "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "26,549.85",
-      "chg": "-153.01",
-      "pct": "-0.57%",
-      "dir": "down"
+      "value": "26,198.58",
+      "chg": "+189.72",
+      "pct": "+0.73%",
+      "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,475.10",
-      "chg": "-380.99",
-      "pct": "-0.72%",
+      "value": "52,281.77",
+      "chg": "-586.21",
+      "pct": "-1.11%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,830.51",
-      "chg": "+49.49",
-      "pct": "+1.78%",
+      "value": "2,862.91",
+      "chg": "+78.88",
+      "pct": "+2.83%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.05%",
-      "chg": "+0.09",
-      "pct": "+1.86%",
+      "value": "5.00%",
+      "chg": "+0.01",
+      "pct": "+0.30%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.77",
-      "chg": "+0.01",
-      "pct": "+0.01%",
-      "dir": "up"
+      "value": "$101.18",
+      "chg": "-0.58",
+      "pct": "-0.57%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,036.60",
-      "chg": "-1.80",
-      "pct": "-0.04%",
+      "value": "$4,022.80",
+      "chg": "-15.60",
+      "pct": "-0.39%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.05",
-      "chg": "-2.40",
-      "pct": "-12.34%",
+      "value": "16.32",
+      "chg": "-3.13",
+      "pct": "-16.09%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
+      "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:35:25.000Z"
+    },
+    {
+      "title": "You can't rely on the S&P 500 as much as you may think",
+      "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T16:26:00.000Z"
+    },
+    {
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:25:40.000Z"
+    },
+    {
+      "title": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+      "url": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:22:19.000Z"
+    },
+    {
+      "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+      "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:20:51.000Z"
+    },
+    {
       "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
       "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
       "source": "CNBC",
-      "when": "2026-10-29T09:36:41.000Z"
+      "when": "2026-10-29T16:13:38.000Z"
     },
     {
-      "title": "'Fancy cars hold no appeal': My wife and I have a 99% chance of outliving our savings. Why don't we spend it all?",
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+      "url": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:06:02.000Z"
+    },
+    {
+      "title": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
+      "url": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:01:51.000Z"
+    },
+    {
+      "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-29T16:00:01.000Z"
+    },
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T09:15:00.000Z"
+      "when": "2026-10-29T16:00:00.000Z"
     },
     {
-      "title": "Why Alphabet's stock could see its worst drop in years after the latest results",
-      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "title": "ServiceNow shares plunge 25% after earnings revive AI disruption fears",
+      "url": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-10-29T15:54:12.000Z"
+    },
+    {
+      "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+      "url": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T09:08:00.000Z"
+      "when": "2026-10-29T15:54:00.000Z"
     },
     {
-      "title": "Putin praises Elon Musk as a 'real genius' as Russia develops Starlink alternative",
-      "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+      "title": "DoorDash to acquire Instacart for $17 billion",
+      "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
       "source": "CNBC",
-      "when": "2026-10-29T09:06:00.000Z"
+      "when": "2026-10-29T15:53:12.000Z"
     },
     {
-      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
-      "url": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T09:02:00.000Z"
-    },
-    {
-      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the mem...",
-      "url": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T09:01:00.000Z"
-    },
-    {
-      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-      "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "title": "Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
+      "url": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
       "source": "CNBC",
-      "when": "2026-10-29T09:00:01.000Z"
-    },
-    {
-      "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
-      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-29T08:54:59.000Z"
-    },
-    {
-      "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-      "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-10-29T07:35:45.000Z"
-    },
-    {
-      "title": "Tencent, Visa deepen payments push in China after regulatory green light",
-      "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
-      "source": "CNBC",
-      "when": "2026-10-29T07:01:50.000Z"
-    },
-    {
-      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-29T06:53:19.000Z"
-    },
-    {
-      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source": "CNBC",
-      "when": "2026-10-29T06:03:35.000Z"
-    },
-    {
-      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
-      "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
-      "source": "CNBC",
-      "when": "2026-10-29T04:55:17.000Z"
-    },
-    {
-      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-      "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
-      "source": "CNBC",
-      "when": "2026-10-29T04:29:32.000Z"
+      "when": "2026-10-29T15:52:12.000Z"
     }
   ],
   "errors": [
