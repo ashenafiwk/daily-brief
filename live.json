@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-29T02:43:11.354Z",
-  "fetchedLabel": "Oct 28, 10:43 PM ET",
+  "fetched": "2026-10-29T09:40:12.093Z",
+  "fetchedLabel": "Oct 29, 5:40 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.74",
-      "chg": "-1.53",
-      "pct": "-1.48%",
-      "dir": "down"
-    },
-    {
-      "name": "Gold",
-      "value": "$4,055.50",
-      "chg": "+47.60",
-      "pct": "+1.19%",
+      "value": "$101.77",
+      "chg": "+0.01",
+      "pct": "+0.01%",
       "dir": "up"
     },
     {
+      "name": "Gold",
+      "value": "$4,036.60",
+      "chg": "-1.80",
+      "pct": "-0.04%",
+      "dir": "down"
+    },
+    {
       "name": "VIX",
-      "value": "16.91",
-      "chg": "-2.12",
-      "pct": "-11.14%",
+      "value": "17.05",
+      "chg": "-2.40",
+      "pct": "-12.34%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "China's tech darlings are losing their shine. Here's what's behind the sell-off",
-      "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+      "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
       "source": "CNBC",
-      "when": "2026-10-29T02:14:14.000Z"
+      "when": "2026-10-29T09:36:41.000Z"
     },
     {
-      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-      "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-29T02:06:04.000Z"
+      "title": "'Fancy cars hold no appeal': My wife and I have a 99% chance of outliving our savings. Why don't we spend it all?",
+      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T09:15:00.000Z"
     },
     {
       "title": "Why Alphabet's stock could see its worst drop in years after the latest results",
       "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T01:58:00.000Z"
+      "when": "2026-10-29T09:08:00.000Z"
     },
     {
-      "title": "Microsoft's strong quarter backs up its stock rebound. Here's our new price target",
-      "url": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "title": "Putin praises Elon Musk as a 'real genius' as Russia develops Starlink alternative",
+      "url": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
       "source": "CNBC",
-      "when": "2026-10-29T00:32:02.000Z"
+      "when": "2026-10-29T09:06:00.000Z"
     },
     {
-      "title": "Lumentum's stock pops as investors cheer a possible sale to Marvell",
-      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+      "url": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T00:20:00.000Z"
+      "when": "2026-10-29T09:02:00.000Z"
     },
     {
-      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-      "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-      "source": "CNBC",
-      "when": "2026-10-29T00:16:39.000Z"
-    },
-    {
-      "title": "'Just watch Judge Judy': I'm in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the mem...",
+      "url": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T00:15:00.000Z"
+      "when": "2026-10-29T09:01:00.000Z"
     },
     {
-      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-      "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+      "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
       "source": "CNBC",
-      "when": "2026-10-29T00:11:14.000Z"
+      "when": "2026-10-29T09:00:01.000Z"
     },
     {
-      "title": "The major reason Microsoft's stock is heading higher after earnings",
-      "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T00:10:00.000Z"
-    },
-    {
-      "title": "One passport isn't enough for some wealthy Chinese. Here's where they're looking next",
-      "url": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+      "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+      "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
       "source": "CNBC",
-      "when": "2026-10-28T23:38:00.000Z"
+      "when": "2026-10-29T08:54:59.000Z"
     },
     {
-      "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-      "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+      "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+      "url": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
       "source": "CNBC",
-      "when": "2026-10-28T23:24:37.000Z"
+      "when": "2026-10-29T07:35:45.000Z"
     },
     {
-      "title": "Fortinet's stock is taking a dive after earnings. Here's why.",
-      "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T23:18:00.000Z"
-    },
-    {
-      "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-      "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+      "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+      "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
       "source": "CNBC",
-      "when": "2026-10-28T23:17:17.000Z"
+      "when": "2026-10-29T07:01:50.000Z"
     },
     {
-      "title": "ServiceNow's stock slides as earnings miss overshadows a raised AI outlook",
-      "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T23:02:00.000Z"
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-29T06:53:19.000Z"
+    },
+    {
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source": "CNBC",
+      "when": "2026-10-29T06:03:35.000Z"
+    },
+    {
+      "title": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+      "url": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+      "source": "CNBC",
+      "when": "2026-10-29T04:55:17.000Z"
+    },
+    {
+      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+      "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+      "source": "CNBC",
+      "when": "2026-10-29T04:29:32.000Z"
     }
   ],
   "errors": [
