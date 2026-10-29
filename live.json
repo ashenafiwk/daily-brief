@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-28T23:25:51.201Z",
-  "fetchedLabel": "Oct 28, 7:25 PM ET",
+  "fetched": "2026-10-29T02:43:11.354Z",
+  "fetchedLabel": "Oct 28, 10:43 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.95",
-      "chg": "-1.32",
-      "pct": "-1.28%",
+      "value": "$101.74",
+      "chg": "-1.53",
+      "pct": "-1.48%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,067.90",
-      "chg": "+60.00",
-      "pct": "+1.50%",
+      "value": "$4,055.50",
+      "chg": "+47.60",
+      "pct": "+1.19%",
       "dir": "up"
     },
     {
@@ -60,6 +60,66 @@
     }
   ],
   "headlines": [
+    {
+      "title": "China's tech darlings are losing their shine. Here's what's behind the sell-off",
+      "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+      "source": "CNBC",
+      "when": "2026-10-29T02:14:14.000Z"
+    },
+    {
+      "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+      "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+      "source": "CNBC",
+      "when": "2026-10-29T02:06:04.000Z"
+    },
+    {
+      "title": "Why Alphabet's stock could see its worst drop in years after the latest results",
+      "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T01:58:00.000Z"
+    },
+    {
+      "title": "Microsoft's strong quarter backs up its stock rebound. Here's our new price target",
+      "url": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+      "source": "CNBC",
+      "when": "2026-10-29T00:32:02.000Z"
+    },
+    {
+      "title": "Lumentum's stock pops as investors cheer a possible sale to Marvell",
+      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T00:20:00.000Z"
+    },
+    {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+      "source": "CNBC",
+      "when": "2026-10-29T00:16:39.000Z"
+    },
+    {
+      "title": "'Just watch Judge Judy': I'm in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T00:15:00.000Z"
+    },
+    {
+      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+      "source": "CNBC",
+      "when": "2026-10-29T00:11:14.000Z"
+    },
+    {
+      "title": "The major reason Microsoft's stock is heading higher after earnings",
+      "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T00:10:00.000Z"
+    },
+    {
+      "title": "One passport isn't enough for some wealthy Chinese. Here's where they're looking next",
+      "url": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+      "source": "CNBC",
+      "when": "2026-10-28T23:38:00.000Z"
+    },
     {
       "title": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
       "url": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
@@ -83,66 +143,6 @@
       "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-28T23:02:00.000Z"
-    },
-    {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T22:41:00.000Z"
-    },
-    {
-      "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-      "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:38:41.000Z"
-    },
-    {
-      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:34:56.000Z"
-    },
-    {
-      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:27:00.000Z"
-    },
-    {
-      "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-      "url": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T22:25:00.000Z"
-    },
-    {
-      "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-      "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:12:28.000Z"
-    },
-    {
-      "title": "Lumentum's stock pops as investors cheer a possible sale to Marvell",
-      "url": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T22:08:00.000Z"
-    },
-    {
-      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:07:17.000Z"
-    },
-    {
-      "title": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-      "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-      "source": "CNBC",
-      "when": "2026-10-28T22:04:19.000Z"
-    },
-    {
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?",
-      "url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-28T22:00:00.000Z"
     }
   ],
   "errors": [
