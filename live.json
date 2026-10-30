@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-29T21:41:03.999Z",
-  "fetchedLabel": "Oct 29, 5:41 PM ET",
+  "fetched": "2026-10-30T01:44:50.441Z",
+  "fetchedLabel": "Oct 29, 9:44 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.86",
-      "chg": "+1.10",
-      "pct": "+1.08%",
+      "value": "$103.07",
+      "chg": "+1.31",
+      "pct": "+1.29%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,033.30",
-      "chg": "-5.10",
-      "pct": "-0.13%",
+      "value": "$4,015.70",
+      "chg": "-22.70",
+      "pct": "-0.56%",
       "dir": "down"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-      "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
       "source": "CNBC",
-      "when": "2026-10-29T21:39:05.000Z"
+      "when": "2026-10-30T01:34:32.000Z"
     },
     {
-      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
+      "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
+      "url": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+      "source": "CNBC",
+      "when": "2026-10-30T01:06:07.000Z"
+    },
+    {
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
       "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
       "source": "CNBC",
-      "when": "2026-10-29T21:36:35.000Z"
+      "when": "2026-10-30T00:39:52.000Z"
     },
     {
-      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T21:36:00.000Z"
-    },
-    {
-      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-      "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+      "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+      "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
       "source": "CNBC",
-      "when": "2026-10-29T21:35:25.000Z"
-    },
-    {
-      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T21:35:00.000Z"
-    },
-    {
-      "title": "'Fancy cars hold no appeal': We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T21:31:00.000Z"
-    },
-    {
-      "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-      "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-10-29T21:29:59.000Z"
+      "when": "2026-10-30T00:38:13.000Z"
     },
     {
       "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
       "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
       "source": "CNBC",
-      "when": "2026-10-29T21:22:50.000Z"
+      "when": "2026-10-30T00:28:45.000Z"
     },
     {
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-      "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "title": "Amazon's stock drops — even in the face of a bold new cloud forecast",
+      "url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T20:45:00.000Z"
+      "when": "2026-10-30T00:15:00.000Z"
     },
     {
-      "title": "The S&P 500 isn't the big winner you may think it is",
-      "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T20:39:00.000Z"
+      "when": "2026-10-30T00:14:00.000Z"
     },
     {
-      "title": "All the reasons Marvell investors are 'freaking out' as Lumentum deal rumors swirl",
-      "url": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "title": "How elections worldwide are testing Trump's influence abroad",
+      "url": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+      "source": "CNBC",
+      "when": "2026-10-30T00:13:22.000Z"
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T20:31:00.000Z"
+      "when": "2026-10-30T00:06:00.000Z"
+    },
+    {
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-30T00:05:00.000Z"
+    },
+    {
+      "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC",
+      "when": "2026-10-29T23:56:02.000Z"
+    },
+    {
+      "title": "Why Intel's stock is sinking toward its worst drop in two years",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-29T23:21:00.000Z"
     },
     {
       "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
       "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
       "source": "CNBC",
-      "when": "2026-10-29T20:30:24.000Z"
+      "when": "2026-10-29T23:16:11.000Z"
     },
     {
-      "title": "This is where most people go wrong in their 30s and 40s",
-      "url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+      "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
+      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-29T20:30:00.000Z"
-    },
-    {
-      "title": "The stock market's best forecasting tool says returns over the next 10 years will be dismal",
-      "url": "https://www.marketwatch.com/story/the-stock-markets-best-forecasting-tool-says-returns-over-the-next-10-years-will-be-dismal-f94fcd87?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T20:26:00.000Z"
+      "when": "2026-10-29T22:45:00.000Z"
     }
   ],
   "errors": [
