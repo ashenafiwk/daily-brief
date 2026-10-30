@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-30T01:44:50.441Z",
-  "fetchedLabel": "Oct 29, 9:44 PM ET",
+  "fetched": "2026-10-30T08:21:17.776Z",
+  "fetchedLabel": "Oct 30, 4:21 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,32 +39,74 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$103.07",
-      "chg": "+1.31",
-      "pct": "+1.29%",
+      "value": "$103.90",
+      "chg": "+2.14",
+      "pct": "+2.10%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,015.70",
-      "chg": "-22.70",
-      "pct": "-0.56%",
+      "value": "$3,989.00",
+      "chg": "-49.40",
+      "pct": "-1.22%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.20",
-      "chg": "-2.25",
-      "pct": "-11.57%",
-      "dir": "down"
+      "value": "18.51",
+      "chg": "+0.12",
+      "pct": "+0.65%",
+      "dir": "up"
     }
   ],
   "headlines": [
     {
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "source": "CNBC",
+      "when": "2026-10-30T08:09:28.000Z"
+    },
+    {
+      "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+      "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+      "source": "CNBC",
+      "when": "2026-10-30T07:12:49.000Z"
+    },
+    {
+      "title": "A pharma giant is moving past one patent cliff — but another is already looming",
+      "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+      "source": "CNBC",
+      "when": "2026-10-30T06:00:01.000Z"
+    },
+    {
       "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
       "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
       "source": "CNBC",
-      "when": "2026-10-30T01:34:32.000Z"
+      "when": "2026-10-30T04:29:03.000Z"
+    },
+    {
+      "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+      "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+      "source": "CNBC",
+      "when": "2026-10-30T04:19:38.000Z"
+    },
+    {
+      "title": "Israel faces weeks of coalition haggling as Netanyahu's party claims election 'stolen'",
+      "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+      "source": "CNBC",
+      "when": "2026-10-30T03:28:10.000Z"
+    },
+    {
+      "title": "What gave this city its 'best place to retire' crown? You can actually afford to live there.",
+      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-30T03:16:00.000Z"
+    },
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "CNBC",
+      "when": "2026-10-30T01:46:36.000Z"
     },
     {
       "title": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-30T00:14:00.000Z"
-    },
-    {
-      "title": "How elections worldwide are testing Trump's influence abroad",
-      "url": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
-      "source": "CNBC",
-      "when": "2026-10-30T00:13:22.000Z"
-    },
-    {
-      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T00:06:00.000Z"
-    },
-    {
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T00:05:00.000Z"
-    },
-    {
-      "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "source": "CNBC",
-      "when": "2026-10-29T23:56:02.000Z"
-    },
-    {
-      "title": "Why Intel's stock is sinking toward its worst drop in two years",
-      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T23:21:00.000Z"
-    },
-    {
-      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "source": "CNBC",
-      "when": "2026-10-29T23:16:11.000Z"
-    },
-    {
-      "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
-      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-29T22:45:00.000Z"
     }
   ],
   "errors": [
