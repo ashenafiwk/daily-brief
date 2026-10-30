@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-10-30T20:01:37.541Z",
-  "fetchedLabel": "Oct 30, 4:01 PM ET",
+  "fetched": "2026-10-30T23:58:02.078Z",
+  "fetchedLabel": "Oct 30, 7:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,560.74",
-      "chg": "-62.94",
-      "pct": "-0.83%",
+      "value": "7,580.07",
+      "chg": "-43.61",
+      "pct": "-0.57%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,461.52",
-      "chg": "-493.82",
-      "pct": "-1.90%",
+      "value": "25,437.00",
+      "chg": "-518.34",
+      "pct": "-2.00%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,678.73",
-      "chg": "-536.43",
-      "pct": "-1.03%",
+      "value": "51,770.31",
+      "chg": "-444.85",
+      "pct": "-0.85%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,803.22",
-      "chg": "+27.32",
-      "pct": "+0.98%",
+      "value": "2,811.84",
+      "chg": "+35.94",
+      "pct": "+1.29%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.92%",
-      "chg": "-0.07",
-      "pct": "-1.42%",
+      "value": "4.93%",
+      "chg": "-0.06",
+      "pct": "-1.14%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$104.31",
-      "chg": "+2.55",
-      "pct": "+2.51%",
+      "value": "$102.95",
+      "chg": "+1.19",
+      "pct": "+1.17%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,885.10",
-      "chg": "-153.30",
+      "value": "$3,884.90",
+      "chg": "-153.50",
       "pct": "-3.80%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "21.57",
-      "chg": "+3.18",
-      "pct": "+17.29%",
+      "value": "19.42",
+      "chg": "+1.03",
+      "pct": "+5.60%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "'Showy jewelry and fancy cars hold no appeal': We have a 99% chance of outliving our life savings. Why not spend it all?",
-      "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+      "title": "Has the tech bubble burst? Why the Nasdaq's rough ride looks eerily like 2000.",
+      "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-30T19:45:00.000Z"
+      "when": "2026-10-30T23:14:00.000Z"
     },
     {
-      "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
-      "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+      "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+      "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "source": "CNBC",
+      "when": "2026-10-30T22:57:55.000Z"
+    },
+    {
+      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+      "source": "CNBC",
+      "when": "2026-10-30T22:52:04.000Z"
+    },
+    {
+      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+      "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "source": "CNBC",
+      "when": "2026-10-30T22:42:26.000Z"
+    },
+    {
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-30T19:44:00.000Z"
+      "when": "2026-10-30T22:20:00.000Z"
+    },
+    {
+      "title": "Cramer's week ahead: Expect more volatility as tech earnings, midterms loom",
+      "url": "https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html",
+      "source": "CNBC",
+      "when": "2026-10-30T22:17:13.000Z"
+    },
+    {
+      "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+      "url": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+      "source": "CNBC",
+      "when": "2026-10-30T22:00:53.000Z"
+    },
+    {
+      "title": "Fed officials are already saying they'll need to get back to hiking rates",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "CNBC",
+      "when": "2026-10-30T21:53:10.000Z"
     },
     {
       "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
       "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
       "source": "CNBC",
-      "when": "2026-10-30T19:39:46.000Z"
+      "when": "2026-10-30T21:45:52.000Z"
     },
     {
-      "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-      "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-30T19:39:00.000Z"
+      "when": "2026-10-30T21:30:00.000Z"
     },
     {
-      "title": "Wage growth hits 5-year low as American workers find their take-home pay is 'stretched thinner and thinner'",
-      "url": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-30T19:39:00.000Z"
+      "when": "2026-10-30T21:23:00.000Z"
     },
     {
-      "title": "This is where most people go wrong in their 30s and 40s",
-      "url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T19:37:00.000Z"
-    },
-    {
-      "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-      "url": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T19:37:00.000Z"
-    },
-    {
-      "title": "What gave this city its 'best place to retire' crown? You can actually afford to live there.",
-      "url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T19:33:00.000Z"
-    },
-    {
-      "title": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-      "url": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+      "title": "$6.3 billion Binance hack is largest crypto theft on record",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
       "source": "CNBC",
-      "when": "2026-10-30T19:27:03.000Z"
+      "when": "2026-10-30T21:21:17.000Z"
     },
     {
-      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-      "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-      "source": "CNBC",
-      "when": "2026-10-30T19:11:32.000Z"
-    },
-    {
-      "title": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-      "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "source": "CNBC",
-      "when": "2026-10-30T19:02:06.000Z"
-    },
-    {
-      "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-      "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
-      "source": "CNBC",
-      "when": "2026-10-30T18:55:44.000Z"
-    },
-    {
-      "title": "Is your crypto safe? What Binance's $6.3 billion hack means for bitcoin investors.",
-      "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-10-30T18:50:00.000Z"
+      "when": "2026-10-30T20:52:00.000Z"
     },
     {
-      "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
-      "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "source": "CNBC",
-      "when": "2026-10-30T18:45:35.000Z"
+      "title": "Why Intel's stock saw its worst day in decades — and a $140 billion wipeout",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-30T20:48:00.000Z"
     }
   ],
   "errors": [
