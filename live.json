@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-31T05:21:06.148Z",
-  "fetchedLabel": "Oct 31, 1:21 AM ET",
+  "fetched": "2026-10-31T11:05:31.563Z",
+  "fetchedLabel": "Oct 31, 7:05 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,6 +61,30 @@
   ],
   "headlines": [
     {
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "CNBC",
+      "when": "2026-10-31T11:00:01.000Z"
+    },
+    {
+      "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+      "url": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+      "source": "CNBC",
+      "when": "2026-10-31T10:27:19.000Z"
+    },
+    {
+      "title": "Trump called out Big Oil profits. Here's how much their refining earnings have surged since",
+      "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "source": "CNBC",
+      "when": "2026-10-31T06:00:02.000Z"
+    },
+    {
+      "title": "AI is coming to construction sites. But does it make workers safer?",
+      "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "source": "CNBC",
+      "when": "2026-10-31T06:00:02.000Z"
+    },
+    {
       "title": "Grand Theft Callout: 'GTA 6' fans are missing work on the game's release day because they 'don't want to wait' anymore",
       "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -119,30 +143,6 @@
       "url": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
       "source": "CNBC",
       "when": "2026-10-30T21:45:52.000Z"
-    },
-    {
-      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-      "url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T21:30:00.000Z"
-    },
-    {
-      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-      "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T21:23:00.000Z"
-    },
-    {
-      "title": "$6.3 billion Binance hack is largest crypto theft on record",
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "source": "CNBC",
-      "when": "2026-10-30T21:21:17.000Z"
-    },
-    {
-      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-      "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T20:52:00.000Z"
     }
   ],
   "errors": [
