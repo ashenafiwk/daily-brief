@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-30T23:58:02.078Z",
-  "fetchedLabel": "Oct 30, 7:58 PM ET",
+  "fetched": "2026-10-31T05:21:06.148Z",
+  "fetchedLabel": "Oct 31, 1:21 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$102.95",
-      "chg": "+1.19",
-      "pct": "+1.17%",
+      "value": "$104.12",
+      "chg": "+2.36",
+      "pct": "+2.32%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,884.90",
-      "chg": "-153.50",
-      "pct": "-3.80%",
+      "value": "$3,898.90",
+      "chg": "-139.50",
+      "pct": "-3.45%",
       "dir": "down"
     },
     {
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Grand Theft Callout: 'GTA 6' fans are missing work on the game's release day because they 'don't want to wait' anymore",
+      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-31T04:30:00.000Z"
+    },
     {
       "title": "Has the tech bubble burst? Why the Nasdaq's rough ride looks eerily like 2000.",
       "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
@@ -137,12 +143,6 @@
       "url": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-30T20:52:00.000Z"
-    },
-    {
-      "title": "Why Intel's stock saw its worst day in decades — and a $140 billion wipeout",
-      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-30T20:48:00.000Z"
     }
   ],
   "errors": [
