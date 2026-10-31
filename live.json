@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-31T20:11:52.008Z",
-  "fetchedLabel": "Oct 31, 4:11 PM ET",
+  "fetched": "2026-10-31T23:34:53.878Z",
+  "fetchedLabel": "Oct 31, 7:34 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,10 +61,28 @@
   ],
   "headlines": [
     {
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "CNBC",
+      "when": "2026-10-31T22:27:56.000Z"
+    },
+    {
       "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
       "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
       "source": "CNBC",
-      "when": "2026-10-31T20:10:39.000Z"
+      "when": "2026-10-31T21:05:53.000Z"
+    },
+    {
+      "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
+      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-10-31T20:15:00.000Z"
+    },
+    {
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "source": "CNBC",
+      "when": "2026-10-31T20:12:37.000Z"
     },
     {
       "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
@@ -79,12 +97,6 @@
       "when": "2026-10-31T19:30:00.000Z"
     },
     {
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "source": "CNBC",
-      "when": "2026-10-31T19:16:25.000Z"
-    },
-    {
       "title": "This is where most people go wrong in their 30s and 40s",
       "url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -95,12 +107,6 @@
       "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-31T19:00:00.000Z"
-    },
-    {
-      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-      "source": "CNBC",
-      "when": "2026-10-31T18:56:37.000Z"
     },
     {
       "title": "'He was heartbroken': My husband's kids abandoned him when he was dying. Was he right to leave everything to me?",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
       "source": "CNBC",
       "when": "2026-10-31T16:13:06.000Z"
-    },
-    {
-      "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-      "url": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-10-31T16:02:00.000Z"
     }
   ],
   "errors": [
