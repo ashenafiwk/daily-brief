@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-01T05:19:24.073Z",
-  "fetchedLabel": "Nov 1, 1:19 AM ET",
+  "fetched": "2026-11-01T11:58:14.399Z",
+  "fetchedLabel": "Nov 1, 6:58 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -61,16 +61,22 @@
   ],
   "headlines": [
     {
+      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "source": "CNBC",
+      "when": "2026-11-01T09:03:47.000Z"
+    },
+    {
+      "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+      "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+      "source": "CNBC",
+      "when": "2026-11-01T06:00:01.000Z"
+    },
+    {
       "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
       "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
       "source": "CNBC",
       "when": "2026-10-31T23:56:40.000Z"
-    },
-    {
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "source": "CNBC",
-      "when": "2026-10-31T22:27:56.000Z"
     },
     {
       "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
@@ -137,12 +143,6 @@
       "url": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-10-31T16:46:00.000Z"
-    },
-    {
-      "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
-      "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
-      "source": "CNBC",
-      "when": "2026-10-31T16:13:06.000Z"
     }
   ],
   "errors": [
