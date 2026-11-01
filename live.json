@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-10-31T23:34:53.878Z",
-  "fetchedLabel": "Oct 31, 7:34 PM ET",
+  "fetched": "2026-11-01T05:19:24.073Z",
+  "fetchedLabel": "Nov 1, 1:19 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,15 +40,15 @@
     {
       "name": "Crude (WTI)",
       "value": "$104.12",
-      "chg": "+2.36",
-      "pct": "+2.32%",
+      "chg": "+4.22",
+      "pct": "+4.22%",
       "dir": "up"
     },
     {
       "name": "Gold",
       "value": "$3,898.90",
-      "chg": "-139.50",
-      "pct": "-3.45%",
+      "chg": "-175.70",
+      "pct": "-4.31%",
       "dir": "down"
     },
     {
@@ -61,16 +61,16 @@
   ],
   "headlines": [
     {
+      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "source": "CNBC",
+      "when": "2026-10-31T23:56:40.000Z"
+    },
+    {
       "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
       "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
       "source": "CNBC",
       "when": "2026-10-31T22:27:56.000Z"
-    },
-    {
-      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-      "source": "CNBC",
-      "when": "2026-10-31T21:05:53.000Z"
     },
     {
       "title": "My abusive ex-husband promised $20,000 for our kids' education. Now he refuses to pay. Is he legally obligated?",
