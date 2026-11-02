@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-02T01:22:53.988Z",
-  "fetchedLabel": "Nov 1, 8:22 PM ET",
+  "fetched": "2026-11-02T08:03:58.354Z",
+  "fetchedLabel": "Nov 2, 3:03 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,75 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$101.77",
-      "chg": "+1.87",
-      "pct": "+1.87%",
-      "dir": "up"
+      "value": "$100.71",
+      "chg": "-2.07",
+      "pct": "-2.01%",
+      "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,918.20",
-      "chg": "-156.40",
-      "pct": "-3.84%",
+      "value": "$3,911.90",
+      "chg": "-139.70",
+      "pct": "-3.45%",
       "dir": "down"
     },
     {
       "name": "VIX",
       "value": "19.42",
-      "chg": "+1.03",
-      "pct": "+5.60%",
+      "chg": "+1.90",
+      "pct": "+10.84%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here's his playbook.",
+      "url": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-02T07:25:00.000Z"
+    },
+    {
+      "title": "AI is coming to construction sites. But does it make workers safer?",
+      "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+      "source": "CNBC",
+      "when": "2026-11-02T06:55:19.000Z"
+    },
+    {
+      "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+      "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "source": "CNBC",
+      "when": "2026-11-02T06:02:03.000Z"
+    },
+    {
+      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+      "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+      "source": "CNBC",
+      "when": "2026-11-02T05:09:45.000Z"
+    },
+    {
+      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+      "url": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+      "source": "CNBC",
+      "when": "2026-11-02T04:09:34.000Z"
+    },
+    {
+      "title": "Want to help your adult kids and grandkids? Give them money while you're still alive.",
+      "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-02T03:23:00.000Z"
+    },
+    {
+      "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+      "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+      "source": "CNBC",
+      "when": "2026-11-02T02:58:53.000Z"
+    },
+    {
+      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+      "url": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+      "source": "CNBC",
+      "when": "2026-11-02T02:39:35.000Z"
+    },
     {
       "title": "This is the biggest threat to the AI-powered bull market",
       "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
@@ -71,12 +119,6 @@
       "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-02T00:21:00.000Z"
-    },
-    {
-      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "source": "CNBC",
-      "when": "2026-11-02T00:11:37.000Z"
     },
     {
       "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
@@ -101,48 +143,6 @@
       "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-01T19:20:00.000Z"
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "source": "CNBC",
-      "when": "2026-11-01T19:10:12.000Z"
-    },
-    {
-      "title": "My father has Alzheimer's and his caregiver is using his debit card for DoorDash. Do I intervene?",
-      "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-01T17:30:00.000Z"
-    },
-    {
-      "title": "'He was heartbroken': My husband's kids abandoned him when he was dying. Was he right to leave everything to me?",
-      "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-01T17:05:00.000Z"
-    },
-    {
-      "title": "Grand Theft Callout: 'GTA 6' fans are missing work on the game's release day because they 'don't want to wait' anymore",
-      "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-01T16:35:00.000Z"
-    },
-    {
-      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-      "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-      "source": "CNBC",
-      "when": "2026-11-01T16:34:43.000Z"
-    },
-    {
-      "title": "These Senate races may help determine the fate of Social Security",
-      "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
-      "source": "CNBC",
-      "when": "2026-11-01T15:20:06.000Z"
-    },
-    {
-      "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-      "url": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-      "source": "CNBC",
-      "when": "2026-11-01T15:18:38.000Z"
     }
   ],
   "errors": [
