@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-03T01:28:49.140Z",
-  "fetchedLabel": "Nov 2, 8:28 PM ET",
+  "fetched": "2026-11-03T08:30:23.895Z",
+  "fetchedLabel": "Nov 3, 3:30 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,63 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$96.74",
-      "chg": "-6.04",
-      "pct": "-5.88%",
+      "value": "$98.03",
+      "chg": "-3.97",
+      "pct": "-3.89%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,965.30",
-      "chg": "-86.30",
-      "pct": "-2.13%",
+      "value": "$3,917.80",
+      "chg": "-113.60",
+      "pct": "-2.82%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "21.15",
-      "chg": "+3.63",
-      "pct": "+20.72%",
+      "value": "21.65",
+      "chg": "+4.74",
+      "pct": "+28.03%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "U.S. strikes Iran's Qeshm Island as Vance hopes for 'negotiated settlement' with Tehran",
+      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "source": "CNBC",
+      "when": "2026-11-03T08:27:23.000Z"
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "source": "CNBC",
+      "when": "2026-11-03T06:32:10.000Z"
+    },
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "source": "CNBC",
+      "when": "2026-11-03T03:46:20.000Z"
+    },
+    {
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "source": "CNBC",
+      "when": "2026-11-03T02:47:57.000Z"
+    },
+    {
+      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
+      "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
+      "source": "CNBC",
+      "when": "2026-11-03T02:31:00.000Z"
+    },
+    {
+      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+      "source": "CNBC",
+      "when": "2026-11-03T01:32:13.000Z"
+    },
     {
       "title": "Here's why Palantir's stock is down despite a 'bombastic' quarter",
       "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
@@ -85,12 +121,6 @@
       "when": "2026-11-02T23:54:27.000Z"
     },
     {
-      "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-      "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-      "source": "CNBC",
-      "when": "2026-11-02T23:48:28.000Z"
-    },
-    {
       "title": "Marvell and Lumentum shareholders unite in panning merger deal: 'It's a trash offer'",
       "url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -113,36 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
       "source": "CNBC",
       "when": "2026-11-02T22:53:20.000Z"
-    },
-    {
-      "title": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
-      "url": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
-      "source": "CNBC",
-      "when": "2026-11-02T22:34:07.000Z"
-    },
-    {
-      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
-      "url": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-02T22:03:00.000Z"
-    },
-    {
-      "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
-      "url": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-      "source": "CNBC",
-      "when": "2026-11-02T21:59:48.000Z"
-    },
-    {
-      "title": "Wall Street's most hated stocks are faring far better than its favorites",
-      "url": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-02T21:45:00.000Z"
-    },
-    {
-      "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-      "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
-      "source": "CNBC",
-      "when": "2026-11-02T21:35:06.000Z"
     }
   ],
   "errors": [
