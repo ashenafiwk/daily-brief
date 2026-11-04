@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-04T10:40:15.466Z",
-  "fetchedLabel": "Nov 4, 5:40 AM ET",
+  "fetched": "2026-11-04T18:30:24.705Z",
+  "fetchedLabel": "Nov 4, 1:30 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,568.92",
-      "chg": "-153.68",
-      "pct": "-1.99%",
+      "value": "7,704.63",
+      "chg": "-39.35",
+      "pct": "-0.51%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,372.01",
-      "chg": "-1105.80",
-      "pct": "-4.18%",
+      "value": "25,878.50",
+      "chg": "-671.35",
+      "pct": "-2.53%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,786.72",
-      "chg": "-590.85",
-      "pct": "-1.13%",
-      "dir": "down"
+      "value": "53,273.43",
+      "chg": "+798.33",
+      "pct": "+1.52%",
+      "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,812.45",
-      "chg": "-6.42",
-      "pct": "-0.23%",
-      "dir": "down"
+      "value": "2,857.38",
+      "chg": "+26.87",
+      "pct": "+0.95%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.95%",
+      "value": "4.90%",
       "chg": "-0.09",
-      "pct": "-1.84%",
+      "pct": "-1.74%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$94.70",
-      "chg": "-9.42",
-      "pct": "-9.05%",
+      "value": "$88.62",
+      "chg": "-15.50",
+      "pct": "-14.89%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,054.60",
-      "chg": "+155.70",
-      "pct": "+3.99%",
+      "value": "$4,076.30",
+      "chg": "+177.40",
+      "pct": "+4.55%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "18.24",
-      "chg": "+1.04",
-      "pct": "+6.05%",
-      "dir": "up"
+      "value": "16.85",
+      "chg": "-0.35",
+      "pct": "-2.03%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-      "source": "CNBC",
-      "when": "2026-11-04T10:35:14.000Z"
-    },
-    {
-      "title": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed",
-      "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-      "source": "CNBC",
-      "when": "2026-11-04T10:31:32.000Z"
-    },
-    {
-      "title": "'My life could be cut short': I'm 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "title": "These stocks have soared the most today after the Democrats trounced Trump",
+      "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-04T10:15:00.000Z"
+      "when": "2026-11-04T18:29:00.000Z"
     },
     {
-      "title": "L.A. home once owned by Mike Tyson's former wife, actress Robin Givens, is on the market for $3.5 million",
-      "url": "https://www.marketwatch.com/story/l-a-home-once-owned-by-mike-tysons-former-wife-actress-robin-givens-is-on-the-market-for-3-5-million-0b9e11a1?mod=mw_rss_topstories",
+      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "source": "CNBC",
+      "when": "2026-11-04T18:18:40.000Z"
+    },
+    {
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "source": "CNBC",
+      "when": "2026-11-04T18:13:10.000Z"
+    },
+    {
+      "title": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
+      "url": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-04T10:03:00.000Z"
+      "when": "2026-11-04T18:03:00.000Z"
     },
     {
-      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+      "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
+      "url": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-04T17:44:00.000Z"
+    },
+    {
+      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "source": "CNBC",
+      "when": "2026-11-04T17:32:26.000Z"
+    },
+    {
+      "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+      "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+      "source": "CNBC",
+      "when": "2026-11-04T17:21:06.000Z"
+    },
+    {
+      "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here's what the Democratic wave means for healthcare.",
+      "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-04T17:19:00.000Z"
+    },
+    {
+      "title": "What Trump can achieve without approval from a Democratic-led Congress",
+      "url": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-04T17:13:00.000Z"
+    },
+    {
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
       "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
       "source": "CNBC",
-      "when": "2026-11-04T10:02:00.000Z"
+      "when": "2026-11-04T17:11:00.000Z"
     },
     {
-      "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-      "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+      "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
+      "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-11-04T09:59:56.000Z"
+      "when": "2026-11-04T17:04:32.000Z"
     },
     {
-      "title": "Jordyn Woods on her baby plans with Karl-Anthony Towns after buying $14 million home",
-      "url": "https://www.marketwatch.com/story/jordyn-woods-on-her-baby-plans-with-karl-anthony-towns-after-buying-14-million-home-e864ce5a?mod=mw_rss_topstories",
+      "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
+      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
+      "source": "CNBC",
+      "when": "2026-11-04T16:54:39.000Z"
+    },
+    {
+      "title": "What Republicans' huge loss means for Trump",
+      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "source": "CNBC",
+      "when": "2026-11-04T16:44:04.000Z"
+    },
+    {
+      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-04T09:58:00.000Z"
-    },
-    {
-      "title": "Beleaguered Novo offers relief to investors, thanks to Wegovy pill",
-      "url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T09:41:00.000Z"
-    },
-    {
-      "title": "Here's why AMD's stock is rising — and sending a confident message about the AI trade",
-      "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T09:30:00.000Z"
-    },
-    {
-      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-      "url": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-      "source": "CNBC",
-      "when": "2026-11-04T08:56:45.000Z"
-    },
-    {
-      "title": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-      "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-      "source": "CNBC",
-      "when": "2026-11-04T08:06:50.000Z"
-    },
-    {
-      "title": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-      "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-      "source": "CNBC",
-      "when": "2026-11-04T06:45:36.000Z"
-    },
-    {
-      "title": "Democrats win the House and Senate. Here's what it means for your finances.",
-      "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T06:27:00.000Z"
-    },
-    {
-      "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-      "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-      "source": "CNBC",
-      "when": "2026-11-04T05:53:30.000Z"
+      "when": "2026-11-04T16:38:00.000Z"
     }
   ],
   "errors": [
