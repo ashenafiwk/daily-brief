@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-04T18:30:24.705Z",
-  "fetchedLabel": "Nov 4, 1:30 PM ET",
+  "fetched": "2026-11-05T00:13:20.784Z",
+  "fetchedLabel": "Nov 4, 7:13 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,704.63",
-      "chg": "-39.35",
-      "pct": "-0.51%",
+      "value": "7,688.62",
+      "chg": "-55.36",
+      "pct": "-0.71%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,878.50",
-      "chg": "-671.35",
-      "pct": "-2.53%",
+      "value": "25,736.51",
+      "chg": "-813.34",
+      "pct": "-3.06%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "53,273.43",
-      "chg": "+798.33",
-      "pct": "+1.52%",
+      "value": "53,356.12",
+      "chg": "+881.02",
+      "pct": "+1.68%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,857.38",
-      "chg": "+26.87",
-      "pct": "+0.95%",
+      "value": "2,856.95",
+      "chg": "+26.44",
+      "pct": "+0.93%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.90%",
+      "value": "4.89%",
       "chg": "-0.09",
-      "pct": "-1.74%",
+      "pct": "-1.90%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$88.62",
-      "chg": "-15.50",
-      "pct": "-14.89%",
+      "value": "$88.35",
+      "chg": "-15.77",
+      "pct": "-15.15%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,076.30",
-      "chg": "+177.40",
-      "pct": "+4.55%",
+      "value": "$4,073.60",
+      "chg": "+174.70",
+      "pct": "+4.48%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "16.85",
-      "chg": "-0.35",
-      "pct": "-2.03%",
+      "value": "16.61",
+      "chg": "-0.59",
+      "pct": "-3.43%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "These stocks have soared the most today after the Democrats trounced Trump",
-      "url": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T18:29:00.000Z"
-    },
-    {
-      "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
-      "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "title": "Trump committee hearing on Fed Governor Lisa Cook rescheduled to Dec. 14",
+      "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
       "source": "CNBC",
-      "when": "2026-11-04T18:18:40.000Z"
+      "when": "2026-11-05T00:11:19.000Z"
     },
     {
-      "title": "Google responds to political backlash over removing search from schools that ban AI",
-      "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+      "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
       "source": "CNBC",
-      "when": "2026-11-04T18:13:10.000Z"
+      "when": "2026-11-05T00:04:36.000Z"
     },
     {
-      "title": "These 12 stocks are good bets to beat the 10-year Treasury over the next decade",
-      "url": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+      "title": "'My life could be cut short': I'm 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-04T18:03:00.000Z"
+      "when": "2026-11-04T23:45:00.000Z"
     },
     {
-      "title": "Watch out for Big Tech companies like Meta and Alphabet issuing more shares and diluting your stock ownership",
-      "url": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T17:44:00.000Z"
+      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
+      "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:44:18.000Z"
+    },
+    {
+      "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:38:11.000Z"
+    },
+    {
+      "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+      "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:23:03.000Z"
+    },
+    {
+      "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
+      "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:17:56.000Z"
+    },
+    {
+      "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
+      "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:11:48.000Z"
+    },
+    {
+      "title": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+      "url": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-04T23:02:39.000Z"
+    },
+    {
+      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "source": "CNBC",
+      "when": "2026-11-04T22:55:22.000Z"
+    },
+    {
+      "title": "Snap shares fall over 10% on third-quarter revenue miss",
+      "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-04T22:47:32.000Z"
     },
     {
       "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
       "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "source": "CNBC",
-      "when": "2026-11-04T17:32:26.000Z"
+      "when": "2026-11-04T22:46:43.000Z"
     },
     {
-      "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-      "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-      "source": "CNBC",
-      "when": "2026-11-04T17:21:06.000Z"
-    },
-    {
-      "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here's what the Democratic wave means for healthcare.",
-      "url": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "title": "This year's worst-performing S&P 500 stock is finally seeing some major relief",
+      "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-04T17:19:00.000Z"
+      "when": "2026-11-04T22:46:00.000Z"
     },
     {
-      "title": "What Trump can achieve without approval from a Democratic-led Congress",
-      "url": "https://www.marketwatch.com/story/what-trump-can-achieve-without-approval-from-a-democratic-led-congress-3401de75?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T17:13:00.000Z"
-    },
-    {
-      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-      "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "title": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+      "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
       "source": "CNBC",
-      "when": "2026-11-04T17:11:00.000Z"
-    },
-    {
-      "title": "Uber beats on revenue, CEO tells CNBC the company is 'investing significantly' to add drivers",
-      "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-11-04T17:04:32.000Z"
-    },
-    {
-      "title": "Jim Cramer says this bank stock is a buy after its post-election pullback",
-      "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-says-this-bank-stock-is-a-buy-after-its-post-election-pullback.html",
-      "source": "CNBC",
-      "when": "2026-11-04T16:54:39.000Z"
-    },
-    {
-      "title": "What Republicans' huge loss means for Trump",
-      "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-      "source": "CNBC",
-      "when": "2026-11-04T16:44:04.000Z"
-    },
-    {
-      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-      "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-04T16:38:00.000Z"
+      "when": "2026-11-04T22:29:51.000Z"
     }
   ],
   "errors": [
