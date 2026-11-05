@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-05T15:42:47.637Z",
-  "fetchedLabel": "Nov 5, 10:42 AM ET",
+  "fetched": "2026-11-05T21:50:27.367Z",
+  "fetchedLabel": "Nov 5, 4:50 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,469.34",
-      "chg": "-251.05",
-      "pct": "-3.25%",
+      "value": "7,353.73",
+      "chg": "-366.66",
+      "pct": "-4.75%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,606.13",
-      "chg": "-1578.59",
-      "pct": "-6.03%",
+      "value": "24,315.00",
+      "chg": "-1869.72",
+      "pct": "-7.14%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,388.89",
-      "chg": "+46.33",
-      "pct": "+0.09%",
-      "dir": "up"
+      "value": "51,523.06",
+      "chg": "-819.50",
+      "pct": "-1.57%",
+      "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,791.37",
-      "chg": "-67.85",
-      "pct": "-2.37%",
+      "value": "2,729.89",
+      "chg": "-129.33",
+      "pct": "-4.52%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.86%",
-      "chg": "-0.07",
-      "pct": "-1.38%",
+      "value": "4.84%",
+      "chg": "-0.09",
+      "pct": "-1.87%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.27",
-      "chg": "-6.19",
-      "pct": "-6.42%",
+      "value": "$91.03",
+      "chg": "-5.43",
+      "pct": "-5.63%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,111.90",
-      "chg": "+142.30",
-      "pct": "+3.58%",
+      "value": "$4,097.90",
+      "chg": "+128.30",
+      "pct": "+3.23%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "24.89",
-      "chg": "+5.47",
-      "pct": "+28.17%",
+      "value": "28.18",
+      "chg": "+8.76",
+      "pct": "+45.11%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Democratic sweep puts crypto on defensive in Washington",
-      "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
-      "source": "CNBC",
-      "when": "2026-11-05T15:30:43.000Z"
-    },
-    {
-      "title": "'My life could be cut short': I'm 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+      "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-05T15:30:00.000Z"
+      "when": "2026-11-05T21:45:00.000Z"
     },
     {
-      "title": "'I have no financial safety net': I'm 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-05T15:30:00.000Z"
+      "when": "2026-11-05T21:44:00.000Z"
     },
     {
-      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
       "source": "CNBC",
-      "when": "2026-11-05T15:27:57.000Z"
+      "when": "2026-11-05T21:43:33.000Z"
     },
     {
-      "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+      "title": "The 'Musk selloff' deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:43:00.000Z"
+    },
+    {
+      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
+      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:39:00.000Z"
+    },
+    {
+      "title": "Is this 'the big one' for the stock market? Wall Street sounds off as tech plunges.",
+      "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:37:00.000Z"
+    },
+    {
+      "title": "The October jobs report is out Friday. Here's everything to expect",
+      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+      "source": "CNBC",
+      "when": "2026-11-05T21:32:52.000Z"
+    },
+    {
+      "title": "Micron, Sandisk and other AI stocks see steep drops: 'Investors don't like uncertainty'",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:32:00.000Z"
+    },
+    {
+      "title": "As Nvidia's stock enters a bear market, bargain hunters see a golden buying opportunity",
+      "url": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:31:00.000Z"
+    },
+    {
+      "title": "5 of this year's biggest stock losers that are good bets in 2027",
+      "url": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:29:00.000Z"
+    },
+    {
+      "title": "Bloom Energy's stock is one of the S&P 500's biggest losers amid fears of data-center delays",
+      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:26:00.000Z"
+    },
+    {
+      "title": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
+      "url": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T21:19:00.000Z"
+    },
+    {
+      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
       "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
       "source": "CNBC",
-      "when": "2026-11-05T15:24:47.000Z"
+      "when": "2026-11-05T21:16:39.000Z"
     },
     {
-      "title": "Learning from 'Love Is Blind' money drama",
-      "url": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T15:16:00.000Z"
-    },
-    {
-      "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz's Trian",
-      "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
       "source": "CNBC",
-      "when": "2026-11-05T15:08:05.000Z"
-    },
-    {
-      "title": "Billionaires aren't off the hook for higher taxes, even if they did dodge California's wealth tax",
-      "url": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T15:01:00.000Z"
-    },
-    {
-      "title": "Two months after my father's funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T15:00:00.000Z"
-    },
-    {
-      "title": "A record 10% of first-time home buyers now pay in cash. Here's where they get the money.",
-      "url": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T15:00:00.000Z"
-    },
-    {
-      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what's making them richer.",
-      "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T15:00:00.000Z"
-    },
-    {
-      "title": "Democrats to probe JPMorgan's relationship with Epstein when they take Senate control",
-      "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-      "source": "CNBC",
-      "when": "2026-11-05T14:58:26.000Z"
-    },
-    {
-      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
-      "url": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T14:57:00.000Z"
-    },
-    {
-      "title": "This is the secret sauce for the economy — and it's showing up in faster U.S. growth",
-      "url": "https://www.marketwatch.com/story/this-is-the-secret-sauce-for-the-economy-and-its-showing-up-in-faster-u-s-growth-fb78ce21?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T14:49:00.000Z"
+      "when": "2026-11-05T21:09:56.000Z"
     }
   ],
   "errors": [
