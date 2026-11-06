@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-05T21:50:27.367Z",
-  "fetchedLabel": "Nov 5, 4:50 PM ET",
+  "fetched": "2026-11-06T02:06:04.346Z",
+  "fetchedLabel": "Nov 5, 9:06 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$91.03",
-      "chg": "-5.43",
-      "pct": "-5.63%",
+      "value": "$91.15",
+      "chg": "-5.31",
+      "pct": "-5.50%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,097.90",
-      "chg": "+128.30",
-      "pct": "+3.23%",
+      "value": "$4,078.60",
+      "chg": "+109.00",
+      "pct": "+2.75%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "source": "CNBC",
+      "when": "2026-11-06T01:41:32.000Z"
+    },
+    {
+      "title": "IRS announces new federal income tax brackets for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "source": "CNBC",
+      "when": "2026-11-06T01:21:08.000Z"
+    },
+    {
+      "title": "Here's what's driving Iren's stock higher after a brutal selloff",
+      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-06T01:07:00.000Z"
+    },
+    {
+      "title": "Cloudflare's stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-06T01:06:00.000Z"
+    },
+    {
+      "title": "IRS unveils higher capital gains tax brackets for 2027",
+      "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+      "source": "CNBC",
+      "when": "2026-11-06T01:00:10.000Z"
+    },
+    {
+      "title": "Costco is taking aim at its May record high — how it got here and where's it going",
+      "url": "https://www.cnbc.com/investingclub/2026/11/05/costco-is-taking-aim-at-its-may-record-high-how-it-got-here-and-wheres-going.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:56:24.000Z"
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-05T23:48:00.000Z"
+    },
+    {
+      "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+      "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:40:00.000Z"
+    },
+    {
+      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:39:32.000Z"
+    },
+    {
+      "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+      "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:25:02.000Z"
+    },
+    {
+      "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:17:51.000Z"
+    },
+    {
+      "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
+      "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+      "source": "CNBC",
+      "when": "2026-11-05T23:02:14.000Z"
+    },
+    {
       "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
       "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-05T21:45:00.000Z"
+      "when": "2026-11-05T22:48:00.000Z"
     },
     {
-      "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
-      "url": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-05T21:44:00.000Z"
-    },
-    {
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "source": "CNBC",
-      "when": "2026-11-05T21:43:33.000Z"
-    },
-    {
-      "title": "The 'Musk selloff' deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
-      "url": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:43:00.000Z"
-    },
-    {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "url": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:39:00.000Z"
-    },
-    {
-      "title": "Is this 'the big one' for the stock market? Wall Street sounds off as tech plunges.",
-      "url": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:37:00.000Z"
-    },
-    {
-      "title": "The October jobs report is out Friday. Here's everything to expect",
-      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-      "source": "CNBC",
-      "when": "2026-11-05T21:32:52.000Z"
-    },
-    {
-      "title": "Micron, Sandisk and other AI stocks see steep drops: 'Investors don't like uncertainty'",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:32:00.000Z"
-    },
-    {
-      "title": "As Nvidia's stock enters a bear market, bargain hunters see a golden buying opportunity",
-      "url": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:31:00.000Z"
-    },
-    {
-      "title": "5 of this year's biggest stock losers that are good bets in 2027",
-      "url": "https://www.marketwatch.com/story/5-of-this-years-biggest-stock-losers-that-are-good-bets-in-2027-bb861d4c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:29:00.000Z"
-    },
-    {
-      "title": "Bloom Energy's stock is one of the S&P 500's biggest losers amid fears of data-center delays",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:26:00.000Z"
-    },
-    {
-      "title": "Traders flock to Treasury market for safety as tech-led stock selloff deepens",
-      "url": "https://www.marketwatch.com/story/traders-flock-to-treasury-market-for-safety-as-tech-led-stock-selloff-deepens-cf548c8b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-05T21:19:00.000Z"
-    },
-    {
-      "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025",
-      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-      "source": "CNBC",
-      "when": "2026-11-05T21:16:39.000Z"
-    },
-    {
-      "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
-      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
-      "source": "CNBC",
-      "when": "2026-11-05T21:09:56.000Z"
+      "when": "2026-11-05T22:40:00.000Z"
     }
   ],
   "errors": [
