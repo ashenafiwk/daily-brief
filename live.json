@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-06T09:43:16.024Z",
-  "fetchedLabel": "Nov 6, 4:43 AM ET",
+  "fetched": "2026-11-06T17:16:17.656Z",
+  "fetchedLabel": "Nov 6, 12:16 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,353.73",
-      "chg": "-366.66",
-      "pct": "-4.75%",
+      "value": "7,413.30",
+      "chg": "-166.77",
+      "pct": "-2.20%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,315.00",
-      "chg": "-1869.72",
-      "pct": "-7.14%",
+      "value": "24,680.57",
+      "chg": "-756.43",
+      "pct": "-2.97%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,523.06",
-      "chg": "-819.50",
-      "pct": "-1.57%",
+      "value": "51,543.27",
+      "chg": "-227.04",
+      "pct": "-0.44%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,729.89",
-      "chg": "-129.33",
-      "pct": "-4.52%",
+      "value": "2,755.66",
+      "chg": "-56.18",
+      "pct": "-2.00%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.84%",
-      "chg": "-0.09",
-      "pct": "-1.87%",
+      "value": "4.85%",
+      "chg": "-0.04",
+      "pct": "-0.84%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$89.40",
-      "chg": "-7.06",
-      "pct": "-7.32%",
+      "value": "$90.05",
+      "chg": "-6.41",
+      "pct": "-6.65%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,086.30",
-      "chg": "+116.70",
-      "pct": "+2.94%",
+      "value": "$4,069.90",
+      "chg": "+100.30",
+      "pct": "+2.53%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "26.12",
-      "chg": "+4.97",
-      "pct": "+23.50%",
+      "value": "23.92",
+      "chg": "+2.77",
+      "pct": "+13.10%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
-      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+      "title": "Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now",
+      "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
       "source": "CNBC",
-      "when": "2026-11-06T08:52:14.000Z"
+      "when": "2026-11-06T17:15:08.000Z"
     },
     {
-      "title": "The 'World's Best Airline' is updating its business and first-class experience",
-      "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-      "source": "CNBC",
-      "when": "2026-11-06T07:32:26.000Z"
-    },
-    {
-      "title": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
-      "url": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
-      "source": "CNBC",
-      "when": "2026-11-06T07:23:02.000Z"
-    },
-    {
-      "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
-      "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
-      "source": "CNBC",
-      "when": "2026-11-06T06:02:36.000Z"
-    },
-    {
-      "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-      "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-      "source": "CNBC",
-      "when": "2026-11-06T05:27:24.000Z"
-    },
-    {
-      "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
-      "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-      "source": "CNBC",
-      "when": "2026-11-06T05:06:56.000Z"
-    },
-    {
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "source": "CNBC",
-      "when": "2026-11-06T03:20:43.000Z"
-    },
-    {
-      "title": "'It seems bizarre': We're in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "title": "'We're losing to cottage cheese': The protein-maxxing craze is hurting cream cheese sales",
+      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T03:15:00.000Z"
+      "when": "2026-11-06T17:14:00.000Z"
     },
     {
-      "title": "'My life could be cut short': I'm 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-06T03:00:00.000Z"
-    },
-    {
-      "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
-      "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+      "title": "The AI 'credit card' is getting costlier as CoreWeave bond yield tops 16%",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "source": "CNBC",
-      "when": "2026-11-06T02:58:02.000Z"
+      "when": "2026-11-06T17:09:53.000Z"
     },
     {
-      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
+      "url": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
       "source": "CNBC",
-      "when": "2026-11-06T02:40:15.000Z"
+      "when": "2026-11-06T17:01:52.000Z"
     },
     {
-      "title": "IRS announces new federal income tax brackets for 2027",
-      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
       "source": "CNBC",
-      "when": "2026-11-06T01:21:08.000Z"
+      "when": "2026-11-06T16:57:39.000Z"
     },
     {
-      "title": "Here's what's driving Iren's stock higher after a brutal selloff",
-      "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-06T01:07:00.000Z"
+      "title": "Montana votes to ban corporate political money. Next stop? Probably the Supreme Court",
+      "url": "https://www.cnbc.com/2026/11/06/montana-initiative-194-corporate-spending.html",
+      "source": "CNBC",
+      "when": "2026-11-06T16:47:50.000Z"
     },
     {
-      "title": "Cloudflare's stock mounts a big comeback after fastest sales surge in nearly 4 years",
-      "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+      "source": "CNBC",
+      "when": "2026-11-06T16:34:01.000Z"
+    },
+    {
+      "title": "Wall Street's fear gauge may be flashing a buy sign",
+      "url": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
+      "source": "CNBC",
+      "when": "2026-11-06T16:29:01.000Z"
+    },
+    {
+      "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+      "url": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T01:06:00.000Z"
+      "when": "2026-11-06T16:29:00.000Z"
+    },
+    {
+      "title": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+      "url": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-06T16:27:00.000Z"
+    },
+    {
+      "title": "Cybertruck's run comes to an end as Musk kills off pricey pet project",
+      "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-06T16:17:00.000Z"
+    },
+    {
+      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-06T16:06:59.000Z"
+    },
+    {
+      "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
+      "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+      "source": "CNBC",
+      "when": "2026-11-06T15:55:32.000Z"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound. Is the 'violent' AI selloff over?",
+      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-06T15:48:00.000Z"
     }
   ],
   "errors": [
