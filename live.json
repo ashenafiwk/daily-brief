@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-06T22:16:04.487Z",
-  "fetchedLabel": "Nov 6, 5:16 PM ET",
+  "fetched": "2026-11-07T02:13:46.675Z",
+  "fetchedLabel": "Nov 6, 9:13 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "source": "CNBC",
+      "when": "2026-11-06T22:25:58.000Z"
+    },
+    {
+      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+      "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+      "source": "CNBC",
+      "when": "2026-11-06T22:22:53.000Z"
+    },
     {
       "title": "'I have no financial safety net': I'm 66, rely on Social Security and have just $500 in savings. What hope do I have?",
       "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
@@ -127,22 +139,10 @@
       "when": "2026-11-06T20:42:28.000Z"
     },
     {
-      "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-      "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-      "source": "CNBC",
-      "when": "2026-11-06T20:42:07.000Z"
-    },
-    {
       "title": "Here's a rapid-fire update on all 31 of our stocks, including 2 to buy now",
       "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
       "source": "CNBC",
       "when": "2026-11-06T20:36:03.000Z"
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-06T20:15:00.000Z"
     }
   ],
   "errors": [
