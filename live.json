@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-07T20:01:22.082Z",
-  "fetchedLabel": "Nov 7, 3:01 PM ET",
+  "fetched": "2026-11-07T23:49:29.180Z",
+  "fetchedLabel": "Nov 7, 6:49 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -64,7 +64,31 @@
       "title": "Trump offers UFC chief Dana White press secretary job",
       "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
       "source": "CNBC",
-      "when": "2026-11-07T19:52:07.000Z"
+      "when": "2026-11-07T23:13:38.000Z"
+    },
+    {
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "source": "CNBC",
+      "when": "2026-11-07T22:17:52.000Z"
+    },
+    {
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "source": "CNBC",
+      "when": "2026-11-07T21:59:10.000Z"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-07T20:48:00.000Z"
+    },
+    {
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-07T20:36:00.000Z"
     },
     {
       "title": "Here are the 2027 capital-gains tax rates for each income level",
@@ -77,18 +101,6 @@
       "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-07T19:20:00.000Z"
-    },
-    {
-      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-07T18:36:00.000Z"
-    },
-    {
-      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "source": "CNBC",
-      "when": "2026-11-07T17:51:16.000Z"
     },
     {
       "title": "Democrats' big election win revives a difficult Social Security question: Who pays?",
@@ -131,18 +143,6 @@
       "url": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-07T16:30:00.000Z"
-    },
-    {
-      "title": "I attend free meals hosted by people promoting annuities. I've no intention of buying any. Should I stop going?",
-      "url": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-07T16:30:00.000Z"
-    },
-    {
-      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress' new makeup",
-      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-      "source": "CNBC",
-      "when": "2026-11-07T16:02:33.000Z"
     }
   ],
   "errors": [
