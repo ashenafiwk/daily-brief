@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-07T09:05:15.977Z",
-  "fetchedLabel": "Nov 7, 4:05 AM ET",
+  "fetched": "2026-11-07T15:50:42.435Z",
+  "fetchedLabel": "Nov 7, 10:50 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -26,7 +26,7 @@
     {
       "name": "Russell 2000",
       "value": "2,754.11",
-      "chg": "-57.74",
+      "chg": "-57.73",
       "pct": "-2.05%",
       "dir": "down"
     },
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-      "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-      "source": "CNBC",
-      "when": "2026-11-07T09:01:57.000Z"
-    },
-    {
-      "title": "Trump says U.S. carried out 'minor strikes' on Iran as missiles hit Qeshm Island",
-      "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-      "source": "CNBC",
-      "when": "2026-11-07T07:37:36.000Z"
-    },
-    {
-      "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-      "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-      "source": "CNBC",
-      "when": "2026-11-07T06:00:01.000Z"
-    },
-    {
-      "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-      "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-      "source": "CNBC",
-      "when": "2026-11-07T02:00:01.000Z"
-    },
-    {
-      "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "source": "CNBC",
-      "when": "2026-11-06T22:25:58.000Z"
+      "title": "You're fired! But you can keep the laptop and insurance. And here's $10,000.",
+      "url": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-07T15:44:00.000Z"
     },
     {
       "title": "'I have no financial safety net': I'm 66, rely on Social Security and have just $500 in savings. What hope do I have?",
       "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T21:45:00.000Z"
+      "when": "2026-11-07T15:41:00.000Z"
     },
     {
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+      "title": "A record number of first-time home buyers now pay in cash. Here's where they get the money.",
+      "url": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T21:45:00.000Z"
+      "when": "2026-11-07T15:35:00.000Z"
     },
     {
-      "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-      "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "source": "CNBC",
-      "when": "2026-11-06T21:40:09.000Z"
+      "when": "2026-11-07T15:23:46.000Z"
     },
     {
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it's only going to get worse.",
-      "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+      "title": "Trump's Iran war has changed the future of Social Security",
+      "url": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T21:37:00.000Z"
+      "when": "2026-11-07T15:18:00.000Z"
     },
     {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the 'violent' selloff only temporary?",
-      "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "title": "'We're losing to cottage cheese': The protein-maxxing craze is hurting cream-cheese sales",
+      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-06T21:24:00.000Z"
+      "when": "2026-11-07T14:50:00.000Z"
     },
     {
-      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+      "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
       "source": "CNBC",
-      "when": "2026-11-06T21:15:47.000Z"
+      "when": "2026-11-07T14:45:01.000Z"
     },
     {
-      "title": "'It seems bizarre': We're in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-06T21:15:00.000Z"
-    },
-    {
-      "title": "'It feels like he's quietly building a separate life': My husband inherited $500,000, but he refuses to spend it on our home",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-06T21:15:00.000Z"
-    },
-    {
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+      "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+      "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
       "source": "CNBC",
-      "when": "2026-11-06T21:07:07.000Z"
+      "when": "2026-11-07T14:33:32.000Z"
+    },
+    {
+      "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
+      "url": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+      "source": "CNBC",
+      "when": "2026-11-07T14:30:01.000Z"
+    },
+    {
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-07T14:30:00.000Z"
+    },
+    {
+      "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
+      "url": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+      "source": "CNBC",
+      "when": "2026-11-07T14:15:01.000Z"
+    },
+    {
+      "title": "Mark Cuban says he doesn't 'give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial th...",
+      "url": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+      "source": "CNBC",
+      "when": "2026-11-07T14:05:01.000Z"
+    },
+    {
+      "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+      "url": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+      "source": "CNBC",
+      "when": "2026-11-07T14:00:01.000Z"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-07T14:00:00.000Z"
     }
   ],
   "errors": [
