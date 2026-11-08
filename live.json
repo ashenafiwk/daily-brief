@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-08T18:01:11.271Z",
-  "fetchedLabel": "Nov 8, 1:01 PM ET",
+  "fetched": "2026-11-08T22:21:41.000Z",
+  "fetchedLabel": "Nov 8, 5:21 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -26,7 +26,7 @@
     {
       "name": "Russell 2000",
       "value": "2,754.11",
-      "chg": "-57.73",
+      "chg": "-57.74",
       "pct": "-2.05%",
       "dir": "down"
     },
@@ -60,6 +60,42 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "source": "CNBC",
+      "when": "2026-11-08T22:19:27.000Z"
+    },
+    {
+      "title": "Trump says renewed Iran strikes 'highly unlikely' if talks progress but warns he could still strike",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "source": "CNBC",
+      "when": "2026-11-08T21:53:02.000Z"
+    },
+    {
+      "title": "Nvidia's board will probe CEO Jensen Huang's relationship with an alleged spy. Here's what to know.",
+      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T21:29:00.000Z"
+    },
+    {
+      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "source": "CNBC",
+      "when": "2026-11-08T18:57:56.000Z"
+    },
+    {
+      "title": "'It seems bizarre': We're in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T18:00:00.000Z"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source": "CNBC",
+      "when": "2026-11-08T17:40:15.000Z"
+    },
     {
       "title": "Two months after my father's funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
       "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
@@ -107,42 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
       "source": "CNBC",
       "when": "2026-11-08T14:15:00.000Z"
-    },
-    {
-      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-      "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-      "source": "CNBC",
-      "when": "2026-11-08T14:14:11.000Z"
-    },
-    {
-      "title": "'We're losing to cottage cheese': The protein-maxxing craze is hurting cream-cheese sales",
-      "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T14:13:00.000Z"
-    },
-    {
-      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
-      "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-      "source": "CNBC",
-      "when": "2026-11-08T14:00:01.000Z"
-    },
-    {
-      "title": "Stocks are moving in sync again for the first time in a while. There's just one problem.",
-      "url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T14:00:00.000Z"
-    },
-    {
-      "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-      "source": "CNBC",
-      "when": "2026-11-08T13:00:01.000Z"
-    },
-    {
-      "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
-      "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "source": "CNBC",
-      "when": "2026-11-08T13:00:01.000Z"
     }
   ],
   "errors": [
