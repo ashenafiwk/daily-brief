@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-09T01:51:38.503Z",
-  "fetchedLabel": "Nov 8, 8:51 PM ET",
+  "fetched": "2026-11-09T09:26:22.350Z",
+  "fetchedLabel": "Nov 9, 4:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,57 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.50",
-      "chg": "-5.59",
-      "pct": "-5.82%",
-      "dir": "down"
+      "value": "$89.64",
+      "chg": "+1.52",
+      "pct": "+1.72%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$4,128.50",
-      "chg": "+188.10",
-      "pct": "+4.77%",
+      "value": "$4,105.70",
+      "chg": "+32.70",
+      "pct": "+0.80%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "25.64",
-      "chg": "+4.49",
-      "pct": "+21.23%",
+      "value": "24.42",
+      "chg": "+3.59",
+      "pct": "+17.23%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang's relationship with alleged Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "source": "CNBC",
+      "when": "2026-11-09T09:14:40.000Z"
+    },
+    {
+      "title": "How Wall Street is reacting to the news of Nvidia's investigation into Jensen Huang spy claims",
+      "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T09:12:00.000Z"
+    },
+    {
+      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+      "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+      "source": "CNBC",
+      "when": "2026-11-09T08:59:16.000Z"
+    },
+    {
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "source": "CNBC",
+      "when": "2026-11-09T02:50:22.000Z"
+    },
+    {
+      "title": "What Jensen Huang's affair with an accused Chinese spy means for Nvidia stock",
+      "url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html",
+      "source": "CNBC",
+      "when": "2026-11-09T02:12:50.000Z"
+    },
     {
       "title": "'My life could be cut short': I'm 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
       "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
@@ -113,36 +143,6 @@
       "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-08T23:15:00.000Z"
-    },
-    {
-      "title": "A new setback for the AI trade: Nvidia's board is probing CEO Huang's relationship with alleged spy",
-      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T23:05:00.000Z"
-    },
-    {
-      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-      "source": "CNBC",
-      "when": "2026-11-08T22:53:57.000Z"
-    },
-    {
-      "title": "Trump says renewed Iran strikes 'highly unlikely' if talks progress but warns he could still strike",
-      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-      "source": "CNBC",
-      "when": "2026-11-08T21:53:02.000Z"
-    },
-    {
-      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-      "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-      "source": "CNBC",
-      "when": "2026-11-08T18:57:56.000Z"
-    },
-    {
-      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-      "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source": "CNBC",
-      "when": "2026-11-08T17:40:15.000Z"
     }
   ],
   "errors": [
