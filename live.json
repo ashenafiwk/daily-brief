@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-08T22:21:41.000Z",
-  "fetchedLabel": "Nov 8, 5:21 PM ET",
+  "fetched": "2026-11-09T01:51:38.503Z",
+  "fetchedLabel": "Nov 8, 8:51 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$90.83",
-      "chg": "-5.26",
-      "pct": "-5.47%",
+      "value": "$90.50",
+      "chg": "-5.59",
+      "pct": "-5.82%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,074.90",
-      "chg": "+134.50",
-      "pct": "+3.41%",
+      "value": "$4,128.50",
+      "chg": "+188.10",
+      "pct": "+4.77%",
       "dir": "up"
     },
     {
@@ -61,10 +61,70 @@
   ],
   "headlines": [
     {
+      "title": "'My life could be cut short': I'm 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+      "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T01:21:00.000Z"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T00:40:00.000Z"
+    },
+    {
+      "title": "I'm second-guessing my adviser: Is an annuity the right move in this market?",
+      "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T00:30:00.000Z"
+    },
+    {
+      "title": "'It feels like he's quietly building a separate life': My husband inherited $500,000, but he refuses to spend it on our home",
+      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T00:02:00.000Z"
+    },
+    {
+      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T00:00:00.000Z"
+    },
+    {
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T23:50:00.000Z"
+    },
+    {
+      "title": "I'm 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T23:49:00.000Z"
+    },
+    {
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T23:35:00.000Z"
+    },
+    {
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T23:15:00.000Z"
+    },
+    {
+      "title": "A new setback for the AI trade: Nvidia's board is probing CEO Huang's relationship with alleged spy",
+      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-08T23:05:00.000Z"
+    },
+    {
       "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
       "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
       "source": "CNBC",
-      "when": "2026-11-08T22:19:27.000Z"
+      "when": "2026-11-08T22:53:57.000Z"
     },
     {
       "title": "Trump says renewed Iran strikes 'highly unlikely' if talks progress but warns he could still strike",
@@ -73,76 +133,16 @@
       "when": "2026-11-08T21:53:02.000Z"
     },
     {
-      "title": "Nvidia's board will probe CEO Jensen Huang's relationship with an alleged spy. Here's what to know.",
-      "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T21:29:00.000Z"
-    },
-    {
       "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
       "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
       "source": "CNBC",
       "when": "2026-11-08T18:57:56.000Z"
     },
     {
-      "title": "'It seems bizarre': We're in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T18:00:00.000Z"
-    },
-    {
       "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
       "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
       "source": "CNBC",
       "when": "2026-11-08T17:40:15.000Z"
-    },
-    {
-      "title": "Two months after my father's funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-      "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T17:30:00.000Z"
-    },
-    {
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T17:23:00.000Z"
-    },
-    {
-      "title": "'It feels like he's quietly building a separate life': My husband inherited $500,000, but he refuses to spend it on our home",
-      "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T16:00:00.000Z"
-    },
-    {
-      "title": "How Democrats will try to end Trump's tariffs",
-      "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-      "source": "CNBC",
-      "when": "2026-11-08T15:36:39.000Z"
-    },
-    {
-      "title": "'I have no financial safety net': I'm 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-      "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T15:30:00.000Z"
-    },
-    {
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T15:16:00.000Z"
-    },
-    {
-      "title": "Corporate America's profit numbers are just barely beating Wall Street's expectations",
-      "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-08T15:00:00.000Z"
-    },
-    {
-      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-      "source": "CNBC",
-      "when": "2026-11-08T14:15:00.000Z"
     }
   ],
   "errors": [
