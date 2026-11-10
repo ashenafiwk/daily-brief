@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-10T18:30:54.233Z",
-  "fetchedLabel": "Nov 10, 1:30 PM ET",
+  "fetched": "2026-11-10T23:56:46.888Z",
+  "fetchedLabel": "Nov 10, 6:56 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,489.77",
-      "chg": "-79.15",
-      "pct": "-1.05%",
+      "value": "7,520.93",
+      "chg": "-47.99",
+      "pct": "-0.63%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,909.58",
-      "chg": "-462.43",
-      "pct": "-1.82%",
+      "value": "25,065.88",
+      "chg": "-306.13",
+      "pct": "-1.21%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,098.52",
-      "chg": "+311.80",
-      "pct": "+0.60%",
+      "value": "52,231.89",
+      "chg": "+445.17",
+      "pct": "+0.86%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,811.83",
-      "chg": "-0.62",
-      "pct": "-0.02%",
-      "dir": "down"
+      "value": "2,821.38",
+      "chg": "+8.93",
+      "pct": "+0.32%",
+      "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.01%",
-      "chg": "+0.11",
-      "pct": "+2.33%",
+      "value": "4.98%",
+      "chg": "+0.09",
+      "pct": "+1.82%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$86.18",
-      "chg": "-4.34",
-      "pct": "-4.79%",
+      "value": "$86.36",
+      "chg": "-4.16",
+      "pct": "-4.60%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,027.80",
-      "chg": "-85.70",
-      "pct": "-2.08%",
+      "value": "$4,043.80",
+      "chg": "-69.70",
+      "pct": "-1.69%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "20.86",
-      "chg": "+4.25",
-      "pct": "+25.59%",
+      "value": "19.46",
+      "chg": "+2.85",
+      "pct": "+17.16%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-      "source": "CNBC",
-      "when": "2026-11-10T18:30:05.000Z"
-    },
-    {
-      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
-      "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
-      "source": "CNBC",
-      "when": "2026-11-10T18:23:36.000Z"
-    },
-    {
-      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
-      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-      "source": "CNBC",
-      "when": "2026-11-10T18:22:44.000Z"
-    },
-    {
-      "title": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-      "url": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T18:21:00.000Z"
-    },
-    {
-      "title": "Even Wall Street's lone Nvidia bear says forcing out CEO Jensen Huang 'would be a mistake for everyone'",
-      "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T18:16:00.000Z"
-    },
-    {
-      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
-      "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
-      "source": "CNBC",
-      "when": "2026-11-10T18:15:24.000Z"
-    },
-    {
-      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-      "source": "CNBC",
-      "when": "2026-11-10T18:08:40.000Z"
-    },
-    {
-      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "title": "Hegseth impeachment effort torpedoed in House",
       "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
       "source": "CNBC",
-      "when": "2026-11-10T17:48:47.000Z"
+      "when": "2026-11-10T23:46:41.000Z"
     },
     {
-      "title": "'We had the worst fight': I want my husband to retire at 65, but I don't want to lose his $280,000 salary. Is that unreasonable?",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-10T17:45:00.000Z"
+      "when": "2026-11-10T23:30:00.000Z"
     },
     {
-      "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
-      "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "title": "'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-10T17:34:00.000Z"
+      "when": "2026-11-10T23:25:00.000Z"
     },
     {
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-10T23:16:15.000Z"
+    },
+    {
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "source": "CNBC",
+      "when": "2026-11-10T23:11:34.000Z"
+    },
+    {
+      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+      "source": "CNBC",
+      "when": "2026-11-10T23:03:11.000Z"
+    },
+    {
+      "title": "One reason Children's Place is filing for bankruptcy? Not enough children.",
+      "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-10T17:33:00.000Z"
+      "when": "2026-11-10T22:56:00.000Z"
     },
     {
-      "title": "Here's the inflation breakdown for October 2026 — in one chart",
-      "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+      "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+      "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
       "source": "CNBC",
-      "when": "2026-11-10T16:36:40.000Z"
+      "when": "2026-11-10T22:39:30.000Z"
     },
     {
-      "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-      "source": "CNBC",
-      "when": "2026-11-10T16:30:23.000Z"
+      "title": "AMD's stock fades as investors weigh whether Nvidia's turmoil will mean lasting wins",
+      "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T22:37:00.000Z"
     },
     {
-      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
-      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
+      "title": "Looking to buy the dip in chip stocks? Here's how to avoid buying too soon.",
+      "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T22:30:00.000Z"
+    },
+    {
+      "title": "Nvidia sells off for second day in fallout from Jensen Huang's affair with alleged spy",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
       "source": "CNBC",
-      "when": "2026-11-10T16:30:01.000Z"
+      "when": "2026-11-10T22:08:25.000Z"
+    },
+    {
+      "title": "Meet the former prosecutor Nvidia hired to investigate the Jensen Huang spy scandal",
+      "url": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T22:05:00.000Z"
+    },
+    {
+      "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
+      "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "source": "CNBC",
+      "when": "2026-11-10T22:01:52.000Z"
+    },
+    {
+      "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+      "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+      "source": "CNBC",
+      "when": "2026-11-10T22:00:40.000Z"
     }
   ],
   "errors": [
