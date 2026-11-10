@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-09T19:58:21.845Z",
-  "fetchedLabel": "Nov 9, 2:58 PM ET",
+  "fetched": "2026-11-10T02:39:01.987Z",
+  "fetchedLabel": "Nov 9, 9:39 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,560.54",
-      "chg": "+19.14",
-      "pct": "+0.25%",
+      "value": "7,549.94",
+      "chg": "+8.54",
+      "pct": "+0.11%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "25,273.07",
-      "chg": "+108.76",
-      "pct": "+0.43%",
+      "value": "25,253.14",
+      "chg": "+88.83",
+      "pct": "+0.35%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,494.37",
-      "chg": "+510.39",
-      "pct": "+0.98%",
+      "value": "52,389.75",
+      "chg": "+405.77",
+      "pct": "+0.78%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,849.18",
-      "chg": "+43.30",
-      "pct": "+1.54%",
+      "value": "2,840.81",
+      "chg": "+34.93",
+      "pct": "+1.24%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
       "value": "4.86%",
       "chg": "-0.09",
-      "pct": "-1.88%",
+      "pct": "-1.78%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$85.80",
-      "chg": "-2.32",
-      "pct": "-2.63%",
+      "value": "$86.06",
+      "chg": "-2.06",
+      "pct": "-2.34%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,137.00",
-      "chg": "+64.00",
-      "pct": "+1.57%",
+      "value": "$4,136.20",
+      "chg": "+63.20",
+      "pct": "+1.55%",
       "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "19.80",
-      "chg": "-1.03",
-      "pct": "-4.94%",
+      "value": "19.92",
+      "chg": "-0.91",
+      "pct": "-4.37%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Hegseth impeachment articles introduced by Rep. Massie",
-      "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
       "source": "CNBC",
-      "when": "2026-11-09T19:49:55.000Z"
+      "when": "2026-11-10T01:50:57.000Z"
     },
     {
-      "title": "Gas prices are finally below $4 a gallon, but Thanksgiving fuel costs will still be the highest since 2000",
-      "url": "https://www.marketwatch.com/story/gas-prices-are-finally-below-4-a-gallon-but-thanksgiving-fuel-costs-will-still-be-the-highest-since-2000-94a7865b?mod=mw_rss_topstories",
+      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+      "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "source": "CNBC",
+      "when": "2026-11-10T01:43:47.000Z"
+    },
+    {
+      "title": "The short seller who saw signs of Nvidia's China scandal months ago claims Megaspeed isn't the only company helping China acces...",
+      "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-09T19:46:00.000Z"
+      "when": "2026-11-10T00:48:00.000Z"
     },
     {
-      "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas gover...",
-      "url": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+      "title": "Nvidia's Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
       "source": "CNBC",
-      "when": "2026-11-09T19:41:13.000Z"
+      "when": "2026-11-09T23:54:21.000Z"
     },
     {
-      "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
-      "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "source": "CNBC",
-      "when": "2026-11-09T19:35:58.000Z"
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-09T23:52:00.000Z"
     },
     {
-      "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
-      "url": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+      "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
       "source": "CNBC",
-      "when": "2026-11-09T19:34:43.000Z"
+      "when": "2026-11-09T23:31:17.000Z"
+    },
+    {
+      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+      "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+      "source": "CNBC",
+      "when": "2026-11-09T23:14:38.000Z"
+    },
+    {
+      "title": "Lucid misses Wall Street's earnings expectations, expands loan from Saudi Arabia fund",
+      "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-09T23:05:53.000Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+      "url": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+      "source": "CNBC",
+      "when": "2026-11-09T23:00:02.000Z"
     },
     {
       "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
       "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
       "source": "CNBC",
-      "when": "2026-11-09T19:33:23.000Z"
+      "when": "2026-11-09T22:56:39.000Z"
     },
     {
-      "title": "What employers should do to build a pipeline of talented Gen Z workers",
-      "url": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
+      "title": "Rocket Lab shares dip after the company's 'defining' quarter misses the mark",
+      "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-09T19:28:00.000Z"
+      "when": "2026-11-09T22:49:00.000Z"
     },
     {
-      "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
-      "url": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
-      "source": "CNBC",
-      "when": "2026-11-09T19:23:57.000Z"
-    },
-    {
-      "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
-      "url": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
-      "source": "CNBC",
-      "when": "2026-11-09T19:19:28.000Z"
-    },
-    {
-      "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
-      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
-      "source": "CNBC",
-      "when": "2026-11-09T19:00:01.000Z"
-    },
-    {
-      "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
-      "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-      "source": "CNBC",
-      "when": "2026-11-09T18:59:43.000Z"
-    },
-    {
-      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-      "url": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
-      "source": "CNBC",
-      "when": "2026-11-09T18:46:01.000Z"
-    },
-    {
-      "title": "A massive trade in Nvidia just went off – here are the details",
-      "url": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
-      "source": "CNBC",
-      "when": "2026-11-09T18:37:59.000Z"
-    },
-    {
-      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-      "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+      "title": "Here's how Bernie Sanders wants to keep Social Security solvent 'for generations'",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-09T18:33:00.000Z"
+      "when": "2026-11-09T22:49:00.000Z"
+    },
+    {
+      "title": "Hegseth impeachment articles introduced by Rep. Massie",
+      "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+      "source": "CNBC",
+      "when": "2026-11-09T22:41:12.000Z"
+    },
+    {
+      "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "source": "CNBC",
+      "when": "2026-11-09T22:40:09.000Z"
     }
   ],
   "errors": [
