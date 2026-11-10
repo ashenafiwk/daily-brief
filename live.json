@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-10T10:53:18.941Z",
-  "fetchedLabel": "Nov 10, 5:53 AM ET",
+  "fetched": "2026-11-10T18:30:54.233Z",
+  "fetchedLabel": "Nov 10, 1:30 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,549.94",
-      "chg": "+8.54",
-      "pct": "+0.11%",
-      "dir": "up"
+      "value": "7,489.77",
+      "chg": "-79.15",
+      "pct": "-1.05%",
+      "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "25,253.14",
-      "chg": "+88.83",
-      "pct": "+0.35%",
-      "dir": "up"
+      "value": "24,909.58",
+      "chg": "-462.43",
+      "pct": "-1.82%",
+      "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "52,389.75",
-      "chg": "+405.77",
-      "pct": "+0.78%",
+      "value": "52,098.52",
+      "chg": "+311.80",
+      "pct": "+0.60%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,840.81",
-      "chg": "+34.93",
-      "pct": "+1.24%",
-      "dir": "up"
-    },
-    {
-      "name": "10Y Treasury",
-      "value": "4.86%",
-      "chg": "-0.09",
-      "pct": "-1.78%",
+      "value": "2,811.83",
+      "chg": "-0.62",
+      "pct": "-0.02%",
       "dir": "down"
     },
     {
+      "name": "10Y Treasury",
+      "value": "5.01%",
+      "chg": "+0.11",
+      "pct": "+2.33%",
+      "dir": "up"
+    },
+    {
       "name": "Crude (WTI)",
-      "value": "$85.13",
-      "chg": "-5.39",
-      "pct": "-5.95%",
+      "value": "$86.18",
+      "chg": "-4.34",
+      "pct": "-4.79%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$4,086.10",
-      "chg": "-27.40",
-      "pct": "-0.67%",
+      "value": "$4,027.80",
+      "chg": "-85.70",
+      "pct": "-2.08%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "19.97",
-      "chg": "+3.36",
-      "pct": "+20.23%",
+      "value": "20.86",
+      "chg": "+4.25",
+      "pct": "+25.59%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments",
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "source": "CNBC",
+      "when": "2026-11-10T18:30:05.000Z"
+    },
+    {
+      "title": "Amazon's Ring unveils flying drone and robot to patrol homes and businesses",
+      "url": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
+      "source": "CNBC",
+      "when": "2026-11-10T18:23:36.000Z"
+    },
+    {
+      "title": "China panel chair Moolenaar demands answers on Nvidia CEO's alleged affair with a Chinese spy",
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "source": "CNBC",
+      "when": "2026-11-10T18:22:44.000Z"
+    },
+    {
+      "title": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+      "url": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T18:21:00.000Z"
+    },
+    {
+      "title": "Even Wall Street's lone Nvidia bear says forcing out CEO Jensen Huang 'would be a mistake for everyone'",
+      "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T18:16:00.000Z"
+    },
+    {
+      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "source": "CNBC",
+      "when": "2026-11-10T18:15:24.000Z"
+    },
+    {
+      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+      "source": "CNBC",
+      "when": "2026-11-10T18:08:40.000Z"
+    },
+    {
+      "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "source": "CNBC",
+      "when": "2026-11-10T17:48:47.000Z"
+    },
+    {
+      "title": "'We had the worst fight': I want my husband to retire at 65, but I don't want to lose his $280,000 salary. Is that unreasonable?",
+      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T17:45:00.000Z"
+    },
+    {
+      "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+      "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-10T17:34:00.000Z"
+    },
+    {
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
       "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-10T10:48:00.000Z"
+      "when": "2026-11-10T17:33:00.000Z"
     },
     {
-      "title": "'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T10:45:00.000Z"
-    },
-    {
-      "title": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-      "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+      "title": "Here's the inflation breakdown for October 2026 — in one chart",
+      "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
       "source": "CNBC",
-      "when": "2026-11-10T10:38:49.000Z"
+      "when": "2026-11-10T16:36:40.000Z"
     },
     {
-      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
       "source": "CNBC",
-      "when": "2026-11-10T10:24:13.000Z"
+      "when": "2026-11-10T16:30:23.000Z"
     },
     {
-      "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T10:15:00.000Z"
-    },
-    {
-      "title": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "title": "Ex-Google recruiter: You're answering 'Tell me about yourself?' all wrong, and other job interview mistakes—do this instead",
+      "url": "https://www.cnbc.com/make-it/2026/11/10/ex-google-recruiter-how-to-avoid-3-common-job-interview-mistakes.html",
       "source": "CNBC",
-      "when": "2026-11-10T10:02:23.000Z"
-    },
-    {
-      "title": "N.Y. Knicks star Josh Hart relists Florida home for $5.7 million",
-      "url": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T10:01:00.000Z"
-    },
-    {
-      "title": "Actor Justin Baldoni quietly sold his L.A. home for $2.1 million after moving to Nashville",
-      "url": "https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T09:58:00.000Z"
-    },
-    {
-      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
-      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-      "source": "CNBC",
-      "when": "2026-11-10T09:48:09.000Z"
-    },
-    {
-      "title": "Fed's Waller puts half-point rate hike into the mix for December",
-      "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-10T09:45:00.000Z"
-    },
-    {
-      "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-      "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-      "source": "CNBC",
-      "when": "2026-11-10T09:34:24.000Z"
-    },
-    {
-      "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
-      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-      "source": "CNBC",
-      "when": "2026-11-10T09:01:37.000Z"
-    },
-    {
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "source": "CNBC",
-      "when": "2026-11-10T09:00:01.000Z"
-    },
-    {
-      "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-      "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-      "source": "CNBC",
-      "when": "2026-11-10T07:00:02.000Z"
+      "when": "2026-11-10T16:30:01.000Z"
     }
   ],
   "errors": [
