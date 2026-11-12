@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-11T21:09:27.539Z",
-  "fetchedLabel": "Nov 11, 4:09 PM ET",
+  "fetched": "2026-11-12T02:24:36.083Z",
+  "fetchedLabel": "Nov 11, 9:24 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -25,9 +25,9 @@
     },
     {
       "name": "Russell 2000",
-      "value": "2,844.93",
-      "chg": "-12.02",
-      "pct": "-0.42%",
+      "value": "2,846.26",
+      "chg": "-10.69",
+      "pct": "-0.37%",
       "dir": "down"
     },
     {
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$86.33",
-      "chg": "-4.50",
-      "pct": "-4.95%",
+      "value": "$85.98",
+      "chg": "-4.85",
+      "pct": "-5.34%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,992.80",
-      "chg": "-82.10",
-      "pct": "-2.01%",
+      "value": "$3,991.50",
+      "chg": "-83.40",
+      "pct": "-2.05%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.61",
-      "chg": "-10.57",
-      "pct": "-37.51%",
+      "value": "17.49",
+      "chg": "-10.69",
+      "pct": "-37.93%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
-      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-      "source": "CNBC",
-      "when": "2026-11-11T21:09:16.000Z"
-    },
-    {
-      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-      "source": "CNBC",
-      "when": "2026-11-11T21:04:36.000Z"
-    },
-    {
-      "title": "Costco is giving shareholders a big, early holiday gift. How to make sure you get it",
-      "url": "https://www.cnbc.com/investingclub/2026/11/11/costco-is-giving-shareholders-a-big-early-holiday-gift-how-to-make-sure-you-get-it.html",
-      "source": "CNBC",
-      "when": "2026-11-11T20:59:32.000Z"
-    },
-    {
-      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC",
-      "when": "2026-11-11T20:59:14.000Z"
-    },
-    {
-      "title": "It's not 'Medicare for All,' but 'Medicare for More.' What this could mean for workers over 50.",
-      "url": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "title": "Nvidia's stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-11T20:53:00.000Z"
+      "when": "2026-11-12T01:35:00.000Z"
     },
     {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-11T20:46:00.000Z"
-    },
-    {
-      "title": "'We had the worst fight': I want my husband to retire at 65, but I don't want to lose his $280,000 salary. Is that unreasonable?",
-      "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-11T20:45:00.000Z"
-    },
-    {
-      "title": "Bloom Energy's stock is rallying as data-center jitters subside",
-      "url": "https://www.marketwatch.com/story/bloom-energys-stock-is-soaring-as-data-center-jitters-subside-5fda5689?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-11T20:43:00.000Z"
-    },
-    {
-      "title": "JetBlue unveils new first-class seats to bring back profits",
-      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+      "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
       "source": "CNBC",
-      "when": "2026-11-11T20:35:45.000Z"
+      "when": "2026-11-12T01:14:21.000Z"
+    },
+    {
+      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
+      "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T01:12:00.000Z"
+    },
+    {
+      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "source": "CNBC",
+      "when": "2026-11-12T00:46:08.000Z"
+    },
+    {
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "source": "CNBC",
+      "when": "2026-11-12T00:21:27.000Z"
+    },
+    {
+      "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+      "url": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+      "source": "CNBC",
+      "when": "2026-11-11T23:57:38.000Z"
+    },
+    {
+      "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+      "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+      "source": "CNBC",
+      "when": "2026-11-11T23:31:37.000Z"
+    },
+    {
+      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-11T23:30:00.000Z"
+    },
+    {
+      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "source": "CNBC",
+      "when": "2026-11-11T22:58:11.000Z"
+    },
+    {
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+      "source": "CNBC",
+      "when": "2026-11-11T22:46:29.000Z"
     },
     {
       "title": "Canada's ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
       "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
       "source": "CNBC",
-      "when": "2026-11-11T20:30:23.000Z"
+      "when": "2026-11-11T22:30:57.000Z"
     },
     {
-      "title": "Sandisk's stock is soaring, and these three trends could send it even higher",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-soaring-and-these-three-trends-could-send-it-even-higher-b0d7d5ec?mod=mw_rss_topstories",
+      "title": "I'm 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-11T20:25:00.000Z"
+      "when": "2026-11-11T22:30:00.000Z"
     },
     {
-      "title": "Should a widow leave her late partner's home to her stepkids — or cut off contact with them?",
-      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-11T20:00:00.000Z"
-    },
-    {
-      "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-      "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
       "source": "CNBC",
-      "when": "2026-11-11T19:55:39.000Z"
+      "when": "2026-11-11T22:20:58.000Z"
     },
     {
-      "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-      "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+      "title": "JetBlue unveils new first-class seats to bring back profits",
+      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
       "source": "CNBC",
-      "when": "2026-11-11T19:54:27.000Z"
+      "when": "2026-11-11T22:10:50.000Z"
     }
   ],
   "errors": [
