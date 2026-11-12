@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-12T02:24:36.083Z",
-  "fetchedLabel": "Nov 11, 9:24 PM ET",
+  "fetched": "2026-11-12T10:07:19.990Z",
+  "fetchedLabel": "Nov 12, 5:07 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$85.98",
-      "chg": "-4.85",
-      "pct": "-5.34%",
+      "value": "$86.13",
+      "chg": "-0.72",
+      "pct": "-0.83%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,991.50",
-      "chg": "-83.40",
-      "pct": "-2.05%",
+      "value": "$3,947.90",
+      "chg": "-166.60",
+      "pct": "-4.05%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.49",
-      "chg": "-10.69",
-      "pct": "-37.93%",
+      "value": "18.17",
+      "chg": "-7.47",
+      "pct": "-29.13%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Nvidia's stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "title": "Prince Harry and Meghan Markle move into new home in Cotswolds",
+      "url": "https://www.marketwatch.com/story/prince-harry-and-meghan-markle-move-into-new-home-in-cotswolds-e9bb0739?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-12T01:35:00.000Z"
+      "when": "2026-11-12T10:03:00.000Z"
     },
     {
-      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-      "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+      "title": "Nvidia stock falls 6% as investors await Jensen Huang's fate",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
       "source": "CNBC",
-      "when": "2026-11-12T01:14:21.000Z"
+      "when": "2026-11-12T09:49:21.000Z"
+    },
+    {
+      "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
+      "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+      "source": "CNBC",
+      "when": "2026-11-12T09:05:22.000Z"
+    },
+    {
+      "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
+      "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "source": "CNBC",
+      "when": "2026-11-12T07:38:45.000Z"
+    },
+    {
+      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
+      "url": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T07:30:00.000Z"
     },
     {
       "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
       "url": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-12T01:12:00.000Z"
+      "when": "2026-11-12T04:41:00.000Z"
     },
     {
-      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "title": "The world's super-rich are piling into alternative investments. Here's why",
+      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
       "source": "CNBC",
-      "when": "2026-11-12T00:46:08.000Z"
+      "when": "2026-11-12T03:36:44.000Z"
     },
     {
-      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "url": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
       "source": "CNBC",
-      "when": "2026-11-12T00:21:27.000Z"
+      "when": "2026-11-12T03:25:05.000Z"
     },
     {
-      "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
-      "url": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
-      "source": "CNBC",
-      "when": "2026-11-11T23:57:38.000Z"
-    },
-    {
-      "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
-      "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
-      "source": "CNBC",
-      "when": "2026-11-11T23:31:37.000Z"
-    },
-    {
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "url": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-11T23:30:00.000Z"
+      "when": "2026-11-12T03:15:00.000Z"
     },
     {
-      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-      "source": "CNBC",
-      "when": "2026-11-11T22:58:11.000Z"
-    },
-    {
-      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-      "source": "CNBC",
-      "when": "2026-11-11T22:46:29.000Z"
-    },
-    {
-      "title": "Canada's ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-      "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-      "source": "CNBC",
-      "when": "2026-11-11T22:30:57.000Z"
-    },
-    {
-      "title": "I'm 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "title": "Here's how Bernie Sanders wants to keep Social Security solvent 'for generations'",
+      "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-11T22:30:00.000Z"
+      "when": "2026-11-12T03:10:00.000Z"
     },
     {
-      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "title": "What we know so far about Nvidia partner Megaspeed's Asia footprint",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
       "source": "CNBC",
-      "when": "2026-11-11T22:20:58.000Z"
+      "when": "2026-11-12T03:02:03.000Z"
     },
     {
-      "title": "JetBlue unveils new first-class seats to bring back profits",
-      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "title": "Nvidia's stock drops as the board reportedly prepares to remove CEO Jensen Huang",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T02:52:00.000Z"
+    },
+    {
+      "title": "'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T02:45:00.000Z"
+    },
+    {
+      "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+      "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
       "source": "CNBC",
-      "when": "2026-11-11T22:10:50.000Z"
+      "when": "2026-11-12T02:43:09.000Z"
     }
   ],
   "errors": [
