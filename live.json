@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-12T18:30:36.627Z",
-  "fetchedLabel": "Nov 12, 1:30 PM ET",
+  "fetched": "2026-11-12T23:59:59.635Z",
+  "fetchedLabel": "Nov 12, 6:59 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,626.83",
-      "chg": "+273.10",
-      "pct": "+3.71%",
+      "value": "7,592.40",
+      "chg": "+238.67",
+      "pct": "+3.25%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "25,467.81",
-      "chg": "+1152.81",
-      "pct": "+4.74%",
+      "value": "25,366.09",
+      "chg": "+1051.09",
+      "pct": "+4.32%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,588.26",
-      "chg": "+1065.20",
-      "pct": "+2.07%",
+      "value": "52,297.09",
+      "chg": "+774.03",
+      "pct": "+1.50%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,819.32",
-      "chg": "+89.43",
-      "pct": "+3.28%",
+      "value": "2,799.06",
+      "chg": "+69.17",
+      "pct": "+2.53%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.12%",
-      "chg": "+0.26",
-      "pct": "+5.27%",
+      "value": "5.10%",
+      "chg": "+0.24",
+      "pct": "+5.02%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$88.20",
-      "chg": "+1.35",
-      "pct": "+1.55%",
+      "value": "$88.78",
+      "chg": "+1.93",
+      "pct": "+2.22%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,885.00",
-      "chg": "-229.50",
+      "value": "$3,885.10",
+      "chg": "-229.40",
       "pct": "-5.58%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "17.72",
-      "chg": "-7.92",
-      "pct": "-30.89%",
+      "value": "18.70",
+      "chg": "-6.94",
+      "pct": "-27.07%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-      "source": "CNBC",
-      "when": "2026-11-12T18:26:52.000Z"
-    },
-    {
-      "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
-      "url": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T18:19:00.000Z"
-    },
-    {
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T18:15:00.000Z"
-    },
-    {
-      "title": "Nvidia's stock is on sale after Jensen Huang's exit. But is the selloff just beginning?",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T18:09:00.000Z"
-    },
-    {
-      "title": "The bond market now has an even bigger fear than AI fallout",
-      "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T18:08:00.000Z"
-    },
-    {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "source": "CNBC",
-      "when": "2026-11-12T17:59:26.000Z"
+      "when": "2026-11-12T23:29:45.000Z"
     },
     {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T17:59:00.000Z"
-    },
-    {
-      "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-      "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
       "source": "CNBC",
-      "when": "2026-11-12T17:53:31.000Z"
-    },
-    {
-      "title": "Bain Capital's head of real estate uses this strategy to counter the economy's 'cocktail of disruption'",
-      "url": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
-      "source": "CNBC",
-      "when": "2026-11-12T17:50:59.000Z"
-    },
-    {
-      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-      "source": "CNBC",
-      "when": "2026-11-12T17:49:47.000Z"
-    },
-    {
-      "title": "The scandal at Nvidia is exactly what's wrong with the S&P 500",
-      "url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-12T17:42:00.000Z"
-    },
-    {
-      "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street's $500 billion AI financing bet",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-      "source": "CNBC",
-      "when": "2026-11-12T17:41:46.000Z"
-    },
-    {
-      "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-      "source": "CNBC",
-      "when": "2026-11-12T17:40:40.000Z"
+      "when": "2026-11-12T23:14:56.000Z"
     },
     {
       "title": "Analysis: Nvidia's leadership crisis tests the chipmaker's role as the 'central bank of AI'",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
       "source": "CNBC",
-      "when": "2026-11-12T17:39:54.000Z"
+      "when": "2026-11-12T23:08:50.000Z"
+    },
+    {
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T22:57:00.000Z"
+    },
+    {
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-12T22:48:26.000Z"
+    },
+    {
+      "title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "source": "CNBC",
+      "when": "2026-11-12T22:47:28.000Z"
+    },
+    {
+      "title": "Opening trading-card packs has become a $2 billion market",
+      "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T22:38:00.000Z"
+    },
+    {
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "when": "2026-11-12T22:24:12.000Z"
+    },
+    {
+      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+      "source": "CNBC",
+      "when": "2026-11-12T22:17:05.000Z"
+    },
+    {
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T22:16:00.000Z"
+    },
+    {
+      "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
+      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
+      "source": "CNBC",
+      "when": "2026-11-12T22:06:08.000Z"
+    },
+    {
+      "title": "'He calls my plans a fantasy': My husband says we can't afford our $200,000-a-year dream retirement. I think he's cheap.",
+      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T22:00:00.000Z"
+    },
+    {
+      "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+      "url": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T21:55:00.000Z"
+    },
+    {
+      "title": "The 10 best stocks for a year-end momentum trade",
+      "url": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-12T21:50:00.000Z"
     }
   ],
   "errors": [
