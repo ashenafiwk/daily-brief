@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-13T06:27:47.234Z",
-  "fetchedLabel": "Nov 13, 1:27 AM ET",
+  "fetched": "2026-11-13T14:51:35.354Z",
+  "fetchedLabel": "Nov 13, 9:51 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,592.40",
-      "chg": "+238.67",
-      "pct": "+3.25%",
+      "value": "7,570.97",
+      "chg": "+194.11",
+      "pct": "+2.63%",
       "dir": "up"
     },
     {
       "name": "Nasdaq",
-      "value": "25,366.09",
-      "chg": "+1051.09",
-      "pct": "+4.32%",
+      "value": "25,212.18",
+      "chg": "+632.75",
+      "pct": "+2.57%",
       "dir": "up"
     },
     {
       "name": "Dow 30",
-      "value": "52,297.09",
-      "chg": "+774.03",
-      "pct": "+1.50%",
+      "value": "52,346.88",
+      "chg": "+1061.15",
+      "pct": "+2.07%",
       "dir": "up"
     },
     {
       "name": "Russell 2000",
-      "value": "2,799.06",
-      "chg": "+69.17",
-      "pct": "+2.53%",
+      "value": "2,798.36",
+      "chg": "+44.25",
+      "pct": "+1.61%",
       "dir": "up"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.10%",
-      "chg": "+0.24",
-      "pct": "+5.02%",
+      "value": "5.17%",
+      "chg": "+0.30",
+      "pct": "+6.21%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$88.54",
-      "chg": "+1.69",
-      "pct": "+1.95%",
+      "value": "$89.27",
+      "chg": "+2.42",
+      "pct": "+2.79%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,904.40",
-      "chg": "-210.10",
-      "pct": "-5.11%",
+      "value": "$3,897.20",
+      "chg": "-217.30",
+      "pct": "-5.28%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "18.70",
-      "chg": "-6.94",
-      "pct": "-27.07%",
+      "value": "18.55",
+      "chg": "-1.37",
+      "pct": "-6.88%",
       "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "title": "Bessent points to Lutnick's Commerce as he slams Nvidia chip 'leakage' to China",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
       "source": "CNBC",
-      "when": "2026-11-13T06:26:51.000Z"
+      "when": "2026-11-13T14:39:55.000Z"
     },
     {
-      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "title": "Nvidia stock tries to recover from Jensen Huang resignation sell-off",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
       "source": "CNBC",
-      "when": "2026-11-13T05:51:34.000Z"
+      "when": "2026-11-13T14:39:53.000Z"
     },
     {
-      "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
+      "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-13T04:46:00.000Z"
+      "when": "2026-11-13T14:28:00.000Z"
     },
     {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
       "source": "CNBC",
-      "when": "2026-11-13T04:07:44.000Z"
+      "when": "2026-11-13T14:26:04.000Z"
     },
     {
-      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "title": "'We will sue them': Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+      "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
       "source": "CNBC",
-      "when": "2026-11-13T03:59:40.000Z"
+      "when": "2026-11-13T14:24:57.000Z"
     },
     {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
       "source": "CNBC",
-      "when": "2026-11-13T02:43:26.000Z"
+      "when": "2026-11-13T14:23:47.000Z"
     },
     {
-      "title": "The world's super-rich are piling into alternative investments. Here's why",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "source": "CNBC",
-      "when": "2026-11-13T02:25:02.000Z"
-    },
-    {
-      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-      "source": "CNBC",
-      "when": "2026-11-12T23:14:56.000Z"
-    },
-    {
-      "title": "Analysis: Nvidia's leadership crisis tests the chipmaker's role as the 'central bank of AI'",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "source": "CNBC",
-      "when": "2026-11-12T23:08:50.000Z"
-    },
-    {
-      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-      "url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "title": "Microsoft Outlook outage stretches into a second day: What to know",
+      "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-12T22:57:00.000Z"
-    },
-    {
-      "title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
-      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-      "source": "CNBC",
-      "when": "2026-11-12T22:47:28.000Z"
+      "when": "2026-11-13T14:22:00.000Z"
     },
     {
       "title": "Opening trading-card packs has become a $2 billion market",
       "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-12T22:38:00.000Z"
+      "when": "2026-11-13T14:16:00.000Z"
     },
     {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC",
-      "when": "2026-11-12T22:24:12.000Z"
+      "title": "I'm 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-13T14:15:00.000Z"
     },
     {
-      "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-      "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
       "source": "CNBC",
-      "when": "2026-11-12T22:17:05.000Z"
+      "when": "2026-11-13T14:12:16.000Z"
+    },
+    {
+      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-13T14:02:52.000Z"
+    },
+    {
+      "title": "Jensen Huang scandal casts doubt on Nvidia's AI dominance — how we got here",
+      "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+      "source": "CNBC",
+      "when": "2026-11-13T14:01:24.000Z"
+    },
+    {
+      "title": "Midterm elections provided the hyperscalers with the excuse they needed to cut back on spending, says Jefferies strategist",
+      "url": "https://www.marketwatch.com/story/midterm-elections-provided-the-hyperscalers-with-the-excuse-they-needed-to-cut-back-on-spending-says-jefferies-strategist-de6349ec?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-13T13:43:00.000Z"
+    },
+    {
+      "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+      "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+      "source": "CNBC",
+      "when": "2026-11-13T13:15:35.000Z"
     }
   ],
   "errors": [
