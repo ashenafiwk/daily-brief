@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-14T01:38:07.998Z",
-  "fetchedLabel": "Nov 13, 8:38 PM ET",
+  "fetched": "2026-11-14T08:46:28.778Z",
+  "fetchedLabel": "Nov 14, 3:46 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "52,347.55",
-      "chg": "+1061.82",
+      "value": "52,347.60",
+      "chg": "+1061.87",
       "pct": "+2.07%",
       "dir": "up"
     },
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$88.92",
-      "chg": "+2.07",
-      "pct": "+2.38%",
+      "value": "$88.56",
+      "chg": "+1.71",
+      "pct": "+1.97%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,887.60",
-      "chg": "-226.90",
-      "pct": "-5.51%",
+      "value": "$3,886.30",
+      "chg": "-228.20",
+      "pct": "-5.55%",
       "dir": "down"
     },
     {
@@ -61,10 +61,40 @@
   ],
   "headlines": [
     {
-      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "when": "2026-11-14T08:11:28.000Z"
+    },
+    {
+      "title": "Analysis: Companies love a 'rockstar' CEO. Until they depend on one",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+      "source": "CNBC",
+      "when": "2026-11-14T07:08:45.000Z"
+    },
+    {
+      "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+      "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+      "source": "CNBC",
+      "when": "2026-11-14T06:00:01.000Z"
+    },
+    {
+      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
       "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
       "source": "CNBC",
-      "when": "2026-11-14T01:34:45.000Z"
+      "when": "2026-11-14T05:08:24.000Z"
+    },
+    {
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-14T02:42:00.000Z"
+    },
+    {
+      "title": "14 dividend stocks selected for long-term growth",
+      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-14T01:58:00.000Z"
     },
     {
       "title": "Trump doesn't plan to raise Nvidia, spy issue during China trip: U.S. officials",
@@ -73,22 +103,10 @@
       "when": "2026-11-14T01:34:11.000Z"
     },
     {
-      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-14T01:28:00.000Z"
-    },
-    {
       "title": "SpaceX launches Starship in key test flight of massive rocket",
       "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
       "source": "CNBC",
       "when": "2026-11-14T01:18:51.000Z"
-    },
-    {
-      "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-      "source": "CNBC",
-      "when": "2026-11-13T23:54:36.000Z"
     },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -125,24 +143,6 @@
       "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
       "source": "CNBC",
       "when": "2026-11-13T22:06:55.000Z"
-    },
-    {
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won't mean cheaper diesel.",
-      "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-13T22:04:00.000Z"
-    },
-    {
-      "title": "'He calls my plans a fantasy': My husband says we can't afford a $200,000-a-year retirement. Is he being cheap?",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-13T22:00:00.000Z"
-    },
-    {
-      "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic's historic deal is its next chance",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "source": "CNBC",
-      "when": "2026-11-13T21:44:07.000Z"
     }
   ],
   "errors": [
