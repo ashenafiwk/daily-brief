@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-14T08:46:28.778Z",
-  "fetchedLabel": "Nov 14, 3:46 AM ET",
+  "fetched": "2026-11-14T15:39:58.667Z",
+  "fetchedLabel": "Nov 14, 10:39 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -18,8 +18,8 @@
     },
     {
       "name": "Dow 30",
-      "value": "52,347.60",
-      "chg": "+1061.87",
+      "value": "52,347.55",
+      "chg": "+1061.82",
       "pct": "+2.07%",
       "dir": "up"
     },
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC",
-      "when": "2026-11-14T08:11:28.000Z"
-    },
-    {
-      "title": "Analysis: Companies love a 'rockstar' CEO. Until they depend on one",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-      "source": "CNBC",
-      "when": "2026-11-14T07:08:45.000Z"
-    },
-    {
-      "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
-      "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-      "source": "CNBC",
-      "when": "2026-11-14T06:00:01.000Z"
-    },
-    {
-      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
-      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-      "source": "CNBC",
-      "when": "2026-11-14T05:08:24.000Z"
-    },
-    {
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-14T02:42:00.000Z"
-    },
-    {
-      "title": "14 dividend stocks selected for long-term growth",
-      "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-14T01:58:00.000Z"
-    },
-    {
       "title": "Trump doesn't plan to raise Nvidia, spy issue during China trip: U.S. officials",
       "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "source": "CNBC",
-      "when": "2026-11-14T01:34:11.000Z"
+      "when": "2026-11-14T15:36:47.000Z"
     },
     {
-      "title": "SpaceX launches Starship in key test flight of massive rocket",
-      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "source": "CNBC",
-      "when": "2026-11-14T01:18:51.000Z"
-    },
-    {
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-      "source": "CNBC",
-      "when": "2026-11-13T23:42:18.000Z"
+      "when": "2026-11-14T15:32:27.000Z"
     },
     {
       "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
       "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-13T23:12:00.000Z"
+      "when": "2026-11-14T15:30:00.000Z"
     },
     {
-      "title": "4 expert tips for signing up for Medicare",
-      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "title": "My older brother, who has no children, cut our only sister out of his will. I'll get everything. Do I tell her?",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-13T22:45:00.000Z"
+      "when": "2026-11-14T15:15:00.000Z"
     },
     {
-      "title": "Nvidia's stock is on a losing streak not seen in 14 years. What comes next?",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S.",
+      "url": "https://www.cnbc.com/2026/11/14/real-estate-rental-income-industrial-storage-market.html",
+      "source": "CNBC",
+      "when": "2026-11-14T15:14:57.000Z"
+    },
+    {
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "source": "CNBC",
+      "when": "2026-11-14T14:54:22.000Z"
+    },
+    {
+      "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
+      "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+      "source": "CNBC",
+      "when": "2026-11-14T14:30:01.000Z"
+    },
+    {
+      "title": "U.S. air travel could take days to recover after FAA's lifting of rare nationwide ground stop",
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-13T22:21:00.000Z"
+      "when": "2026-11-14T14:27:00.000Z"
     },
     {
-      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "title": "Juice your growth and save on taxes in this workplace investment account",
+      "url": "https://www.cnbc.com/2026/11/14/hsa-investing-tax-benefits.html",
       "source": "CNBC",
-      "when": "2026-11-13T22:18:43.000Z"
+      "when": "2026-11-14T14:08:17.000Z"
     },
     {
-      "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
-      "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+      "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+      "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
       "source": "CNBC",
-      "when": "2026-11-13T22:06:55.000Z"
+      "when": "2026-11-14T14:02:39.000Z"
+    },
+    {
+      "title": "What's the most tax-efficient way to donate to charity?",
+      "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-14T14:00:00.000Z"
+    },
+    {
+      "title": "Washington can start delivering on affordability by rejecting Trump's tariffs",
+      "url": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-14T13:30:00.000Z"
+    },
+    {
+      "title": "Retailers are turning to entertainment to win shoppers' attention",
+      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+      "source": "CNBC",
+      "when": "2026-11-14T13:00:01.000Z"
+    },
+    {
+      "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+      "url": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-14T13:00:00.000Z"
     }
   ],
   "errors": [
