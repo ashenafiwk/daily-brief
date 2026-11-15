@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-15T00:53:05.868Z",
-  "fetchedLabel": "Nov 14, 7:53 PM ET",
+  "fetched": "2026-11-15T07:40:55.763Z",
+  "fetchedLabel": "Nov 15, 2:40 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,15 +40,15 @@
     {
       "name": "Crude (WTI)",
       "value": "$88.56",
-      "chg": "+1.71",
-      "pct": "+1.97%",
+      "chg": "+2.52",
+      "pct": "+2.93%",
       "dir": "up"
     },
     {
       "name": "Gold",
       "value": "$3,886.30",
-      "chg": "-228.20",
-      "pct": "-5.55%",
+      "chg": "-143.90",
+      "pct": "-3.57%",
       "dir": "down"
     },
     {
@@ -61,16 +61,22 @@
   ],
   "headlines": [
     {
-      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-      "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T00:33:00.000Z"
+      "title": "Could Budapest be the next digital nomad hotspot?",
+      "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+      "source": "CNBC",
+      "when": "2026-11-15T06:00:01.000Z"
     },
     {
       "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT's Duffy",
       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "source": "CNBC",
-      "when": "2026-11-14T23:21:21.000Z"
+      "when": "2026-11-15T02:53:59.000Z"
+    },
+    {
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T00:33:00.000Z"
     },
     {
       "title": "SpaceX catches upper stage of Starship rocket in historic first",
@@ -135,12 +141,6 @@
     {
       "title": "The trillion-dollar mistake corporate America is making about retirement",
       "url": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-14T17:50:00.000Z"
-    },
-    {
-      "title": "Retirees should be big beneficiaries of the midterms: 'Democrats will hold every gavel that matters for aging and public policy'",
-      "url": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-14T17:50:00.000Z"
     }
