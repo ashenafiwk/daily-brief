@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-15T20:31:18.098Z",
-  "fetchedLabel": "Nov 15, 3:31 PM ET",
+  "fetched": "2026-11-16T00:52:15.808Z",
+  "fetchedLabel": "Nov 15, 7:52 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$88.56",
-      "chg": "+2.52",
-      "pct": "+2.93%",
+      "value": "$88.38",
+      "chg": "+2.34",
+      "pct": "+2.72%",
       "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,886.30",
-      "chg": "-143.90",
-      "pct": "-3.57%",
+      "value": "$3,888.60",
+      "chg": "-141.60",
+      "pct": "-3.51%",
       "dir": "down"
     },
     {
@@ -61,22 +61,58 @@
   ],
   "headlines": [
     {
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "source": "CNBC",
+      "when": "2026-11-16T00:11:25.000Z"
+    },
+    {
       "title": "'It leaves me with a sour taste': My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
       "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-15T20:01:00.000Z"
+      "when": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "title": "Should a widow leave her late partner's home to her stepkids — or cut off contact with them?",
+      "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T23:00:00.000Z"
+    },
+    {
+      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "source": "CNBC",
+      "when": "2026-11-15T22:33:26.000Z"
+    },
+    {
+      "title": "My older brother, who has no children, cut our only sister out of his will. I'll get everything. Do I tell her?",
+      "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T22:15:00.000Z"
+    },
+    {
+      "title": "Nvidia is gearing up for one of Wall Street's most anticipated earnings calls in years",
+      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T21:32:00.000Z"
+    },
+    {
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T21:31:00.000Z"
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-15T20:30:00.000Z"
     },
     {
       "title": "'He calls my plans a fantasy': My husband says we can't afford a $200,000-a-year retirement. Is he being cheap?",
       "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-15T20:00:00.000Z"
-    },
-    {
-      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-      "source": "CNBC",
-      "when": "2026-11-15T18:22:23.000Z"
     },
     {
       "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
@@ -107,42 +143,6 @@
       "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
       "source": "CNBC",
       "when": "2026-11-15T15:26:20.000Z"
-    },
-    {
-      "title": "China's hottest stocks these days have one thing in common: names that sound like sheep",
-      "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T15:22:00.000Z"
-    },
-    {
-      "title": "'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T15:00:00.000Z"
-    },
-    {
-      "title": "Nvidia is gearing up for one of Wall Street's most anticipated earnings calls in years",
-      "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T15:00:00.000Z"
-    },
-    {
-      "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-      "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-      "source": "CNBC",
-      "when": "2026-11-15T14:30:01.000Z"
-    },
-    {
-      "title": "'The thought of living to 100 terrifies me': Is Social Security a giant Ponzi scheme?",
-      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T14:00:00.000Z"
-    },
-    {
-      "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-      "url": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-15T14:00:00.000Z"
     }
   ],
   "errors": [
