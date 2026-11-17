@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-16T18:10:00.708Z",
-  "fetchedLabel": "Nov 16, 1:10 PM ET",
+  "fetched": "2026-11-17T01:58:09.985Z",
+  "fetchedLabel": "Nov 16, 8:58 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,441.34",
-      "chg": "-108.60",
-      "pct": "-1.44%",
+      "value": "7,416.59",
+      "chg": "-133.35",
+      "pct": "-1.77%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,589.82",
-      "chg": "-663.32",
-      "pct": "-2.63%",
+      "value": "24,509.76",
+      "chg": "-743.38",
+      "pct": "-2.94%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "51,814.50",
-      "chg": "-575.25",
-      "pct": "-1.10%",
+      "value": "51,608.17",
+      "chg": "-781.58",
+      "pct": "-1.49%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,753.44",
-      "chg": "-87.37",
-      "pct": "-3.08%",
+      "value": "2,742.94",
+      "chg": "-97.87",
+      "pct": "-3.45%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.13%",
-      "chg": "+0.15",
-      "pct": "+3.05%",
+      "value": "5.12%",
+      "chg": "+0.14",
+      "pct": "+2.77%",
       "dir": "up"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$86.09",
-      "chg": "-0.44",
-      "pct": "-0.51%",
+      "value": "$85.05",
+      "chg": "-1.48",
+      "pct": "-1.71%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,859.00",
-      "chg": "-141.50",
-      "pct": "-3.54%",
+      "value": "$3,869.30",
+      "chg": "-131.20",
+      "pct": "-3.28%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "21.77",
-      "chg": "+2.31",
-      "pct": "+11.87%",
+      "value": "22.91",
+      "chg": "+3.45",
+      "pct": "+17.73%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "source": "CNBC",
-      "when": "2026-11-16T18:09:50.000Z"
+      "when": "2026-11-17T00:42:33.000Z"
     },
     {
-      "title": "What's the most tax-efficient way to donate to charity?",
-      "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+      "title": "United Airlines resolves system outage that affected departing flights",
+      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "source": "CNBC",
+      "when": "2026-11-17T00:00:49.000Z"
+    },
+    {
+      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-16T17:55:00.000Z"
+      "when": "2026-11-16T23:42:00.000Z"
     },
     {
-      "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
-      "url": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
-      "source": "CNBC",
-      "when": "2026-11-16T17:54:53.000Z"
-    },
-    {
-      "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
-      "url": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-16T17:53:00.000Z"
+      "when": "2026-11-16T23:28:00.000Z"
     },
     {
-      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
+      "title": "Jim Cramer says Nvidia's leadership shake-up won't derail the AI trade",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
       "source": "CNBC",
-      "when": "2026-11-16T17:52:38.000Z"
+      "when": "2026-11-16T23:23:47.000Z"
     },
     {
-      "title": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
+      "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
       "source": "CNBC",
-      "when": "2026-11-16T17:50:45.000Z"
+      "when": "2026-11-16T23:05:12.000Z"
     },
     {
-      "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-      "url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-      "source": "CNBC",
-      "when": "2026-11-16T17:39:32.000Z"
+      "title": "Do Amazon's Black Friday deals really save you money? A new report casts doubt.",
+      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-16T23:04:00.000Z"
     },
     {
-      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could 'disappoint'",
-      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
       "source": "CNBC",
-      "when": "2026-11-16T17:29:04.000Z"
+      "when": "2026-11-16T23:01:19.000Z"
     },
     {
-      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+      "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
       "source": "CNBC",
-      "when": "2026-11-16T17:27:23.000Z"
+      "when": "2026-11-16T23:00:01.000Z"
     },
     {
-      "title": "Robert Pattinson cast as next James Bond",
-      "url": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-      "source": "CNBC",
-      "when": "2026-11-16T17:25:51.000Z"
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-16T23:00:00.000Z"
     },
     {
-      "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-      "source": "CNBC",
-      "when": "2026-11-16T17:22:11.000Z"
+      "title": "U.S. dollar's AI-driven breakout could become a stock-market wrecking ball",
+      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-16T22:46:00.000Z"
     },
     {
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "title": "Trump's accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
       "source": "CNBC",
-      "when": "2026-11-16T17:14:13.000Z"
+      "when": "2026-11-16T22:37:45.000Z"
+    },
+    {
+      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+      "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-16T22:33:00.000Z"
     },
     {
       "title": "'He calls my plans a fantasy': My husband says we can't afford a $200,000-a-year retirement. Is he being cheap?",
       "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-16T17:00:00.000Z"
-    },
-    {
-      "title": "Cramer: Take some profits in these 2 stocks if you have big gains and do this with the cash",
-      "url": "https://www.cnbc.com/investingclub/2026/11/16/cramer-take-some-profits-in-these-2-stocks-and-do-this-with-the-cash.html",
-      "source": "CNBC",
-      "when": "2026-11-16T16:59:01.000Z"
+      "when": "2026-11-16T22:30:00.000Z"
     }
   ],
   "errors": [
