@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-17T01:58:09.985Z",
-  "fetchedLabel": "Nov 16, 8:58 PM ET",
+  "fetched": "2026-11-17T10:31:30.930Z",
+  "fetchedLabel": "Nov 17, 5:31 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,99 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$85.05",
-      "chg": "-1.48",
-      "pct": "-1.71%",
+      "value": "$85.81",
+      "chg": "-2.93",
+      "pct": "-3.30%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,869.30",
-      "chg": "-131.20",
-      "pct": "-3.28%",
+      "value": "$3,859.40",
+      "chg": "-25.90",
+      "pct": "-0.67%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "22.91",
-      "chg": "+3.45",
-      "pct": "+17.73%",
+      "value": "23.63",
+      "chg": "+6.14",
+      "pct": "+35.11%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Tepper, Loeb among fund managers piling into Nvidia and other megacap tech on the eve of October drawdown",
+      "url": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T10:28:00.000Z"
+    },
+    {
+      "title": "'Nvidia spooked me': Should I sell my stocks or ride out the market turmoil?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T10:15:00.000Z"
+    },
+    {
+      "title": "'Breaking Bad' star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+      "url": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T10:01:00.000Z"
+    },
+    {
+      "title": "Supermodel Bella Hadid snaps up a charming Colorado compound for $5.5 million",
+      "url": "https://www.marketwatch.com/story/supermodel-bella-hadid-snaps-up-a-charming-colorado-compound-for-5-5-million-b907958c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T09:57:00.000Z"
+    },
+    {
+      "title": "Here's how much of Deutsche Bank's market cap has been wiped away after reports on 15 million leaked documents",
+      "url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T09:35:00.000Z"
+    },
+    {
+      "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+      "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+      "source": "CNBC",
+      "when": "2026-11-17T09:23:40.000Z"
+    },
+    {
+      "title": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here's why",
+      "url": "https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html",
+      "source": "CNBC",
+      "when": "2026-11-17T08:39:17.000Z"
+    },
+    {
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "source": "CNBC",
+      "when": "2026-11-17T07:07:35.000Z"
+    },
+    {
+      "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+      "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+      "source": "CNBC",
+      "when": "2026-11-17T06:59:42.000Z"
+    },
+    {
+      "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "source": "CNBC",
+      "when": "2026-11-17T05:51:13.000Z"
+    },
+    {
+      "title": "Here's what to expect when Disney reports earnings before the bell",
+      "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-17T05:01:01.000Z"
+    },
+    {
+      "title": "I'm in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-17T02:30:00.000Z"
+    },
     {
       "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
       "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
@@ -71,78 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
       "source": "CNBC",
       "when": "2026-11-17T00:00:49.000Z"
-    },
-    {
-      "title": "United Airlines resolves system outage that delayed flights Monday",
-      "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T23:42:00.000Z"
-    },
-    {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-      "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T23:28:00.000Z"
-    },
-    {
-      "title": "Jim Cramer says Nvidia's leadership shake-up won't derail the AI trade",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-      "source": "CNBC",
-      "when": "2026-11-16T23:23:47.000Z"
-    },
-    {
-      "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
-      "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-      "source": "CNBC",
-      "when": "2026-11-16T23:05:12.000Z"
-    },
-    {
-      "title": "Do Amazon's Black Friday deals really save you money? A new report casts doubt.",
-      "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T23:04:00.000Z"
-    },
-    {
-      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-      "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-      "source": "CNBC",
-      "when": "2026-11-16T23:01:19.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-      "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-      "source": "CNBC",
-      "when": "2026-11-16T23:00:01.000Z"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T23:00:00.000Z"
-    },
-    {
-      "title": "U.S. dollar's AI-driven breakout could become a stock-market wrecking ball",
-      "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T22:46:00.000Z"
-    },
-    {
-      "title": "Trump's accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC",
-      "when": "2026-11-16T22:37:45.000Z"
-    },
-    {
-      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T22:33:00.000Z"
-    },
-    {
-      "title": "'He calls my plans a fantasy': My husband says we can't afford a $200,000-a-year retirement. Is he being cheap?",
-      "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-16T22:30:00.000Z"
     }
   ],
   "errors": [
