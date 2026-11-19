@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-19T01:22:51.544Z",
-  "fetchedLabel": "Nov 18, 8:22 PM ET",
+  "fetched": "2026-11-19T09:16:52.199Z",
+  "fetchedLabel": "Nov 19, 4:16 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,99 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$82.22",
-      "chg": "-6.34",
-      "pct": "-7.16%",
+      "value": "$82.57",
+      "chg": "-3.15",
+      "pct": "-3.67%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,752.80",
-      "chg": "-133.50",
-      "pct": "-3.44%",
+      "value": "$3,742.30",
+      "chg": "-110.70",
+      "pct": "-2.87%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "24.56",
-      "chg": "+5.86",
-      "pct": "+31.34%",
+      "value": "21.91",
+      "chg": "+2.61",
+      "pct": "+13.52%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "Here's the precise moment when cyberattacks started increasing exponentially",
+      "url": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T09:13:00.000Z"
+    },
+    {
+      "title": "Trump says U.S., China, Russia 'uniquely positioned' to discuss reducing nuclear weapons at historic meeting",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "source": "CNBC",
+      "when": "2026-11-19T09:08:41.000Z"
+    },
+    {
+      "title": "Trump praises 'great relationship' with Putin after meeting, as Ukraine war takes center stage",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "source": "CNBC",
+      "when": "2026-11-19T09:02:00.000Z"
+    },
+    {
+      "title": "This closely-watched guru just sold everything",
+      "url": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T08:25:00.000Z"
+    },
+    {
+      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+      "source": "CNBC",
+      "when": "2026-11-19T07:38:29.000Z"
+    },
+    {
+      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+      "source": "CNBC",
+      "when": "2026-11-19T07:32:56.000Z"
+    },
+    {
+      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+      "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+      "source": "CNBC",
+      "when": "2026-11-19T06:07:29.000Z"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T03:45:00.000Z"
+    },
+    {
+      "title": "'It's downright dirty': My brother took over our ailing mother's life and finances. What can I do?",
+      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T03:45:00.000Z"
+    },
+    {
+      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+      "source": "CNBC",
+      "when": "2026-11-19T03:43:38.000Z"
+    },
+    {
+      "title": "'I've been a stay-at-home mom': I'm 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T03:30:00.000Z"
+    },
+    {
+      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+      "source": "CNBC",
+      "when": "2026-11-19T02:49:35.000Z"
+    },
     {
       "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
       "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
@@ -71,78 +143,6 @@
       "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-19T01:02:00.000Z"
-    },
-    {
-      "title": "'I've been a stay-at-home mom': I'm 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T01:00:00.000Z"
-    },
-    {
-      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
-      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
-      "source": "CNBC",
-      "when": "2026-11-19T00:31:00.000Z"
-    },
-    {
-      "title": "'Nvidia's turmoil has me spooked': Should I sell my stocks and buy real estate — or ride out the storm?",
-      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T00:30:00.000Z"
-    },
-    {
-      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-      "source": "CNBC",
-      "when": "2026-11-19T00:08:14.000Z"
-    },
-    {
-      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
-      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
-      "source": "CNBC",
-      "when": "2026-11-19T00:07:06.000Z"
-    },
-    {
-      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
-      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
-      "source": "CNBC",
-      "when": "2026-11-19T00:01:23.000Z"
-    },
-    {
-      "title": "Nvidia interim CEO Kress tells employees 'let's move forward' at first all-hands meeting since Jensen Huang exit",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-      "source": "CNBC",
-      "when": "2026-11-18T23:45:50.000Z"
-    },
-    {
-      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
-      "source": "CNBC",
-      "when": "2026-11-18T23:38:55.000Z"
-    },
-    {
-      "title": "What the 'death cross' in small-cap stocks means for the rest of the market",
-      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-18T23:12:00.000Z"
-    },
-    {
-      "title": "How copper's plunge could hurt the AI buildout",
-      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-18T23:02:00.000Z"
-    },
-    {
-      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
-      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-18T22:53:00.000Z"
-    },
-    {
-      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-      "source": "CNBC",
-      "when": "2026-11-18T22:37:00.000Z"
     }
   ],
   "errors": [
