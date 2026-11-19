@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-18T19:17:00.594Z",
-  "fetchedLabel": "Nov 18, 2:17 PM ET",
+  "fetched": "2026-11-19T01:22:51.544Z",
+  "fetchedLabel": "Nov 18, 8:22 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,326.13",
-      "chg": "-293.25",
-      "pct": "-3.85%",
+      "value": "7,323.63",
+      "chg": "-295.75",
+      "pct": "-3.88%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,436.63",
-      "chg": "-1029.56",
-      "pct": "-4.04%",
+      "value": "24,429.89",
+      "chg": "-1036.31",
+      "pct": "-4.07%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "50,202.79",
-      "chg": "-2283.70",
-      "pct": "-4.35%",
+      "value": "50,198.17",
+      "chg": "-2288.32",
+      "pct": "-4.36%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,726.97",
-      "chg": "-119.29",
-      "pct": "-4.19%",
+      "value": "2,714.31",
+      "chg": "-131.95",
+      "pct": "-4.64%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.06%",
+      "value": "5.07%",
       "chg": "-0.04",
-      "pct": "-0.76%",
+      "pct": "-0.73%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$81.97",
-      "chg": "-6.59",
-      "pct": "-7.44%",
+      "value": "$82.22",
+      "chg": "-6.34",
+      "pct": "-7.16%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,733.60",
-      "chg": "-152.70",
-      "pct": "-3.93%",
+      "value": "$3,752.80",
+      "chg": "-133.50",
+      "pct": "-3.44%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "23.91",
-      "chg": "+5.21",
-      "pct": "+27.86%",
+      "value": "24.56",
+      "chg": "+5.86",
+      "pct": "+31.34%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
       "source": "CNBC",
-      "when": "2026-11-18T19:16:08.000Z"
+      "when": "2026-11-19T01:13:20.000Z"
+    },
+    {
+      "title": "Palo Alto Networks' stock gets a fresh AI-fueled boost from earnings",
+      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T01:02:00.000Z"
+    },
+    {
+      "title": "'I've been a stay-at-home mom': I'm 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T01:00:00.000Z"
+    },
+    {
+      "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+      "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+      "source": "CNBC",
+      "when": "2026-11-19T00:31:00.000Z"
+    },
+    {
+      "title": "'Nvidia's turmoil has me spooked': Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T00:30:00.000Z"
+    },
+    {
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "CNBC",
+      "when": "2026-11-19T00:08:14.000Z"
+    },
+    {
+      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+      "source": "CNBC",
+      "when": "2026-11-19T00:07:06.000Z"
+    },
+    {
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+      "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+      "source": "CNBC",
+      "when": "2026-11-19T00:01:23.000Z"
     },
     {
       "title": "Nvidia interim CEO Kress tells employees 'let's move forward' at first all-hands meeting since Jensen Huang exit",
       "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
       "source": "CNBC",
-      "when": "2026-11-18T19:15:02.000Z"
+      "when": "2026-11-18T23:45:50.000Z"
     },
     {
-      "title": "Fed minutes show growing unease about the outlook for inflation",
-      "url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "source": "CNBC",
+      "when": "2026-11-18T23:38:55.000Z"
+    },
+    {
+      "title": "What the 'death cross' in small-cap stocks means for the rest of the market",
+      "url": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-18T19:12:00.000Z"
+      "when": "2026-11-18T23:12:00.000Z"
     },
     {
-      "title": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
-      "url": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
-      "source": "CNBC",
-      "when": "2026-11-18T19:07:39.000Z"
-    },
-    {
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "source": "CNBC",
-      "when": "2026-11-18T19:07:35.000Z"
-    },
-    {
-      "title": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
-      "source": "CNBC",
-      "when": "2026-11-18T19:01:42.000Z"
-    },
-    {
-      "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
-      "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-      "source": "CNBC",
-      "when": "2026-11-18T18:43:26.000Z"
-    },
-    {
-      "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
-      "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
-      "source": "CNBC",
-      "when": "2026-11-18T18:32:39.000Z"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "title": "How copper's plunge could hurt the AI buildout",
+      "url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-18T18:30:00.000Z"
+      "when": "2026-11-18T23:02:00.000Z"
     },
     {
-      "title": "'GTA 6' is the biggest game ever. Take-Two's stock, delivery apps and podcasts are along for the ride.",
-      "url": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+      "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+      "url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-18T18:28:00.000Z"
+      "when": "2026-11-18T22:53:00.000Z"
     },
     {
-      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+      "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
       "source": "CNBC",
-      "when": "2026-11-18T18:27:52.000Z"
-    },
-    {
-      "title": "Read Jim Cramer's full interview with Nvidia's Colette Kress: Demand, buybacks and China",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
-      "source": "CNBC",
-      "when": "2026-11-18T18:14:42.000Z"
-    },
-    {
-      "title": "Investigators make progress in hunt for cause of FAA ground stop",
-      "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-      "source": "CNBC",
-      "when": "2026-11-18T18:13:25.000Z"
-    },
-    {
-      "title": "Nvidia's Kress faces a divided workforce as some employees push for Huang's return",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-      "source": "CNBC",
-      "when": "2026-11-18T18:11:41.000Z"
+      "when": "2026-11-18T22:37:00.000Z"
     }
   ],
   "errors": [
