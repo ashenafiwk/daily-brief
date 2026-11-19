@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-19T09:16:52.199Z",
-  "fetchedLabel": "Nov 19, 4:16 AM ET",
+  "fetched": "2026-11-19T18:32:13.435Z",
+  "fetchedLabel": "Nov 19, 1:32 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,323.63",
-      "chg": "-295.75",
-      "pct": "-3.88%",
+      "value": "7,232.79",
+      "chg": "-359.61",
+      "pct": "-4.74%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,429.89",
-      "chg": "-1036.31",
-      "pct": "-4.07%",
+      "value": "24,118.32",
+      "chg": "-1247.77",
+      "pct": "-4.92%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "50,198.17",
-      "chg": "-2288.32",
-      "pct": "-4.36%",
+      "value": "49,412.48",
+      "chg": "-2884.61",
+      "pct": "-5.52%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,714.31",
-      "chg": "-131.95",
-      "pct": "-4.64%",
+      "value": "2,670.26",
+      "chg": "-128.80",
+      "pct": "-4.60%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "5.07%",
-      "chg": "-0.04",
-      "pct": "-0.73%",
+      "value": "5.05%",
+      "chg": "-0.10",
+      "pct": "-2.02%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$82.57",
-      "chg": "-3.15",
-      "pct": "-3.67%",
+      "value": "$83.25",
+      "chg": "-2.47",
+      "pct": "-2.88%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,742.30",
-      "chg": "-110.70",
-      "pct": "-2.87%",
+      "value": "$3,679.80",
+      "chg": "-173.20",
+      "pct": "-4.50%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "21.91",
-      "chg": "+2.61",
-      "pct": "+13.52%",
+      "value": "28.00",
+      "chg": "+8.70",
+      "pct": "+45.08%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Here's the precise moment when cyberattacks started increasing exponentially",
-      "url": "https://www.marketwatch.com/story/heres-the-precise-moment-when-cyberattacks-started-increasing-exponentially-244a4294?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T09:13:00.000Z"
+      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "source": "CNBC",
+      "when": "2026-11-19T18:30:51.000Z"
     },
     {
-      "title": "Trump says U.S., China, Russia 'uniquely positioned' to discuss reducing nuclear weapons at historic meeting",
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "CNBC",
+      "when": "2026-11-19T18:24:54.000Z"
+    },
+    {
+      "title": "My wife pays for her family to visit us in New York. How do I tell her we can't afford it?",
+      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T18:15:00.000Z"
+    },
+    {
+      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
+      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "source": "CNBC",
+      "when": "2026-11-19T18:07:30.000Z"
+    },
+    {
+      "title": "'Rockets are hard' — yet this analyst thinks AST SpaceMobile's stock is ready to rebound",
+      "url": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T18:07:00.000Z"
+    },
+    {
+      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "source": "CNBC",
+      "when": "2026-11-19T18:03:03.000Z"
+    },
+    {
+      "title": "UnitedHealth's stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T18:03:00.000Z"
+    },
+    {
+      "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+      "url": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T18:00:00.000Z"
+    },
+    {
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "source": "CNBC",
+      "when": "2026-11-19T17:59:04.000Z"
+    },
+    {
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "source": "CNBC",
+      "when": "2026-11-19T17:32:50.000Z"
+    },
+    {
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T17:21:00.000Z"
+    },
+    {
+      "title": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
+      "source": "CNBC",
+      "when": "2026-11-19T17:15:33.000Z"
+    },
+    {
+      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
       "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
       "source": "CNBC",
-      "when": "2026-11-19T09:08:41.000Z"
-    },
-    {
-      "title": "Trump praises 'great relationship' with Putin after meeting, as Ukraine war takes center stage",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-      "source": "CNBC",
-      "when": "2026-11-19T09:02:00.000Z"
-    },
-    {
-      "title": "This closely-watched guru just sold everything",
-      "url": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T08:25:00.000Z"
-    },
-    {
-      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-      "source": "CNBC",
-      "when": "2026-11-19T07:38:29.000Z"
-    },
-    {
-      "title": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-      "source": "CNBC",
-      "when": "2026-11-19T07:32:56.000Z"
-    },
-    {
-      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
-      "source": "CNBC",
-      "when": "2026-11-19T06:07:29.000Z"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T03:45:00.000Z"
-    },
-    {
-      "title": "'It's downright dirty': My brother took over our ailing mother's life and finances. What can I do?",
-      "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T03:45:00.000Z"
-    },
-    {
-      "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
-      "source": "CNBC",
-      "when": "2026-11-19T03:43:38.000Z"
+      "when": "2026-11-19T17:01:41.000Z"
     },
     {
       "title": "'I've been a stay-at-home mom': I'm 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
       "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T03:30:00.000Z"
-    },
-    {
-      "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
-      "source": "CNBC",
-      "when": "2026-11-19T02:49:35.000Z"
-    },
-    {
-      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
-      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-      "source": "CNBC",
-      "when": "2026-11-19T01:13:20.000Z"
-    },
-    {
-      "title": "Palo Alto Networks' stock gets a fresh AI-fueled boost from earnings",
-      "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T01:02:00.000Z"
+      "when": "2026-11-19T17:00:00.000Z"
     }
   ],
   "errors": [
