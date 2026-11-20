@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-20T01:06:13.715Z",
-  "fetchedLabel": "Nov 19, 8:06 PM ET",
+  "fetched": "2026-11-20T08:59:11.803Z",
+  "fetchedLabel": "Nov 20, 3:59 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,38 +39,92 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$82.84",
-      "chg": "-2.88",
-      "pct": "-3.36%",
+      "value": "$81.68",
+      "chg": "-4.04",
+      "pct": "-4.71%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,593.30",
-      "chg": "-259.70",
-      "pct": "-6.74%",
+      "value": "$3,583.40",
+      "chg": "-269.60",
+      "pct": "-7.00%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "28.44",
-      "chg": "+9.14",
-      "pct": "+47.36%",
+      "value": "28.59",
+      "chg": "+5.68",
+      "pct": "+24.79%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
       "source": "CNBC",
-      "when": "2026-11-20T00:53:55.000Z"
+      "when": "2026-11-20T07:23:06.000Z"
+    },
+    {
+      "title": "'More than just a game': How GTA VI's blockbuster launch fuels a booming content economy",
+      "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+      "source": "CNBC",
+      "when": "2026-11-20T07:08:36.000Z"
+    },
+    {
+      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+      "source": "CNBC",
+      "when": "2026-11-20T06:00:01.000Z"
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "source": "CNBC",
+      "when": "2026-11-20T06:00:01.000Z"
+    },
+    {
+      "title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+      "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+      "source": "CNBC",
+      "when": "2026-11-20T05:09:52.000Z"
+    },
+    {
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+      "source": "CNBC",
+      "when": "2026-11-20T03:56:17.000Z"
+    },
+    {
+      "title": "'Nvidia's turmoil has me spooked': Should I sell my stocks and buy real estate — or ride out the storm?",
+      "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-20T03:31:00.000Z"
     },
     {
       "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
       "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
       "source": "CNBC",
-      "when": "2026-11-20T00:52:17.000Z"
+      "when": "2026-11-20T01:49:03.000Z"
+    },
+    {
+      "title": "I'm terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-20T01:30:00.000Z"
+    },
+    {
+      "title": "My wife is bankrolling her family's trips to New York and it's draining our savings. Should I ask her to stop?",
+      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-20T01:22:00.000Z"
+    },
+    {
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "source": "CNBC",
+      "when": "2026-11-20T00:53:55.000Z"
     },
     {
       "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
@@ -89,60 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
       "source": "CNBC",
       "when": "2026-11-20T00:00:38.000Z"
-    },
-    {
-      "title": "After Anthropic's 'bittersweet' IPO, here's what lies ahead",
-      "url": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T23:56:00.000Z"
-    },
-    {
-      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-      "source": "CNBC",
-      "when": "2026-11-19T23:21:23.000Z"
-    },
-    {
-      "title": "These were the only stocks that rose amid the stock market's wipeout Thursday",
-      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T23:11:00.000Z"
-    },
-    {
-      "title": "Intuit's downbeat outlook deepens Wall Street's anxiety about software companies",
-      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T22:53:00.000Z"
-    },
-    {
-      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T22:41:00.000Z"
-    },
-    {
-      "title": "Congress passes bill to protect older investors from financial fraud",
-      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
-      "source": "CNBC",
-      "when": "2026-11-19T22:23:29.000Z"
-    },
-    {
-      "title": "We're in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T22:15:00.000Z"
-    },
-    {
-      "title": "Anthropic's stock surges in its debut — and the rest of the market dives anyway",
-      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T22:12:00.000Z"
-    },
-    {
-      "title": "Markets are sending troubling signals about the state of the economy",
-      "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T21:57:00.000Z"
     }
   ],
   "errors": [
