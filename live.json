@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-19T18:32:13.435Z",
-  "fetchedLabel": "Nov 19, 1:32 PM ET",
+  "fetched": "2026-11-20T01:06:13.715Z",
+  "fetchedLabel": "Nov 19, 8:06 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,232.79",
-      "chg": "-359.61",
-      "pct": "-4.74%",
+      "value": "7,175.83",
+      "chg": "-416.57",
+      "pct": "-5.49%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,118.32",
-      "chg": "-1247.77",
-      "pct": "-4.92%",
+      "value": "23,879.20",
+      "chg": "-1486.89",
+      "pct": "-5.86%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "49,412.48",
-      "chg": "-2884.61",
-      "pct": "-5.52%",
+      "value": "49,097.06",
+      "chg": "-3200.03",
+      "pct": "-6.12%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,670.26",
-      "chg": "-128.80",
-      "pct": "-4.60%",
+      "value": "2,655.11",
+      "chg": "-143.95",
+      "pct": "-5.14%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
       "value": "5.05%",
       "chg": "-0.10",
-      "pct": "-2.02%",
+      "pct": "-1.98%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.25",
-      "chg": "-2.47",
-      "pct": "-2.88%",
+      "value": "$82.84",
+      "chg": "-2.88",
+      "pct": "-3.36%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,679.80",
-      "chg": "-173.20",
-      "pct": "-4.50%",
+      "value": "$3,593.30",
+      "chg": "-259.70",
+      "pct": "-6.74%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "28.00",
-      "chg": "+8.70",
-      "pct": "+45.08%",
+      "value": "28.44",
+      "chg": "+9.14",
+      "pct": "+47.36%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-      "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
       "source": "CNBC",
-      "when": "2026-11-19T18:30:51.000Z"
+      "when": "2026-11-20T00:53:55.000Z"
     },
     {
-      "title": "AMD dives on short-seller report of alleged China exposure",
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "source": "CNBC",
+      "when": "2026-11-20T00:52:17.000Z"
+    },
+    {
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "source": "CNBC",
+      "when": "2026-11-20T00:16:30.000Z"
+    },
+    {
+      "title": "AMD dives on short seller report of alleged China exposure",
       "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "source": "CNBC",
-      "when": "2026-11-19T18:24:54.000Z"
+      "when": "2026-11-20T00:08:34.000Z"
     },
     {
-      "title": "My wife pays for her family to visit us in New York. How do I tell her we can't afford it?",
-      "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-19T18:15:00.000Z"
-    },
-    {
-      "title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-      "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
       "source": "CNBC",
-      "when": "2026-11-19T18:07:30.000Z"
+      "when": "2026-11-20T00:00:38.000Z"
     },
     {
-      "title": "'Rockets are hard' — yet this analyst thinks AST SpaceMobile's stock is ready to rebound",
-      "url": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+      "title": "After Anthropic's 'bittersweet' IPO, here's what lies ahead",
+      "url": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T18:07:00.000Z"
+      "when": "2026-11-19T23:56:00.000Z"
     },
     {
-      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
       "source": "CNBC",
-      "when": "2026-11-19T18:03:03.000Z"
+      "when": "2026-11-19T23:21:23.000Z"
     },
     {
-      "title": "UnitedHealth's stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "title": "These were the only stocks that rose amid the stock market's wipeout Thursday",
+      "url": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T18:03:00.000Z"
+      "when": "2026-11-19T23:11:00.000Z"
     },
     {
-      "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
-      "url": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "title": "Intuit's downbeat outlook deepens Wall Street's anxiety about software companies",
+      "url": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T18:00:00.000Z"
-    },
-    {
-      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-      "source": "CNBC",
-      "when": "2026-11-19T17:59:04.000Z"
-    },
-    {
-      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-      "source": "CNBC",
-      "when": "2026-11-19T17:32:50.000Z"
+      "when": "2026-11-19T22:53:00.000Z"
     },
     {
       "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
       "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T17:21:00.000Z"
+      "when": "2026-11-19T22:41:00.000Z"
     },
     {
-      "title": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html",
+      "title": "Congress passes bill to protect older investors from financial fraud",
+      "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
       "source": "CNBC",
-      "when": "2026-11-19T17:15:33.000Z"
+      "when": "2026-11-19T22:23:29.000Z"
     },
     {
-      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-      "source": "CNBC",
-      "when": "2026-11-19T17:01:41.000Z"
-    },
-    {
-      "title": "'I've been a stay-at-home mom': I'm 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+      "title": "We're in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-19T17:00:00.000Z"
+      "when": "2026-11-19T22:15:00.000Z"
+    },
+    {
+      "title": "Anthropic's stock surges in its debut — and the rest of the market dives anyway",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T22:12:00.000Z"
+    },
+    {
+      "title": "Markets are sending troubling signals about the state of the economy",
+      "url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-19T21:57:00.000Z"
     }
   ],
   "errors": [
