@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-20T23:50:11.256Z",
-  "fetchedLabel": "Nov 20, 6:50 PM ET",
+  "fetched": "2026-11-21T06:26:00.752Z",
+  "fetchedLabel": "Nov 21, 1:26 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.62",
-      "chg": "-2.10",
-      "pct": "-2.45%",
+      "value": "$83.41",
+      "chg": "-2.31",
+      "pct": "-2.69%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,539.00",
-      "chg": "-314.00",
-      "pct": "-8.15%",
+      "value": "$3,515.40",
+      "chg": "-337.60",
+      "pct": "-8.76%",
       "dir": "down"
     },
     {
@@ -60,6 +60,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Tech outages are rattling Americans so much that they're stockpiling cash and supplies",
+      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-21T03:20:00.000Z"
+    },
     {
       "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
       "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
       "source": "CNBC",
       "when": "2026-11-20T21:10:48.000Z"
-    },
-    {
-      "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "source": "CNBC",
-      "when": "2026-11-20T21:04:48.000Z"
     }
   ],
   "errors": [
