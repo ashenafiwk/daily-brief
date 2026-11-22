@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-22T01:03:59.741Z",
-  "fetchedLabel": "Nov 21, 8:03 PM ET",
+  "fetched": "2026-11-22T08:38:53.469Z",
+  "fetchedLabel": "Nov 22, 3:38 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -40,15 +40,15 @@
     {
       "name": "Crude (WTI)",
       "value": "$83.41",
-      "chg": "-2.31",
-      "pct": "-2.69%",
+      "chg": "-2.60",
+      "pct": "-3.02%",
       "dir": "down"
     },
     {
       "name": "Gold",
       "value": "$3,515.40",
-      "chg": "-337.60",
-      "pct": "-8.76%",
+      "chg": "-348.80",
+      "pct": "-9.03%",
       "dir": "down"
     },
     {
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Quantum computing's first real-world payoff may come in energy, not drug discovery",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "source": "CNBC",
+      "when": "2026-11-22T06:00:01.000Z"
+    },
+    {
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-22T01:15:00.000Z"
+    },
     {
       "title": "My wife is bankrolling her family's trips to New York and it's draining our savings. Should I ask her to stop?",
       "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
@@ -89,12 +101,6 @@
       "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-21T19:45:00.000Z"
-    },
-    {
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-21T19:23:00.000Z"
     },
     {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here's how.",
@@ -137,12 +143,6 @@
       "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
       "source": "CNBC",
       "when": "2026-11-21T15:04:56.000Z"
-    },
-    {
-      "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
-      "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
-      "source": "CNBC",
-      "when": "2026-11-21T15:00:02.000Z"
     }
   ],
   "errors": [
