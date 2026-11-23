@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-22T22:24:16.127Z",
-  "fetchedLabel": "Nov 22, 5:24 PM ET",
+  "fetched": "2026-11-23T02:59:28.965Z",
+  "fetchedLabel": "Nov 22, 9:59 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,27 +39,39 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.41",
-      "chg": "-2.60",
-      "pct": "-3.02%",
+      "value": "$82.92",
+      "chg": "-3.09",
+      "pct": "-3.59%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,515.40",
-      "chg": "-348.80",
-      "pct": "-9.03%",
+      "value": "$3,585.00",
+      "chg": "-279.20",
+      "pct": "-7.23%",
       "dir": "down"
     },
     {
       "name": "VIX",
       "value": "35.89",
-      "chg": "+12.98",
-      "pct": "+56.66%",
+      "chg": "+16.59",
+      "pct": "+85.96%",
       "dir": "up"
     }
   ],
   "headlines": [
+    {
+      "title": "3 big things we're watching in the market this Thanksgiving week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "source": "CNBC",
+      "when": "2026-11-23T00:42:54.000Z"
+    },
+    {
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+      "source": "CNBC",
+      "when": "2026-11-22T23:49:44.000Z"
+    },
     {
       "title": "Corporate America hunts for 'generational' growth in AI, trading cards and the L.A. airport",
       "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
@@ -131,18 +143,6 @@
       "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "when": "2026-11-22T16:18:00.000Z"
-    },
-    {
-      "title": "'Never too late to start': Practical investing advice from some of the top women in finance",
-      "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-22T16:15:00.000Z"
-    },
-    {
-      "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-      "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-      "source": "CNBC",
-      "when": "2026-11-22T14:30:01.000Z"
     }
   ],
   "errors": [
