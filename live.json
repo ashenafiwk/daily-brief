@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-24T00:13:52.773Z",
-  "fetchedLabel": "Nov 23, 7:13 PM ET",
+  "fetched": "2026-11-24T10:17:55.411Z",
+  "fetchedLabel": "Nov 24, 5:17 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,110 +39,110 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$80.52",
-      "chg": "-2.74",
-      "pct": "-3.29%",
+      "value": "$80.00",
+      "chg": "-3.21",
+      "pct": "-3.86%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,632.20",
-      "chg": "-109.70",
-      "pct": "-2.93%",
+      "value": "$3,619.00",
+      "chg": "-66.50",
+      "pct": "-1.80%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "26.62",
-      "chg": "+1.16",
-      "pct": "+4.56%",
+      "value": "27.80",
+      "chg": "+3.24",
+      "pct": "+13.19%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma's biggest deal in three years",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
       "source": "CNBC",
-      "when": "2026-11-23T23:53:20.000Z"
+      "when": "2026-11-24T10:17:31.000Z"
     },
     {
-      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "source": "CNBC",
-      "when": "2026-11-23T23:42:17.000Z"
-    },
-    {
-      "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-      "source": "CNBC",
-      "when": "2026-11-23T23:24:02.000Z"
-    },
-    {
-      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-      "url": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "title": "I'm in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-23T23:18:00.000Z"
+      "when": "2026-11-24T10:15:00.000Z"
     },
     {
-      "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
-      "source": "CNBC",
-      "when": "2026-11-23T23:14:34.000Z"
-    },
-    {
-      "title": "DNI Jay Clayton tapped as acting national cyber director",
-      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-      "source": "CNBC",
-      "when": "2026-11-23T23:02:18.000Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
-      "url": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
-      "source": "CNBC",
-      "when": "2026-11-23T23:00:01.000Z"
-    },
-    {
-      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-      "source": "CNBC",
-      "when": "2026-11-23T22:43:38.000Z"
-    },
-    {
-      "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
-      "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
-      "source": "CNBC",
-      "when": "2026-11-23T22:09:55.000Z"
-    },
-    {
-      "title": "Nvidia's stock is surging again. What to know before chasing the AI rally.",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+      "url": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-23T22:04:00.000Z"
+      "when": "2026-11-24T10:01:00.000Z"
     },
     {
-      "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
-      "url": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+      "title": "Here's your chance to bid on Alex Trebek's former $6.45 million California ranch and winery",
+      "url": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-24T09:58:00.000Z"
+    },
+    {
+      "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
+      "url": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-24T09:58:00.000Z"
+    },
+    {
+      "title": "Asian tech stocks recover from 'collateral damage' of Jensen Huang's departure",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
       "source": "CNBC",
-      "when": "2026-11-23T21:55:27.000Z"
+      "when": "2026-11-24T09:46:01.000Z"
     },
     {
-      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-      "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-23T21:51:00.000Z"
+      "when": "2026-11-24T09:14:00.000Z"
     },
     {
-      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500's biggest losers Monday",
-      "url": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-23T21:45:00.000Z"
+      "title": "Jensen Huang is 'too big to fire,' putting Nvidia's governance in focus: analysts",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "source": "CNBC",
+      "when": "2026-11-24T08:35:16.000Z"
     },
     {
-      "title": "These stocks are the biggest gainers after Jensen Huang's return to Nvidia",
-      "url": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-23T21:36:00.000Z"
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "source": "CNBC",
+      "when": "2026-11-24T07:25:41.000Z"
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "CNBC",
+      "when": "2026-11-24T07:12:33.000Z"
+    },
+    {
+      "title": "Why France is at risk of recession — and what could keep it out of one",
+      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "source": "CNBC",
+      "when": "2026-11-24T06:55:36.000Z"
+    },
+    {
+      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+      "source": "CNBC",
+      "when": "2026-11-24T05:07:16.000Z"
+    },
+    {
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+      "source": "CNBC",
+      "when": "2026-11-24T05:05:08.000Z"
+    },
+    {
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+      "source": "CNBC",
+      "when": "2026-11-24T04:27:38.000Z"
     }
   ],
   "errors": [
