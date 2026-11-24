@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-24T10:17:55.411Z",
-  "fetchedLabel": "Nov 24, 5:17 AM ET",
+  "fetched": "2026-11-24T20:47:34.561Z",
+  "fetchedLabel": "Nov 24, 3:47 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,237.17",
-      "chg": "-179.42",
-      "pct": "-2.42%",
+      "value": "7,190.45",
+      "chg": "-150.08",
+      "pct": "-2.04%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "24,089.56",
-      "chg": "-420.20",
-      "pct": "-1.71%",
-      "dir": "down"
-    },
-    {
-      "name": "Dow 30",
-      "value": "49,595.31",
-      "chg": "-2012.86",
-      "pct": "-3.90%",
-      "dir": "down"
-    },
-    {
-      "name": "Russell 2000",
-      "value": "2,669.66",
-      "chg": "-73.28",
+      "value": "23,678.18",
+      "chg": "-650.20",
       "pct": "-2.67%",
       "dir": "down"
     },
     {
+      "name": "Dow 30",
+      "value": "49,968.74",
+      "chg": "-790.68",
+      "pct": "-1.56%",
+      "dir": "down"
+    },
+    {
+      "name": "Russell 2000",
+      "value": "2,683.97",
+      "chg": "-17.90",
+      "pct": "-0.66%",
+      "dir": "down"
+    },
+    {
       "name": "10Y Treasury",
-      "value": "4.92%",
-      "chg": "-0.18",
-      "pct": "-3.63%",
+      "value": "4.90%",
+      "chg": "-0.16",
+      "pct": "-3.20%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$80.00",
-      "chg": "-3.21",
-      "pct": "-3.86%",
+      "value": "$81.41",
+      "chg": "-1.80",
+      "pct": "-2.16%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,619.00",
-      "chg": "-66.50",
-      "pct": "-1.80%",
+      "value": "$3,547.10",
+      "chg": "-138.40",
+      "pct": "-3.76%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "27.80",
-      "chg": "+3.24",
-      "pct": "+13.19%",
+      "value": "27.03",
+      "chg": "+2.47",
+      "pct": "+10.06%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma's biggest deal in three years",
-      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+      "url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
       "source": "CNBC",
-      "when": "2026-11-24T10:17:31.000Z"
+      "when": "2026-11-24T20:45:57.000Z"
+    },
+    {
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "source": "CNBC",
+      "when": "2026-11-24T20:42:07.000Z"
+    },
+    {
+      "title": "A bipartisan backlash is hitting Nvidia in Washington in the wake of Trump's push for Huang's return",
+      "url": "https://www.marketwatch.com/story/a-bipartisan-backlash-is-hitting-nvidia-in-washington-in-the-wake-of-trumps-push-for-huangs-return-565626f2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-24T20:42:00.000Z"
+    },
+    {
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+      "source": "CNBC",
+      "when": "2026-11-24T20:37:40.000Z"
     },
     {
       "title": "I'm in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-24T10:15:00.000Z"
+      "when": "2026-11-24T20:30:00.000Z"
     },
     {
-      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
-      "url": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-24T10:01:00.000Z"
+      "when": "2026-11-24T20:16:00.000Z"
     },
     {
-      "title": "Here's your chance to bid on Alex Trebek's former $6.45 million California ranch and winery",
-      "url": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+      "title": "Op-ed: Trump's Nvidia board intervention put a price on national security. Our adversaries will take note",
+      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+      "source": "CNBC",
+      "when": "2026-11-24T20:02:49.000Z"
+    },
+    {
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street's newest bulls",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-24T09:58:00.000Z"
+      "when": "2026-11-24T19:48:00.000Z"
     },
     {
-      "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
-      "url": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+      "source": "CNBC",
+      "when": "2026-11-24T19:47:42.000Z"
+    },
+    {
+      "title": "Anthropic's stock just broke below its IPO price for the first time",
+      "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-24T09:58:00.000Z"
+      "when": "2026-11-24T19:31:00.000Z"
     },
     {
-      "title": "Asian tech stocks recover from 'collateral damage' of Jensen Huang's departure",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "title": "Retail turnarounds are taking hold just in time for the holiday season",
+      "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
       "source": "CNBC",
-      "when": "2026-11-24T09:46:01.000Z"
+      "when": "2026-11-24T19:26:39.000Z"
     },
     {
-      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-      "url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-24T09:14:00.000Z"
-    },
-    {
-      "title": "Jensen Huang is 'too big to fire,' putting Nvidia's governance in focus: analysts",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
       "source": "CNBC",
-      "when": "2026-11-24T08:35:16.000Z"
+      "when": "2026-11-24T19:26:26.000Z"
     },
     {
-      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-      "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+      "title": "Gold is doing something strange. Here's one way to play it",
+      "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
       "source": "CNBC",
-      "when": "2026-11-24T07:25:41.000Z"
+      "when": "2026-11-24T19:25:13.000Z"
     },
     {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "title": "Who qualifies for Costco's $30-per-share dividend — plus, Meta puts share plan on hold",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
       "source": "CNBC",
-      "when": "2026-11-24T07:12:33.000Z"
-    },
-    {
-      "title": "Why France is at risk of recession — and what could keep it out of one",
-      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "source": "CNBC",
-      "when": "2026-11-24T06:55:36.000Z"
-    },
-    {
-      "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
-      "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
-      "source": "CNBC",
-      "when": "2026-11-24T05:07:16.000Z"
-    },
-    {
-      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-      "source": "CNBC",
-      "when": "2026-11-24T05:05:08.000Z"
-    },
-    {
-      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
-      "source": "CNBC",
-      "when": "2026-11-24T04:27:38.000Z"
+      "when": "2026-11-24T19:23:59.000Z"
     }
   ],
   "errors": [
