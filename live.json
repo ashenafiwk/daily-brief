@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-25T14:49:32.636Z",
-  "fetchedLabel": "Nov 25, 9:49 AM ET",
+  "fetched": "2026-11-25T23:30:05.259Z",
+  "fetchedLabel": "Nov 25, 6:30 PM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "6,992.54",
-      "chg": "-331.09",
-      "pct": "-4.52%",
+      "value": "7,182.78",
+      "chg": "-140.85",
+      "pct": "-1.92%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "22,755.43",
-      "chg": "-1674.45",
-      "pct": "-6.85%",
+      "value": "23,585.80",
+      "chg": "-844.08",
+      "pct": "-3.46%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "49,001.46",
-      "chg": "-1196.71",
-      "pct": "-2.38%",
+      "value": "50,182.95",
+      "chg": "-15.22",
+      "pct": "-0.03%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,637.70",
-      "chg": "-76.61",
-      "pct": "-2.82%",
+      "value": "2,704.06",
+      "chg": "-10.25",
+      "pct": "-0.38%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.83%",
-      "chg": "-0.22",
-      "pct": "-4.43%",
+      "value": "4.85%",
+      "chg": "-0.20",
+      "pct": "-4.04%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$82.88",
-      "chg": "-1.10",
-      "pct": "-1.31%",
+      "value": "$83.93",
+      "chg": "-0.05",
+      "pct": "-0.06%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,491.20",
-      "chg": "-24.20",
-      "pct": "-0.69%",
-      "dir": "down"
+      "value": "$3,604.50",
+      "chg": "+89.10",
+      "pct": "+2.53%",
+      "dir": "up"
     },
     {
       "name": "VIX",
-      "value": "32.84",
-      "chg": "+4.40",
-      "pct": "+15.47%",
-      "dir": "up"
+      "value": "28.29",
+      "chg": "-0.15",
+      "pct": "-0.53%",
+      "dir": "down"
     }
   ],
   "headlines": [
     {
-      "title": "Third-quarter GDP already looked great. Now it looks even better.",
-      "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "title": "I've been married for 58 years. It's 'our' money, not 'his' and 'hers.' Why do so many couples keep their finances separate?",
+      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T14:47:00.000Z"
+      "when": "2026-11-25T23:00:00.000Z"
     },
     {
-      "title": "Dell sees sales more than double — but its stock falls anyway",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it's done for my 401(k). Am I a hypocrite?",
+      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T14:40:00.000Z"
+      "when": "2026-11-25T22:45:00.000Z"
     },
     {
-      "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-      "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:32:09.000Z"
-    },
-    {
-      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street's newest bulls",
-      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
+      "title": "We are living in perilous times if Nvidia's Jensen Huang dictates your 401(k) balance",
+      "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T14:32:00.000Z"
+      "when": "2026-11-25T22:31:00.000Z"
     },
     {
-      "title": "Feeling tired and losing your hair? You might have low iron — even if you've tested 'normal' before.",
-      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "source": "CNBC",
+      "when": "2026-11-25T22:26:56.000Z"
+    },
+    {
+      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T14:30:00.000Z"
+      "when": "2026-11-25T22:16:00.000Z"
     },
     {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:29:50.000Z"
-    },
-    {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:29:00.000Z"
-    },
-    {
-      "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are 'critical' amid soaring fuel costs",
-      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:24:04.000Z"
-    },
-    {
-      "title": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:18:45.000Z"
-    },
-    {
-      "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:17:01.000Z"
-    },
-    {
-      "title": "Our top 10 things to watch in the stock market Wednesday",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "source": "CNBC",
-      "when": "2026-11-25T14:15:30.000Z"
-    },
-    {
-      "title": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
-      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "title": "Nvidia's stock has given back a big chunk of Monday's rally as dip buyers cash in",
+      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T14:14:00.000Z"
+      "when": "2026-11-25T22:11:00.000Z"
     },
     {
-      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T14:13:00.000Z"
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
       "source": "CNBC",
-      "when": "2026-11-25T14:01:07.000Z"
+      "when": "2026-11-25T21:56:43.000Z"
+    },
+    {
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to 'Trump accounts'",
+      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T21:50:00.000Z"
+    },
+    {
+      "title": "HP's stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T21:36:00.000Z"
+    },
+    {
+      "title": "How to spot 'bogus boutiques' and other Black Friday shopping scams",
+      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T21:29:00.000Z"
+    },
+    {
+      "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+      "source": "CNBC",
+      "when": "2026-11-25T21:26:47.000Z"
+    },
+    {
+      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+      "source": "CNBC",
+      "when": "2026-11-25T21:02:05.000Z"
+    },
+    {
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "source": "CNBC",
+      "when": "2026-11-25T21:00:08.000Z"
+    },
+    {
+      "title": "We're buying more of a stock down big from its July highs",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+      "source": "CNBC",
+      "when": "2026-11-25T19:55:18.000Z"
     }
   ],
   "errors": [
