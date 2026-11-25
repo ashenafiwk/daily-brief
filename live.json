@@ -1,148 +1,148 @@
 {
-  "fetched": "2026-11-25T04:01:11.569Z",
-  "fetchedLabel": "Nov 24, 11:01 PM ET",
+  "fetched": "2026-11-25T14:49:32.636Z",
+  "fetchedLabel": "Nov 25, 9:49 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
-      "value": "7,201.09",
-      "chg": "-139.44",
-      "pct": "-1.90%",
+      "value": "6,992.54",
+      "chg": "-331.09",
+      "pct": "-4.52%",
       "dir": "down"
     },
     {
       "name": "Nasdaq",
-      "value": "23,733.54",
-      "chg": "-594.85",
-      "pct": "-2.45%",
+      "value": "22,755.43",
+      "chg": "-1674.45",
+      "pct": "-6.85%",
       "dir": "down"
     },
     {
       "name": "Dow 30",
-      "value": "50,018.70",
-      "chg": "-740.72",
-      "pct": "-1.46%",
+      "value": "49,001.46",
+      "chg": "-1196.71",
+      "pct": "-2.38%",
       "dir": "down"
     },
     {
       "name": "Russell 2000",
-      "value": "2,684.94",
-      "chg": "-16.93",
-      "pct": "-0.63%",
+      "value": "2,637.70",
+      "chg": "-76.61",
+      "pct": "-2.82%",
       "dir": "down"
     },
     {
       "name": "10Y Treasury",
-      "value": "4.90%",
-      "chg": "-0.16",
-      "pct": "-3.20%",
+      "value": "4.83%",
+      "chg": "-0.22",
+      "pct": "-4.43%",
       "dir": "down"
     },
     {
       "name": "Crude (WTI)",
-      "value": "$80.73",
-      "chg": "-2.48",
-      "pct": "-2.98%",
+      "value": "$82.88",
+      "chg": "-1.10",
+      "pct": "-1.31%",
       "dir": "down"
     },
     {
       "name": "Gold",
-      "value": "$3,549.50",
-      "chg": "-136.00",
-      "pct": "-3.69%",
+      "value": "$3,491.20",
+      "chg": "-24.20",
+      "pct": "-0.69%",
       "dir": "down"
     },
     {
       "name": "VIX",
-      "value": "26.36",
-      "chg": "+1.80",
-      "pct": "+7.33%",
+      "value": "32.84",
+      "chg": "+4.40",
+      "pct": "+15.47%",
       "dir": "up"
     }
   ],
   "headlines": [
     {
-      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
-      "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-      "source": "CNBC",
-      "when": "2026-11-25T03:52:03.000Z"
+      "title": "Third-quarter GDP already looked great. Now it looks even better.",
+      "url": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T14:47:00.000Z"
     },
     {
-      "title": "Op-ed: Trump's Nvidia board intervention put a price on national security. Our adversaries will take note",
-      "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-      "source": "CNBC",
-      "when": "2026-11-25T02:50:08.000Z"
-    },
-    {
-      "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-      "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
-      "source": "CNBC",
-      "when": "2026-11-25T02:43:33.000Z"
-    },
-    {
-      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-      "source": "CNBC",
-      "when": "2026-11-25T02:36:43.000Z"
+      "title": "Dell sees sales more than double — but its stock falls anyway",
+      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T14:40:00.000Z"
     },
     {
       "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
       "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
       "source": "CNBC",
-      "when": "2026-11-25T02:09:45.000Z"
+      "when": "2026-11-25T14:32:09.000Z"
     },
     {
-      "title": "I'm in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-      "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street's newest bulls",
+      "url": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T02:00:00.000Z"
+      "when": "2026-11-25T14:32:00.000Z"
     },
     {
-      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-      "source": "CNBC",
-      "when": "2026-11-25T01:13:56.000Z"
-    },
-    {
-      "title": "Dell's stock rises as the AI boom helps sales more than double",
-      "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "title": "Feeling tired and losing your hair? You might have low iron — even if you've tested 'normal' before.",
+      "url": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T01:11:00.000Z"
-    },
-    {
-      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-      "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T00:05:00.000Z"
+      "when": "2026-11-25T14:30:00.000Z"
     },
     {
       "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
       "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
       "source": "CNBC",
-      "when": "2026-11-24T23:13:49.000Z"
+      "when": "2026-11-25T14:29:50.000Z"
     },
     {
-      "title": "Micron boosted CEO Sanjay Mehrotra's security budget by 2,000%, new filing shows",
-      "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+      "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+      "source": "CNBC",
+      "when": "2026-11-25T14:29:00.000Z"
+    },
+    {
+      "title": "Budget carrier Norse Atlantic falls 78% after warning its finances are 'critical' amid soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
+      "source": "CNBC",
+      "when": "2026-11-25T14:24:04.000Z"
+    },
+    {
+      "title": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "source": "CNBC",
+      "when": "2026-11-25T14:18:45.000Z"
+    },
+    {
+      "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+      "source": "CNBC",
+      "when": "2026-11-25T14:17:01.000Z"
+    },
+    {
+      "title": "Our top 10 things to watch in the stock market Wednesday",
+      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source": "CNBC",
+      "when": "2026-11-25T14:15:30.000Z"
+    },
+    {
+      "title": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
+      "url": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-24T23:11:00.000Z"
+      "when": "2026-11-25T14:14:00.000Z"
     },
     {
-      "title": "Kalshi daily volume of 'perps' trading begins to top its prediction markets",
-      "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-      "source": "CNBC",
-      "when": "2026-11-24T23:03:24.000Z"
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "when": "2026-11-25T14:13:00.000Z"
     },
     {
-      "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-      "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
       "source": "CNBC",
-      "when": "2026-11-24T22:18:47.000Z"
-    },
-    {
-      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-      "source": "CNBC",
-      "when": "2026-11-24T22:07:45.000Z"
+      "when": "2026-11-25T14:01:07.000Z"
     }
   ],
   "errors": [
