@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-25T23:30:05.259Z",
-  "fetchedLabel": "Nov 25, 6:30 PM ET",
+  "fetched": "2026-11-26T05:23:42.838Z",
+  "fetchedLabel": "Nov 26, 12:23 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -39,16 +39,16 @@
     },
     {
       "name": "Crude (WTI)",
-      "value": "$83.93",
-      "chg": "-0.05",
-      "pct": "-0.06%",
-      "dir": "down"
+      "value": "$84.37",
+      "chg": "+0.39",
+      "pct": "+0.46%",
+      "dir": "up"
     },
     {
       "name": "Gold",
-      "value": "$3,604.50",
-      "chg": "+89.10",
-      "pct": "+2.53%",
+      "value": "$3,619.90",
+      "chg": "+104.50",
+      "pct": "+2.97%",
       "dir": "up"
     },
     {
@@ -61,88 +61,88 @@
   ],
   "headlines": [
     {
-      "title": "I've been married for 58 years. It's 'our' money, not 'his' and 'hers.' Why do so many couples keep their finances separate?",
-      "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T23:00:00.000Z"
+      "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+      "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html",
+      "source": "CNBC",
+      "when": "2026-11-26T05:16:38.000Z"
     },
     {
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it's done for my 401(k). Am I a hypocrite?",
-      "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T22:45:00.000Z"
+      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "source": "CNBC",
+      "when": "2026-11-26T04:49:03.000Z"
+    },
+    {
+      "title": "Hedge funds are no longer just for the rich. They're wooing everyday investors",
+      "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+      "source": "CNBC",
+      "when": "2026-11-26T04:20:18.000Z"
+    },
+    {
+      "title": "How Trump's latest tariff moves hand India an edge over rival Asian exporters",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+      "source": "CNBC",
+      "when": "2026-11-26T04:12:18.000Z"
+    },
+    {
+      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "source": "CNBC",
+      "when": "2026-11-26T04:00:15.000Z"
+    },
+    {
+      "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+      "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+      "source": "CNBC",
+      "when": "2026-11-26T03:32:53.000Z"
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "source": "CNBC",
+      "when": "2026-11-26T03:19:44.000Z"
+    },
+    {
+      "title": "'Your booth is waiting': Denny's welcomes Jensen Huang back as Nvidia CEO",
+      "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "source": "CNBC",
+      "when": "2026-11-26T03:13:43.000Z"
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "source": "CNBC",
+      "when": "2026-11-26T03:09:47.000Z"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "source": "CNBC",
+      "when": "2026-11-26T02:35:39.000Z"
+    },
+    {
+      "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "source": "CNBC",
+      "when": "2026-11-26T01:52:20.000Z"
+    },
+    {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+      "source": "CNBC",
+      "when": "2026-11-26T01:34:58.000Z"
     },
     {
       "title": "We are living in perilous times if Nvidia's Jensen Huang dictates your 401(k) balance",
       "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T22:31:00.000Z"
+      "when": "2026-11-26T01:15:00.000Z"
     },
     {
-      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-      "source": "CNBC",
-      "when": "2026-11-25T22:26:56.000Z"
-    },
-    {
-      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-      "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "when": "2026-11-25T22:16:00.000Z"
-    },
-    {
-      "title": "Nvidia's stock has given back a big chunk of Monday's rally as dip buyers cash in",
-      "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T22:11:00.000Z"
-    },
-    {
-      "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-      "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "source": "CNBC",
-      "when": "2026-11-25T21:56:43.000Z"
-    },
-    {
-      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to 'Trump accounts'",
-      "url": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T21:50:00.000Z"
-    },
-    {
-      "title": "HP's stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T21:36:00.000Z"
-    },
-    {
-      "title": "How to spot 'bogus boutiques' and other Black Friday shopping scams",
-      "url": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-25T21:29:00.000Z"
-    },
-    {
-      "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-      "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-      "source": "CNBC",
-      "when": "2026-11-25T21:26:47.000Z"
-    },
-    {
-      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
-      "source": "CNBC",
-      "when": "2026-11-25T21:02:05.000Z"
-    },
-    {
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-      "source": "CNBC",
-      "when": "2026-11-25T21:00:08.000Z"
-    },
-    {
-      "title": "We're buying more of a stock down big from its July highs",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
-      "source": "CNBC",
-      "when": "2026-11-25T19:55:18.000Z"
+      "when": "2026-11-26T00:33:00.000Z"
     }
   ],
   "errors": [
