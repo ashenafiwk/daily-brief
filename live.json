@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-11-28T01:49:47.399Z",
-  "fetchedLabel": "Nov 27, 8:49 PM ET",
+  "fetched": "2026-11-28T09:59:13.489Z",
+  "fetchedLabel": "Nov 28, 4:59 AM ET",
   "quotes": [
     {
       "name": "S&P 500",
@@ -60,6 +60,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "source": "CNBC",
+      "when": "2026-11-28T06:00:01.000Z"
+    },
+    {
+      "title": "Africa's richest man is taking his mega-refinery public in a blockbuster IPO",
+      "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "source": "CNBC",
+      "when": "2026-11-28T06:00:01.000Z"
+    },
     {
       "title": "I'm in my 70s and buying a new BMW X1. Should I put my only son on the title?",
       "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
@@ -131,18 +143,6 @@
       "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html",
       "source": "CNBC",
       "when": "2026-11-27T16:08:10.000Z"
-    },
-    {
-      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who's to blame?",
-      "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "when": "2026-11-27T16:00:00.000Z"
-    },
-    {
-      "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
-      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-      "source": "CNBC",
-      "when": "2026-11-27T15:52:00.000Z"
     }
   ],
   "errors": [
